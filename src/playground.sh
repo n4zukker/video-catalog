@@ -34,7 +34,7 @@ function GET () {
     '--json' ''
   )
 
-  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "Authorization: Bearer $(cat "${SOURCE_DIR}/.access-token")") "${otherArgs[@]}"
+  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "${YOUTUBE_ACCESS_TOKEN}") "${otherArgs[@]}"
 }
 
 declare -r videoPartsJson="$(mktemp)"
@@ -104,18 +104,3 @@ function getUpcoming () {
 )
 
 rm "${videoPartsJson}"
-exit
-
-#curl \
-#  --get \
-#  'https://youtube.googleapis.com/youtube/v3/search?part=id&forMine=true&maxResults=25&type=video' \
-#  --header 'Accept: application/json' \
-#  --header "Authorization: Bearer ${accessToken}" \
-
-curl \
-  --get \
-  'https://youtube.googleapis.com/youtube/v3/videos?part=contentDetails%2C%20fileDetails%2C%20id%2C%20liveStreamingDetails%2C%20processingDetails%2C%20recordingDetails%2C%20snippet%2C%20statistics%2C%20status%2C%20topicDetails&id=kmwLVhX8PeE&id=DNBiQdstzHs' \
-  --header 'Accept: application/json' \
-  --header "Authorization: Bearer ${accessToken}" \
-  --compressed \
-
