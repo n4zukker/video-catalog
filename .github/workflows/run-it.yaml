@@ -1,0 +1,23 @@
+name: Create the youtube catalog page
+on:
+  workflow_dispatch:
+
+jobs:
+  list-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      -
+        name: checkout from github
+        uses: actions/checkout@v4
+
+
+      -
+        name: Install jq
+        shell: bash
+        run: 'which jq || ( sudo apt-get update && sudo apt-get install jq )'
+
+      -
+        name: Get videos
+        shell: bash
+        run: './playground.sh >video-list.json'

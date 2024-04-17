@@ -1,0 +1,18 @@
+name: Test youtube catalog code
+on:
+  pull_request:
+
+jobs:
+  test-compiles:
+    runs-on: ubuntu-latest
+
+    steps:
+      -
+        name: checkout from github
+        uses: actions/checkout@v4
+
+
+      -
+        name: Install jq
+        shell: bash
+        run: 'which jq || ( sudo apt-get update && sudo apt-get install jq )'
