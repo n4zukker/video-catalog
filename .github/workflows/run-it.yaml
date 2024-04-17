@@ -20,4 +20,4 @@ jobs:
       -
         name: Get videos
         shell: bash
-        run: './playground.sh >video-list.json'
+        run: 'src/playground.sh >video-list.json'
