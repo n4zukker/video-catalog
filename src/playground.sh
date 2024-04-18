@@ -35,7 +35,7 @@ function GET () {
     '--header' 'Accept: application/json'
   )
 
-  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "Authorization: Bearer $(cat "${SOURCE_DIR}/.access-token")") "${otherArgs[@]}"
+  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "Authorization: Bearer ${YOUTUBE_ACCESS_TOKEN:?}") "${otherArgs[@]}"
 }
 
 declare -r videoPartsJsonFile="$(mktemp)"
