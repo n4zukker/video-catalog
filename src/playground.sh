@@ -32,7 +32,7 @@ function GET () {
   local -r method='GET'
   local -r curlMethodArgs=(
     '--get'
-    '--json' ''
+    '--header' 'Accept: application/json'
   )
 
   curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "Authorization: Bearer $(cat "${SOURCE_DIR}/.access-token")") "${otherArgs[@]}"
