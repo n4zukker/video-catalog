@@ -17,14 +17,30 @@ jobs:
         run: 'which jq || ( sudo apt-get update && sudo apt-get install jq )'
 
       -
+        name: Install pandoc
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc
+
+      -
+        name: Install node
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install node
+
+      -
         name: Get videos
         shell: bash
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
           VIDEO_DB: 'content/video-list.json'
-        run: 'src/playground.sh > /tmp/video-list.json && mv /tmp/video-list.json "${VIDEO_DB}"'
+        run: |
+          src/playground.sh > /tmp/video-list.json
+          mv /tmp/video-list.json "${VIDEO_DB}"
 
-      - name: Commit report
+      - name: Commit video list
         env:
           CI_COMMIT_MESSAGE: 'Automatic video retrieval'
           CI_COMMIT_AUTHOR: 'github-ci'
