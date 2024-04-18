@@ -20,6 +20,7 @@ source "${SOURCE_DIR}/lib/bash-pino-trace.sh"
 source "${SOURCE_DIR}/lib/call-rest.sh"
 
 declare -r API_PATH='https://youtube.googleapis.com/'
+declare -r VIDEO_DB="${VIDEO_DB:-/dev/null}"
 
 # Usage:
 #   GET {endpoint}
@@ -31,13 +32,15 @@ function GET () {
   local -r method='GET'
   local -r curlMethodArgs=(
     '--get'
-    '--json' ''
+    '--header' 'Accept: application/json'
   )
 
-  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "${YOUTUBE_ACCESS_TOKEN}") "${otherArgs[@]}"
+  curlMethod '--url' "${API_PATH}${endpoint}" '--header' @<(echo "Authorization: Bearer ${YOUTUBE_ACCESS_TOKEN:?}") "${otherArgs[@]}"
 }
 
-declare -r videoPartsJson="$(mktemp)"
+declare -r videoPartsJsonFile="$(mktemp)"
+declare -r pageStopJsonFile="$(mktemp)"
+declare -r idFile="$(mktemp)"
 
 function GET_PAGES () {
   local -r argArray=("${@}")
@@ -48,10 +51,17 @@ function GET_PAGES () {
     while true; do
       nextPageToken="$(
         GET "${argArray[@]}" $( [[ -n "${nextPageToken}" ]] && printf "%q %q" '--data-urlencode' "pageToken=${nextPageToken}" ) \
-       	| tee >( jq '.items[]' >"/dev/fd/${fdOut}" ) \
-       	| jq --raw-output '.nextPageToken // empty'
+        | tee >( jq '.items[]' >"/dev/fd/${fdOut}" ) \
+        | tee >( jq '.items[].id.videoId' >"${idFile}" ) \
+        | jq --raw-output '.nextPageToken // empty'
       )"
       if [[ -z "${nextPageToken}" ]]; then
+        pinoTrace -u "${fdLog}" 'Reached last page'
+        break
+      fi
+
+      if [[ "$(cat "${idFile}" | jq 'select ( . as $id | $stops | index ($id) )' --slurpfile stops "${pageStopJsonFile}" | wc --lines )" != '0' ]]; then
+        pinoTrace -u "${fdLog}" 'Reached video ids that we have seen before'
         break
       fi
     done
@@ -64,7 +74,8 @@ function getMine () (
         --data-urlencode 'forMine=true' \
         --data-urlencode 'part=id' \
         --data-urlencode 'maxResults=50' \
-        --data-urlencode 'type=video'
+        --data-urlencode 'type=video' \
+        --data-urlencode 'order=date'
 )
 
 function getUpcoming () {
@@ -75,32 +86,35 @@ function getUpcoming () {
     --data-urlencode 'maxResults=50' \
     --data-urlencode "channelId=${channelId}" \
     --data-urlencode 'eventType=upcoming' \
-    --data-urlencode 'type=video'
+    --data-urlencode 'type=video' \
+    --data-urlencode 'order=date'
 }
 
 (
     (
+      jq '.id' "${VIDEO_DB}" >"${pageStopJsonFile}"
       getUpcoming
       getMine
-    ) | jq '.id.videoId' \
+    ) | tee search.json | jq '.id.videoId' \
+  | cat - "${pageStopJsonFile}" | sort | uniq \
   | jq --slurp --raw-output --compact-output '_nwise(50) | join(",")' \
   | while read -r idList ; do
       GET 'youtube/v3/videos' \
         --data-urlencode 'part=contentDetails' \
-	--data-urlencode 'part=id' \
-	--data-urlencode 'part=liveStreamingDetails' \
-	--data-urlencode 'part=recordingDetails' \
-	--data-urlencode 'part=snippet' \
-	--data-urlencode 'part=statistics' \
-	--data-urlencode 'part=status' \
-	--data-urlencode 'part=topicDetails' \
-	--data-urlencode "id=${idList}" \
+        --data-urlencode 'part=id' \
+        --data-urlencode 'part=liveStreamingDetails' \
+        --data-urlencode 'part=recordingDetails' \
+        --data-urlencode 'part=snippet' \
+        --data-urlencode 'part=statistics' \
+        --data-urlencode 'part=status' \
+        --data-urlencode 'part=topicDetails' \
+        --data-urlencode "id=${idList}" \
         --data-urlencode 'part=fileDetails' \
-	--data-urlencode 'part=processingDetails' \
-	;
+        --data-urlencode 'part=processingDetails' \
+        ;
     done \
   | jq '.items[]' \
-  | tee "${videoPartsJson}"
+  | tee "${videoPartsJsonFile}"
 )
 
-rm "${videoPartsJson}"
+rm "${videoPartsJsonFile}" "${pageStopJsonFile}" "${idFile}"
