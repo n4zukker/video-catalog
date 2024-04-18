@@ -11,7 +11,6 @@ jobs:
         name: checkout from github
         uses: actions/checkout@v4
 
-
       -
         name: Install jq
         shell: bash
@@ -22,4 +21,17 @@ jobs:
         shell: bash
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
-        run: 'src/playground.sh >video-list.json'
+          VIDEO_DB: 'content/video-list.json'
+        run: 'src/playground.sh > /tmp/video-list.json && mv /tmp/video-list.json "${VIDEO_DB}"'
+
+      - name: Commit report
+        env:
+          CI_COMMIT_MESSAGE: 'Automatic video retrieval'
+          CI_COMMIT_AUTHOR: 'github-ci'
+          CI_COMMIT_EMAIL: 'github-ci@users.noreply.github.com'
+        run: |
+          git config --global user.name "${CI_COMMIT_AUTHOR}"
+          git config --global user.email "${CI_COMMIT_EMAIL}"
+          git add content
+          git commit -m "${CI_COMMIT_EMAIL}"
+          git push
