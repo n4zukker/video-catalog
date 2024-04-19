@@ -17,7 +17,7 @@ def categorize:
 
 def mdTime:
   if . then
-    fromdate | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p" )
+    fromdate | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
   else
     ""
   end
