@@ -1,0 +1,71 @@
+name: 'Create the youtube catalog page'
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '**.jq'
+      - 'content/**'
+
+jobs:
+  catalog:
+    runs-on: 'ubuntu-latest'
+
+    steps:
+      -
+        name: 'Checkout from github'
+        uses: 'actions/checkout@v4'
+
+      -
+        name: 'Install jq'
+        shell: 'bash'
+        run: |
+          which jq || (
+            sudo apt-get update
+            sudo apt-get install jq
+          )
+
+      -
+        name: 'Install pandoc'
+        shell: 'bash'
+        run: |
+          sudo apt-get update
+          sudo apt-get install pandoc
+
+      -
+        name: 'Install node'
+        shell: 'bash'
+        run: |
+          sudo apt-get update
+          sudo apt-get install nodejs npm
+
+      -
+        name: 'Install pino-pretty'
+        shell: 'bash'
+        run: |
+          sudo npm -g install pino-pretty
+
+      -
+        name: 'Get node packages'
+        shell: 'bash'
+        run: |
+          npm ci
+
+      -
+        name: 'Generate markdown'
+        shell: 'bash'
+        env:
+          VIDEO_DB: 'content/video-list.json'
+          VIDEO_MD: 'build/video-list.md'
+        run: |
+          mkdir -p build
+          jq --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" --raw-output > "${VIDEO_MD}"
+          wc 'build/video-list.md'
+
+      -
+        name: 'Generate html'
+        shell: 'bash'
+        env:
+          VIDEO_MD: 'build/video-list.md'
+          VIDEO_HTML: 'build/video-list.html'
+        run: |
+          pandoc '--from=markdown+pipe_tables' "${VIDEO_MD}" -o "${VIDEO_HTML}"
