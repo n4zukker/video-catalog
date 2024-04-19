@@ -68,4 +68,22 @@ jobs:
           VIDEO_MD: 'build/video-list.md'
           VIDEO_HTML: 'build/video-list.html'
         run: |
-          pandoc '--from=markdown+pipe_tables' "${VIDEO_MD}" -o "${VIDEO_HTML}"
+          pandoc '--verbose' '--from=markdown+pipe_tables' "${VIDEO_MD}" -o "${VIDEO_HTML}"
+          wc build/*
+
+      -
+        name: 'Upload to box.com'
+        shell: 'bash'
+        env:
+          UPLOAD_FILE: 'build/video-list.html'
+          UPLOAD_ID: '1492243489238'
+          BOX_CONFIG_JSON: '{{ $secrets.BOX_CONFIG_JSON }}'
+        run: |
+          set -x
+          function runWithJsonFile () {
+            local -rx BOX_CONFIG="$1" 
+            node src/box.js
+          }
+
+          runWithJsonFile <( cat <<<"${BOX_CONFIG_JSON}" )
+
