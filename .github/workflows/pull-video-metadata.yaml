@@ -1,21 +1,21 @@
-name: Create the youtube catalog page
+name: 'Download the youtube video channel inventory'
 on:
   workflow_dispatch:
 
 jobs:
   list-videos:
-    runs-on: ubuntu-latest
+    runs-on: 'ubuntu-latest'
 
     steps:
       -
-        name: checkout from github
-        uses: actions/checkout@v4
+        name: 'Checkout from github'
+        uses: 'actions/checkout@v4'
         with:
           token: '${{ secrets.PAT }}'
 
       -
-        name: Install jq
-        shell: bash
+        name: 'Install jq'
+        shell: 'bash'
         run: |
           which jq || (
             sudo apt-get update
@@ -23,34 +23,21 @@ jobs:
           )
 
       -
-        name: Install pandoc
-        shell: bash
-        run: |
-          sudo apt-get update
-          sudo apt-get install pandoc
-
-      -
-        name: Install node
-        shell: bash
+        name: 'Install node'
+        shell: 'bash'
         run: |
           sudo apt-get update
           sudo apt-get install nodejs npm
 
       -
-        name: Install pino-pretty
-        shell: bash
+        name: 'Install pino-pretty'
+        shell: 'bash'
         run: |
           sudo npm -g install pino-pretty
 
       -
-        name: Get node packages
-        shell: bash
-        run: |
-          npm ci
-
-      -
-        name: Get videos
-        shell: bash
+        name: 'Get videos'
+        shell: 'bash'
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
           VIDEO_DB: 'content/video-list.json'
@@ -60,7 +47,7 @@ jobs:
           mv /tmp/video-list.json "${VIDEO_DB}"
           jq . "${VIDEO_DB}" > /dev/null
 
-      - name: Commit video list
+      - name: 'Commit video listing'
         env:
           CI_COMMIT_MESSAGE: 'Automatic video retrieval'
           CI_COMMIT_AUTHOR: 'github-ci'
