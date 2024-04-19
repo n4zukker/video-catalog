@@ -77,12 +77,12 @@ jobs:
         env:
           UPLOAD_FILE: 'build/video-list.html'
           UPLOAD_ID: '1492243489238'
-          BOX_CONFIG_JSON: '{{ $secrets.BOX_CONFIG_JSON }}'
+          BOX_CONFIG_JSON: '${{ secrets.BOX_CONFIG_JSON }}'
         run: |
           set -x
           export BOX_CONFIG="$(mktemp)"
           cat <<<"${BOX_CONFIG_JSON}" >"${BOX_CONFIG}"
           rc='0'
           node src/box.js || rc="$?"
-          rm "${BOX_CONFIG_JSON}"
+          rm "${BOX_CONFIG}"
           exit "${rc}"
