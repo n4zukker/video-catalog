@@ -3872,7 +3872,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "FnobQ5DMyhQzkltWdnWSLL8ScvI",
+  "etag": "a6iHYZ5wi6nW27ELEMjfDu4PILQ",
   "id": "6RGweg9XthE",
   "snippet": {
     "publishedAt": "2024-04-15T05:36:18Z",
@@ -3934,7 +3934,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "83",
+    "viewCount": "85",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -4878,7 +4878,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6-I3lyC9ooyWaEzrH9xGmCjIplQ",
+  "etag": "lvAovaGUMyKQQ3ChJqTJd4rsJmM",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -4887,27 +4887,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=COCZhbEG&rs=AOn4CLCWujJStel9HaU4Wtci_wnEWqqRKg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPjmirEG&rs=AOn4CLCHBE6WPVa0nm5ZMLvsg0_XUT2L0Q",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLDPiXMP5Ui_IKXegqEiP8ZNswrYAw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLBnbrAngzuAQKd6zkIN1V3LEWTjEg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLC97yG1Rt0QXnWjF3Q48UmyxSL2mA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLClmkUnWBU0OCT-HLT4TpYazak9rg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=COCZhbEG&rs=AOn4CLCoWwOwsnN9YwTSUfAs4KKsnsAj0w",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPjmirEG&rs=AOn4CLB1e4J45gt3omHQblpbcP73Ry1NEw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=COCZhbEG&rs=AOn4CLD9kuZSm9ynDvCxrq0VQsZz8DJ4iA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPjmirEG&rs=AOn4CLCQZf57WurQU6xtKizSImwZEnghxA",
         "width": 1280,
         "height": 720
       }
@@ -9282,7 +9282,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "csjdp94Pa5pw6xiu1LWVd5OFpMI",
+  "etag": "LCembwAklyBmusPyaNHdAJDtsfk",
   "id": "GObfgNiEzVU",
   "snippet": {
     "publishedAt": "2024-04-08T05:17:36Z",
@@ -9344,7 +9344,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "123",
+    "viewCount": "128",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -9464,7 +9464,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "xM24LQZY8p5a_6Ysg53qRxPUNNs",
+  "etag": "jx2tvga92TMw1jWoe-LpFP7QWpo",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -9473,27 +9473,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=COCZhbEG&rs=AOn4CLCM0hscaDocX9uJw5fEOvPPuBgUDg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPjmirEG&rs=AOn4CLAU3G4OD8J_BxtMSFFdlviBujfWJw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLDlzTWfa-Z51OVtlReEr6LJsHHz5A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLBKCE1KJEE5Wjj4EHQSs21EkBmHlg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLDL9wE7sSHe__I2cYXC02UtLYPETg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLAzwD3dusOJg2McSPD-7OepWM_19A",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=COCZhbEG&rs=AOn4CLCiouI_FBFXHg9Bay5TcqSoOBckCA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPjmirEG&rs=AOn4CLBDSXeFCCfDXc6AV8ImuoNgyB29lA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=COCZhbEG&rs=AOn4CLAk9lsd0FPyyevmLIzd_S6YyxuEnA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPjmirEG&rs=AOn4CLAd2bCL5cLzIJ18WqQxGnSTUejnCA",
         "width": 1280,
         "height": 720
       }
@@ -14957,6 +14957,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "WCHkBWxaGXfMOlNHJc96sqp70rU",
+  "id": "QZ8nY228E-U",
+  "snippet": {
+    "publishedAt": "2024-04-18T23:51:24Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "4th Sunday of the Resurrection",
+    "description": "April 21, 2024: Fourth Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nBishop Robert Brennan of Brooklyn will join Bishop Gregory at Our Lady of Lebanon Cathedral to celebrate the 9 am Divine Liturgy this Sunday.  The National Diocesan Attorneys Association and 9 seminarians from the Diocese of Brooklyn will also be in attendance.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QZ8nY228E-U/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QZ8nY228E-U/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QZ8nY228E-U/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/QZ8nY228E-U/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/QZ8nY228E-U/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "4th Sunday of the Resurrection",
+      "description": "April 21, 2024: Fourth Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nBishop Robert Brennan of Brooklyn will join Bishop Gregory at Our Lady of Lebanon Cathedral to celebrate the 9 am Divine Liturgy this Sunday.  The National Diocesan Attorneys Association and 9 seminarians from the Diocese of Brooklyn will also be in attendance."
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-04-21T13:00:00Z",
+    "activeLiveChatId": "Cg0KC1FaOG5ZMjI4RS1VKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILUVo4blkyMjhFLVU"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "8MxsxY5QFoOEKxFz4nFZ-IgU5CE",
   "id": "Qab2A1tSwTU",
   "snippet": {
@@ -15862,7 +15955,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Ndg-gw2kemPzFjySEAa--7PGTZQ",
+  "etag": "s9aCOPcCY7QQUEI0JBcVp77rMbA",
   "id": "RuFso_IE-fw",
   "snippet": {
     "publishedAt": "2024-03-31T17:54:04Z",
@@ -15924,7 +16017,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "122",
+    "viewCount": "123",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -19667,7 +19760,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "b_lZB1zEeU_l-USaWjrxHf-EbyA",
+  "etag": "XN6mF4RmNJdIynLQmld1W75AhtU",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -19676,27 +19769,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=COCZhbEG&rs=AOn4CLBys2P3xZv3066UOczJ-OsAoBwzjg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPjmirEG&rs=AOn4CLDh0v4eQ8wquUjy6Hs_9pJp6g2D-Q",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLBbjzdnRANL3MRpKiGXIcyBGRgorg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLAR6-mzjUBlcZgvT0-UKzR6fC1bBA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=COCZhbEG&rs=AOn4CLBq93YBxoSYyz7I4mlPNF_ZWZmVIw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPjmirEG&rs=AOn4CLATfBSx-hZm56xk3ucWu0wqERtgRg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=COCZhbEG&rs=AOn4CLCeawXR2tjC4KIQ6aEuZeDXeuKTrw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPjmirEG&rs=AOn4CLB58m0YzUlkKDjXJYDaglvwpwlqig",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=COCZhbEG&rs=AOn4CLCtA6qvrSen3VTN4tlNuo_7qx5jxw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPjmirEG&rs=AOn4CLDJCDK-9ID5xd7tTOdMj8ALw323Vg",
         "width": 1280,
         "height": 720
       }
@@ -25619,7 +25712,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "EEK3xMxcKcaMPmMs2oYCPEm9vWE",
+  "etag": "xwcPxy1DeOIvzg66_iloCeH9Bi4",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -25681,8 +25774,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "468",
-    "likeCount": "18",
+    "viewCount": "470",
+    "likeCount": "19",
     "dislikeCount": "2",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -33831,7 +33924,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "iQDterXBvytrlGToXRdO1FwsZSk",
+  "etag": "JVQeT8FfjJhth07ZZr23WKVj5Tg",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -33893,7 +33986,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1020",
+    "viewCount": "1021",
     "likeCount": "18",
     "dislikeCount": "1",
     "favoriteCount": "0",
