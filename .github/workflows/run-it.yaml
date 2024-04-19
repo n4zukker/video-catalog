@@ -55,7 +55,7 @@ jobs:
           YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
           VIDEO_DB: 'content/video-list.json'
         run: |
-          src/playground.sh > /tmp/video-list.json 2>&1 | pino-pretty -t
+          ( src/playground.sh > /tmp/video-list.json ) 2>&1 | pino-pretty -t
           mv /tmp/video-list.json "${VIDEO_DB}"
 
       - name: Commit video list
