@@ -106,7 +106,17 @@ def body ($byAtomicTitle):
         "| Published at: | \( .snippet.publishedAt | mdTime ) |"
       end
     ),
+
     ( ( .contentDetails.duration // "P0D" ) | select ( . != "P0D" ) | "| Duration: | \( mdDuration ) |" ),
+
+    (
+      select (.statistics) | .statistics
+      | (
+        "| Views: | \( .viewCount ) |",
+        "| Likes: | \( .likeCount )\( if .likeCount > 0 then "&#128077;" else empty end ) |",
+        "| Dislikes: | \( .dislikeCount )\( if .dislikeCount > 0 then "&#128078;" else empty end ) |"
+      )
+    ),
 
     "",
     (
