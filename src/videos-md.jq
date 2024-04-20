@@ -84,6 +84,47 @@ def seeAlso ($byAtomicTitle):
     )
 ;
 
+def linkTimestamps ($id):
+  capture (
+    "^(?<ts>
+        (
+          (?<hh>\\d\\d):
+        )?
+        (
+          (?<mm>\\d\\d):
+        )
+        (
+          (?<ss>\\d\\d)
+        )
+      )?
+      (?<rest>.*)
+    ";
+    "x"
+  )
+  | if .ts then
+      [
+        ( .hh | select (.) | tonumber | select (. > 0) | "\( . )h" ),
+        ( .mm | select (.) | tonumber | select (. > 0) | "\( . )m" ),
+        ( .ss | select (.) | tonumber | select (. > 0) | "\( . )s" )
+      ] as $hms
+      | (
+        [
+          "[\( .ts )]",
+          "(",
+          "https://youtube.com/watch?v=\($id)",
+          if ( $hms | length > 0 ) then
+            "&t=\( $hms | join("") )"
+          else
+            ""
+          end,
+          ")"
+        ] | join("")
+      )
+    else
+      ""
+    end + .rest
+;
+
 def body ($byAtomicTitle):
   . as $entry
   | (
@@ -110,17 +151,25 @@ def body ($byAtomicTitle):
     ( ( .contentDetails.duration // "P0D" ) | select ( . != "P0D" ) | "| Duration: | \( mdDuration ) |" ),
 
     (
-      select (.statistics) | .statistics
+      select (.statistics.viewCount | tonumber > 0)
+      | .statistics
       | (
-        "| Views: | \( .viewCount ) |",
-        ( .likeCount    | tonumber | "| Likes:    | \( . )\( if . > 0 then "&#128077;" else empty end ) |" ),
-        ( .dislikeCount | tonumber | "| Dislikes: | \( . )\( if . > 0 then "&#128078;" else empty end ) |" )
-      )
+          "| Views: | \( .viewCount ) |",
+          (
+            [ 
+              ( select ( .likeCount | tonumber > 0 ) | "\( .likeCount ) likes &#128077;" ),
+              ( select ( .dislikeCount | tonumber > 0 ) | "\( .dislikeCount ) dislikes &#128078;" )
+            ]
+            | select ( length > 0 )
+            | join (" and ")
+            | "| Reactions: | \( . ) |"
+          ) 
+        )
     ),
 
     "",
     (
-      ">" + ( .snippet.description | split("\n") | .[] ) + "  "
+      ">" + ( .snippet.description | split("\n") | .[] | linkTimestamps ( $entry.id ) ) + "  "
     ),
     "",
 
