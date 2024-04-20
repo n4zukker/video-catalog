@@ -7,6 +7,26 @@ on:
       - 'content/**'
 
 jobs:
+  fileId:
+    runs-on: 'ubuntu-latest'
+    outputs:
+      FILE_ID: "${{join(steps.*.outputs.FILE_ID,'')}}"
+
+    steps:
+      -
+        name: 'Other branch'
+        id: 'other'
+        if: !endsWith(github.ref, '/main')
+        run: |
+          echo "FILE_ID=1492243489238" >>"${GITHUB_OUTPUT}"
+
+      -
+        name: 'Main branch'
+        id: 'main'
+        if: !endsWith(github.ref, '/main')
+        run: |
+          echo "FILE_ID=1494188896273" >>"${GITHUB_OUTPUT}"
+
   catalog:
     runs-on: 'ubuntu-latest'
 
@@ -77,7 +97,7 @@ jobs:
         shell: 'bash'
         env:
           UPLOAD_FILE: 'build/video-list.html'
-          UPLOAD_ID: '1492243489238'
+          UPLOAD_ID: '${{ needs.fileId.outputs.FILE_ID }}'
           BOX_CONFIG_JSON: '${{ secrets.BOX_CONFIG_JSON }}'
         run: |
           export BOX_CONFIG="$(mktemp '--suffix=.json')"

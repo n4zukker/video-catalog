@@ -113,8 +113,8 @@ def body ($byAtomicTitle):
       select (.statistics) | .statistics
       | (
         "| Views: | \( .viewCount ) |",
-        "| Likes: | \( .likeCount )\( if .likeCount > 0 then "&#128077;" else empty end ) |",
-        "| Dislikes: | \( .dislikeCount )\( if .dislikeCount > 0 then "&#128078;" else empty end ) |"
+        ( .likeCount    | tonumber | "| Likes:    | \( . )\( if . > 0 then "&#128077;" else empty end ) |" ),
+        ( .dislikeCount | tonumber | "| Dislikes: | \( . )\( if . > 0 then "&#128078;" else empty end ) |" )
       )
     ),
 
