@@ -7,8 +7,29 @@ on:
       - 'content/**'
 
 jobs:
+  fileId:
+    runs-on: 'ubuntu-latest'
+    outputs:
+      FILE_ID: "${{join(steps.*.outputs.FILE_ID,'')}}"
+
+    steps:
+      -
+        name: 'Other branch'
+        id: 'other'
+        if: '!endsWith(github.ref, ''/main'')'
+        run: |
+          echo "FILE_ID=1492243489238" >>"${GITHUB_OUTPUT}"
+
+      -
+        name: 'Main branch'
+        id: 'main'
+        if: 'endsWith(github.ref, ''/main'')'
+        run: |
+          echo "FILE_ID=1494188896273" >>"${GITHUB_OUTPUT}"
+
   catalog:
     runs-on: 'ubuntu-latest'
+    needs: [fileId]
 
     steps:
       -
@@ -56,6 +77,7 @@ jobs:
         env:
           VIDEO_DB: 'content/video-list.json'
           VIDEO_MD: 'build/video-list.md'
+          TZ: 'America/New_York'
         run: |
           mkdir -p build
           jq --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" --raw-output > "${VIDEO_MD}"
@@ -76,14 +98,12 @@ jobs:
         shell: 'bash'
         env:
           UPLOAD_FILE: 'build/video-list.html'
-          UPLOAD_ID: '1492243489238'
-          BOX_CONFIG_JSON: '{{ $secrets.BOX_CONFIG_JSON }}'
+          UPLOAD_ID: '${{ needs.fileId.outputs.FILE_ID }}'
+          BOX_CONFIG_JSON: '${{ secrets.BOX_CONFIG_JSON }}'
         run: |
-          set -x
-          function runWithJsonFile () {
-            local -rx BOX_CONFIG="$1" 
-            node src/box.js
-          }
-
-          runWithJsonFile <( cat <<<"${BOX_CONFIG_JSON}" )
-
+          export BOX_CONFIG="$(mktemp '--suffix=.json')"
+          cat <<<"${BOX_CONFIG_JSON}" >"${BOX_CONFIG}"
+          rc='0'
+          node src/box.js || rc="$?"
+          rm "${BOX_CONFIG}"
+          exit "${rc}"
