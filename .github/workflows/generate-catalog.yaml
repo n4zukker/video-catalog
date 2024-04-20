@@ -16,14 +16,14 @@ jobs:
       -
         name: 'Other branch'
         id: 'other'
-        if: "!endsWith(github.ref, '/main')"
+        if: '!endsWith(github.ref, ''/main'')'
         run: |
           echo "FILE_ID=1492243489238" >>"${GITHUB_OUTPUT}"
 
       -
         name: 'Main branch'
         id: 'main'
-        if: "!endsWith(github.ref, '/main')"
+        if: 'endsWith(github.ref, ''/main'')'
         run: |
           echo "FILE_ID=1494188896273" >>"${GITHUB_OUTPUT}"
 
