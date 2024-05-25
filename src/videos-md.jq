@@ -158,7 +158,7 @@ def body ($byAtomicTitle):
           (
             [ 
               def thumb ( $singular ; $thumb ):
-                tonumber | select ( . > 0 ) | "\( . ) \($singular)\( if . > 1 then "s" else "" end ) \($thumb)",
+                tonumber | select ( . > 0 ) | "\( . ) \($singular)\( if . > 1 then "s" else "" end ) \($thumb)"
               ;
               ( .likeCount    | thumb ( "like"    ; "&#128077;" ) ),
               ( .dislikeCount | thumb | "dislike" ; "&#128078;" )  )
