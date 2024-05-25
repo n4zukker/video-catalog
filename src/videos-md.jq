@@ -161,7 +161,7 @@ def body ($byAtomicTitle):
                 tonumber | select ( . > 0 ) | "\( . ) \($singular)\( if . > 1 then "s" else "" end ) \($thumb)"
               ;
               ( .likeCount    | thumb ( "like"    ; "&#128077;" ) ),
-              ( .dislikeCount | thumb | "dislike" ; "&#128078;" )  )
+              ( .dislikeCount | thumb ( "dislike" ; "&#128078;" ) )
             ]
             | select ( length > 0 )
             | join (" and ")
