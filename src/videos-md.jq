@@ -157,8 +157,11 @@ def body ($byAtomicTitle):
           "| Views: | \( .viewCount ) |",
           (
             [ 
-              ( select ( .likeCount | tonumber > 0 ) | "\( .likeCount ) likes &#128077;" ),
-              ( select ( .dislikeCount | tonumber > 0 ) | "\( .dislikeCount ) dislikes &#128078;" )
+              def thumb ( $singular ; $thumb ):
+                tonumber | select ( . > 0 ) | "\( . ) \($singular)\( if . > 1 then "s" else "" end ) \($thumb)"
+              ;
+              ( .likeCount    | thumb ( "like"    ; "&#128077;" ) ),
+              ( .dislikeCount | thumb ( "dislike" ; "&#128078;" ) )
             ]
             | select ( length > 0 )
             | join (" and ")
