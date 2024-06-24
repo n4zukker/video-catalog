@@ -1318,13 +1318,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "JK--Kt8Uc_KpmDe_evQuon6Qofo",
+  "etag": "MWepj58NlxL_V7E3F1SOxPo_Y1Q",
   "id": "1sibIVR8zQQ",
   "snippet": {
     "publishedAt": "2024-05-24T22:57:14Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sixth Sunday of Pentecost",
-    "description": "July 23, 2024: 6th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Sunday A (Glorious Pentecost)\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "July 23, 2024: 6th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 835 -- Anaphora of the Saint Mark the Evangelist\n\nChapters:\n00:00:00 Recording starts\n00:01:05 Lighting of the Church\n00:08:00 Opening hymn\n00:17:53 Readings\n00:29:10 Homily\n00:39:40 Creed\n00:45:33 Anaphora of Saint Mark\n01:03:31 Communion",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/1sibIVR8zQQ/default_live.jpg",
@@ -1354,14 +1354,14 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Sixth Sunday of Pentecost",
-      "description": "July 23, 2024: 6th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Sunday A (Glorious Pentecost)\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "July 23, 2024: 6th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 835 -- Anaphora of the Saint Mark the Evangelist\n\nChapters:\n00:00:00 Recording starts\n00:01:05 Lighting of the Church\n00:08:00 Opening hymn\n00:17:53 Readings\n00:29:10 Homily\n00:39:40 Creed\n00:45:33 Anaphora of Saint Mark\n01:03:31 Communion"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H26M29S",
     "dimension": "2d",
     "definition": "sd",
     "caption": "false",
@@ -1380,16 +1380,15 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
+    "viewCount": "69",
+    "likeCount": "1",
+    "dislikeCount": "1",
     "favoriteCount": "0",
     "commentCount": "0"
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
+      "https://en.wikipedia.org/wiki/Religion"
     ]
   },
   "recordingDetails": {},
@@ -1405,8 +1404,9 @@
     "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2024-06-23T15:30:00Z",
-    "activeLiveChatId": "Cg0KCzFzaWJJVlI4elFRKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMXNpYklWUjh6UVE"
+    "actualStartTime": "2024-06-23T15:26:08Z",
+    "actualEndTime": "2024-06-23T16:52:37Z",
+    "scheduledStartTime": "2024-06-23T15:30:00Z"
   }
 }
 {
@@ -3166,7 +3166,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "eIsiTYwn_bPxA_KXH4KqXLQz_gY",
+  "etag": "p5hH_d55FCiUCjQ0rzOiJSNTYLA",
   "id": "552iFrvojYE",
   "snippet": {
     "publishedAt": "2024-05-29T19:05:30Z",
@@ -3228,8 +3228,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "97",
-    "likeCount": "2",
+    "viewCount": "114",
+    "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -4683,7 +4683,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Tf9i91POdas8h-9Rl9rOMCp9f9A",
+  "etag": "Z1XUD0B9gQ-HQA8pEZYHFkEbZAQ",
   "id": "6wTlGly0heM",
   "snippet": {
     "publishedAt": "2024-05-13T05:35:05Z",
@@ -4745,7 +4745,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "158",
+    "viewCount": "159",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -5223,7 +5223,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "S8ON1zriTIVGz7kBDNZzSKvVMEc",
+  "etag": "hctnPt1O66qY3VB0ZZbpTAsLABU",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -5232,27 +5232,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=COTHvbMG&rs=AOn4CLBMNgGLfkJe2cKlGoKA8nHFdbjUdw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CNjy4rMG&rs=AOn4CLA22WHZp7BGdP2xNnhvCcrOvcHdzg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLDl6-N78zIIwH52Zg2ZPKwnGVidag",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLDOUvzjElJoii0fh6P1msHoYKa4NQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLA7laAXtMZgzk6XVREdO_c56ZPzbg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLBuICCNf53K6l0F4fGYx2kdlk-tGg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=COTHvbMG&rs=AOn4CLDEbGQ2E1nDp2VZvBItqu-S_Eh8mg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CNjy4rMG&rs=AOn4CLArCi3YXBPKSJ1XrCdMrkEY7RTaQA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=COTHvbMG&rs=AOn4CLAnKoEQHgSWTwDtzFKegGw4XKHfGA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLAwTCEd7lwYGCjexgJz4tf9Rjh2GQ",
         "width": 1280,
         "height": 720
       }
@@ -7863,7 +7863,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "7XfHWXOva09LpR5lqxsiwlbpchs",
+  "etag": "FAzbtSETjMiIcIs32ySnjyKLT7Q",
   "id": "Da31zlmaZME",
   "snippet": {
     "publishedAt": "2024-06-10T04:57:22Z",
@@ -7925,7 +7925,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "92",
+    "viewCount": "94",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -7939,35 +7939,15 @@
   },
   "recordingDetails": {},
   "fileDetails": {
-    "fileName": "livestream.str",
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1280,
-        "heightPixels": 720,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "721875"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128032"
-      }
-    ],
-    "bitrateBps": "849907"
+    "fileName": "livestream.str"
   },
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2024-06-09T15:26:51Z",
@@ -10011,7 +9991,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "TMezddFPg3akNaqsggoIYVCnu88",
+  "etag": "-6Puklb1bB4IUQKcHolmKw61Meo",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -10020,27 +10000,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=COTHvbMG&rs=AOn4CLDb5TVHgS0YpCvEnNXuvU_5wLTKPQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CNjy4rMG&rs=AOn4CLBojRavtpC18NipGjYI7LOvdfST1g",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLDc5utghzD_FbloSQodxLsjpHz8dA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLB-WfzB756LEoZzQfy9QBTf8uFi5Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLAiYqfgB3lK4a3P1G24C8yAYeYxYQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLDnOWfwTTuVAzIaQD2v6pz2PbOUnA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=COTHvbMG&rs=AOn4CLA2VLbD2zJxUyL_K4HBUB26yI7ORw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CNjy4rMG&rs=AOn4CLCfxnfLhhzZq3VLXckW1SrYASDHFw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=COTHvbMG&rs=AOn4CLAMCPcRqBuVjwytrHJ8O-VymYUIkQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLBZO9ZdeRB7GQgNMOP5a7Z-RYhK8Q",
         "width": 1280,
         "height": 720
       }
@@ -13021,7 +13001,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "x7r0jOTEUY9qokWi8mhQ8qxggag",
+  "etag": "nbOHxjq0JzucXxmz0oMHdRRCofs",
   "id": "LIMaVEnbI1c",
   "snippet": {
     "publishedAt": "2024-05-07T03:38:21Z",
@@ -13078,7 +13058,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "173",
+    "viewCount": "175",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -18198,7 +18178,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6Vu0IjxWoGcvBaFR8iE6-TY68xA",
+  "etag": "zNeHk0D9-pQj7Ofm47H1RTyWZC8",
   "id": "TTTgLJCB1II",
   "snippet": {
     "publishedAt": "2024-05-12T04:03:23Z",
@@ -18260,7 +18240,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "344",
+    "viewCount": "345",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -18819,7 +18799,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DwZIyK_NEM4N2vV6j4BfbC2vqB8",
+  "etag": "4Fi9heE7GX8elymbg-sw93IEDD8",
   "id": "V0g4NqH_nk4",
   "snippet": {
     "publishedAt": "2023-11-18T13:30:00Z",
@@ -18881,7 +18861,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "328",
+    "viewCount": "329",
     "likeCount": "8",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -20679,7 +20659,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PMES5IQ8ysKnSGJaQVdEMo_GgQ8",
+  "etag": "YVJRdu1y3NDsc5rY8S7gtT8lKAc",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -20688,27 +20668,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=COTHvbMG&rs=AOn4CLAbup1dx6P4cB6sA_uy3Px3S_3aNQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CNjy4rMG&rs=AOn4CLDVfj9qgnIOk-wJcP1NcZcWeisiPg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLDL3--OoOalBjEZV5epxOTE5a3_iQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLA_628rA7-sEyaNb5_zYqEdHwDwBw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=COTHvbMG&rs=AOn4CLCN23rpYBW67HJrzs9cTKZdfq-jkg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLCytBmdF5iHukxlbKGVaRISZyllVA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=COTHvbMG&rs=AOn4CLBQjT_ZxZD1MqKg0yOOe7fV1W-h5w",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CNjy4rMG&rs=AOn4CLCfurjiwbbgDAxWgTVY1_5y1vFoAw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=COTHvbMG&rs=AOn4CLCWvd8gW7OK6egrrCF8JKKNqqghyQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CNjy4rMG&rs=AOn4CLC7lrlvzO6IFslnIC9chqjUwtz8_g",
         "width": 1280,
         "height": 720
       }
@@ -20850,7 +20830,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "C9JSqagI9GUjCAMqHJEO5DdFG-A",
+  "etag": "M_f5iEoCR3yB-pEaCxLFKdziWB0",
   "id": "ZaLePReHeRo",
   "snippet": {
     "publishedAt": "2024-06-03T05:05:07Z",
@@ -20912,7 +20892,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "108",
+    "viewCount": "109",
     "likeCount": "6",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -22023,7 +22003,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "d3YO884kQQThUseWSH7oANguvb0",
+  "etag": "JTLAKxZllPyV15Cbnp27KP_IBrE",
   "id": "ad_u0trVfew",
   "snippet": {
     "publishedAt": "2024-05-27T10:02:56Z",
@@ -22085,7 +22065,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "208",
+    "viewCount": "211",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -22738,7 +22718,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "0Rk9m6EnloVKeXyGJUCa2vobBjE",
+  "etag": "3XZeOJpYQemdu2oJldCdLFzfmL4",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -22800,7 +22780,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "147",
+    "viewCount": "148",
     "likeCount": "7",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -24335,7 +24315,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "e9698mvIFjzAMqGMn_XHh6tWk6E",
+  "etag": "si6o-z2oPhIjYs5w54yfgdx5zuw",
   "id": "g338_ZgrJBs",
   "snippet": {
     "publishedAt": "2020-03-20T15:36:03Z",
@@ -24961,7 +24941,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "b03gJd5pJ9j8RR0ybHoR5pStC7Q",
+  "etag": "2_iaS87YKjitqRDlg1OWWrFBOpc",
   "id": "gxe8yO4D0is",
   "snippet": {
     "publishedAt": "2020-04-12T15:53:32Z",
@@ -25237,7 +25217,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3oVtr1xtWN4i-S-83EOUcb3-ZpE",
+  "etag": "dMA6k81D-H5jRZatFVfjrXZWrbM",
   "id": "hAsLgD2bT-Q",
   "snippet": {
     "publishedAt": "2020-04-05T15:57:58Z",
@@ -26206,7 +26186,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2oH-YqaJHDgMWuwRQs_0N9UAt1Q",
+  "etag": "2yw6bFbYwGCcGyKk_THP1Y4sjCk",
   "id": "iBzeP3w10c4",
   "snippet": {
     "publishedAt": "2024-02-24T13:43:58Z",
@@ -26268,7 +26248,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "88",
+    "viewCount": "89",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -26914,7 +26894,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wQQsfB3a_vzY8Br1f0G5jeEQ0ns",
+  "etag": "Td-UwDeY9WJ3P6nrGjoKb3nN-8A",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -26976,7 +26956,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "510",
+    "viewCount": "513",
     "likeCount": "22",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -27266,36 +27246,36 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nPDnbgEbEt6t9qvXU7WKxprmLMk",
+  "etag": "AaUZBiCyWptfA6ibBahHs_i_4ok",
   "id": "j0vkQ0Oos7k",
   "snippet": {
-    "publishedAt": "2024-05-24T22:55:51Z",
+    "publishedAt": "2024-06-17T05:15:51Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Fifth Sunday of Pentecost; Father's Day",
-    "description": "June 16, 2024: 5th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Commemoration of the Resurrection of the Lord, Sunday A\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord\n\nChapters:\n00:00:00 Recording starts\n00:00:56 Lighting of the Church\n00:14:32 Opening hymn\n00:25:08 Readings\n00:35:15 Homily\n00:44:42 Creed\n00:50:30 Anaphora of Saint Peter\n01:09:18 Communion",
+    "description": "June 16, 2024: 5th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Commemoration of the Resurrection of the Lord, Sunday A\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord\n\nChapters:\n00:00:00 Recording starts\n00:00:56 Lighting of the Church\n00:14:32 Opening hymn\n00:25:08 Readings\n00:35:15 Homily\n00:44:42 Creed\n00:50:30 Anaphora of Saint James\n01:09:18 Communion",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/j0vkQ0Oos7k/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -27305,13 +27285,13 @@
     "liveBroadcastContent": "none",
     "localized": {
       "title": "Fifth Sunday of Pentecost; Father's Day",
-      "description": "June 16, 2024: 5th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Commemoration of the Resurrection of the Lord, Sunday A\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord\n\nChapters:\n00:00:00 Recording starts\n00:00:56 Lighting of the Church\n00:14:32 Opening hymn\n00:25:08 Readings\n00:35:15 Homily\n00:44:42 Creed\n00:50:30 Anaphora of Saint Peter\n01:09:18 Communion"
+      "description": "June 16, 2024: 5th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 425 -- Commemoration of the Resurrection of the Lord, Sunday A\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord\n\nChapters:\n00:00:00 Recording starts\n00:00:56 Lighting of the Church\n00:14:32 Opening hymn\n00:25:08 Readings\n00:35:15 Homily\n00:44:42 Creed\n00:50:30 Anaphora of Saint James\n01:09:18 Communion"
     }
   },
   "contentDetails": {
-    "duration": "PT5H21M38S",
+    "duration": "PT1H31M21S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -27319,7 +27299,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -27328,8 +27308,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "41",
-    "likeCount": "4",
+    "viewCount": "82",
+    "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -27342,15 +27322,35 @@
   },
   "recordingDetails": {},
   "fileDetails": {
-    "fileName": "livestream.str"
+    "fileName": "livestream.str",
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1280,
+        "heightPixels": 720,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1298492"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128024"
+      }
+    ],
+    "bitrateBps": "1426516"
   },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2024-06-16T15:20:13Z",
@@ -28603,7 +28603,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "K8NDCrrBkdml7b32d-vVorFOGtc",
+  "etag": "0_1Js1IuvXM_uS1zeEzLbP-XrqE",
   "id": "kzPDJcOm5oc",
   "snippet": {
     "publishedAt": "2024-02-17T13:44:03Z",
@@ -28665,7 +28665,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "125",
+    "viewCount": "128",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -33383,7 +33383,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "GFjYocOUiPAq3R5ItsUDHJpuBaQ",
+  "etag": "DcP0GBnlm5UQ5D5onIZhoCBH4Xc",
   "id": "t98RJnvPLis",
   "snippet": {
     "publishedAt": "2020-08-26T00:49:12Z",
@@ -33445,7 +33445,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1128",
+    "viewCount": "1129",
     "likeCount": "23",
     "dislikeCount": "7",
     "favoriteCount": "0",
@@ -35312,7 +35312,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DJKWK3FJ4yG9W06WrinZZHk9X0Q",
+  "etag": "I6J7EZJ6ZdbPGyl_ydIpuIyAxcI",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -35374,7 +35374,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1070",
+    "viewCount": "1072",
     "likeCount": "19",
     "dislikeCount": "1",
     "favoriteCount": "0",
