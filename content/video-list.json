@@ -430,13 +430,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZLkPqR5QEuIQaJuSUZJgSMAnjl0",
+  "etag": "50xDZ6WFGSKBg1RmqEvG3cjra7s",
   "id": "09e69_yuw0A",
   "snippet": {
     "publishedAt": "2024-07-04T19:55:20Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Eighth Sunday of Pentecost",
-    "description": "July 7, 2024: 8th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
+    "description": "July 7, 2024: 8th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\n\nChapters:\n00:00:00 Recording starts\n00:02:28 Lighting of the Church\n00:09:58 Opening hymn\n00:19:44 Readings\n00:28:50 Homily\n00:36:19 Creed\n00:42:12 Anaphora of Saint Peter\n00:57:28 Communion",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/09e69_yuw0A/default_live.jpg",
@@ -466,14 +466,14 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Eighth Sunday of Pentecost",
-      "description": "July 7, 2024: 8th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
+      "description": "July 7, 2024: 8th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 492 -- Sunday B (Glorious Pentecost)\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\n\nChapters:\n00:00:00 Recording starts\n00:02:28 Lighting of the Church\n00:09:58 Opening hymn\n00:19:44 Readings\n00:28:50 Homily\n00:36:19 Creed\n00:42:12 Anaphora of Saint Peter\n00:57:28 Communion"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H17M49S",
     "dimension": "2d",
     "definition": "sd",
     "caption": "false",
@@ -492,8 +492,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "40",
+    "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -516,8 +516,9 @@
     "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2024-07-07T15:30:00Z",
-    "activeLiveChatId": "Cg0KCzA5ZTY5X3l1dzBBKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMDllNjlfeXV3MEE"
+    "actualStartTime": "2024-07-07T15:21:41Z",
+    "actualEndTime": "2024-07-07T16:39:30Z",
+    "scheduledStartTime": "2024-07-07T15:30:00Z"
   }
 }
 {
@@ -5409,7 +5410,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "q3J2LRisNXS-ofnE94TZzzZhKbw",
+  "etag": "C3aI9uEfs26Ke8BxNFq2rGNR_C4",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -5418,27 +5419,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CIjvqbQG&rs=AOn4CLAfFOwnfrlZZZlTJXD0-545fZIv_A",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CJDeq7QG&rs=AOn4CLDDrGeWZemDwDUpKX7cjVcM8pm8lA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLDlzWzNMjUKR3ZOsiXszJYec_G3uA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLA4UNfWURvJlWB-OK_lFXi-lwkZmA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLDicN-YyaPNipjRiyjCt7Y7wB0UjQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLDdIs1nmvKZHyeM73SJU8lO2bf7NA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CIjvqbQG&rs=AOn4CLC3M8XLHqb7UKU72vCN5Fal9SYsdw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CJDeq7QG&rs=AOn4CLCb5i2eQZq5WEyVylxTN13aB7PuHQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLAS2WUUiAdrgtQ3ALrPxO_ElaPLZg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLA465gsYZKz0Zk3STBamC5ZzItcyg",
         "width": 1280,
         "height": 720
       }
@@ -10269,7 +10270,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZNZ4y-0e_JVFSyr6ChrQuDsc198",
+  "etag": "_odC1eYnmDPBkQe28Nn6M6Q3NQ4",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -10278,27 +10279,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CIjvqbQG&rs=AOn4CLBmPYIbNvmGG5N3cgfoijtOWfESNQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CJDeq7QG&rs=AOn4CLAZjkE7Ga5QCW_BjxfTMAZMZzkN1A",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLCASkzb5FqzlgoWYKjYaYS2NAUyMw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLABfObnRqMNllOi4vdJYDgOTg6qrw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLC1g7H0FCTMTPsO395oyurqH7itCw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLDIwvQ32eqsnFblxxZqpPQFbHpRlw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CIjvqbQG&rs=AOn4CLCumFr_Ib74KZ3m8lURcmwWBG3xTg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CJDeq7QG&rs=AOn4CLA-XZ8gmPFZMA6ZEW-L5LJQq_jMLg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLCMsdRbYCLN9NUoyLgM5gc453N1_A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLCs2O1uTO9OeHhQMFEyqWAPBnwvVw",
         "width": 1280,
         "height": 720
       }
@@ -20937,7 +20938,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "muekkabPVuiUjutaw9WaMtMkRn0",
+  "etag": "QxsTQClPCQWSnLuioQC2inOoU0o",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -20946,27 +20947,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CIjvqbQG&rs=AOn4CLBZJ-NW58GV0QmWpuBqPansLIMeDQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CJDeq7QG&rs=AOn4CLBd21AfwwHj_-MQpc7nvQzCn6PkKw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLDn0FGm4nMfwQHxt_NKBD61wr7j6g",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLATf9ETbrTvzsQuVkbNDeJQW8zcaQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLBjQmSBEbkIwW7MhzeHevJPq9WiCQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLBNd65mp--NxB7fiPAuDB5qEXEoHg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CIjvqbQG&rs=AOn4CLAD147h0hGSsNhnPMLVQvd0JqoLog",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CJDeq7QG&rs=AOn4CLBVLH-QLNBDtK2wDTZ6J92BjzT9Mw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CIjvqbQG&rs=AOn4CLDWUQDwgR6Y3tG18Iv0KpGwnLgiOw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CJDeq7QG&rs=AOn4CLD20RuWNrnJe7PgAXC3DaHsZjT68g",
         "width": 1280,
         "height": 720
       }
@@ -33843,7 +33844,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "1RSR8HxjrnesF8LHWta6Xlt_8A0",
+  "etag": "4siWrxn6pBThgN-gbWItf609kG8",
   "id": "tdfaEIzHCaE",
   "snippet": {
     "publishedAt": "2024-07-04T19:56:47Z",
