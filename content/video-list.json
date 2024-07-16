@@ -544,7 +544,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rd8SimFttIy82GXemDOsK6NaTiA",
+  "etag": "PJ2mlBUuZ7r9vb5NL9AMJ3PtD4I",
   "id": "0OHG09A6FSI",
   "snippet": {
     "publishedAt": "2024-01-02T05:52:43Z",
@@ -638,7 +638,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bsMiWEdLBNJ_VgQ3AzBAMs67ZXI",
+  "etag": "bqLMIt664syGzBfduGQOlfp2-k0",
   "id": "0WUX_06Dklk",
   "snippet": {
     "publishedAt": "2020-06-07T15:51:39Z",
@@ -726,7 +726,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "65NxAykxVpEh0zf20284q3g7e1M",
+  "etag": "JTq5bawOvp0umNhhSlFvp03tQGo",
   "id": "0dqsmfcs9As",
   "snippet": {
     "publishedAt": "2020-05-19T01:12:38Z",
@@ -902,7 +902,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "sehLIora63anvyRP-UJmWxFVutI",
+  "etag": "5PneTrVhY-mUa7gUoKD9z_pJGW8",
   "id": "0yeHi6LsRXw",
   "snippet": {
     "publishedAt": "2021-10-09T20:01:01Z",
@@ -2401,7 +2401,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "B2-gyeLKZjaeVQZDDgCg3tHKGRk",
+  "etag": "wmRoSg6Ub1q0zwiapJHZWaRDiMg",
   "id": "38BHNXHXNTY",
   "snippet": {
     "publishedAt": "2023-06-26T06:17:56Z",
@@ -3193,12 +3193,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "yl8kTcmH7_UkYxguMwvGU5rCzEs",
+  "etag": "oZT3FWGAaigEr7pVL9_Whtw-seA",
   "id": "4vEXg9zShUU",
   "snippet": {
     "publishedAt": "2024-01-01T06:04:24Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Sunday of the Finding of Our Lord in the Temple",
+    "title": "The Finding of Our Lord in the Temple",
     "description": "December 31, 2023: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John",
     "thumbnails": {
       "default": {
@@ -3231,7 +3231,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "Sunday of the Finding of Our Lord in the Temple",
+      "title": "The Finding of Our Lord in the Temple",
       "description": "December 31, 2023: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John"
     }
   },
@@ -3546,7 +3546,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-X_GrjLWtCwQKyJnTFH4XNeu3C4",
+  "etag": "X35keVD8T8kjhKwYt4VKaLEqFsM",
   "id": "5NxoFKZN7_E",
   "snippet": {
     "publishedAt": "2021-04-02T15:13:00Z",
@@ -3810,7 +3810,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "K3qSsWB87WBq2syzvNu2o1YEse0",
+  "etag": "6oMPEuXga3Ds6V64fMT92W_CJuM",
   "id": "67rnQI_26gY",
   "snippet": {
     "publishedAt": "2022-04-24T17:08:30Z",
@@ -3898,7 +3898,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "I6btoDHvtue8fMMVZvUCuSN2pKk",
+  "etag": "1XuF7qXu-07rGJ0yADK7Vc-7uTw",
   "id": "6Lb8fqc7J0k",
   "snippet": {
     "publishedAt": "2023-07-10T04:59:10Z",
@@ -3986,7 +3986,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "H1p2n2WdicnTO6t_bqSv9lB2RSo",
+  "etag": "242gvfYmTsA7yeaPRY-axY0Y1uU",
   "id": "6OloUBm29TY",
   "snippet": {
     "publishedAt": "2021-05-14T02:23:27Z",
@@ -4074,7 +4074,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YE3Cc16HZRKJBmdav-a9jhQHbAg",
+  "etag": "KwcCD3tqIEMoejqrE4E4W056gpU",
   "id": "6RFsSTXBCJ4",
   "snippet": {
     "publishedAt": "2020-04-09T23:47:12Z",
@@ -4534,7 +4534,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "b1Lbe4S57DDZDmIcir6FekaWm3s",
+  "etag": "Vcx4-QUsnU9x3KLENmA6bvoQjHs",
   "id": "6lCU14WIYiU",
   "snippet": {
     "publishedAt": "2022-12-20T01:35:49Z",
@@ -5431,7 +5431,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Xlts2I5OX-TeEPQ3COZWpFJbbeI",
+  "etag": "1EGrrjmP0pDTIdG0wLDE7HvAS84",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -5440,27 +5440,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CIiq2bQG&rs=AOn4CLCWcF4Jt3mO6c-THuU6-mOB4mSkcg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CNCo2rQG&rs=AOn4CLAN0f83GswsrsJkQOud97a5CEt1fg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAQUwNZ9b-Y4QFS7gM5eOGEzyqTJA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLAHHxceMuMCPUC9MKS2madlwEVr8Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLCTWXHzDu6q9ssEoOIpdNVwTik9qw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLCR6JdHkt9EPgjezw1KSffe5kujJg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAMGSchRiVFGMNg6TjjzKUPLe4Jig",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CNCo2rQG&rs=AOn4CLCoACkngHtKPc292wptEXSjelFfkQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAQWCuHS8VUHiRhevNmqFvnmhnDOw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLBoPdTl-4B6_VD4MWMRhu8xQqo_RA",
         "width": 1280,
         "height": 720
       }
@@ -5861,7 +5861,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "If40L7gW2OqieBuZGs8b-cdVYXM",
+  "etag": "Zap7gMMyHl1Oe4IQAjHMP8oStHs",
   "id": "8s0iqYZ3pb8",
   "snippet": {
     "publishedAt": "2020-06-21T15:27:50Z",
@@ -6129,7 +6129,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "QAaTH2tCGPd33p-XftbjH6Wfy1E",
+  "etag": "IfjUX3eneuDjwhjYKx7DdLo6fj0",
   "id": "9DZhrmi8v1s",
   "snippet": {
     "publishedAt": "2020-12-20T19:51:49Z",
@@ -6217,7 +6217,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bUhjlSnqy199ll49YlEe94iXnTA",
+  "etag": "rPjQPtXvUSMrQpNZUg19CddbDIQ",
   "id": "9nPsUNKj5Jk",
   "snippet": {
     "publishedAt": "2023-02-19T18:46:09Z",
@@ -6305,7 +6305,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "vAZJTjH4fvik09-BGQKZbNlTyAA",
+  "etag": "acSbKN8rucCUin83L988T-dPq6k",
   "id": "9ttX-dqbLZY",
   "snippet": {
     "publishedAt": "2023-01-01T17:46:59Z",
@@ -7191,7 +7191,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3wgcd0_ABTe0_1BJPiqbILvbyjY",
+  "etag": "0mpXY9t5oAz87u7oDDhyoljEciM",
   "id": "BddSiz39l68",
   "snippet": {
     "publishedAt": "2022-05-22T19:18:42Z",
@@ -7718,7 +7718,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "10SjXWl1RqjRIT4DzMe84bce0WA",
+  "etag": "p5n2FlEaiYQ7bQZGF9gz4GoFs-I",
   "id": "CbcPEp8RfK4",
   "snippet": {
     "publishedAt": "2020-12-16T02:43:48Z",
@@ -8345,7 +8345,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4QEekCXmDoSJ7KaAggUsd1v10Sg",
+  "etag": "uHNjbOCLHjEoClsQjoRYhcKOfsQ",
   "id": "DqKZjv2b6tM",
   "snippet": {
     "publishedAt": "2021-12-24T03:13:42Z",
@@ -8615,7 +8615,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6wvi_3ewI4DarHMRtUPkoZ-8Y4s",
+  "etag": "cpR4fe6dSHLvUr7pPDWKA07MhpE",
   "id": "ENEWddtVVO8",
   "snippet": {
     "publishedAt": "2023-10-30T04:52:02Z",
@@ -8789,7 +8789,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "RtDaeMh9FaSOvcyf5I6AZZRtQys",
+  "etag": "rjuvDBHklhhFBdTLY1dedsTZ_eo",
   "id": "EPtAKHb-hgc",
   "snippet": {
     "publishedAt": "2021-05-02T22:58:20Z",
@@ -8877,7 +8877,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AF5V4BmySyJ8CsDiF8mswtIkkgA",
+  "etag": "9ZPDeX6vHx0YMhJ5JKtuFpvA2l0",
   "id": "EeA2ckXGKKc",
   "snippet": {
     "publishedAt": "2022-06-26T16:51:07Z",
@@ -9574,7 +9574,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ipRBv6vE8bm6-fznqxVfVhWnZqI",
+  "etag": "p86LqsTdGUqJF_z9qGzs3OHDR80",
   "id": "FdnRLqs-lbk",
   "snippet": {
     "publishedAt": "2022-03-24T10:09:27Z",
@@ -10291,7 +10291,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "apSS0Yv8rtK0VXHIymC8Ck-Xg9E",
+  "etag": "-lkvC7lYj4Nf7u444urWdASX21A",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -10300,27 +10300,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CIiq2bQG&rs=AOn4CLAOff_c9dgdb1WJXUmpLuM-LQEcuw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CNCo2rQG&rs=AOn4CLD0SC0KU__GkJx8ZA9opqbmpLKZXg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAVsoxUdRbjXOdsMxrEgL5AHj7Z6A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLBA3cv-68PRLDb9AEWspdZBkQZOww",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLCNOqEfW6-iOqqGg26ry-9QpcaLog",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLDgZA7SlGybdF1jj6kUILs6xb50ZA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAaZe4PaWE3lHOeYS_53AEGPutP2A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CNCo2rQG&rs=AOn4CLCA6RMuYToJxx7DYTDiOkqfzi_1uA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLB6-VXxEFWH2vUp4iA9E5MGVx6dLg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLD8z1GJTYvnwoUp2w28trYpbiCNKA",
         "width": 1280,
         "height": 720
       }
@@ -11525,7 +11525,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BsZo3cgKGMijIPWzFlPW8iVp5-Y",
+  "etag": "N6c5J_vcGluO-29U92bRsgfj66o",
   "id": "I9ms5kPLPxI",
   "snippet": {
     "publishedAt": "2021-12-19T22:21:34Z",
@@ -11883,7 +11883,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "va__OibLmoQ6zE_qQxBJ3sib2-E",
+  "etag": "oJuAmZa6felKQdJCS33KLNO3UOY",
   "id": "Ie_vNzeJ3aU",
   "snippet": {
     "publishedAt": "2020-06-16T13:27:57Z",
@@ -20959,7 +20959,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "c4z52pF5GhUrhe5uJBjzNaDCMlw",
+  "etag": "XDwuQrzmf2ZOuDSEGFos_i0ZJQY",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -20968,27 +20968,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CIiq2bQG&rs=AOn4CLCPyAfWhk4JgeV4hkD7pKH375uGFg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CNCo2rQG&rs=AOn4CLCqgvBrQZf7GuSckhvofQpGyB41zA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLAyveZQwIJogpc69BqWJ2qgw79GgQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLBjke9MVY0Vh2SDGL0wz_GwQwp9fw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLBFgU_KGXSR2NZm2iUnz5vdJKrZJw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLAdkcMmLREQCAqbABixbfijVUhKqg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CIiq2bQG&rs=AOn4CLCpYxfqmbO6FVldTRu5oOOebFNJmg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CNCo2rQG&rs=AOn4CLBYWkgdudKBaMH6fe1Q_dzC-sKGAA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CIiq2bQG&rs=AOn4CLDHNwUNtCEL8q_O20pt3D_OWL5x1Q",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CNCo2rQG&rs=AOn4CLBdiBZgDL4SousHGqav7Pr6OtAfQw",
         "width": 1280,
         "height": 720
       }
@@ -35357,7 +35357,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "LzfsVXOiAo5AT1y_sEI_EZixLw4",
+  "etag": "oA_FnRG8EmFkcy0qUYl99porXX4",
   "id": "wMc72ORnFOI",
   "snippet": {
     "publishedAt": "2020-05-05T01:36:20Z",
@@ -35708,7 +35708,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Al6YCyuOe6BKJPqmMGoewtOL5Ak",
+  "etag": "w0tvzrPS-ulqhMy1Arzv96ffTBg",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -35983,7 +35983,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6BPWv2bV-ANUh_bBs8y7NLbXUMk",
+  "etag": "3_WYXASNEoi-vvpCB9Mm8rxbgBE",
   "id": "xd7ilW9l6Cc",
   "snippet": {
     "publishedAt": "2023-04-01T01:14:21Z",
@@ -36598,7 +36598,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DVjrNdqbXaXwTh8BbMT2mcnKQZo",
+  "etag": "dWnOwjrqTGICdMVfKO2FQkPgqaw",
   "id": "z41fM7W6fR0",
   "snippet": {
     "publishedAt": "2021-12-21T03:02:07Z",
@@ -36686,12 +36686,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "98KvGLJ4lonFORUfKhldeYvzaY4",
+  "etag": "ijPobPyJ8O6pyompg8O0ZpchpKk",
   "id": "zEVtQFqACcw",
   "snippet": {
     "publishedAt": "2020-09-06T21:33:31Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Fiftheenth Sunday of Pentecost",
+    "title": "Fifteenth Sunday of Pentecost",
     "description": "September 6, 2020: 15th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 425 -- Sunday A\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200906-bulletin.pdf",
     "thumbnails": {
       "default": {
@@ -36724,7 +36724,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "Fiftheenth Sunday of Pentecost",
+      "title": "Fifteenth Sunday of Pentecost",
       "description": "September 6, 2020: 15th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 425 -- Sunday A\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200906-bulletin.pdf"
     }
   },
@@ -36774,7 +36774,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "j0M2fVafCx4dRYLF9gl7S5Q66hY",
+  "etag": "xsOTKE51WIXaLURp08snr3DVXg8",
   "id": "zK68z9lyKBw",
   "snippet": {
     "publishedAt": "2023-12-19T13:33:41Z",
