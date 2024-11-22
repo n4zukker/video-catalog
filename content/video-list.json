@@ -1747,6 +1747,98 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "USmyHsMCejJhb0kvzvVDMRj25Js",
+  "id": "2Ag-29LPEio",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:54:04Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Finding of Our Lord in the Temple",
+    "description": "December 29, 2024: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2Ag-29LPEio/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2Ag-29LPEio/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2Ag-29LPEio/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2Ag-29LPEio/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2Ag-29LPEio/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Finding of Our Lord in the Temple",
+      "description": "December 29, 2024: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-29T16:30:00Z",
+    "activeLiveChatId": "Cg0KCzJBZy0yOUxQRWlvKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMkFnLTI5TFBFaW8"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "YWkCKodSljk7W7U_eD-LLlXFTV4",
   "id": "2B9QJcsKw4Q",
   "snippet": {
@@ -2803,7 +2895,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nHeHnSdN9AZIASV4LjBJPDw5Mq8",
+  "etag": "C_IoEqCf_pZF9RtFPFNFLoMbvjg",
   "id": "3X4RAqUG-1s",
   "snippet": {
     "publishedAt": "2024-10-28T05:17:18Z",
@@ -2865,7 +2957,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "89",
+    "viewCount": "90",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -3162,6 +3254,99 @@
     "actualStartTime": "2021-05-23T15:23:19Z",
     "actualEndTime": "2021-05-23T20:43:28Z",
     "scheduledStartTime": "2021-05-23T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "0fbDbfx4dqDK-hhMiTmy9LZ7K_A",
+  "id": "4Ekhpb9qDww",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:40:35Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Tony.\n\nFourth prayer -- Dec. 18: (modern)\n\nO  Lord,  Wine  of  the  Virgins  and  Lily  of  Purity,  through \nyour body all bodies are purified and all souls are clothed \nin chastity. By dwelling in the womb of your mother, you \nhave  made  her  the  most  pure  and  glorious  of  all  virgins. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  mother  and  Saint  Joseph,  your \nchosen one, to make our souls and bodies chaste and our \nthoughts and actions pure, that we may serve you all the \ndays of our lives. Amen.  \n\n\n\nFourth oration -- Dec. 18: (classic)\n\n0 Wine of Virgins and Lily of Purity,\nWho by a touch of Your hand heals the body and cleanses the soul;\nWho by dwelling in the womb of Your Mother has made her the purest of the pure and most admirable among virgins;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us to be pure in soul and body and clean in act clean and thought,\nthat we may serve You with a clean heart and pure body all the days of our lives.\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Tony.\n\nFourth prayer -- Dec. 18: (modern)\n\nO  Lord,  Wine  of  the  Virgins  and  Lily  of  Purity,  through \nyour body all bodies are purified and all souls are clothed \nin chastity. By dwelling in the womb of your mother, you \nhave  made  her  the  most  pure  and  glorious  of  all  virgins. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  mother  and  Saint  Joseph,  your \nchosen one, to make our souls and bodies chaste and our \nthoughts and actions pure, that we may serve you all the \ndays of our lives. Amen.  \n\n\n\nFourth oration -- Dec. 18: (classic)\n\n0 Wine of Virgins and Lily of Purity,\nWho by a touch of Your hand heals the body and cleanses the soul;\nWho by dwelling in the womb of Your Mother has made her the purest of the pure and most admirable among virgins;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us to be pure in soul and body and clean in act clean and thought,\nthat we may serve You with a clean heart and pure body all the days of our lives.\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": false,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-19T00:30:00Z",
+    "activeLiveChatId": "Cg0KCzRFa2hwYjlxRHd3KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILNEVraHBiOXFEd3c"
   }
 }
 {
@@ -4135,13 +4320,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "GxP9zZKJyZTehjJaV7S0UwyNINA",
+  "etag": "lh-Z_2zyocdbcwSCs8dQTkb85_c",
   "id": "6CUldlyJL7s",
   "snippet": {
     "publishedAt": "2024-10-25T11:35:19Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Announcement to the Virgin Mary",
-    "description": "November 24, 2024: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle",
+    "description": "November 24, 2024: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/6CUldlyJL7s/default_live.jpg",
@@ -4174,7 +4359,7 @@
     "liveBroadcastContent": "upcoming",
     "localized": {
       "title": "Sunday of the Announcement to the Virgin Mary",
-      "description": "November 24, 2024: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle"
+      "description": "November 24, 2024: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
     }
   },
   "contentDetails": {
@@ -4205,8 +4390,7 @@
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
+      "https://en.wikipedia.org/wiki/Religion"
     ]
   },
   "recordingDetails": {},
@@ -5831,7 +6015,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rKYnrxtcBT7KzpWvV-leAzmnkCo",
+  "etag": "wig3oqr0j3UhWDOyCXn1uck0nUQ",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -5840,27 +6024,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CIjK6bkG&rs=AOn4CLCfj4T4fLAGjaM7S4cwFr8T8VKZkw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=COzHg7oG&rs=AOn4CLD36iJD-a2yV4d7Fnl36TpcwlaZug",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLCKAMTIGPKsJIH-j3SEmfgTeZKPxQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLD7cAAWq1L52TqwAkD4wbobNdDWVA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLCEOHHMi9PYV-vNebA6SACFlqsKfg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLCIDW_gNwDBV85jdsMfOCN13zrnMg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CIjK6bkG&rs=AOn4CLD_sdHgNn4ElBeLQkqt7YwnjFKHQQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=COzHg7oG&rs=AOn4CLBRuZ5JBJjTS58A80rqtrYrArAdbQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLAglr2l5fr9s2q9zq8RTxrtv-dHKw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=COzHg7oG&rs=AOn4CLCYSXha8HURxsJeLkbCet9fl2dP6A",
         "width": 1280,
         "height": 720
       }
@@ -6525,7 +6709,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ccDgU0w2fZuHAsYaSj2Q-AtT62A",
+  "etag": "B6Ig6lCD9COku8UwBdcP8QmQ-vA",
   "id": "99gqbx7oMZg",
   "snippet": {
     "publishedAt": "2024-10-21T05:10:34Z",
@@ -6587,7 +6771,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "100",
+    "viewCount": "102",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -7582,6 +7766,99 @@
     "actualStartTime": "2021-02-10T00:26:16Z",
     "actualEndTime": "2021-02-10T02:35:38Z",
     "scheduledStartTime": "2021-02-10T00:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "FqVuLJk-nQW6xr6WlNKDvhBGtqM",
+  "id": "B7vdivHVLXM",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:48:07Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by George.\n\nNinth prayer -- Dec. 23: (modern)\n\nO  Lord,  though  you  are  rich  by  nature,  you  loved  the \npoverty  of  our  humanity  when  you  became  man  like  us. \nThough you were the descendant of kings and the heir of \nDavid, the venerable, you were satisfied with a grotto and \na  humble  manger.    We  implore  you,  through  your  pure \nnativity and through the intercession of your mother and \nSaint  Joseph,  your  chosen  one,  to  give  us  a  love  of \nvoluntary  poverty,  that  we  may  be  satisfied  only  with \nwhat  is  necessary  for  our  existence,  avoiding  waste  and \nthe love of an easy life, all the days of our lives. Amen.  \n\n\n\nNinth Oration -- Dec. 23: (classic)\n\n0 God, Who in Your very nature contain all the riches of heaven and earth,\nYou loved the poverty of humanity by choosing to become one of us,\nYou are the descendant of Kings and the Heir of David the Venerable.\nYou were satisfied to be born a stable and a humble manger.\n \nWe beseech You, through Your Pure Nativity \nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us an appreciation of voluntary poverty.\nMay we be satisfied with only that which is necessary for the maintenance of our lives.\nTeach us to flee from excessive luxury and the love of abundance all the days of our lives.\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/B7vdivHVLXM/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/B7vdivHVLXM/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/B7vdivHVLXM/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/B7vdivHVLXM/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/B7vdivHVLXM/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by George.\n\nNinth prayer -- Dec. 23: (modern)\n\nO  Lord,  though  you  are  rich  by  nature,  you  loved  the \npoverty  of  our  humanity  when  you  became  man  like  us. \nThough you were the descendant of kings and the heir of \nDavid, the venerable, you were satisfied with a grotto and \na  humble  manger.    We  implore  you,  through  your  pure \nnativity and through the intercession of your mother and \nSaint  Joseph,  your  chosen  one,  to  give  us  a  love  of \nvoluntary  poverty,  that  we  may  be  satisfied  only  with \nwhat  is  necessary  for  our  existence,  avoiding  waste  and \nthe love of an easy life, all the days of our lives. Amen.  \n\n\n\nNinth Oration -- Dec. 23: (classic)\n\n0 God, Who in Your very nature contain all the riches of heaven and earth,\nYou loved the poverty of humanity by choosing to become one of us,\nYou are the descendant of Kings and the Heir of David the Venerable.\nYou were satisfied to be born a stable and a humble manger.\n \nWe beseech You, through Your Pure Nativity \nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us an appreciation of voluntary poverty.\nMay we be satisfied with only that which is necessary for the maintenance of our lives.\nTeach us to flee from excessive luxury and the love of abundance all the days of our lives.\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-24T00:30:00Z",
+    "activeLiveChatId": "Cg0KC0I3dmRpdkhWTFhNKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILQjd2ZGl2SFZMWE0"
   }
 }
 {
@@ -10826,7 +11103,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5nVqTA3NIE1uCZBXyJVODYo0GRI",
+  "etag": "K3Qep4zT3T_KIsIbs0KKZ3iQKGA",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -10835,27 +11112,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CIjK6bkG&rs=AOn4CLA9MG3HxUsTWJy5Ouq9jFsxF8Rrxg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=COzHg7oG&rs=AOn4CLBfBiNjAqyYR1N-CZPB1HXjMEj76w",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLBmK8tRyHR_bUB9o-gHSV5dy-6ZoA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLDWeLVHdRMCUtsFP4P_sY9UilJZLA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLD6CLfVVhYdn585pLZplzG5mOMDLg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLBzCeLvdk8GNXe7ur4k5EQQBR2U8A",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CIjK6bkG&rs=AOn4CLCfXHq0kMyW5cUgSSrCXXRDHhcWEA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=COzHg7oG&rs=AOn4CLBzq5sNTLrOekJbmUMTUXvCG0Prfw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLARvkgBdR-_IlMHm-LZlTsYrgGrjA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=COzHg7oG&rs=AOn4CLC2socp4XtgUJz1OzDElngkRD7RpQ",
         "width": 1280,
         "height": 720
       }
@@ -13028,6 +13305,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "1-xZDS--Lwf7mVVDtr0oCLQFcYQ",
+  "id": "JS6ycj-ua2Y",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:45:32Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Caroline.\n\nSeventh prayer -- Dec. 21: (modern)\n\nO  Lord,  you  are  one  person  who  has  two  natures,  and \nhave taught us what you have heard from the Father. We \nimplore you, through your pure nativity and through the \nintercession of your Mother and Saint Joseph, your chosen \none,  to  grant  us  a  living  faith  and  good  works  in \naccordance  with  that  faith.  Do  not  permit  us  to  lose  the \nreward of our faith because of our wrong doings, but may \nwe bear the fruits of true faith and good works. Amen.\n\n\nSeventh oration -- Dec. 21: (classic)\n\n0 You Who are One person but also have the Nature of man\nYou Who have told us what You have heard from the Father; \n\nWe beseech You, through Your Pure Nativity and the intercession of Your Mother and Saint Joseph, Your Chosen One\nto grant us an ardent belief in Your teachings and good acts to harmonize with them.\nDo not permit us to lose the reward of our faith because of our own wrong doings.\nRather, make our lives fruitful in beliefs and good works.\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/JS6ycj-ua2Y/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/JS6ycj-ua2Y/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/JS6ycj-ua2Y/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/JS6ycj-ua2Y/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/JS6ycj-ua2Y/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Caroline.\n\nSeventh prayer -- Dec. 21: (modern)\n\nO  Lord,  you  are  one  person  who  has  two  natures,  and \nhave taught us what you have heard from the Father. We \nimplore you, through your pure nativity and through the \nintercession of your Mother and Saint Joseph, your chosen \none,  to  grant  us  a  living  faith  and  good  works  in \naccordance  with  that  faith.  Do  not  permit  us  to  lose  the \nreward of our faith because of our wrong doings, but may \nwe bear the fruits of true faith and good works. Amen.\n\n\nSeventh oration -- Dec. 21: (classic)\n\n0 You Who are One person but also have the Nature of man\nYou Who have told us what You have heard from the Father; \n\nWe beseech You, through Your Pure Nativity and the intercession of Your Mother and Saint Joseph, Your Chosen One\nto grant us an ardent belief in Your teachings and good acts to harmonize with them.\nDo not permit us to lose the reward of our faith because of our own wrong doings.\nRather, make our lives fruitful in beliefs and good works.\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-22T00:30:00Z",
+    "activeLiveChatId": "Cg0KC0pTNnljai11YTJZKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILSlM2eWNqLXVhMlk"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "0sB-t_930lUAhzU1nrKXfwDeFow",
   "id": "JStSuvcfSvA",
   "snippet": {
@@ -13297,36 +13667,36 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3Q-jgqesmeqCe-uixXWtQUsC-38",
+  "etag": "qZrsPZ9kEkT2SmigN6nab69Z0Z8",
   "id": "Jq4ojoa3fts",
   "snippet": {
-    "publishedAt": "2024-10-25T11:34:14Z",
+    "publishedAt": "2024-11-18T06:11:13Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Announcement to Zechariah",
     "description": "November 17, 2024: The Announcement to Zechariah; First Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah \nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\nChapters:\n00:00:00 Recording starts\n00:03:26 Lighting of the church\n00:12:11 Opening hymn\n00:22:04 Readings\n00:39:42 Homily\n00:51:20 Creed\n00:57:02 Anaphora of Saint John the Apostle\n01:13:05 Communion",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/Jq4ojoa3fts/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -13340,9 +13710,9 @@
     }
   },
   "contentDetails": {
-    "duration": "PT1H30M48S",
+    "duration": "PT1H31M",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -13350,7 +13720,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -13359,7 +13729,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "36",
+    "viewCount": "86",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -13367,21 +13737,40 @@
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
+      "https://en.wikipedia.org/wiki/Religion"
     ]
   },
   "recordingDetails": {},
   "fileDetails": {
-    "fileName": "livestream.str"
+    "fileName": "livestream.str",
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1280,
+        "heightPixels": 720,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "628080"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "129074"
+      }
+    ],
+    "bitrateBps": "757154"
   },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2024-11-17T16:21:46Z",
@@ -16926,7 +17315,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "hWTfpYVyUGUgslD-UMzszbE3oqA",
+  "etag": "ohPzzjGyfhUWsiIAhUSdfAfG8BI",
   "id": "Qab2A1tSwTU",
   "snippet": {
     "publishedAt": "2023-05-22T05:08:08Z",
@@ -16988,7 +17377,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "192",
+    "viewCount": "193",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -19764,6 +20153,98 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "32oNSSb62hnPmgBIfXQ1X3ggZ_I",
+  "id": "UOk6IaKguig",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:31:16Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Visitation of the Virgin to Elizabeth",
+    "description": "December 1, 2024: The Visitation of the Virgin to Elizabeth, Third Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 28 -- Visitation of the Virgin to Elizabeth\nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UOk6IaKguig/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UOk6IaKguig/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UOk6IaKguig/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/UOk6IaKguig/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/UOk6IaKguig/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Sunday of the Visitation of the Virgin to Elizabeth",
+      "description": "December 1, 2024: The Visitation of the Virgin to Elizabeth, Third Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 28 -- Visitation of the Virgin to Elizabeth\nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-01T16:30:00Z",
+    "activeLiveChatId": "Cg0KC1VPazZJYUtndWlnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILVU9rNklhS2d1aWc"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "1VQR94hkucifZgqwMEFf3RBiRP8",
   "id": "USxbj9rT6lo",
   "snippet": {
@@ -19935,6 +20416,99 @@
     "actualStartTime": "2020-12-23T23:59:54Z",
     "actualEndTime": "2020-12-24T02:51:50Z",
     "scheduledStartTime": "2020-12-24T00:00:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "TNEyV7LJB5X1jxHyjC0ZRtlWv84",
+  "id": "UfO3NAk6ku4",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:44:43Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Matthew.\n\nSixth oration -- Dec. 20: (classic)\n\nO Word of God, Who comes\nfrom the Mouth of God to be the\nLife of all men; You Who became\nLiving Bread and was born in\nBethlehem, \"The House of Bread\",\nto satisfy our hunger; We beseech\nYou, through Your Pure Nativity\nand the intercession of Your\nMother and Saint Joseph, Your\nChosen One, to grant us a piercing\nhunger for that Bread which is\nYour Pure Body and Blood.  May\nwe ever approach Your altar and\nreceive Your Sacred Mysteries\nwith fitting preparation so that our\nCommunion may be for us\nsalvation and life everlasting.\nAmen.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Matthew.\n\nSixth oration -- Dec. 20: (classic)\n\nO Word of God, Who comes\nfrom the Mouth of God to be the\nLife of all men; You Who became\nLiving Bread and was born in\nBethlehem, \"The House of Bread\",\nto satisfy our hunger; We beseech\nYou, through Your Pure Nativity\nand the intercession of Your\nMother and Saint Joseph, Your\nChosen One, to grant us a piercing\nhunger for that Bread which is\nYour Pure Body and Blood.  May\nwe ever approach Your altar and\nreceive Your Sacred Mysteries\nwith fitting preparation so that our\nCommunion may be for us\nsalvation and life everlasting.\nAmen."
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-21T00:30:00Z",
+    "activeLiveChatId": "Cg0KC1VmTzNOQWs2a3U0KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILVWZPM05BazZrdTQ"
   }
 }
 {
@@ -20464,6 +21038,99 @@
     "actualStartTime": "2022-07-03T15:23:18Z",
     "actualEndTime": "2022-07-03T16:29:09Z",
     "scheduledStartTime": "2022-07-03T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "s8puoWKMP1QsQ9eLSBioEwLVaqY",
+  "id": "VrEiwEra-sg",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:42:52Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Joyce.\n\nThird prayer – Dec. 17 (modern)\n\nO Admirable Leader, you have guided the people to obey \nyou, not by harshness but by the tenderness of your love. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  Mother  and  Saint  Joseph,  your \nchosen  one,  to  teach  us  perfect  obedience  to  your  holy \ncommandments  and  to  our  superiors,  not  for  fear  of \npunishment,  or  constraint,  or  external  force,  but  by  the \nassent  of  our  minds,  the  surrender  of  our  hearts,  the \nenthusiasm of our spirits, and the joy of our souls. Amen.\n\nThird oration – Dec. 17 (classic)\n\nO Admirable Leader Who gains the obedience of Your people not by the severity of Your judgment\nbut by the sweetness of Your love and Your welcome sojourn among us.\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto teach us complete obedience to Your holy commandments\nand to submit to our superiors not for fear of punishment\nbut by a willing surrender of mind and heart, with gladness of heart and spirit.\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Joyce.\n\nThird prayer – Dec. 17 (modern)\n\nO Admirable Leader, you have guided the people to obey \nyou, not by harshness but by the tenderness of your love. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  Mother  and  Saint  Joseph,  your \nchosen  one,  to  teach  us  perfect  obedience  to  your  holy \ncommandments  and  to  our  superiors,  not  for  fear  of \npunishment,  or  constraint,  or  external  force,  but  by  the \nassent  of  our  minds,  the  surrender  of  our  hearts,  the \nenthusiasm of our spirits, and the joy of our souls. Amen.\n\nThird oration – Dec. 17 (classic)\n\nO Admirable Leader Who gains the obedience of Your people not by the severity of Your judgment\nbut by the sweetness of Your love and Your welcome sojourn among us.\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto teach us complete obedience to Your holy commandments\nand to submit to our superiors not for fear of punishment\nbut by a willing surrender of mind and heart, with gladness of heart and spirit.\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-18T00:30:00Z",
+    "activeLiveChatId": "Cg0KC1ZyRWl3RXJhLXNnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILVnJFaXdFcmEtc2c"
   }
 }
 {
@@ -21347,6 +22014,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "ckVwIbdRPEcd6uOOVyv7sZIudM0",
+  "id": "YrbeNil0jK8",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:37:38Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Christelle.\n\nFourth prayer -- Dec. 19: (modern)\nO Mighty One, seated in the heavenly heights,\nyou left the glory  of  your divinity and loved the lowliness \nof our human nature to become our model of humility and \nlowliness.  We  implore  you,  through  your  pure  nativity \nand  through  the  intercession  of  your  Mother  and  Saint \nJoseph, your chosen one, to give us humility of heart and \nthe  denial  of  ourselves,  that  we  may  remove  all  pride \nwhich  prevents  us  from  knowing  you.  We  would  then \nrealize the weakness of our condition and glorify you, for \nyou  alone  are  holy  and  great  is  your  name.  To  you  be \nglory, power, and strength. Amen.\n\nFourth prayer -- Dec. 19: (classic)\n\nO Most High, by nature supreme and outranking all men and all things,\nWho has left the magnificence of Your Divinity\nand loved the lowliness of our humanity to become for us a\nmodel in humility and lowliness;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us humility of heart and an accurate estimation of ourselves.\nHelp us to conquer every show of false pride, which would have us choose\nour own whims rather than Your Will.\nMay we realize that, compared to You, we are little indeed.\nGlory be to You, for You alone are holy and great is Your Name.\nTo You be Glory, Magnificence and Power!\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Christelle.\n\nFourth prayer -- Dec. 19: (modern)\nO Mighty One, seated in the heavenly heights,\nyou left the glory  of  your divinity and loved the lowliness \nof our human nature to become our model of humility and \nlowliness.  We  implore  you,  through  your  pure  nativity \nand  through  the  intercession  of  your  Mother  and  Saint \nJoseph, your chosen one, to give us humility of heart and \nthe  denial  of  ourselves,  that  we  may  remove  all  pride \nwhich  prevents  us  from  knowing  you.  We  would  then \nrealize the weakness of our condition and glorify you, for \nyou  alone  are  holy  and  great  is  your  name.  To  you  be \nglory, power, and strength. Amen.\n\nFourth prayer -- Dec. 19: (classic)\n\nO Most High, by nature supreme and outranking all men and all things,\nWho has left the magnificence of Your Divinity\nand loved the lowliness of our humanity to become for us a\nmodel in humility and lowliness;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us humility of heart and an accurate estimation of ourselves.\nHelp us to conquer every show of false pride, which would have us choose\nour own whims rather than Your Will.\nMay we realize that, compared to You, we are little indeed.\nGlory be to You, for You alone are holy and great is Your Name.\nTo You be Glory, Magnificence and Power!\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": false,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-20T00:30:00Z",
+    "activeLiveChatId": "Cg0KC1lyYmVOaWwwaks4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILWXJiZU5pbDBqSzg"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "-Iq4n1fx7sM-4vnzFnkHL03J2qA",
   "id": "YyAnByQLV3c",
   "snippet": {
@@ -21787,7 +22547,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "fLwJyxPGqYSf0SnRIhbAuU_GNLE",
+  "etag": "VyHIJA7NJPVRo-F3bSxtmT9pEhU",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -21796,27 +22556,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CIjK6bkG&rs=AOn4CLB2udXJKiwOXCuyX7av3zleoRbw-g",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=COzHg7oG&rs=AOn4CLABWifXseZLej3rmhjt1frmYyGcEA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLCV97TYNiwNwRo9RtJGBFnMEXcshw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLDR20T2HP0e7-zNcRqxAzEb1SpHHA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLDXjXurJqfl3LSd0T8tQSV-TY-5Tg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=COzHg7oG&rs=AOn4CLD3422QuKEqXSrTABNgR9YxhkQSyA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CIjK6bkG&rs=AOn4CLBCMlzeaMcEtjmV2T_j1EeqP_mp5A",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=COzHg7oG&rs=AOn4CLD4Q-lVKLdH93Qi-WEN4SKj0e5yfw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CIjK6bkG&rs=AOn4CLCTXsEsbZYaUo8TzCq-rdJi-8DQFw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=COzHg7oG&rs=AOn4CLD7VoeSP9MdIgEo4NZ-1qQuavVFQg",
         "width": 1280,
         "height": 720
       }
@@ -23200,6 +23960,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "TPDG26r6Of-l1qVPGnlDFLgNZ1M",
+  "id": "apoJmqIJG98",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:52:52Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Glorious Birth of Our Lord -- Christmas morning",
+    "description": "December 25, 2024: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/apoJmqIJG98/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/apoJmqIJG98/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/apoJmqIJG98/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/apoJmqIJG98/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/apoJmqIJG98/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Glorious Birth of Our Lord -- Christmas morning",
+      "description": "December 25, 2024: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-25T16:30:00Z",
+    "activeLiveChatId": "Cg0KC2Fwb0ptcUlKRzk4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILYXBvSm1xSUpHOTg"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "9Eo-M1plmB66Fz_JSibAXtVimWk",
   "id": "asinlr-0Dps",
   "snippet": {
@@ -23815,7 +24668,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "RFw4ngz5JiMvuTPXWcVeTKU3980",
+  "etag": "eV6LdINxXR2NZ6rKy6v6g5Pca5M",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -23877,7 +24730,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "165",
+    "viewCount": "166",
     "likeCount": "7",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -24431,7 +25284,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "C0YLH_bJNJdk0hHYtPTNP8Z68Ws",
+  "etag": "z2T10JyI6rFd5iC4kITX3wJ11EU",
   "id": "eBXX1jTp23s",
   "snippet": {
     "publishedAt": "2024-11-11T06:20:55Z",
@@ -24493,7 +25346,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "95",
+    "viewCount": "97",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -25426,6 +26279,99 @@
     "actualStartTime": "2020-07-12T13:50:54Z",
     "actualEndTime": "2020-07-12T19:46:30Z",
     "scheduledStartTime": "2020-07-12T14:00:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "QCbxioeK_UQJqP--R4qrvOKAiys",
+  "id": "f_eWhzZ_6_Q",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:51:56Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Glorious Birth of Our Lord -- Midnight",
+    "description": "December 25, 2024: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/f_eWhzZ_6_Q/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/f_eWhzZ_6_Q/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/f_eWhzZ_6_Q/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/f_eWhzZ_6_Q/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/f_eWhzZ_6_Q/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Glorious Birth of Our Lord -- Midnight",
+      "description": "December 25, 2024: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-25T05:00:00Z",
+    "activeLiveChatId": "Cg0KC2ZfZVdoelpfNl9RKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILZl9lV2h6Wl82X1E"
   }
 }
 {
@@ -28159,7 +29105,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6RAfQdg9fWrtUMJD8FYPfazVkN4",
+  "etag": "YSgNdALYr1A4QTAAIR2dQesegYY",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -28221,7 +29167,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "670",
+    "viewCount": "678",
     "likeCount": "30",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -31145,6 +32091,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "9rk6z_fhBYuXQQdhm1Yg8I3hniY",
+  "id": "mSJ-M6X4HH8",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:46:38Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Genealogy of Jesus",
+    "description": "December 22, 2024: The Genealogy of Jesus\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 66 -- The Genealogy of Jesus\nPage 748 -- Creed\nPage 756 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mSJ-M6X4HH8/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mSJ-M6X4HH8/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mSJ-M6X4HH8/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/mSJ-M6X4HH8/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/mSJ-M6X4HH8/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Genealogy of Jesus",
+      "description": "December 22, 2024: The Genealogy of Jesus\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 66 -- The Genealogy of Jesus\nPage 748 -- Creed\nPage 756 -- Anaphora of the Twelve Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Knowledge",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-23T00:30:00Z",
+    "activeLiveChatId": "Cg0KC21TSi1NNlg0SEg4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILbVNKLU02WDRISDg"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "8lKKxAv9hxte2-2L23OegwKnPKU",
   "id": "mVqVFHWUS2I",
   "snippet": {
@@ -32021,6 +33060,99 @@
     "actualStartTime": "2022-04-14T23:21:38Z",
     "actualEndTime": "2022-04-15T03:01:33Z",
     "scheduledStartTime": "2022-04-14T23:30:58Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "Di8pKwlz6kTKHAw7ozFuO6qEFyY",
+  "id": "oFLTvEna0Yw",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:36:44Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Samantha.\n\nSecond oration -- Dec 16:\n\nO Hope of the Patriarchs and longing of the Gentiles,\nin Your Nativity You have granted us hope.\nThe joy of this hope has called together the Shepherds, \nthe Magi and all believers in Your Holy Name,\nand led them to adore You with all the acclaim of their hearts. \n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Virgin Mother and Saint Joseph, Your Chosen One,\nto keep us, by Your grace, from attachment to earthly goods.\nTeach us not to depend only on ourselves and the weak ones of this world,\nbut to rely only on Your Fatherly direction and Your Divine Providence. \nAttract our hearts and minds to reflect on Your heavenly riches \nand to aspire and long for them above.\n\nAmen",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "The Christmas Novena",
+      "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Samantha.\n\nSecond oration -- Dec 16:\n\nO Hope of the Patriarchs and longing of the Gentiles,\nin Your Nativity You have granted us hope.\nThe joy of this hope has called together the Shepherds, \nthe Magi and all believers in Your Holy Name,\nand led them to adore You with all the acclaim of their hearts. \n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Virgin Mother and Saint Joseph, Your Chosen One,\nto keep us, by Your grace, from attachment to earthly goods.\nTeach us not to depend only on ourselves and the weak ones of this world,\nbut to rely only on Your Fatherly direction and Your Divine Providence. \nAttract our hearts and minds to reflect on Your heavenly riches \nand to aspire and long for them above.\n\nAmen"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-17T00:30:00Z",
+    "activeLiveChatId": "Cg0KC29GTFR2RW5hMFl3KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILb0ZMVHZFbmEwWXc"
   }
 }
 {
@@ -35902,6 +37034,98 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "HzH8CDikl1UOrOcD185z5FDAcIQ",
+  "id": "vJk0qG8AlxM",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:35:47Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Revelation to Joseph",
+    "description": "December 15, 2024: The Revelation to Joseph\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 57 -- The Revelation to Joseph\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/vJk0qG8AlxM/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/vJk0qG8AlxM/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/vJk0qG8AlxM/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/vJk0qG8AlxM/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/vJk0qG8AlxM/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Sunday of the Revelation to Joseph",
+      "description": "December 15, 2024: The Revelation to Joseph\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 57 -- The Revelation to Joseph\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-15T16:30:00Z",
+    "activeLiveChatId": "Cg0KC3ZKazBxRzhBbHhNKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILdkprMHFHOEFseE0"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "KzknrpESeJ-lDF1KUBPFEA11qNc",
   "id": "vurt-uk2OpM",
   "snippet": {
@@ -36428,6 +37652,98 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "DJ139eTrOH17m793uTf6rGLcR00",
+  "id": "wQF6Azl2yGg",
+  "snippet": {
+    "publishedAt": "2024-11-22T18:34:45Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Birth of John the Baptist",
+    "description": "December 8, 2024: The Birth of John the Baptist\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 58 -- The Birth of John the Baptist\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/wQF6Azl2yGg/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/wQF6Azl2yGg/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/wQF6Azl2yGg/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/wQF6Azl2yGg/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/wQF6Azl2yGg/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Sunday of the Birth of John the Baptist",
+      "description": "December 8, 2024: The Birth of John the Baptist\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 58 -- The Birth of John the Baptist\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2024-12-08T16:30:00Z",
+    "activeLiveChatId": "Cg0KC3dRRjZBemwyeUdnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILd1FGNkF6bDJ5R2c"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "kLcPasuYDyAtvkFUg5iOn2UB0qY",
   "id": "wopJSpRsUv0",
   "snippet": {
@@ -36691,7 +38007,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "7RVaLSAuPcUgbei-3yLgblhMQ74",
+  "etag": "wutRSCxv389zyP5ZhuRLKemjHw0",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -36753,7 +38069,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1145",
+    "viewCount": "1153",
     "likeCount": "21",
     "dislikeCount": "1",
     "favoriteCount": "0",
