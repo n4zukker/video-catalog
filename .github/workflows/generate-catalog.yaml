@@ -80,7 +80,7 @@ jobs:
           TZ: 'America/New_York'
         run: |
           mkdir -p build
-          jq --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" --raw-output > "${VIDEO_MD}"
+          jq -L src --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" --raw-output > "${VIDEO_MD}"
           wc 'build/video-list.md'
 
       -
