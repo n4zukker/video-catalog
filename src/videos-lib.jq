@@ -88,14 +88,16 @@ def linkTimestamps ($id):
   (
       capture (
         "^
-          (
-            (?<hh>\\d\\d):
-          )?
-          (
-            (?<mm>\\d\\d):
-          )
-          (
-            (?<ss>\\d\\d)
+          (?<ts>
+            (
+              (?<hh>\\d\\d):
+            )?
+            (
+              (?<mm>\\d\\d):
+            )
+            (
+              (?<ss>\\d\\d)
+            )
           )
           (?<rest>.*)
         ";
