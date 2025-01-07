@@ -85,46 +85,41 @@ def seeAlso ($byAtomicTitle):
 ;
 
 def linkTimestamps ($id):
-  capture (
-    "^(?<ts>
-        (
-          (?<hh>\\d\\d):
-        )?
-        (
-          (?<mm>\\d\\d):
-        )
-        (
-          (?<ss>\\d\\d)
-        )
-      )?
-      (?<rest>.*)
-    ";
-    "x"
-  )
-  | if .ts then
-@json
-#      [
-#        ( .hh | select (.) | tonumber | select (. > 0) | "\( . )h" ),
-#        ( .mm | select (.) | tonumber | select (. > 0) | "\( . )m" ),
-#        ( .ss | select (.) | tonumber | select (. > 0) | "\( . )s" )
-#      ] as $hms
-#      | (
-#.
-#        [
-#          "[\( .ts )]",
-#          "(",
-#          "https://youtube.com/watch?v=\($id)",
-#          if ( $hms | length > 0 ) then
-#            "&t=\( $hms | join("") )"
-#          else
-#            ""
-#          end,
-#          ")"
-#        ] | join("")
-#      )
-    else
-      ""
-    end + .rest
+  (
+      capture (
+        "^
+          (
+            (?<hh>\\d\\d):
+          )?
+          (
+            (?<mm>\\d\\d):
+          )
+          (
+            (?<ss>\\d\\d)
+          )
+          (?<rest>.*)
+        ";
+        "x"
+      )
+    | [
+        ( .hh | select (.) | tonumber | select (. > 0) | "\( . )h" ),
+        ( .mm | select (.) | tonumber | select (. > 0) | "\( . )m" ),
+        ( .ss | select (.) | tonumber | select (. > 0) | "\( . )s" )
+      ] as $hms
+      | (
+        [
+          "[\( .ts )]",
+          "(",
+          "https://youtube.com/watch?v=\($id)",
+          if ( $hms | length > 0 ) then
+            "&t=\( $hms | join("") )"
+          else
+            ""
+          end,
+          ")"
+        ] | join("")
+      ) + .rest
+  ) // .
 ;
 
 def body ($byAtomicTitle):
