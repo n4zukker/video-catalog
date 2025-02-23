@@ -2916,7 +2916,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "NXrBmWUJA67Ei6Dk6aI2r48XRLM",
+  "etag": "CsyQ05L1Mb8oL4pBRjzKClt9DcE",
   "id": "3hMyht6YHTQ",
   "snippet": {
     "publishedAt": "2024-11-04T06:07:41Z",
@@ -2970,7 +2970,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -2983,11 +2983,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -3179,7 +3174,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "lG3EQjzme3GdHjNFTGQbE6XocGg",
+  "etag": "nbkbI41Uy1F8fYkhEQep9blDbBw",
   "id": "4Ekhpb9qDww",
   "snippet": {
     "publishedAt": "2024-12-19T13:25:02Z",
@@ -3233,7 +3228,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": false,
     "publicStatsViewable": true,
@@ -3246,11 +3241,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -3266,6 +3256,96 @@
     "actualStartTime": "2024-12-19T00:23:27Z",
     "actualEndTime": "2024-12-19T01:17:14Z",
     "scheduledStartTime": "2024-12-19T00:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "MWxvqsmJepU5a6Rnk_AhhgucCRU",
+  "id": "4P6zZKWE11Y",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:15:22Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Fourth Sunday of Great Lent (The Parable of the Prodigal Son)",
+    "description": "March 23, 2025: Fourth Sunday of Great Lent (The Parable of the Prodigal Son).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250325-bulletin.pdf.\n\nPage 217 -- Fourth Sunday of Great Lent\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4P6zZKWE11Y/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4P6zZKWE11Y/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4P6zZKWE11Y/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4P6zZKWE11Y/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4P6zZKWE11Y/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Fourth Sunday of Great Lent (The Parable of the Prodigal Son)",
+      "description": "March 23, 2025: Fourth Sunday of Great Lent (The Parable of the Prodigal Son).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250325-bulletin.pdf.\n\nPage 217 -- Fourth Sunday of Great Lent\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": false,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-23T15:30:00Z",
+    "activeLiveChatId": "Cg0KCzRQNnpaS1dFMTFZKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILNFA2elpLV0UxMVk"
   }
 }
 {
@@ -4217,7 +4297,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BzCXBBU8bVKQWxc5c1BZadAnFAw",
+  "etag": "bvEOYfAA4CX0yE8xzxv4tJbR62s",
   "id": "6CUldlyJL7s",
   "snippet": {
     "publishedAt": "2024-11-25T06:27:20Z",
@@ -4271,7 +4351,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -4284,11 +4364,6 @@
     "dislikeCount": "1",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -5612,7 +5687,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Fz017tJnccPH4CyeEnF79ehJszw",
+  "etag": "8GENyNmLak4rQV0SBtjD_Y5h5t4",
   "id": "7_1oY_180AI",
   "snippet": {
     "publishedAt": "2025-01-07T13:49:19Z",
@@ -5674,7 +5749,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "91",
+    "viewCount": "92",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -5699,6 +5774,187 @@
     "actualStartTime": "2025-01-07T00:28:43Z",
     "actualEndTime": "2025-01-07T02:25:09Z",
     "scheduledStartTime": "2025-01-07T00:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "hKvTneZtxLwv89jLJdnHm9tC8H4",
+  "id": "7aGXWoR2W30",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:16:24Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Stations of the Cross",
+    "description": "March 28, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7aGXWoR2W30/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7aGXWoR2W30/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7aGXWoR2W30/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7aGXWoR2W30/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7aGXWoR2W30/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Stations of the Cross",
+      "description": "March 28, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-28T23:30:00Z",
+    "activeLiveChatId": "Cg0KCzdhR1hXb1IyVzMwKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILN2FHWFdvUjJXMzA"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "qxqWc-uE4sT8OvLFlVOXx6uqR8A",
+  "id": "7d3AmLISmt8",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:10:45Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Stations of the Cross",
+    "description": "March 14, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7d3AmLISmt8/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7d3AmLISmt8/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7d3AmLISmt8/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7d3AmLISmt8/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7d3AmLISmt8/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Stations of the Cross",
+      "description": "March 14, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-14T23:30:00Z",
+    "activeLiveChatId": "Cg0KCzdkM0FtTElTbXQ4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILN2QzQW1MSVNtdDg"
   }
 }
 {
@@ -5961,7 +6217,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "keyxh6e3m8oALUi6T5nHq7A-2kE",
+  "etag": "EMvnOqq3jOyNWX3izcgLq42c-EY",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -5970,27 +6226,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPSXyb0G&rs=AOn4CLANc6FCvAH9v9KtTY032FuVakaZLA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CIiw7r0G&rs=AOn4CLC6-cQ-Z95MRDk3NvWNynRI-6O4XQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLCwRZ4HpDQfkwEdNVYArOkEA6K0Ug",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLD3XItfmpTnOOs3a0jQIU8tfSRnDg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLAv6HX6V-X_FJ3x0sqM2VrhFehMkA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLDaxiqv1nP1qcICbHW6PWLzs7vt7Q",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPSXyb0G&rs=AOn4CLD6mcZyL9QQ0lp1FdlU3q61syKCtQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CIiw7r0G&rs=AOn4CLD7t1krlQoNhdvyx9Eq-m6GcY5a3g",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLD0qWreJuxlWhT_KulR8JnIhJtUgw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLAJB5BJZFoHlM7RMTqxOPA7-AxtZA",
         "width": 1280,
         "height": 720
       }
@@ -6377,6 +6633,96 @@
     "actualStartTime": "2020-08-16T13:52:31Z",
     "actualEndTime": "2020-08-16T17:06:19Z",
     "scheduledStartTime": "2020-08-16T14:00:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "EiYC2d0WC5jcpqGQ1KICsLJi2po",
+  "id": "8qxQgoQaRIs",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:12:24Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman)",
+    "description": "March 16, 2025: Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250316-bulletin.pdf.\n\nPage 207 -- Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman)\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/8qxQgoQaRIs/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/8qxQgoQaRIs/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/8qxQgoQaRIs/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/8qxQgoQaRIs/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/8qxQgoQaRIs/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman)",
+      "description": "March 16, 2025: Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250316-bulletin.pdf.\n\nPage 207 -- Third Sunday of Great Lent (The Healing of the Hemorrhaging Woman)\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": false,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-16T15:30:00Z",
+    "activeLiveChatId": "Cg0KCzhxeFFnb1FhUklzKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILOHF4UWdvUWFSSXM"
   }
 }
 {
@@ -7671,7 +8017,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "aH2j8k6Rcp1yzubaEow1hgzMvUI",
+  "etag": "ZpvZLhLtBKzUF8REgD4PSubGTfg",
   "id": "B7vdivHVLXM",
   "snippet": {
     "publishedAt": "2024-12-24T13:23:57Z",
@@ -7725,7 +8071,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -7738,11 +8084,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -9585,13 +9926,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "NHCfL5WDEtFHWU4ApoVvk1OO9cA",
+  "etag": "Yqa7br_CaKSqNruC-rAmWnq09fE",
   "id": "EdhZZggZlOk",
   "snippet": {
     "publishedAt": "2025-01-25T16:54:35Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Commemoration of the Faithful Departed",
-    "description": "February 23, 2025: The Sunday of the Commemoration of the Faithful Departed.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 166 -- Commemoration of the Faithful Departed\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "description": "February 23, 2025: The Sunday of the Commemoration of the Faithful Departed.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 166 -- Commemoration of the Faithful Departed\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nThis week's bulletin can be found at http://ololc.org/doc/250223-bulletin.pdf.\n\nFr. Chuck was the main celebrant and homilist.\n\nChapters:\n00:00:00 Recording starts\n00:03:07 Lighting of the church\n00:12:32 Opening hymn\n00:24:58 Readings\n00:37:19 Homily\n00:46:22 Creed\n00:52:30 Anaphora of Saint Sixtus, Pope of Rome\n01:06:31 Communion\n01:14:25 Announcements",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/EdhZZggZlOk/default_live.jpg",
@@ -9621,14 +9962,14 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Sunday of the Commemoration of the Faithful Departed",
-      "description": "February 23, 2025: The Sunday of the Commemoration of the Faithful Departed.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 166 -- Commemoration of the Faithful Departed\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
+      "description": "February 23, 2025: The Sunday of the Commemoration of the Faithful Departed.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 166 -- Commemoration of the Faithful Departed\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nThis week's bulletin can be found at http://ololc.org/doc/250223-bulletin.pdf.\n\nFr. Chuck was the main celebrant and homilist.\n\nChapters:\n00:00:00 Recording starts\n00:03:07 Lighting of the church\n00:12:32 Opening hymn\n00:24:58 Readings\n00:37:19 Homily\n00:46:22 Creed\n00:52:30 Anaphora of Saint Sixtus, Pope of Rome\n01:06:31 Communion\n01:14:25 Announcements"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H27M59S",
     "dimension": "2d",
     "definition": "sd",
     "caption": "false",
@@ -9647,8 +9988,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "67",
+    "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -9669,8 +10010,9 @@
     "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-02-23T16:30:00Z",
-    "activeLiveChatId": "Cg0KC0VkaFpaZ2dabE9rKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILRWRoWlpnZ1psT2s"
+    "actualStartTime": "2025-02-23T16:22:11Z",
+    "actualEndTime": "2025-02-23T17:50:11Z",
+    "scheduledStartTime": "2025-02-23T16:30:00Z"
   }
 }
 {
@@ -11039,7 +11381,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Ou4LpEkfrXmBuLDiJtC0k7cJLmM",
+  "etag": "KAGn5m98j8IK2RzVOqgX4F-5I_Y",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -11048,27 +11390,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPSXyb0G&rs=AOn4CLBmi0F1VlLN2ndnmiANfv4w2kNiVA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CIiw7r0G&rs=AOn4CLBYtKOQbWGb41FyrL2vDu4KAI_x_g",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLBYsxzEOOs2AODIBnyYJuTFCAZpcA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLABXcQ2-vehInVkZQW8tQbsm7x8jQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLBKzyZRioF7u60fF-mjMxFpNUAtgg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLBgd5hXYm4TvrSoyYDQiLKuRwVRAA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPSXyb0G&rs=AOn4CLCwhBD3vtutm-ydliiBtrWAWnXCOA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CIiw7r0G&rs=AOn4CLC8ukTJbLqbPpcsJuI4z6UHulLxAg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLDbGdDnbVGfkOOtPbu4t7qSq7_26A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLAmsklC7Ubjr41gwRAMEpJHMKgnGg",
         "width": 1280,
         "height": 720
       }
@@ -11296,7 +11638,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4ZXZHYu74bI_AILg0R_8DE7dO4A",
+  "etag": "Ri21oKlJkzjzLefV8STILGxBiVg",
   "id": "GmPdYUZbw_g",
   "snippet": {
     "publishedAt": "2020-10-30T21:19:38Z",
@@ -11365,14 +11707,35 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1280,
+        "heightPixels": 720,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "978929"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128179"
+      }
+    ],
+    "bitrateBps": "1107108"
+  },
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2020-10-30T18:06:46Z",
@@ -12068,7 +12431,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HbMBOKb9TKur6p08iPp7j_b4dqE",
+  "etag": "f0FfT_Thao1x7pnZDlOu-2dvBsU",
   "id": "HqLe3btLwy0",
   "snippet": {
     "publishedAt": "2021-10-19T15:04:09Z",
@@ -13191,7 +13554,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3RQRTgOuX1GCcjt5aXR5UQMCNr0",
+  "etag": "XljNpwc4q7gO9ghuThB1KdoUGeQ",
   "id": "JS6ycj-ua2Y",
   "snippet": {
     "publishedAt": "2024-12-22T13:35:03Z",
@@ -13245,7 +13608,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -13258,11 +13621,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -13545,7 +13903,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qCs6uvDdSYWSZ6E2mVhEZkLIfR0",
+  "etag": "sDz3QVgfYc3e0OBo6_-lyoOCZ14",
   "id": "Jq4ojoa3fts",
   "snippet": {
     "publishedAt": "2024-11-18T06:11:13Z",
@@ -13599,7 +13957,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -13612,11 +13970,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -14146,6 +14499,96 @@
     "actualStartTime": "2022-03-05T00:38:53Z",
     "actualEndTime": "2022-03-05T03:39:01Z",
     "scheduledStartTime": "2022-03-05T00:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "uELl7eSi9INHEb2NuzJ2NXq149M",
+  "id": "L1txGVtMuoE",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:20:36Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Fifth Sunday of Great Lent (The Healing of the Paralytic)",
+    "description": "March 30, 2025: Fifth Sunday of Great Lent (The Healing of the Parlytic).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week's bulletin can be found at http://ololc.org/doc/250330-bulletin.pdf\n\nPage 237 – Fifth Sunday of Great Lent (The Healing of the Paralytic)\nPage 748 – Creed\nPage 835 – Anaphora of Saint Mark the Evangelist",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/L1txGVtMuoE/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/L1txGVtMuoE/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/L1txGVtMuoE/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/L1txGVtMuoE/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/L1txGVtMuoE/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Fifth Sunday of Great Lent (The Healing of the Paralytic)",
+      "description": "March 30, 2025: Fifth Sunday of Great Lent (The Healing of the Parlytic).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week's bulletin can be found at http://ololc.org/doc/250330-bulletin.pdf\n\nPage 237 – Fifth Sunday of Great Lent (The Healing of the Paralytic)\nPage 748 – Creed\nPage 835 – Anaphora of Saint Mark the Evangelist"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-30T15:30:00Z",
+    "activeLiveChatId": "Cg0KC0wxdHhHVnRNdW9FKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILTDF0eEdWdE11b0U"
   }
 }
 {
@@ -15877,7 +16320,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "yncZoQryq5JlLoB6bEHmjeKVpQo",
+  "etag": "iM5rI6_24xtMoMTOAtrLv6dStH8",
   "id": "Ob934E6WLQ0",
   "snippet": {
     "publishedAt": "2023-07-24T05:02:48Z",
@@ -15939,7 +16382,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "253",
+    "viewCount": "254",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -16905,6 +17348,97 @@
     "actualStartTime": "2020-09-13T15:17:06Z",
     "actualEndTime": "2020-09-13T20:26:49Z",
     "scheduledStartTime": "2020-09-13T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "yIzYLJAn7SrcnJr0F25Jqxp3-q4",
+  "id": "QQI7Zilg7ic",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:07:24Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Stations of the Cross",
+    "description": "March 7, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QQI7Zilg7ic/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QQI7Zilg7ic/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QQI7Zilg7ic/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/QQI7Zilg7ic/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/QQI7Zilg7ic/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Stations of the Cross",
+      "description": "March 7, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-08T00:30:00Z",
+    "activeLiveChatId": "Cg0KC1FRSTdaaWxnN2ljKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILUVFJN1ppbGc3aWM"
   }
 }
 {
@@ -19854,7 +20388,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qAfr0YFVYDx-BWz1OWXeOChLtpw",
+  "etag": "WLZ_gVyAnkVgnYbl5dYIpuhwa0Y",
   "id": "Tk2HUDnZZJg",
   "snippet": {
     "publishedAt": "2020-12-22T02:44:15Z",
@@ -19923,35 +20457,14 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1280,
-        "heightPixels": 720,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "768487"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128024"
-      }
-    ],
-    "bitrateBps": "896511"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2020-12-22T00:00:04Z",
@@ -19961,7 +20474,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "JCKlLhU04mPYamdJShN7JZwIiug",
+  "etag": "M9I6zLgDcmAM34C_pyepWqynmb0",
   "id": "UOk6IaKguig",
   "snippet": {
     "publishedAt": "2024-12-02T06:04:51Z",
@@ -20015,7 +20528,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -20028,11 +20541,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -20137,7 +20645,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DNagj_F7fknSjV92tiiORADk9Sg",
+  "etag": "9GSMpSszEaKsb_lzlTH-AWiJA24",
   "id": "Ueag2b5j4Qk",
   "snippet": {
     "publishedAt": "2020-12-24T03:02:24Z",
@@ -20206,35 +20714,14 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1280,
-        "heightPixels": 720,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "771878"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128024"
-      }
-    ],
-    "bitrateBps": "899902"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2020-12-23T23:59:54Z",
@@ -20244,7 +20731,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "VWJN5dWn-cqP67afDSQK66SadgY",
+  "etag": "Ld-MB9vcfACCBnnTB1mO5tBjvfg",
   "id": "UfO3NAk6ku4",
   "snippet": {
     "publishedAt": "2024-12-21T13:31:31Z",
@@ -20298,7 +20785,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -20311,11 +20798,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -20335,7 +20817,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "d0384dGF99JEtemQDZBuPq30pFw",
+  "etag": "NM2UK223EViQJde7rywo0lV0WrY",
   "id": "V0g4NqH_nk4",
   "snippet": {
     "publishedAt": "2023-11-18T13:30:00Z",
@@ -20397,7 +20879,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "359",
+    "viewCount": "360",
     "likeCount": "9",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -20852,7 +21334,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bc-_b99qPU2ju8oMsCKRPyeSUCA",
+  "etag": "xCFNWdvHwfszYW8e0TEtVAPRCDM",
   "id": "VrEiwEra-sg",
   "snippet": {
     "publishedAt": "2024-12-18T13:18:20Z",
@@ -20906,7 +21388,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -20919,12 +21401,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -21198,6 +21674,97 @@
     "actualStartTime": "2021-04-04T15:23:41Z",
     "actualEndTime": "2021-04-04T20:57:45Z",
     "scheduledStartTime": "2021-04-04T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "MVmryh6Yz7DxKvClmuWHZjbW9No",
+  "id": "X9PMCDBEddw",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:13:26Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Stations of the Cross",
+    "description": "March 21, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/X9PMCDBEddw/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/X9PMCDBEddw/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/X9PMCDBEddw/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/X9PMCDBEddw/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/X9PMCDBEddw/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Stations of the Cross",
+      "description": "March 21, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-21T23:30:00Z",
+    "activeLiveChatId": "Cg0KC1g5UE1DREJFZGR3KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILWDlQTUNEQkVkZHc"
   }
 }
 {
@@ -21803,7 +22370,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qVNLaf1Fozx64Ap8Uw_dvN3EMzw",
+  "etag": "is7J_4ekgZVMWCeVDfvx9Nxm3hs",
   "id": "YrbeNil0jK8",
   "snippet": {
     "publishedAt": "2024-12-20T13:01:58Z",
@@ -21857,7 +22424,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": false,
     "publicStatsViewable": true,
@@ -21870,11 +22437,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -22324,7 +22886,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "56hS-eQkIDUG64lppMZjBGwT23E",
+  "etag": "REPGp7z9VHbM1JPrcMOMsjQxOIE",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -22333,27 +22895,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPSXyb0G&rs=AOn4CLBc-u_gqfl_9JKEUy3csr_sf2oUDQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CIiw7r0G&rs=AOn4CLBFJzw75j5QO0w8r3JIiBbaieS3Qw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLBGCtrlo_IzER7aXB4dej4NQiJEGg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLA7QncrwQD1hGXhKN9cqlzYR52OoQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLBVlL81vxoibEibGlsWCAN9RX-btQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLAPnUfEtcc_l80WMY-L_3ysFVfjUg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPSXyb0G&rs=AOn4CLDNOBluT8FysWwKjrDSdK52Y_BMRA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CIiw7r0G&rs=AOn4CLDgalsTwlGEBbJfMIxPGw29MgVScg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPSXyb0G&rs=AOn4CLDs-4mkOGggOhpZ--lxWiqzGu3CtQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CIiw7r0G&rs=AOn4CLBzYdwOLeSVIMYSWvcHC3AHxEoWWA",
         "width": 1280,
         "height": 720
       }
@@ -23796,7 +24358,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "yWLQC6Cv6zIiHBmkFwl2w5C-DDo",
+  "etag": "cV4C-uUpAX1cJqirOr0qWqFwuIE",
   "id": "aqsg2T83MTQ",
   "snippet": {
     "publishedAt": "2025-02-10T05:56:03Z",
@@ -23858,8 +24420,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "112",
-    "likeCount": "4",
+    "viewCount": "117",
+    "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -23870,35 +24432,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1291680"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128516"
-      }
-    ],
-    "bitrateBps": "1420196"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-02-09T16:24:12Z",
@@ -25111,7 +25652,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Alk85W8IB04P4cWpvWeotpfL0x0",
+  "etag": "vqrCm7yNoIUG4RGm__KYoWcQIJo",
   "id": "eBXX1jTp23s",
   "snippet": {
     "publishedAt": "2024-11-11T06:20:55Z",
@@ -25165,7 +25706,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -25178,11 +25719,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -26068,7 +26604,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "aPnht6Lox9ggNDpaOI8UVSdx7aw",
+  "etag": "HREc2NSx1lsQ8WARHXGusFImCD0",
   "id": "fOORuKj7AXE",
   "snippet": {
     "publishedAt": "2025-02-03T06:07:41Z",
@@ -26130,8 +26666,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "121",
-    "likeCount": "1",
+    "viewCount": "123",
+    "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -27712,7 +28248,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HGNOELyH06fJotxZ0416L9UdepY",
+  "etag": "Fvv_k6nVGXSwOS-f78ynDhtmp1A",
   "id": "hTi_jajnrZ4",
   "snippet": {
     "publishedAt": "2025-01-06T07:13:16Z",
@@ -27774,7 +28310,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "133",
+    "viewCount": "135",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -28141,6 +28677,96 @@
   "liveStreamingDetails": {
     "actualStartTime": "2020-04-19T14:29:47Z",
     "actualEndTime": "2020-04-19T15:02:45Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "j8UR0fYDQjcb2cd3b5h9-Hc-8kU",
+  "id": "hw-GFMAE0kY",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:09:12Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Second Sunday of Great Lent (The Healing of the Leper)",
+    "description": "March 9, 2025: Second Sunday of Great Lent (The Healing of the Leper).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250309-bulletin.pdf.\n\nPage 196 -- Second Sunday of Great Lent\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hw-GFMAE0kY/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hw-GFMAE0kY/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hw-GFMAE0kY/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/hw-GFMAE0kY/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/hw-GFMAE0kY/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Second Sunday of Great Lent (The Healing of the Leper)",
+      "description": "March 9, 2025: Second Sunday of Great Lent (The Healing of the Leper).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250309-bulletin.pdf.\n\nPage 196 -- Second Sunday of Great Lent\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-09T15:30:00Z",
+    "activeLiveChatId": "Cg0KC2h3LUdGTUFFMGtZKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILaHctR0ZNQUUwa1k"
   }
 }
 {
@@ -29008,7 +29634,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "c0pjzYTFYfBKhwB4A5Iek5r8ci8",
+  "etag": "XwgL49AVEdZ1gpRAGvZmtNUNfw0",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -29070,7 +29696,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "777",
+    "viewCount": "784",
     "likeCount": "34",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -30303,6 +30929,97 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "k4nh7KlQEAPqf9AgJrniN77MEqw",
+  "id": "kWiRW0Tst0s",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:21:46Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Stations of the Cross",
+    "description": "April 4, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/kWiRW0Tst0s/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/kWiRW0Tst0s/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/kWiRW0Tst0s/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/kWiRW0Tst0s/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/kWiRW0Tst0s/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Stations of the Cross",
+      "description": "April 4, 2025: The Rite of Blessing with the Holy Cross in memory of the Death of Our Savior\n\n\nText for this rite can be found at http://ololc.org/doc/stations.pdf\n\n\n\n* The Way of the Cross according to the Rite of the Maronite Church\n* The Benediction of the Holy Cross"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-04-04T23:30:00Z",
+    "activeLiveChatId": "Cg0KC2tXaVJXMFRzdDBzKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILa1dpUlcwVHN0MHM"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "iY0PgSFD7JdNhhUJ6_ZBd7hY9Bg",
   "id": "kZ2c5m-lhG0",
   "snippet": {
@@ -31405,7 +32122,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "88rOV3uaHOuNMz6VfQp_U5HrRBE",
+  "etag": "d1BBPydaK3PfVS4AogQwpmcnDP0",
   "id": "mC_mPnBgszw",
   "snippet": {
     "publishedAt": "2020-12-23T02:33:12Z",
@@ -31474,35 +32191,14 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1280,
-        "heightPixels": 720,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "730172"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128024"
-      }
-    ],
-    "bitrateBps": "858196"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2020-12-22T23:57:37Z",
@@ -31942,7 +32638,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zmW9IQ2f0Tr2-a1PaMroPxXTkoY",
+  "etag": "02C9Wui4XB0_OzrPzkLMFcxVhq0",
   "id": "mSJ-M6X4HH8",
   "snippet": {
     "publishedAt": "2024-12-23T06:09:45Z",
@@ -31996,7 +32692,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -32009,11 +32705,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -32373,6 +33064,96 @@
     "actualStartTime": "2021-12-16T00:28:48Z",
     "actualEndTime": "2021-12-16T03:38:50Z",
     "scheduledStartTime": "2021-12-16T00:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "Oml09p0jCz1iUxs2NpmeylPlTrQ",
+  "id": "mmKSYsQXb8Y",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:05:13Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Ash Monday",
+    "description": "March 3, 2025:  Divine Liturgy of the Blessing and Imposition of Ashes.\nToday's Divine Liturgy can be found at http://ololc.org/doc/monday.pdf.\n\nPage  186 -- The First Weekday Cycle of Lent\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/mmKSYsQXb8Y/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/mmKSYsQXb8Y/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/mmKSYsQXb8Y/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/mmKSYsQXb8Y/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/mmKSYsQXb8Y/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Ash Monday",
+      "description": "March 3, 2025:  Divine Liturgy of the Blessing and Imposition of Ashes.\nToday's Divine Liturgy can be found at http://ololc.org/doc/monday.pdf.\n\nPage  186 -- The First Weekday Cycle of Lent\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-04T00:30:00Z",
+    "activeLiveChatId": "Cg0KC21tS1NZc1FYYjhZKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILbW1LU1lzUVhiOFk"
   }
 }
 {
@@ -32893,7 +33674,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "s8zo0BdXdTDcmVXY5MscrINbflE",
+  "etag": "sQFEFRsECVTjXZXvjLOEy1e9qs8",
   "id": "oFLTvEna0Yw",
   "snippet": {
     "publishedAt": "2024-12-17T13:36:16Z",
@@ -32947,7 +33728,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -32960,11 +33741,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -33844,6 +34620,96 @@
     "actualStartTime": "2020-05-11T22:50:22Z",
     "actualEndTime": "2020-05-12T00:25:51Z",
     "scheduledStartTime": "2020-05-11T23:00:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "IUCstozu9UzcWGiNjlrnoT20C_4",
+  "id": "q8ZO5G9LBLI",
+  "snippet": {
+    "publishedAt": "2025-02-20T14:04:00Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Entrance into Lent (the Miracle at Cana in Galilee)",
+    "description": "March 2, 2025: Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250302-bulletin.pdf.\n\nPage 176 – Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)\nPage 748 – Creed\nPage 784 – Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/q8ZO5G9LBLI/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/q8ZO5G9LBLI/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/q8ZO5G9LBLI/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/q8ZO5G9LBLI/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/q8ZO5G9LBLI/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "localized": {
+      "title": "Sunday of the Entrance into Lent (the Miracle at Cana in Galilee)",
+      "description": "March 2, 2025: Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250302-bulletin.pdf.\n\nPage 176 – Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)\nPage 748 – Creed\nPage 784 – Anaphora of the Twelve Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-03-02T16:30:00Z",
+    "activeLiveChatId": "Cg0KC3E4Wk81RzlMQkxJKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILcThaTzVHOUxCTEk"
   }
 }
 {
@@ -35063,7 +35929,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "R2a1dpw8_jIOOebX3A_ZJt5UBxk",
+  "etag": "_jUz8o1XokFazByn26x93t8s10I",
   "id": "rueHkVl6Jpo",
   "snippet": {
     "publishedAt": "2025-01-02T05:51:05Z",
@@ -35125,7 +35991,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "86",
+    "viewCount": "87",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -35154,7 +36020,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "K8q8jiA2sOF5RJWGqu1-RT1xTBc",
+  "etag": "kCnvlfwjCi4ZZLaKIh0zONLLXRE",
   "id": "rxDpQEtjlK4",
   "snippet": {
     "publishedAt": "2025-01-20T06:02:06Z",
@@ -35216,7 +36082,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "106",
+    "viewCount": "107",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -35245,7 +36111,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Niv5Zx41TazfNGOxOnwOhaOgcRk",
+  "etag": "0ncLN7Qb5bjfoppKazxiiexVrCE",
   "id": "rzXurn60zYE",
   "snippet": {
     "publishedAt": "2021-02-27T03:43:48Z",
@@ -35314,14 +36180,35 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1280,
+        "heightPixels": 720,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "500949"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128024"
+      }
+    ],
+    "bitrateBps": "628973"
+  },
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2021-02-27T00:26:46Z",
@@ -35846,7 +36733,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "uBk9Bg3Zd6MyzFY8mkz0BaXvzCk",
+  "etag": "7J_ysux5iDapHRxAHoGg5CGVIhs",
   "id": "t3JmKObk0UY",
   "snippet": {
     "publishedAt": "2025-01-29T17:36:14Z",
@@ -35908,7 +36795,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "23",
+    "viewCount": "26",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -35932,7 +36819,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Qxfdh2dm7AnNEuvI3PwHcGgAm5w",
+  "etag": "hdGwF5Q5KO6QUCkEAM2F-1gMNlQ",
   "id": "t98RJnvPLis",
   "snippet": {
     "publishedAt": "2020-08-26T00:49:12Z",
@@ -35994,7 +36881,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1159",
+    "viewCount": "1162",
     "likeCount": "24",
     "dislikeCount": "7",
     "favoriteCount": "0",
@@ -37132,7 +38019,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "KjSc0DwBiGGUHNi9WLh2F5qm_KQ",
+  "etag": "sERa4_0oB5BZkPGwiaS-nOAwcKQ",
   "id": "vJk0qG8AlxM",
   "snippet": {
     "publishedAt": "2024-12-16T06:32:52Z",
@@ -37186,7 +38073,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -37199,12 +38086,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -37738,7 +38619,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "45z95VeTKIxuAul7vLFQoCWDBCI",
+  "etag": "Chirbm7P1uWzwoI2DYQ6Pd1RaiA",
   "id": "wQF6Azl2yGg",
   "snippet": {
     "publishedAt": "2024-12-09T06:22:05Z",
@@ -37792,7 +38673,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -37805,11 +38686,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -38000,36 +38876,36 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2-8SYPXswV9MbmAPOlqS-QDHwMc",
+  "etag": "KlEOl4HMGAGGBW7ZNZnJ8UqFqCs",
   "id": "wyakemfedAg",
   "snippet": {
-    "publishedAt": "2025-01-25T16:53:17Z",
+    "publishedAt": "2025-02-17T06:00:20Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Commemoration of the Righteous and the Just",
     "description": "February 16, 2025: Sunday of the Commemoration of the Righteous and the Just.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 157 -- Commemoration of the Righteous and the Just\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nThis week's bulletin can be found at http://ololc.org/doc/250216-bulletin.pdf.\n\nFr. Dominique was the main celebrant and homilist.\n\nChapters:\n00:00:00 Recording starts\n00:05:44 Lighting of the church\n00:14:26 Opening hymn\n00:24:45 Readings\n00:37:19 Homily\n00:45:50 Creed\n00:52:02 Anaphora of the Twelve Apostles\n01:07:29 Communion\n01:16:24 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/wyakemfedAg/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/wyakemfedAg/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/wyakemfedAg/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wyakemfedAg/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/wyakemfedAg/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wyakemfedAg/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/wyakemfedAg/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wyakemfedAg/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/wyakemfedAg/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wyakemfedAg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -38043,9 +38919,9 @@
     }
   },
   "contentDetails": {
-    "duration": "PT1H35M6S",
+    "duration": "PT1H35M14S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -38053,7 +38929,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -38062,8 +38938,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "43",
-    "likeCount": "4",
+    "viewCount": "90",
+    "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -38074,14 +38950,35 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1271620"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "127368"
+      }
+    ],
+    "bitrateBps": "1398988"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-02-16T16:18:56Z",
@@ -38177,7 +39074,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Pu-lbA00uwx-ZkBIjBU1rJqEXlw",
+  "etag": "3jiLbbeIRkVyZmWKA41bxFce1no",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -38239,7 +39136,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1186",
+    "viewCount": "1189",
     "likeCount": "20",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -40257,7 +41154,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "77wQMA1p88RF7xMiKk_TMJSBhmQ",
+  "etag": "cnR79Qjj6aQ3UiA7nh4AAk8lZBk",
   "id": "znGJP1L5GwI",
   "snippet": {
     "publishedAt": "2022-10-25T21:52:33Z",
@@ -40319,7 +41216,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "101",
+    "viewCount": "104",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
