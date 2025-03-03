@@ -6217,7 +6217,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Cm_kGvBzjkJJe12Df9S_EY57cQ0",
+  "etag": "gRPFsJXLcrqD9vrwhg9wHIjTAoo",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6226,27 +6226,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMCHlL4G&rs=AOn4CLDCg-FBq1UMBNf_cQ6_ql9zF1p36Q",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMSOlL4G&rs=AOn4CLAWQ3Nzd3ShNNh0Yxo3cT3o6ISw-g",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLBVBjgsDgtTtsCUkRW3rX1MQsqXsg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDDOokiOL0YV8_9tYs-RzPn7Lc20w",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLCZS7pd_tlVb5qKiShkMSJkpxIvZA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDieZowH8yGKvEn_yFXVXwewpNTcQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMCHlL4G&rs=AOn4CLAjUOq6vOlfHD5n9e43z-xtQHnAJA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDDc1hZxr2JuWV_ahgdAgZ_TWeutg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLCUGJcMcyve-l9fNdojvb_Yq_D0xg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLAzZnx1LmulLhBFLVFVgCysF7tohg",
         "width": 1280,
         "height": 720
       }
@@ -11402,7 +11402,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nAcjXlh045wmGvU6O-J5jgvq-lo",
+  "etag": "rYJbJaabFX34MZ2wqWRnZka_ScU",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -11411,27 +11411,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMCHlL4G&rs=AOn4CLAVdN_5W7V2YvN1LwGQSDsOrsuB-A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMSOlL4G&rs=AOn4CLDPmpG87B3WsqoZfnzFLr4mFZVCcA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLAiHTjTRjqCUqxkzeoZodYS9TcFVQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLCmeZXzzQ7u6wc7TLjuylHUzCFSsA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLCsS9eG_AFF3rb-JCp93viUoSw_OA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLAlQO6AlK7DRoaKKPWOkUmxIvSRIg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMCHlL4G&rs=AOn4CLDrPLiIaDBpp4Fs4cpmX1GbBYpJgg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDK21ODWh3GdPcr9h8ooX4herbTSQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLBnSI4qNbkwJjJjrCQ5qJRg5-VwvQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLC5mhBkd5ojX8K-GEdHJH3v7mXJog",
         "width": 1280,
         "height": 720
       }
@@ -18536,7 +18536,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2zh4uWYRhsR-h1ybBYKQ3U8XL14",
+  "etag": "fPAC9ofQW8YbgudpKFt9s1XQvEk",
   "id": "RiuhG2QddQ8",
   "snippet": {
     "publishedAt": "2025-03-02T09:33:23Z",
@@ -18598,7 +18598,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "221",
+    "viewCount": "220",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -22955,7 +22955,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5z4QHwAXguc58iohAnWu7VSgsUI",
+  "etag": "veaozYuxUh5o9ps17FhCCwUMTc8",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -22964,27 +22964,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMCHlL4G&rs=AOn4CLDArYPv6FIoqDyg0Yg1sK9bSJ3bRg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMSOlL4G&rs=AOn4CLCJiyuWya-RvDLD3-9lxpd9sJdMjw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLBDmJi-bw2qj7BriX8ldsYq1f288Q",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDSJ4vvxaojMdjGbFT3_7T0Mcj9Lg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLCFJKcPwdmFVs-dEhvz6BcJVmo2Pw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLC__9KpGfnfSwiNgzY5v_10-Cdv2A",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMCHlL4G&rs=AOn4CLAku96rPZFjyMnml_7FqJmToXZlhA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMSOlL4G&rs=AOn4CLAWCaZKFHvH-UPRXY--gmHIq2cKKg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMCHlL4G&rs=AOn4CLAu1tSS4m6b5SFDb_eoorD_4GJxSA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMSOlL4G&rs=AOn4CLDblk7D3tc1tmGvQZNaBCK43Oiq2w",
         "width": 1280,
         "height": 720
       }
@@ -26694,7 +26694,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Pq8DAHKTy98YMZC7h6oCBiTcD9g",
+  "etag": "JUnRBU5Gy4oS2BAr-lk9j4HzWws",
   "id": "fOORuKj7AXE",
   "snippet": {
     "publishedAt": "2025-02-03T06:07:41Z",
@@ -26756,7 +26756,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "127",
+    "viewCount": "126",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -29745,7 +29745,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wG7awm65IAGc6ZU649HVwPIDk6s",
+  "etag": "oJC74kt_bakJNyuwZMA4yRVK_kA",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -29807,7 +29807,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "793",
+    "viewCount": "792",
     "likeCount": "34",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -34735,12 +34735,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "dlVSlvsBRg9hMEAAeMiwDVg9N2E",
+  "etag": "MYbNX_cbE3XV5RWVTEO3fRrrDD8",
   "id": "q8ZO5G9LBLI",
   "snippet": {
     "publishedAt": "2025-02-20T14:04:00Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Sunday of the Entrance into Great Lent (the Miracle at Cana in Galilee)",
+    "title": "Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)",
     "description": "March 2, 2025: Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250302-bulletin.pdf.\n\nPage 176 – Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)\nPage 748 – Creed\nPage 815 – Anaphora of the Saint John the Apostle\n\nFr. Dominique was the main celebrant and homilist.\n\nChapters:\n00:00:00 Recording starts\n00:03:10 Lighting of the church\n00:11:36 Opening hymn\n00:22:21 Readings\n00:33:07 Homily\n00:41:32 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:04:10 Communion\n01:15:18 Announcements",
     "thumbnails": {
       "default": {
@@ -34773,7 +34773,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "Sunday of the Entrance into Great Lent (the Miracle at Cana in Galilee)",
+      "title": "Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)",
       "description": "March 2, 2025: Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee).\nToday’s Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nThis week’s bulletin can be found at http://ololc.org/doc/250302-bulletin.pdf.\n\nPage 176 – Sunday of the Entrance into Great Lent (the Miracle of Cana in Galilee)\nPage 748 – Creed\nPage 815 – Anaphora of the Saint John the Apostle\n\nFr. Dominique was the main celebrant and homilist.\n\nChapters:\n00:00:00 Recording starts\n00:03:10 Lighting of the church\n00:11:36 Opening hymn\n00:22:21 Readings\n00:33:07 Homily\n00:41:32 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:04:10 Communion\n01:15:18 Announcements"
     }
   },
@@ -34797,7 +34797,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "72",
+    "viewCount": "74",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34805,7 +34805,8 @@
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
     ]
   },
   "recordingDetails": {},
