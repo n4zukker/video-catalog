@@ -58,6 +58,9 @@ def seeAlso ($byAtomicTitle):
   | (
     . as $entry
     | $aTitles
+    | sort_by(
+        keyDate
+      )
     | map(
         . as $t
         | $byAtomicTitle[$t] | select ( length > 1 )
@@ -82,6 +85,20 @@ def seeAlso ($byAtomicTitle):
       "See also: \( if $seeAlsoLines | length > 1 then "  " else "" end )",
       $seeAlsoLines[]
     )
+;
+
+def linkHyperlinks:
+  (
+      sub (
+        "
+          (?<href>
+            http[s]?://[^[:blank:]]+(/|[^[:punct:][:blank:]])
+          )
+        ";
+	"[\( .href )](\( .href ))";
+        "x"
+      )
+  ) // .
 ;
 
 def linkTimestamps ($id):
@@ -171,7 +188,7 @@ def body ($byAtomicTitle):
 
     "",
     (
-      ">" + ( .snippet.description | split("\n") | .[] | linkTimestamps ( $entry.id ) ) + "  "
+      ">" + ( .snippet.description | split("\n") | .[] | linkHyperlinks | linkTimestamps ( $entry.id ) ) + "  "
     ),
     "",
 
