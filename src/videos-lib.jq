@@ -58,12 +58,12 @@ def seeAlso ($byAtomicTitle):
   | (
     . as $entry
     | $aTitles
-    | sort_by(
-        keyDate
-      )
     | map(
         . as $t
         | $byAtomicTitle[$t] | select ( length > 1 )
+    | sort_by(
+        keyDate
+      )
         | map ( select ( keyDate != ( $entry | keyDate ) ) )
         | { key: $t, value: . }
       )
