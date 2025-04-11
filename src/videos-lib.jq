@@ -76,7 +76,7 @@ def seeAlso ($byAtomicTitle):
       elif ( $aTitles | length ) == 1 then
         [ .[0].value | seeAlsoChain ]
       else
-        map ( "*\(.key)*: \( .value | seeAlsoChain )   " )
+        map ( "*\(.key)*: \( .value | seeAlsoChain )" )
       end
     ) as $seeAlsoLines
 
