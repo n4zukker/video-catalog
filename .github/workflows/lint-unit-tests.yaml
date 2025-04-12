@@ -11,8 +11,11 @@ jobs:
         name: checkout from github
         uses: actions/checkout@v4
 
-
       -
         name: Install jq
         shell: bash
         run: 'which jq || ( sudo apt-get update && sudo apt-get install jq )'
+      -
+        name: Run tests
+        shell: bash
+        run: 'tests/module-tests.sh'
