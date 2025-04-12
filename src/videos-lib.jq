@@ -1,9 +1,81 @@
+
+# Examples:
+#
+# Command:
+#  keyDate
+#
+# Input:
+#  {
+#    "kind": "youtube#video",
+#    "snippet": {
+#      "publishedAt": "2022-04-10T17:35:47Z",
+#      "title": "Hosanna Sunday"
+#    },
+#    "liveStreamingDetails": {
+#      "actualStartTime": "2022-04-10T15:28:00Z",
+#      "actualEndTime": "2022-04-10T17:17:09Z",
+#      "scheduledStartTime": "2022-04-10T15:30:00Z"
+#    }
+#  }
+#
+# Output:
+#  "2022-04-10T15:28:00Z"
+
 def keyDate:
   .liveStreamingDetails.actualStartTime // 
   .liveStreamingDetails.scheduledStartTime // 
   .snippet.publishedAt
-
 ;
+
+# Examples:
+#
+# Command:
+#  keyYear
+#
+# Input:
+#  {
+#    "kind": "youtube#video",
+#    "snippet": {
+#      "publishedAt": "2022-04-10T17:35:47Z",
+#      "title": "Hosanna Sunday"
+#    },
+#    "liveStreamingDetails": {
+#      "actualStartTime": "2022-04-10T15:28:00Z",
+#      "actualEndTime": "2022-04-10T17:17:09Z",
+#      "scheduledStartTime": "2022-04-10T15:30:00Z"
+#    }
+#  }
+#
+# Output:
+#  2022
+
+def keyYear:
+    keyDate
+  | fromdate
+  | localtime[0]
+;
+
+# Examples:
+#
+# Command:
+#  categorize
+#
+# Input:
+#  {
+#    "kind": "youtube#video",
+#    "snippet": {
+#      "publishedAt": "2022-04-10T17:35:47Z",
+#      "title": "Hosanna Sunday"
+#    },
+#    "liveStreamingDetails": {
+#      "actualStartTime": "2022-04-10T15:28:00Z",
+#      "actualEndTime": "2022-04-10T17:17:09Z",
+#      "scheduledStartTime": "2022-04-10T15:30:00Z"
+#    }
+#  }
+#
+# Output:
+#  "Livestreamed"
 
 def categorize:
   if .liveStreamingDetails.actualStartTime then
@@ -15,6 +87,17 @@ def categorize:
   end
 ;
 
+# Examples:
+#
+# Command:
+#  mdTime
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#
+# Output:
+#  "Sunday, April 10, 2022, 01:35 PM EST"
+
 def mdTime:
   if . then
     fromdate | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
@@ -22,6 +105,17 @@ def mdTime:
     ""
   end
 ;
+
+# Examples:
+#
+# Command:
+#  mdSeeAlsoTime
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#
+# Output:
+#  "04/10/2022"
 
 def mdSeeAlsoTime:
   if . then
@@ -31,6 +125,17 @@ def mdSeeAlsoTime:
   end
 ;
 
+# Examples:
+#
+# Command:
+#  mdSeeAlsoAnchor
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#
+# Output:
+#  "d2022-04-10-13-35-47"
+
 def mdSeeAlsoAnchor:
   if . then
     fromdate | localtime | strftime ( "d%Y-%m-%d-%H-%M-%S" )
@@ -39,18 +144,141 @@ def mdSeeAlsoAnchor:
   end
 ;
 
+# Examples:
+#
+# Command:
+#  mdDuration
+#
+# Input:
+#  "PT1H22M59S"
+#
+# Output:
+#  "1h 22m 59s"
+
 def mdDuration:
   capture ( "^P((?<years>\\d+)Y)?((?<months>\\d+)M)?((?<weeks>\\d+)W)?((?<d>\\d+)D)?T?((?<h>\\d+)H)?((?<m>\\d+)M)?((?<s>\\d+)S)?$" )
   | map_values( select ( . ) | tonumber )
-  | reduce to_entries[] as $item ( "" ; "\(.) \($item.value)\($item.key)" )
+  | to_entries | map ( "\(.value)\(.key)" ) | join(" ")
 ;
 
+# Examples:
+#
+# Command:
+#  atomicTitles
+#
+# Input:
+#   {
+#     "snippet": {
+#       "title": "Fifth Sunday of Pentecost; The Feast of Saints Peter and Paul"
+#     }
+#   }
+#
+# Output:
+#   [
+#     "Fifth Sunday of Pentecost",
+#     "The Feast of Saints Peter and Paul"
+#   ]
+#
 def atomicTitles:
   .snippet.title | split( "[[:blank:]]*;[[:blank:]]*"; null )
 ;
 
+# Examples:
+#
+# Command:
+#  seeAlsoChainGroup
+#
+# Input:
+#  [
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-10T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    }
+#  ]
+#
+# Output:
+#  [
+#    "[04/10/2022](#d2022-04-10-11-28-00)"
+#  ]
+#
+def seeAlsoChainGroup:
+  map ( "[\( keyDate | mdSeeAlsoTime )](#\( keyDate | mdSeeAlsoAnchor ))" )
+;
+
+# Examples:
+#
+# Command:
+#  seeAlsoChain
+#
+# Input:
+#  [
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-10T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    }
+#  ]
+#
+# Output:
+#    "[04/10/2022](#d2022-04-10-11-28-00)"
+#
+# Input:
+#  [
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-10T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    },
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-11T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-11T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    }
+#  ]
+#
+# Output:
+#    "[04/10/2022](#d2022-04-10-11-28-00)"
+#    "[04/11/2022](#d2022-04-11-11-28-00)"
+#
 def seeAlsoChain:
-  map ( "[\( keyDate | mdSeeAlsoTime )](#\( keyDate | mdSeeAlsoAnchor ))" ) | join (" ")
+    group_by ( keyYear )
+  | if length == 1 or all( length == 1 ) then
+      map ( .[] ) | seeAlsoChainGroup[]
+    else
+     (
+       "",
+       map ( seeAlsoChainGroup | .[0] |= " * \(.)" | .[] )[]
+     )
+    end
 ;
 
 def seeAlso ($byAtomicTitle):
@@ -61,9 +289,9 @@ def seeAlso ($byAtomicTitle):
     | map(
         . as $t
         | $byAtomicTitle[$t] | select ( length > 1 )
-    | sort_by(
-        keyDate
-      )
+        | sort_by(
+            keyDate
+          )
         | map ( select ( keyDate != ( $entry | keyDate ) ) )
         | { key: $t, value: . }
       )
@@ -76,13 +304,13 @@ def seeAlso ($byAtomicTitle):
       elif ( $aTitles | length ) == 1 then
         [ .[0].value | seeAlsoChain ]
       else
-        map ( "*\(.key)*: \( .value | seeAlsoChain )" )
+        map ( "*\(.key)*:", ( .value | seeAlsoChain ) )
       end
     ) as $seeAlsoLines
 
   | select ( $seeAlsoLines | length > 0 )
   | (
-      "See also: \( if $seeAlsoLines | length > 1 then "  " else "" end )",
+      "See also:",
       $seeAlsoLines[]
     )
 ;
