@@ -107,3 +107,10 @@ jobs:
           node src/box.js || rc="$?"
           rm "${BOX_CONFIG}"
           exit "${rc}"
+      -
+        name: 'Upload to github'
+        uses: actions/upload-artifact@v4
+        with:
+          path: |
+            build/video-list.*
+            content/video-list.json

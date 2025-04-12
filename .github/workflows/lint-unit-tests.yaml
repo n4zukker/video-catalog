@@ -11,8 +11,17 @@ jobs:
         name: checkout from github
         uses: actions/checkout@v4
 
-
       -
         name: Install jq
         shell: bash
         run: 'which jq || ( sudo apt-get update && sudo apt-get install jq )'
+      -
+        name: Run tests
+        shell: bash
+        env:
+          TZ: 'EST'
+          LC_TIME: 'en_US.UTF-8'
+        run: |
+          set -e
+          locale
+          'tests/module-tests.sh'
