@@ -96,7 +96,7 @@ def categorize:
 #  "2022-04-10T17:35:47Z"
 #
 # Output:
-#  "Sunday, April 10, 2022, 01:35 PM EST"
+#  "Sunday, April 10, 2022, 12:35 PM EST"
 
 def mdTime:
   if . then
@@ -134,7 +134,7 @@ def mdSeeAlsoTime:
 #  "2022-04-10T17:35:47Z"
 #
 # Output:
-#  "d2022-04-10-13-35-47"
+#  "d2022-04-10-12-35-47"
 
 def mdSeeAlsoAnchor:
   if . then
@@ -206,7 +206,7 @@ def atomicTitles:
 #
 # Output:
 #  [
-#    "[04/10/2022](#d2022-04-10-11-28-00)"
+#    "[04/10/2022](#d2022-04-10-10-28-00)"
 #  ]
 #
 def seeAlsoChainGroup:
@@ -235,7 +235,7 @@ def seeAlsoChainGroup:
 #  ]
 #
 # Output:
-#    "[04/10/2022](#d2022-04-10-11-28-00)"
+#    "[04/10/2022](#d2022-04-10-10-28-00)"
 #
 # Input:
 #  [
@@ -266,8 +266,8 @@ def seeAlsoChainGroup:
 #  ]
 #
 # Output:
-#    "[04/10/2022](#d2022-04-10-11-28-00)"
-#    "[04/11/2022](#d2022-04-11-11-28-00)"
+#    "[04/10/2022](#d2022-04-10-10-28-00)"
+#    "[04/11/2022](#d2022-04-11-10-28-00)"
 #
 def seeAlsoChain:
     group_by ( keyYear )
