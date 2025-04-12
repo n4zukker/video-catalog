@@ -22,4 +22,5 @@ jobs:
           TZ: 'EST'
         run: |
           set -e
+          locale
           'tests/module-tests.sh'
