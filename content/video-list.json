@@ -339,7 +339,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qO_XKdBJ33hcSOcRcV_00hyK7dM",
+  "etag": "eW9wK-AumRwVklplF4B607i_S3U",
   "id": "-XrVwREN3k0",
   "snippet": {
     "publishedAt": "2025-04-07T05:06:01Z",
@@ -401,7 +401,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "76",
+    "viewCount": "84",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -413,35 +413,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1188600"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128114"
-      }
-    ],
-    "bitrateBps": "1316714"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-04-06T15:25:52Z",
@@ -1566,13 +1545,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "R62n_10JgJNX_fkxVvujaPa_PdU",
+  "etag": "BUXEqyF6PjTbRW9uAjYnsMnJ8lA",
   "id": "1wN2H5YUEho",
   "snippet": {
     "publishedAt": "2025-03-28T00:01:02Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Glorious Resurrection Liturgy and the Rite of Peace",
-    "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:05:06 Lighting of the Church\n00:13:06 Opening hymn\n00:25:13 Readings\n00:38:55 Homily\n00:51:20 Rite of Peace\n01:00:30 Blessing with the Glorious Cross\n01:03:19 Creed\n01:10:04 Anaphora of the Twelve Apostles\n01:26:46 Communion\n01:40:38 Announcements\n01:47:30 Adoration of the Glorious Cross",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/1wN2H5YUEho/default_live.jpg",
@@ -1602,14 +1581,14 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Glorious Resurrection Liturgy and the Rite of Peace",
-      "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:05:06 Lighting of the Church\n00:13:06 Opening hymn\n00:25:13 Readings\n00:38:55 Homily\n00:51:20 Rite of Peace\n01:00:30 Blessing with the Glorious Cross\n01:03:19 Creed\n01:10:04 Anaphora of the Twelve Apostles\n01:26:46 Communion\n01:40:38 Announcements\n01:47:30 Adoration of the Glorious Cross"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT2H10M16S",
     "dimension": "2d",
     "definition": "sd",
     "caption": "false",
@@ -1628,8 +1607,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "91",
+    "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -1650,8 +1629,9 @@
     "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-20T15:00:00Z",
-    "activeLiveChatId": "Cg0KCzF3TjJINVlVRWhvKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMXdOMkg1WVVFaG8"
+    "actualStartTime": "2025-04-20T15:18:27Z",
+    "actualEndTime": "2025-04-20T17:28:43Z",
+    "scheduledStartTime": "2025-04-20T15:00:00Z"
   }
 }
 {
@@ -3806,7 +3786,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zuBKRKB4dKU9ubTwqahNHlXg_Xc",
+  "etag": "SUPK732tzZ55G-6aksSBlIqT4EE",
   "id": "552iFrvojYE",
   "snippet": {
     "publishedAt": "2024-05-29T19:05:30Z",
@@ -3868,7 +3848,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "203",
+    "viewCount": "217",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -4323,7 +4303,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "poJMkA7f2wLnShELTcQ_enHbv4Y",
+  "etag": "rQsQVZhcWK1B9vOct59zWHmUBRM",
   "id": "5sZTRyEsNkU",
   "snippet": {
     "publishedAt": "2022-12-22T01:39:01Z",
@@ -4753,7 +4733,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AbW_xFxiB-ko5tGFgpYgBgpuU-0",
+  "etag": "LeBdgWq4uauLP2hoJsLV18LPbDI",
   "id": "6RFsSTXBCJ4",
   "snippet": {
     "publishedAt": "2020-04-09T23:47:12Z",
@@ -4815,7 +4795,7 @@
     "madeForKids": false
   },
   "statistics": {
-    "viewCount": "484",
+    "viewCount": "485",
     "likeCount": "13",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -5971,7 +5951,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "kBcI1qgNJ9h4mM2OyzWfBhq9ICM",
+  "etag": "4dCqdautdbJO_62IjgLyg9ZkwF8",
   "id": "7aGXWoR2W30",
   "snippet": {
     "publishedAt": "2025-03-29T13:19:48Z",
@@ -6033,7 +6013,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "91",
+    "viewCount": "92",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -6063,7 +6043,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "MlnE_r9FQd5wIWPt2DCjb5RPGx4",
+  "etag": "_bUfYnHE0zXm2x7Q8Fv5T22uXFg",
   "id": "7d3AmLISmt8",
   "snippet": {
     "publishedAt": "2025-03-15T12:42:40Z",
@@ -6125,7 +6105,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "108",
+    "viewCount": "112",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -6413,7 +6393,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "p8BqjMxA-BoqVO6ID69PLP4FKrU",
+  "etag": "-JwYOAzh3plzgKeF8QCKRKKCuQI",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6422,27 +6402,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMiw7L8G&rs=AOn4CLAA-o2HAwt59QMnBahJb3FS31rzmQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMyElsAG&rs=AOn4CLDw0u0QHiVoMU1C3bWPjpFF94cJrQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLCVpH8jmjmuRDuVrIDBebJey6xMgQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLDrcs_T3paW9xp5SE3tAEFR6V4TyQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLBdloeUw8ab7r9n89tlqK3gafuBsQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLA_LTPa80S90YFnwYcpwzazSdBR0Q",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMiw7L8G&rs=AOn4CLAznnWJAl-ybA1Vgn_gHKAQ84J5Nw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMyElsAG&rs=AOn4CLDb-UxYwqOBMXpJmBqz04WELa15sw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLDpiRHzajwrqAlPnSHFNEEMZWlyhA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMyElsAG&rs=AOn4CLDkBTt_vX5lDnu0HuTcXJ_oY-o0OA",
         "width": 1280,
         "height": 720
       }
@@ -8558,7 +8538,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "LKq_NumFJRYJg827vTj9kR2Ds7E",
+  "etag": "2yrmF0UsWACQNdOrkkgGGTMAwx0",
   "id": "Bdpuu3P1vhk",
   "snippet": {
     "publishedAt": "2025-03-29T00:57:24Z",
@@ -8627,35 +8607,14 @@
     "commentCount": "0"
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1384334"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "127499"
-      }
-    ],
-    "bitrateBps": "1511833"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-03-29T01:07:27Z",
@@ -9265,7 +9224,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2A_e7vlcktR0glIl2UgxVApocsM",
+  "etag": "wrFAxtEv6Mrz2gg8pXqLiQNyoqM",
   "id": "D2a6iAFOrd8",
   "snippet": {
     "publishedAt": "2024-03-29T04:22:23Z",
@@ -9327,7 +9286,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "169",
+    "viewCount": "172",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -9351,7 +9310,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "MU1l0dVQx_Cyy7nAzO_lmM5x5io",
+  "etag": "lZruS6lfjmRosmCxHhHmYqQfZR8",
   "id": "DM6H3phiAHY",
   "snippet": {
     "publishedAt": "2022-12-24T01:47:55Z",
@@ -9695,52 +9654,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "oubPFn0Fn4BxCuCdNnz6VdT1OaU",
+  "etag": "guAoxTki96j-lgN4vs_MzayFoaY",
   "id": "DfldM6s-3Ns",
   "snippet": {
-    "publishedAt": "2025-03-27T23:58:36Z",
+    "publishedAt": "2025-04-20T03:45:33Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Saturday of the Great Light -- Prayer of Forgiveness",
-    "description": "April 19, 2025: Saturday of the Great Light.\nToday's Divine Liturgy can be found at http://ololc.org/doc/saturday.pdf.",
+    "description": "April 19, 2025: Saturday of the Great Light.\nToday's Divine Liturgy can be found at http://ololc.org/doc/saturday.pdf.\n\nBishop Gregory led the prayers, Deacon Adonis gave the homily.\n\n00:00:00 Recording starts\n00:08:08 Entrance Hymn\n00:10:16 Opening Prayers\n00:17:15 Prayer of Forgiveness\n00:23:39 Readings\n00:31:15 Homily\n00:38:33 Supplication\n00:40:02 Concluding Prayers",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/DfldM6s-3Ns/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Saturday of the Great Light -- Prayer of Forgiveness",
-      "description": "April 19, 2025: Saturday of the Great Light.\nToday's Divine Liturgy can be found at http://ololc.org/doc/saturday.pdf."
+      "description": "April 19, 2025: Saturday of the Great Light.\nToday's Divine Liturgy can be found at http://ololc.org/doc/saturday.pdf.\n\nBishop Gregory led the prayers, Deacon Adonis gave the homily.\n\n00:00:00 Recording starts\n00:08:08 Entrance Hymn\n00:10:16 Opening Prayers\n00:17:15 Prayer of Forgiveness\n00:23:39 Readings\n00:31:15 Homily\n00:38:33 Supplication\n00:40:02 Concluding Prayers"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT46M30S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -9748,7 +9707,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -9757,8 +9716,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "80",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -9769,18 +9728,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "3636934"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128016"
+      }
+    ],
+    "bitrateBps": "3764950"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-19T15:00:00Z",
-    "activeLiveChatId": "Cg0KC0RmbGRNNnMtM05zKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILRGZsZE02cy0zTnM"
+    "actualStartTime": "2025-04-19T14:54:32Z",
+    "actualEndTime": "2025-04-19T15:40:49Z",
+    "scheduledStartTime": "2025-04-19T15:00:00Z"
   }
 }
 {
@@ -11405,52 +11386,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wXq-VZWGLywyD6rScbQWfEanY5s",
+  "etag": "P1R64lfQXNnv4QPCxX3em05AiF8",
   "id": "G7lQxodnFDU",
   "snippet": {
-    "publishedAt": "2025-03-27T23:52:05Z",
+    "publishedAt": "2025-04-15T13:02:02Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Monday of Passion Week",
-    "description": "April 14, 2025: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek1.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 14, 2025: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Dominique was the main celebrant and Deacon Adonis gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:07:39 Opening hymn\n00:18:05 Readings\n00:31:07 Homily\n00:38:48 Creed\n00:44:15 Anaphora of Saint Peter, Head of the Apostles\n00:59:05 Communion",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Monday of Passion Week",
-      "description": "April 14, 2025: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek1.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 14, 2025: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Dominique was the main celebrant and Deacon Adonis gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:07:39 Opening hymn\n00:18:05 Readings\n00:31:07 Homily\n00:38:48 Creed\n00:44:15 Anaphora of Saint Peter, Head of the Apostles\n00:59:05 Communion"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H23M1S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -11458,7 +11439,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -11467,8 +11448,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "58",
+    "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -11479,18 +11460,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1620820"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128000"
+      }
+    ],
+    "bitrateBps": "1748820"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-14T23:30:00Z",
-    "activeLiveChatId": "Cg0KC0c3bFF4b2RuRkRVKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILRzdsUXhvZG5GRFU"
+    "actualStartTime": "2025-04-14T23:26:43Z",
+    "actualEndTime": "2025-04-15T02:16:43Z",
+    "scheduledStartTime": "2025-04-14T23:30:00Z"
   }
 }
 {
@@ -11839,7 +11842,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "_pil3Ib86gbkDabWVZLsf6_hoYs",
+  "etag": "VdGRPe7fp66t-Ntws3aE2Bywxi8",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -11848,27 +11851,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMiw7L8G&rs=AOn4CLCwG212XoRkEnqPKbv8jSbMM7TYzw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMyElsAG&rs=AOn4CLC7R6Ef3JCegCeFEPJs4JY12JEb3A",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLAndlT2GbTSckwjiUKB3Hhs7av1PQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLCP99NjinPjjpPRm1GRxKcsZKfUUw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLAiIwgbCMRpsRnPtxmDYzcGjqYtPg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLAD5Oyve2Q3fpkcKJVSqS469TXJKg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMiw7L8G&rs=AOn4CLATSVyiekR7ivLb_mpYETghWlcpkg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMyElsAG&rs=AOn4CLAk4hwObSYuZwI3PKAnIUk_57hcyg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLB6bHv34WoHUniqTfzAqxZedzPn6A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMyElsAG&rs=AOn4CLCdeVuMrVrL0-O1c9rDOpRMlDCuTg",
         "width": 1280,
         "height": 720
       }
@@ -13905,7 +13908,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "m5qydq2nypWeuAued8B5VMXy9Hg",
+  "etag": "xn9Oa3IX9wUkWze3WsUbi-HGNUA",
   "id": "J4CyELmCvYI",
   "snippet": {
     "publishedAt": "2025-04-12T12:42:05Z",
@@ -13967,7 +13970,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "58",
+    "viewCount": "79",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -14361,7 +14364,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "N-WFuSpDzJN_CwUhtVY7m24KQmU",
+  "etag": "lMqkXtz21rOERHGynECjIjiZFe8",
   "id": "JdfS3a5m9wE",
   "snippet": {
     "publishedAt": "2021-04-25T02:03:43Z",
@@ -14423,7 +14426,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "579",
+    "viewCount": "580",
     "likeCount": "12",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -14966,52 +14969,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "j6lMZSGaP99OYqpX2r7itXDss1A",
+  "etag": "ReC5sHjvV9CgiJ7bhy5D2ym9HLY",
   "id": "KlrmpuONL3A",
   "snippet": {
-    "publishedAt": "2025-03-27T23:56:19Z",
+    "publishedAt": "2025-04-19T03:14:33Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Anaphora of The Signing of the Chalice",
-    "description": "April 18, 2025: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf.",
+    "description": "April 18, 2025: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf.\n\nFr. Chuck was the main celebrant and gave the homily.\n\n00:00:00 Recording starts\n00:00:20 Lighting of the Church\n00:06:40 Opening Prayers\n00:15:54 Readings\n00:21:53 Homily\n00:30:00 Transfer of the Chalice\n00:34:00 Rite of Peace\n00:42:16 Intercessions\n00:46:05 Eucharistic Procession\n00:54:15 Communion",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Anaphora of The Signing of the Chalice",
-      "description": "April 18, 2025: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf."
+      "description": "April 18, 2025: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf.\n\nFr. Chuck was the main celebrant and gave the homily.\n\n00:00:00 Recording starts\n00:00:20 Lighting of the Church\n00:06:40 Opening Prayers\n00:15:54 Readings\n00:21:53 Homily\n00:30:00 Transfer of the Chalice\n00:34:00 Rite of Peace\n00:42:16 Intercessions\n00:46:05 Eucharistic Procession\n00:54:15 Communion"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H9M5S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -15019,7 +15022,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": false,
@@ -15028,30 +15031,53 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "78",
+    "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1411364"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128352"
+      }
+    ],
+    "bitrateBps": "1539716"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-18T14:00:00Z",
-    "activeLiveChatId": "Cg0KC0tscm1wdU9OTDNBKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILS2xybXB1T05MM0E"
+    "actualStartTime": "2025-04-18T13:56:47Z",
+    "actualEndTime": "2025-04-18T15:05:37Z",
+    "scheduledStartTime": "2025-04-18T14:00:00Z"
   }
 }
 {
@@ -15142,7 +15168,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PLLStBuFQk8U6yg_oifoz0yR_48",
+  "etag": "3APe-ZWRXu32kVAZIuMsH2x-aUI",
   "id": "L1txGVtMuoE",
   "snippet": {
     "publishedAt": "2025-03-31T05:28:06Z",
@@ -15204,7 +15230,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "80",
+    "viewCount": "81",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -17992,7 +18018,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nQ8cJ48qXE30_fwbt7bxy47A_Ik",
+  "etag": "D1DTNY6TgHVpRbLyOIF7b1wnwxw",
   "id": "QQI7Zilg7ic",
   "snippet": {
     "publishedAt": "2025-03-08T14:15:39Z",
@@ -18054,7 +18080,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "103",
+    "viewCount": "108",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -18256,7 +18282,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2kd_upTgEJnh5RG_xAwcwqKBit0",
+  "etag": "uYUVH6yzOP3JfXCio0pSh55AXHI",
   "id": "Qab2A1tSwTU",
   "snippet": {
     "publishedAt": "2023-05-22T05:08:08Z",
@@ -18318,7 +18344,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "204",
+    "viewCount": "206",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -18528,7 +18554,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "l0sMFq0HbKcdcAKTDlsSbC0GeIE",
+  "etag": "5qe0bUQKQN2-Md8OQ8ZujveOKsc",
   "id": "QfQNr8w7Wec",
   "snippet": {
     "publishedAt": "2024-03-25T05:57:10Z",
@@ -18590,7 +18616,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "257",
+    "viewCount": "259",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -19135,7 +19161,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "fZte1Jmg96h5alnDBQvHKwTyN_8",
+  "etag": "MyHctyeKVTQtIA3VPBi7q22Kgag",
   "id": "RiuhG2QddQ8",
   "snippet": {
     "publishedAt": "2025-03-02T09:33:23Z",
@@ -19197,7 +19223,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "236",
+    "viewCount": "237",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -20686,7 +20712,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PDjlUi4Muk7d0ULx3MnMlZGqj78",
+  "etag": "anP7bSQFByeKNgmZdw0rLb2hp90",
   "id": "TTTgLJCB1II",
   "snippet": {
     "publishedAt": "2024-05-12T04:03:23Z",
@@ -20748,7 +20774,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "389",
+    "viewCount": "390",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -21464,7 +21490,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "K-f-ag_OYSpqUNJSzw6ZZZ0lvPo",
+  "etag": "uN5g1yIJOQZJfc8R44n7VCyaEfs",
   "id": "V0g4NqH_nk4",
   "snippet": {
     "publishedAt": "2023-11-18T13:30:00Z",
@@ -21526,7 +21552,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "361",
+    "viewCount": "365",
     "likeCount": "9",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -21551,7 +21577,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wL3LKRVUxm02soK2FSivDZtiGj8",
+  "etag": "2KkEdBvite-w_WaHe30c0wKx0v4",
   "id": "V3rbhuv5Rqs",
   "snippet": {
     "publishedAt": "2024-03-31T03:45:35Z",
@@ -21613,7 +21639,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "73",
+    "viewCount": "74",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -22153,52 +22179,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rpHSz3iyL5SEjWxtMWHzbYP1LB0",
+  "etag": "4K0zlipBtd-Z3Dn7QntLL5WyAQo",
   "id": "WImxbWeCB70",
   "snippet": {
-    "publishedAt": "2025-03-27T23:55:10Z",
+    "publishedAt": "2025-04-18T04:17:13Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Thursday of the Mysteries",
-    "description": "April 17, 2025: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 815 -- Anaphora of The Twelve Apostles",
+    "description": "April 17, 2025: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n \nhttps://www.youtube.com/watch?v=FaL28JhcgRI\nhttps://www.stmaron.org/bishops-blog/great-friday-and-saturday-of-the-light-the-profound-mysteries\n\nFr. Chuck was the main celebrant and washed the apostles feet; Deacon Adonis gave the homily.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\n\n00:00:00 Recording starts\n00:10:50 Lighting of the Church\n00:17:51 Opening hymn\n00:28:10 Readings\n00:33:57 Washing of the Feet\n00:51:30 Homily\n00:59:53 Creed\n01:06:14 Anaphora of Saint Sixtus, Pope of Rome\n01:21:37 Communion\n01:30:21 Announcements\n01:34:32 Exposition of the Blessed Sacrament",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/WImxbWeCB70/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/WImxbWeCB70/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/WImxbWeCB70/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/WImxbWeCB70/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/WImxbWeCB70/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Thursday of the Mysteries",
-      "description": "April 17, 2025: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 815 -- Anaphora of The Twelve Apostles"
+      "description": "April 17, 2025: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n \nhttps://www.youtube.com/watch?v=FaL28JhcgRI\nhttps://www.stmaron.org/bishops-blog/great-friday-and-saturday-of-the-light-the-profound-mysteries\n\nFr. Chuck was the main celebrant and washed the apostles feet; Deacon Adonis gave the homily.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\n\n00:00:00 Recording starts\n00:10:50 Lighting of the Church\n00:17:51 Opening hymn\n00:28:10 Readings\n00:33:57 Washing of the Feet\n00:51:30 Homily\n00:59:53 Creed\n01:06:14 Anaphora of Saint Sixtus, Pope of Rome\n01:21:37 Communion\n01:30:21 Announcements\n01:34:32 Exposition of the Blessed Sacrament"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT4H46M22S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -22206,7 +22232,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -22215,8 +22241,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "168",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -22227,18 +22253,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1270932"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "127532"
+      }
+    ],
+    "bitrateBps": "1398464"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-17T23:30:00Z",
-    "activeLiveChatId": "Cg0KC1dJbXhiV2VDQjcwKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILV0lteGJXZUNCNzA"
+    "actualStartTime": "2025-04-17T23:18:42Z",
+    "actualEndTime": "2025-04-18T04:04:52Z",
+    "scheduledStartTime": "2025-04-17T23:30:00Z"
   }
 }
 {
@@ -23624,7 +23672,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "glTzhadnWUSB07s9XtFy9hWNNX4",
+  "etag": "PvqLMGo_2zD_nC4bD4LvVQa1AeQ",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -23633,27 +23681,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMiw7L8G&rs=AOn4CLBTbv-fxOC2fcUzr-C_dlGeqLtr8g",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMyElsAG&rs=AOn4CLBEKSgkKWdIiw4PNr1YPOi58tY5mQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLDGpdCIyUdA0ymtXrtWSGD9TYChtg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLDhN7mLcFxyM22JQzcULk0PXzeohw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLBXjAWIBBkfOTUQwj4s5d92SlMIpg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMyElsAG&rs=AOn4CLBHNHLfYC59c73fvalAwf3pLU4uDA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMiw7L8G&rs=AOn4CLB57JfhrmdjJ9dxRoywehpPVgd_gw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMyElsAG&rs=AOn4CLBPnVfJ4RWG8bjwZ-UiUHjhe79UhA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMiw7L8G&rs=AOn4CLBi8zT2k3q1ry2-3Tt_C0qEhG12tQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMyElsAG&rs=AOn4CLDhUSUQITn_Thr-5QjC4ya3lLdF2A",
         "width": 1280,
         "height": 720
       }
@@ -24735,7 +24783,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Bjo1KYgNG8xDBpj0qClnFnetqqQ",
+  "etag": "ISzAqzxo5M9rHVRjxLR42c2l5O4",
   "id": "aWObizACYfs",
   "snippet": {
     "publishedAt": "2024-03-30T13:33:29Z",
@@ -24797,8 +24845,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "189",
-    "likeCount": "7",
+    "viewCount": "190",
+    "likeCount": "8",
     "dislikeCount": "1",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -24914,7 +24962,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "SqSdPTu7wLkTOjosop3zw17TLK4",
+  "etag": "3swYaIOHPLv5FmEPkRWiulOxlag",
   "id": "ad_u0trVfew",
   "snippet": {
     "publishedAt": "2024-05-27T10:02:56Z",
@@ -24976,7 +25024,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "281",
+    "viewCount": "287",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -25869,7 +25917,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4Ns18Y6kVIMqzvc5wnVzFgWFuig",
+  "etag": "dxctEBFPWiWRmmimJdGFucg5N-M",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -25931,7 +25979,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "176",
+    "viewCount": "181",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -26294,7 +26342,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "EXhiUSKugR1CWNZXDuomOroBZU0",
+  "etag": "xD_IzZ4h-24XUJjzjqGl1i2zPDw",
   "id": "d_GxaBhYONU",
   "snippet": {
     "publishedAt": "2022-05-15T23:19:16Z",
@@ -26356,7 +26404,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "297",
+    "viewCount": "301",
     "likeCount": "4",
     "dislikeCount": "3",
     "favoriteCount": "0",
@@ -26729,7 +26777,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "x2cENnT1byMyGtA47aapnDjWcS0",
+  "etag": "0q6Cn3JfxT8mS66c0r5mdBs4NBQ",
   "id": "eS-Mpj2CUFo",
   "snippet": {
     "publishedAt": "2024-03-28T14:05:11Z",
@@ -28631,52 +28679,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "1Ox_JiZawRFjJvzu49easBESrkw",
+  "etag": "4NbAFYPj9a76MlO0Ae7aSwq7wqE",
   "id": "h9872JVmTRs",
   "snippet": {
-    "publishedAt": "2025-03-27T23:59:49Z",
+    "publishedAt": "2025-04-20T17:46:27Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Glorious Resurrection Liturgy and the Rite of Peace — Midnight Divine Liturgy",
-    "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:18 Lighting of the Church\n00:12:00 Opening hymn\n00:22:00 Readings\n00:33:36 Homily\n00:54:39 Rite of Peace\n00:49:51 Blessing with the Glorious Cross\n00:57:06 Creed\n01:02:22 Anaphora of the Twelve Apostles\n01:17:25 Communion\n01:23:18 Announcements\n01:30:30 Adoration of the Glorious Cross",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/h9872JVmTRs/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/h9872JVmTRs/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/h9872JVmTRs/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h9872JVmTRs/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/h9872JVmTRs/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h9872JVmTRs/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/h9872JVmTRs/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h9872JVmTRs/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/h9872JVmTRs/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/h9872JVmTRs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Glorious Resurrection Liturgy and the Rite of Peace — Midnight Divine Liturgy",
-      "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 20, 2025: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:18 Lighting of the Church\n00:12:00 Opening hymn\n00:22:00 Readings\n00:33:36 Homily\n00:54:39 Rite of Peace\n00:49:51 Blessing with the Glorious Cross\n00:57:06 Creed\n01:02:22 Anaphora of the Twelve Apostles\n01:17:25 Communion\n01:23:18 Announcements\n01:30:30 Adoration of the Glorious Cross"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H43M21S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -28684,7 +28732,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -28693,30 +28741,53 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "72",
+    "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1629623"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128164"
+      }
+    ],
+    "bitrateBps": "1757787"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-20T04:00:00Z",
-    "activeLiveChatId": "Cg0KC2g5ODcySlZtVFJzKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILaDk4NzJKVm1UUnM"
+    "actualStartTime": "2025-04-20T03:48:12Z",
+    "actualEndTime": "2025-04-20T05:31:17Z",
+    "scheduledStartTime": "2025-04-20T04:00:00Z"
   }
 }
 {
@@ -28891,7 +28962,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "THMMLMQAOH3KmQ64T3e3HgjFBXU",
+  "etag": "3OygXk72olT1mrOVn6tUwXY1dPY",
   "id": "hGjZUJy7g50",
   "snippet": {
     "publishedAt": "2023-04-07T01:25:28Z",
@@ -28953,7 +29024,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "131",
+    "viewCount": "132",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -29147,52 +29218,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-f2Puzrc0VzZ-Pv0hhJJoyqpedE",
+  "etag": "WYUVXigL6EdmmuxNGRQiuCot3RI",
   "id": "hSivWE5Cr4g",
   "snippet": {
-    "publishedAt": "2025-03-27T23:53:00Z",
+    "publishedAt": "2025-04-16T13:25:36Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Tuesday of Passion Week",
-    "description": "April 15, 2025: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 15, 2025: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Chuck was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:16 Lighting of the Church \n00:07:44 Opening hymn\n00:18:08 Readings\n00:28:52 Homily\n00:35:47 Creed\n00:40:51 Anaphora of Saint Peter, Head of the Apostles\n00:55:56 Communion",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Tuesday of Passion Week",
-      "description": "April 15, 2025: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 15, 2025: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Chuck was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:16 Lighting of the Church \n00:07:44 Opening hymn\n00:18:08 Readings\n00:28:52 Homily\n00:35:47 Creed\n00:40:51 Anaphora of Saint Peter, Head of the Apostles\n00:55:56 Communion"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H21M26S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -29200,7 +29271,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -29209,8 +29280,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "69",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -29222,18 +29293,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1492434"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "127967"
+      }
+    ],
+    "bitrateBps": "1620401"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-15T23:30:00Z",
-    "activeLiveChatId": "Cg0KC2hTaXZXRTVDcjRnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILaFNpdldFNUNyNGc"
+    "actualStartTime": "2025-04-15T23:24:47Z",
+    "actualEndTime": "2025-04-16T00:46:23Z",
+    "scheduledStartTime": "2025-04-15T23:30:00Z"
   }
 }
 {
@@ -29666,7 +29759,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "dmE4exjo4OANECBGU4WwsBIIuu4",
+  "etag": "z76mAKeftocSCeZ5bvjkMbrU5iQ",
   "id": "hw-GFMAE0kY",
   "snippet": {
     "publishedAt": "2025-03-10T05:12:29Z",
@@ -29728,7 +29821,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "112",
+    "viewCount": "113",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -30365,52 +30458,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "oXCkTO37G0zD9yOCJHT2hN3dgRA",
+  "etag": "_MUcn2-yvfHv-Z6Me9LFh2B152g",
   "id": "iadGRGPk1Kw",
   "snippet": {
-    "publishedAt": "2025-03-27T23:54:04Z",
+    "publishedAt": "2025-04-17T13:53:28Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Wednesday of Passion Week, The Rite of the Lamp",
-    "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nFr. Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:59 Lighting of the Church \n00:09:16 Opening hymn and prayer\n00:13:05 First vigil\n00:21:57 Second vigil\n00:27:30 Third vigil\n00:34:23 Fourth vigil\n00:39:57 Fifth vigil\n00:47:11 Sixth vigil\n00:52:35 Seventh vigil\n01:00:12 Blessing of the Oil of Penitents\n01:02:48 Anointing\n01:09:53 Homily\n01:19:20 Creed\n01:24:21 Anaphora of Saint Sixtus, Pope of Rome\n01:38:40 Communion\n01:46:15 Distribution of the Oil",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Wednesday of Passion Week, The Rite of the Lamp",
-      "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nFr. Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:59 Lighting of the Church \n00:09:16 Opening hymn and prayer\n00:13:05 First vigil\n00:21:57 Second vigil\n00:27:30 Third vigil\n00:34:23 Fourth vigil\n00:39:57 Fifth vigil\n00:47:11 Sixth vigil\n00:52:35 Seventh vigil\n01:00:12 Blessing of the Oil of Penitents\n01:02:48 Anointing\n01:09:53 Homily\n01:19:20 Creed\n01:24:21 Anaphora of Saint Sixtus, Pope of Rome\n01:38:40 Communion\n01:46:15 Distribution of the Oil"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H59M20S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -30418,7 +30511,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -30427,30 +30520,53 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "103",
+    "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1200356"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128402"
+      }
+    ],
+    "bitrateBps": "1328758"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-16T23:30:00Z",
-    "activeLiveChatId": "Cg0KC2lhZEdSR1BrMUt3KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILaWFkR1JHUGsxS3c"
+    "actualStartTime": "2025-04-16T23:25:12Z",
+    "actualEndTime": "2025-04-17T01:25:33Z",
+    "scheduledStartTime": "2025-04-16T23:30:00Z"
   }
 }
 {
@@ -30711,7 +30827,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "E4uHch23lI8L4c22sjYfaeAkfM8",
+  "etag": "zRpRnRJ-qMpXAEGMiBx3M1UvziQ",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -30773,7 +30889,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "854",
+    "viewCount": "880",
     "likeCount": "36",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -32006,7 +32122,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tSiCoWsBCJFw03AyVrG9Vm6L0ps",
+  "etag": "6k1v2EyLI8l6gZhZR6xpmsLsOz8",
   "id": "kWiRW0Tst0s",
   "snippet": {
     "publishedAt": "2025-04-05T12:50:58Z",
@@ -32068,8 +32184,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "83",
-    "likeCount": "2",
+    "viewCount": "87",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -32081,35 +32197,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1437737"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "127934"
-      }
-    ],
-    "bitrateBps": "1565671"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-04-04T23:30:57Z",
@@ -35465,7 +35560,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Wt15ZNtfziCaUQfCn4Zn4bIaqjo",
+  "etag": "uCsYrIrczeWFpXosq59CWWzd-Go",
   "id": "pqupb_Ki5JE",
   "snippet": {
     "publishedAt": "2022-10-25T22:11:34Z",
@@ -35527,7 +35622,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "73",
+    "viewCount": "74",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -37198,52 +37293,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "L00qD1TzdKZB8D6Ub7mpz6hUcIk",
+  "etag": "BVn7yYGfYHas6kEiJSjuq68X68s",
   "id": "ryeydSnqQDQ",
   "snippet": {
-    "publishedAt": "2025-03-27T23:57:32Z",
+    "publishedAt": "2025-04-19T13:34:00Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Great Friday of the Crucifixion",
-    "description": "April 18, 2025: Great Friday of the Crucifixion.\nThis evening's service can be found at http://ololc.org/doc/fridayPM.pdf.",
+    "description": "April 18, 2025: Great Friday of the Crucifixion.\nThis evening's service can be found at http://ololc.org/doc/fridayPM.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n https://www.youtube.com/watch?v=FaL28JhcgRI\n\nBishop Gregory was the main celebrant and Fr. Dominique gave the homily.\n\n00:00:00 Recording starts\n00:13:46 Opening hymn\n00:16:38 Opening Prayer\n00:19:51 Prayer of Forgiveness\n00:25:26 Hymn\n00:27:44 Readings\n00:39:54 Homily\n00:50:37 Hymn\n00:54:39 Removal of the Body from the Cross\n00:57:37 Procession with the Shroud\n01:37:23 Incensing of the Shroud at the End of the Procession\n01:41:37 Metany and Adoration of Christ\n01:46:46 Burial",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/ryeydSnqQDQ/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Great Friday of the Crucifixion",
-      "description": "April 18, 2025: Great Friday of the Crucifixion.\nThis evening's service can be found at http://ololc.org/doc/fridayPM.pdf."
+      "description": "April 18, 2025: Great Friday of the Crucifixion.\nThis evening's service can be found at http://ololc.org/doc/fridayPM.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n https://www.youtube.com/watch?v=FaL28JhcgRI\n\nBishop Gregory was the main celebrant and Fr. Dominique gave the homily.\n\n00:00:00 Recording starts\n00:13:46 Opening hymn\n00:16:38 Opening Prayer\n00:19:51 Prayer of Forgiveness\n00:25:26 Hymn\n00:27:44 Readings\n00:39:54 Homily\n00:50:37 Hymn\n00:54:39 Removal of the Body from the Cross\n00:57:37 Procession with the Shroud\n01:37:23 Incensing of the Shroud at the End of the Procession\n01:41:37 Metany and Adoration of Christ\n01:46:46 Burial"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT2H15S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -37251,7 +37346,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -37260,8 +37355,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "163",
+    "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -37273,18 +37368,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1433334"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128681"
+      }
+    ],
+    "bitrateBps": "1562015"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-18T23:30:00Z",
-    "activeLiveChatId": "Cg0KC3J5ZXlkU25xUURRKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILcnlleWRTbnFRRFE"
+    "actualStartTime": "2025-04-18T23:16:07Z",
+    "actualEndTime": "2025-04-19T01:16:10Z",
+    "scheduledStartTime": "2025-04-18T23:30:00Z"
   }
 }
 {
@@ -37890,7 +38007,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DfZB0jH3jWIeWrtR6cGNgAFd0p8",
+  "etag": "7b8N61wdpq-E1zgDCoTi4-U_TjQ",
   "id": "t3JmKObk0UY",
   "snippet": {
     "publishedAt": "2025-01-29T17:36:14Z",
@@ -37952,7 +38069,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "42",
+    "viewCount": "47",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -37976,7 +38093,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wqeVIF_m593RjJK3xr6fHGTEBAk",
+  "etag": "EVJEfWcuhlr8UT29zxIc6FPeOEQ",
   "id": "t98RJnvPLis",
   "snippet": {
     "publishedAt": "2020-08-26T00:49:12Z",
@@ -38038,7 +38155,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1170",
+    "viewCount": "1172",
     "likeCount": "24",
     "dislikeCount": "7",
     "favoriteCount": "0",
@@ -38491,52 +38608,52 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ONlFfMqW1BIjtySPZQMfkdaC1Ts",
+  "etag": "0VlqHJ0tc0F3-HYoGP3UZzxhLKs",
   "id": "uD2au5j3rJg",
   "snippet": {
-    "publishedAt": "2025-03-27T22:32:27Z",
+    "publishedAt": "2025-04-14T05:54:40Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Hosanna Sunday",
-    "description": "April 13, 2025: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "April 13, 2025: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant; Fr. Chuck gave the homily; and children of the Cathedral assisted in the divine liturgy through readings, the gift procession and the intercessions.\n\nChapters:\n00:00:00 Recording starts\n00:01:15 Bishop's introduction\n00:04:41 Lighting of the Church\n00:10:22 Pictures with Bishop Gregory\n00:18:53 Opening hymn\n00:29:53 Readings\n00:42:18 Homily\n00:50:14 Blessing of the branches\n00:54:20 Creed\n00:58:37 Gifts\n01:02:02 Anaphora of the Twelve Apostles\n01:11:35 Intercessions\n01:22:00 Communion\n01:35:36 Announcements\n02:09:36 Concluding prayer (at the front steps of the church)",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/uD2au5j3rJg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "localized": {
       "title": "Hosanna Sunday",
-      "description": "April 13, 2025: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "description": "April 13, 2025: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nBishop Gregory was the main celebrant; Fr. Chuck gave the homily; and children of the Cathedral assisted in the divine liturgy through readings, the gift procession and the intercessions.\n\nChapters:\n00:00:00 Recording starts\n00:01:15 Bishop's introduction\n00:04:41 Lighting of the Church\n00:10:22 Pictures with Bishop Gregory\n00:18:53 Opening hymn\n00:29:53 Readings\n00:42:18 Homily\n00:50:14 Blessing of the branches\n00:54:20 Creed\n00:58:37 Gifts\n01:02:02 Anaphora of the Twelve Apostles\n01:11:35 Intercessions\n01:22:00 Communion\n01:35:36 Announcements\n02:09:36 Concluding prayer (at the front steps of the church)"
     }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT2H18M5S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -38544,7 +38661,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -38553,31 +38670,53 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "159",
+    "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
   },
   "topicDetails": {
     "topicCategories": [
-      "https://en.wikipedia.org/wiki/Music",
-      "https://en.wikipedia.org/wiki/Religion"
+      "https://en.wikipedia.org/wiki/Religion",
+      "https://en.wikipedia.org/wiki/Society"
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1760965"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128336"
+      }
+    ],
+    "bitrateBps": "1889301"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-04-13T15:30:00Z",
-    "activeLiveChatId": "Cg0KC3VEMmF1NWozckpnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILdUQyYXU1ajNySmc"
+    "actualStartTime": "2025-04-13T15:19:12Z",
+    "actualEndTime": "2025-04-13T17:37:04Z",
+    "scheduledStartTime": "2025-04-13T15:30:00Z"
   }
 }
 {
@@ -40296,7 +40435,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZYBfY__gPZH5NM-DAwmJAhHMLQQ",
+  "etag": "a2SeKIG6TQO-W3cRftJGkXSt5q8",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -40358,7 +40497,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1220",
+    "viewCount": "1224",
     "likeCount": "21",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -42371,7 +42510,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5cGi5rYqjob6HBZzztxgiI6jkxI",
+  "etag": "-ScymLXFHV6T9bKnCjKl8ii9zrY",
   "id": "znGJP1L5GwI",
   "snippet": {
     "publishedAt": "2022-10-25T21:52:33Z",
@@ -42433,7 +42572,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "105",
+    "viewCount": "113",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
