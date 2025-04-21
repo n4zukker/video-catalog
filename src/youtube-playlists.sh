@@ -34,6 +34,7 @@ rc='0'
       GET 'youtube/v3/playlistItems' \
         --data-urlencode 'part=contentDetails' \
         --data-urlencode 'part=id' \
+        --data-urlencode 'part=snippet' \
         --data-urlencode "playlistId=${listId}" \
 	;
     done \
