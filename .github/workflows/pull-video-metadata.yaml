@@ -40,12 +40,18 @@ jobs:
         shell: 'bash'
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
-          VIDEO_DB: 'content/video-list.json'
+          VIDEO_DB:    'content/video-list.json'
         run: |
-          jq . "${VIDEO_DB}" > /dev/null
-          ( src/playground.sh > /tmp/video-list.json ) 2>&1 | pino-pretty -t
-          mv /tmp/video-list.json "${VIDEO_DB}"
-          jq . "${VIDEO_DB}" > /dev/null
+          ( src/youtube-videos.sh > "${VIDEO_DB}" ) 2>&1 | pino-pretty -t
+
+      -
+        name: 'Get playlists'
+        shell: 'bash'
+        env:
+          YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
+          PLAYLIST_DB: 'content/play-list.json'
+        run: |
+          ( src/youtube-playlists.sh > "${PLAYLIST_DB}" ) 2>&1 | pino-pretty -t
 
       - name: 'Commit video listing'
         env:
