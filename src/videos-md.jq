@@ -2,12 +2,17 @@ include "videos-lib";
 
 "# Youtube videos on the Cathedral's channel",
 (
-  groupToObj ( .snippet.title ) as $byTitle
-  | groupAtomicTitles as $byAtomicTitle
-  | groupToObj ( categorize ) as $byCategory
+    groupToObj ( .kind ) as $kind
+  | ( $kind["youtube#playlist"] // [] )      as $playlists
+  | ( $kind["youtube#playlistItem"]  // [] ) as $playlistItems
+  | ( $kind["youtube#video"] | mergePlaylists ( $playlists ; $playlistItems ) ) as $videos
+
+  | ( $videos | groupToObj ( .snippet.title ) ) as $byTitle
+  | ( $videos | groupAtomicTitles )             as $byAtomicTitle
+  | ( $videos | groupToObj ( categorize ) )     as $byCategory
 
   | (
-      toc ( $byAtomicTitle ; $byCategory ),
+      ( $videos | toc ( $byAtomicTitle ; $byCategory ; $playlists ) ),
       (
         $byCategory | (
           (
@@ -34,6 +39,14 @@ include "videos-lib";
             )
           )
         )
+      ),
+      (
+          $playlists
+        | select ( length > 0 )
+        | (
+            "## Playlists [](#playlists)",
+            playlistBody ( $videos ; $playlistItems )
+          )
       )
     )
-)
+ )

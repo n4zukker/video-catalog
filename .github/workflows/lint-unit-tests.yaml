@@ -22,6 +22,6 @@ jobs:
           TZ: 'EST'
           LC_TIME: 'en_US.UTF-8'
         run: |
-          set -e
-          locale
+          #set -e
+          #locale
           'tests/module-tests.sh'

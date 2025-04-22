@@ -1,4 +1,9 @@
 
+def groupToObj (fnKey):
+  group_by ( fnKey )
+  | reduce .[] as $item ( {} ; . + { ( $item[0] | fnKey ): $item } )
+;
+
 # Examples:
 #
 # Command:
@@ -90,6 +95,28 @@ def categorize:
 # Examples:
 #
 # Command:
+#  fromdatems
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#  "2024-12-25T21:46:15.43315Z"
+#  "foobar"
+#
+# Output:
+#  1649612147
+#  1735163175
+#  1735163175
+
+def fromdatems:
+    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d+)?Z$")
+  | "\(.yymmdd)T\(.hhmmss)Z"
+  | fromdate
+;
+
+# Examples:
+#
+# Command:
 #  mdTime
 #
 # Input:
@@ -100,7 +127,7 @@ def categorize:
 
 def mdTime:
   if . then
-    fromdate | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
+    fromdatems | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
   else
     ""
   end
@@ -119,10 +146,32 @@ def mdTime:
 
 def mdSeeAlsoTime:
   if . then
-    fromdate | localtime | strftime ( "%x" )
+    fromdatems | localtime | strftime ( "%x" )
   else
     ""
   end
+;
+
+# Examples:
+#
+# Command:
+#  anchorText("X")
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#  "2024-12-25T21:46:15.43315Z"
+#  "foobar"
+#
+# Output:
+#  "X2022-04-10-12-35-47"
+#  "X2024-12-25-16-46-15"
+#  "X2024-12-25-16-46-15"
+
+def anchorText ($prefix):
+    fromdatems
+  | localtime
+  | strftime ( "\($prefix)%Y-%m-%d-%H-%M-%S" )
 ;
 
 # Examples:
@@ -138,7 +187,28 @@ def mdSeeAlsoTime:
 
 def mdSeeAlsoAnchor:
   if . then
-    fromdate | localtime | strftime ( "d%Y-%m-%d-%H-%M-%S" )
+    anchorText ( "d" )
+  else
+    ""
+  end
+;
+
+# Examples:
+#
+# Command:
+#  mdPlaylistAnchor
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#
+# Output:
+#  "p2022-04-10-12-35-47"
+#  "p2024-12-25-16-46-15"
+
+def mdPlaylistAnchor:
+  if . then
+    anchorText ( "p" )
   else
     ""
   end
@@ -183,6 +253,10 @@ def atomicTitles:
   .snippet.title | split( "[[:blank:]]*;[[:blank:]]*"; null )
 ;
 
+def seeAlsoAnchor:
+  keyDate | mdSeeAlsoAnchor
+;
+
 # Examples:
 #
 # Command:
@@ -210,7 +284,7 @@ def atomicTitles:
 #  ]
 #
 def seeAlsoChainGroup:
-  map ( "[\( keyDate | mdSeeAlsoTime )](#\( keyDate | mdSeeAlsoAnchor ))" )
+  map ( "[\( keyDate | mdSeeAlsoTime )](#\( seeAlsoAnchor ))" )
 ;
 
 # Examples:
@@ -315,6 +389,75 @@ def seeAlso ($byAtomicTitle):
     )
 ;
 
+def playlistAnchor:
+  .snippet.publishedAt | mdPlaylistAnchor
+;
+
+def seePlaylists:
+  def playlistRef:
+    "[\( .snippet.title )](#\( playlistAnchor ))"
+  ;
+
+    .playlists
+  | select ( . )
+  | if length == 1 then
+      ( "", "Playlist:",  (  .[] | playlistRef ) )
+    else
+      ( "", "Playlists:", ( .[] | "* \( playlistRef )" ) )
+    end
+;
+
+# Examples:
+#
+# Command:
+#    [
+#      { "id": "list1", "x": 5 },
+#      { "id": "list2", "x": 6 }
+#    ] as $playlists
+#  | [
+#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list1" } },
+#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list2" } }
+#    ] as $playlistItems
+#  | [
+#      {
+#        "id": "123"
+#      },
+#      {
+#        "id": "234"
+#      }
+#    ] as $videos
+#  | $videos | mergePlaylists ( $playlists ; $playlistItems )
+#
+# Input:
+#  ""
+#
+# Output:
+#  [
+#    {
+#      "id": "123",
+#      "playlists": [
+#        { "id": "list1", "x": 5 },
+#        { "id": "list2", "x": 6 }
+#      ]
+#    },
+#    {
+#      "id": "234"
+#    }
+#  ]
+#
+def mergePlaylists ($playlists ; $playlistItems):
+    ( $playlists | groupToObj( .id ) ) as $playlistsById
+  | ( reduce $playlistItems[] as $item ( {} ; .[ $item.contentDetails.videoId ] |= ( . // [] ) + [ $item ] ) ) as $playlistItemsById
+  | map (
+        $playlistItemsById[.id] as $items
+      | if $items then
+          .playlists = ( $items | map ( ( $playlistsById[ .snippet.playlistId ] // [] )[] ) )
+        else
+          .
+        end
+    )
+;
+
 def linkHyperlinks:
   (
       sub (
@@ -369,14 +512,22 @@ def linkTimestamps ($id):
   ) // .
 ;
 
+def bodyDescription:
+  (
+    ">" + ( . as $entry | .snippet.description | split("\n") | .[] | linkHyperlinks | linkTimestamps ( $entry.id ) ) + "  "
+  ),
+  ""
+;
+
 def body ($byAtomicTitle):
   . as $entry
+  | "https://youtube.com/watch?v=\(.id)" as $href
   | (
     "![](\(.snippet.thumbnails.medium.url))",
     "",
     "|||",
     "|-----|------|",
-    "| Video link: | [https://youtube.com/watch?v=\(.id)](https://youtube.com/watch?v=\(.id)) |",
+    "| Video link: | [\($href)](\($href)) |",
     (
       if .liveStreamingDetails then
         (
@@ -394,8 +545,10 @@ def body ($byAtomicTitle):
 
     ( ( .contentDetails.duration // "P0D" ) | select ( . != "P0D" ) | "| Duration: | \( mdDuration ) |" ),
 
+    "| Visibility:    | \( .status.privacyStatus )          |",
+
     (
-      select (.statistics.viewCount | tonumber > 0)
+        select (.statistics.viewCount | tonumber > 0)
       | .statistics
       | (
           "| Views: | \( .viewCount ) |",
@@ -413,14 +566,13 @@ def body ($byAtomicTitle):
           ) 
         )
     ),
+    "",
 
-    "",
-    (
-      ">" + ( .snippet.description | split("\n") | .[] | linkHyperlinks | linkTimestamps ( $entry.id ) ) + "  "
-    ),
-    "",
+    bodyDescription,
 
     ( seeAlso ( $byAtomicTitle ) ),
+
+    ( seePlaylists ),
 
     "",
     "---",
@@ -437,9 +589,32 @@ def sectionBody ($byTitle):
   )
 ;
 
-def groupToObj (fnKey):
-  group_by ( fnKey )
-  | reduce .[] as $item ( {} ; . + { ( $item[0] | fnKey ): $item } )
+def playlistBody ($videos ; $playlistItems):
+    ( $videos | groupToObj ( .id ) ) as $videosById
+  | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
+  | .[]
+  | "https://youtube.com/playlist?list=\(.id)" as $href
+  | (
+      "#### \( .snippet.title )[]{#\( playlistAnchor )}",
+      "![](\(.snippet.thumbnails.medium.url))",
+      "",
+      "|||",
+      "|:--|:------|",
+      "| Published at:  | \( .snippet.publishedAt  | mdTime ) |",
+      "| Visibility:    | \( .status.privacyStatus )          |",
+      "| Video count:   | \( .contentDetails.itemCount )      |",
+      "| Playlist link: | [\($href)](\($href))                |",
+      "",
+      bodyDescription,
+      (
+          $itemsByPlaylist[ .id ][]
+        | $videosById[ .contentDetails.videoId ][]
+        | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
+      ),    
+      "",
+      "---",
+      ""
+    )
 ;
 
 def groupAtomicTitles:
@@ -452,38 +627,25 @@ def groupAtomicTitles:
       {} ;
       . + { ( $item.key ): ( ( .[$item.key] // [] ) + $item.value ) }
     )
-#  | from_entries
 ;
 
-def toc ($byAtomicTitle; $byCategory):
+def toc ($byAtomicTitle; $byCategory; $playlists):
   "## Table of Contents",
   "### Chapters",
   (
      $byCategory | (
-       if .["Scheduled"] then
-         "* [Upcoming streams](#upcoming)"
-       else
-         empty
-       end,
-
-       if .["Livestreamed"] then
-         "* [Live streams](#live)"
-       else
-         empty
-       end,
-
-       if .["Videos"] then
-         "* [Uploaded videos](#uploaded)"
-       else
-         empty
-       end
+       ( select (.["Scheduled"])    | "* [Upcoming streams](#upcoming)" ),
+       ( select (.["Livestreamed"]) | "* [Live streams](#live)"         ),
+       ( select (.["Videos"])       | "* [Uploaded videos](#uploaded)"  )
     )
   ),
+
+  ( select ( $playlists | length > 0 ) | "* [Playlists](#playlists)" ),
 
   "",
 
   (
-    map (
+      map (
         select ( ( categorize == "Livestreamed" ) and ( atomicTitles | all ( . as $title | $byAtomicTitle[$title] | length == 1 ) ) )
       )
     | sort_by ( keyDate )

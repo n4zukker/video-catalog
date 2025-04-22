@@ -76,11 +76,12 @@ jobs:
         shell: 'bash'
         env:
           VIDEO_DB: 'content/video-list.json'
+          PLAYLIST_DB: 'content/play-list.json'
           VIDEO_MD: 'build/video-list.md'
           TZ: 'America/New_York'
         run: |
           mkdir -p build
-          jq -L src --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" --raw-output > "${VIDEO_MD}"
+          jq -L src --from-file 'src/videos-md.jq' --slurp "${VIDEO_DB}" "${PLAYLIST_DB}" --raw-output > "${VIDEO_MD}"
           wc 'build/video-list.md'
 
       -
@@ -113,4 +114,4 @@ jobs:
         with:
           path: |
             build/video-list.*
-            content/video-list.json
+            content/*.json
