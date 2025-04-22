@@ -48,6 +48,9 @@ function runTests () {
 
 rc='0'
 
+export TZ='EST'
+export LC_TIME='en_US.UTF-8'
+
 JQ_MODULES=( )
 SED_MODULES=( )
 SH_MODULES=( )

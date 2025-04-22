@@ -1,4 +1,9 @@
 
+def groupToObj (fnKey):
+  group_by ( fnKey )
+  | reduce .[] as $item ( {} ; . + { ( $item[0] | fnKey ): $item } )
+;
+
 # Examples:
 #
 # Command:
@@ -128,6 +133,28 @@ def mdSeeAlsoTime:
 # Examples:
 #
 # Command:
+#  anchorText("X")
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#  "foobar"
+#
+# Output:
+#  "X2022-04-10-12-35-47"
+#  "X2024-12-25-16-46-15"
+
+def anchorText ($prefix):
+    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d{6})?Z$")
+  | "\(.yymmdd)T\(.hhmmss)Z"
+  | fromdate
+  | localtime
+  | strftime ( "\($prefix)%Y-%m-%d-%H-%M-%S" )
+;
+
+# Examples:
+#
+# Command:
 #  mdSeeAlsoAnchor
 #
 # Input:
@@ -138,7 +165,28 @@ def mdSeeAlsoTime:
 
 def mdSeeAlsoAnchor:
   if . then
-    fromdate | localtime | strftime ( "d%Y-%m-%d-%H-%M-%S" )
+    anchorText ( "d" )
+  else
+    ""
+  end
+;
+
+# Examples:
+#
+# Command:
+#  mdPlaylistAnchor
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#
+# Output:
+#  "p2022-04-10-12-35-47"
+#  "p2024-12-25-16-46-15"
+
+def mdPlaylistAnchor:
+  if . then
+    anchorText ( "p" )
   else
     ""
   end
@@ -183,6 +231,10 @@ def atomicTitles:
   .snippet.title | split( "[[:blank:]]*;[[:blank:]]*"; null )
 ;
 
+def seeAlsoAnchor:
+  keyDate | mdSeeAlsoAnchor
+;
+
 # Examples:
 #
 # Command:
@@ -210,7 +262,7 @@ def atomicTitles:
 #  ]
 #
 def seeAlsoChainGroup:
-  map ( "[\( keyDate | mdSeeAlsoTime )](#\( keyDate | mdSeeAlsoAnchor ))" )
+  map ( "[\( keyDate | mdSeeAlsoTime )](#\( seeAlsoAnchor ))" )
 ;
 
 # Examples:
@@ -312,6 +364,75 @@ def seeAlso ($byAtomicTitle):
   | (
       "See also:",
       $seeAlsoLines[]
+    )
+;
+
+def playlistAnchor:
+  .snippet.publishedAt | mdPlaylistAnchor
+;
+
+def seePlaylists:
+  def playlistRef:
+    "[\( .snippet.title )](#\( playlistAnchor ))"
+  ;
+
+    .playlists
+  | select ( . )
+  | if length == 1 then
+      ( "", "Playlist:",  (  .[] | playlistRef ) )
+    else
+      ( "", "Playlists:", ( .[] | "* \( playlistRef )" ) )
+    end
+;
+
+# Examples:
+#
+# Command:
+#    [
+#      { "id": "list1", "x": 5 },
+#      { "id": "list2", "x": 6 }
+#    ] as $playlists
+#  | [
+#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list1" } },
+#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list2" } }
+#    ] as $playlistItems
+#  | [
+#      {
+#        "id": "123"
+#      },
+#      {
+#        "id": "234"
+#      }
+#    ] as $videos
+#  | $videos | mergePlaylists ( $playlists ; $playlistItems )
+#
+# Input:
+#  ""
+#
+# Output:
+#  [
+#    {
+#      "id": "123",
+#      "playlists": [
+#        { "id": "list1", "x": 5 },
+#        { "id": "list2", "x": 6 }
+#      ]
+#    },
+#    {
+#      "id": "234"
+#    }
+#  ]
+#
+def mergePlaylists ($playlists ; $playlistItems):
+    ( $playlists | groupToObj( .id ) ) as $playlistsById
+  | ( reduce $playlistItems[] as $item ( {} ; .[ $item.contentDetails.videoId ] |= ( . // [] ) + [ $item ] ) ) as $playlistItemsById
+  | map (
+        $playlistItemsById[.id] as $items
+      | if $items then
+          .playlists = ( $items | map ( $playlistsById[ .snippet.playlistId ][] ) )
+        else
+          .
+        end
     )
 ;
 
@@ -422,6 +543,8 @@ def body ($byAtomicTitle):
 
     ( seeAlso ( $byAtomicTitle ) ),
 
+    ( seePlaylists ),
+
     "",
     "---",
     ""
@@ -437,9 +560,20 @@ def sectionBody ($byTitle):
   )
 ;
 
-def groupToObj (fnKey):
-  group_by ( fnKey )
-  | reduce .[] as $item ( {} ; . + { ( $item[0] | fnKey ): $item } )
+def playlistBody ($videos ; $playlistItems):
+    ( $videos | groupToObj ( .id ) ) as $videosById
+  | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
+  | .[]
+  | (
+      "#### \( .snippet.title )[](#\( playlistAnchor ))",
+      "",
+      (
+          $itemsByPlaylist[ .id ][]
+        | $videosById[ .contentDetails.videoId ][]
+        | "* [\( .snippet.title )]( #\( seeAlsoAnchor ) )"
+      ),    
+      ""
+    )
 ;
 
 def groupAtomicTitles:
@@ -452,33 +586,20 @@ def groupAtomicTitles:
       {} ;
       . + { ( $item.key ): ( ( .[$item.key] // [] ) + $item.value ) }
     )
-#  | from_entries
 ;
 
-def toc ($byAtomicTitle; $byCategory):
+def toc ($byAtomicTitle; $byCategory; $playlists):
   "## Table of Contents",
   "### Chapters",
   (
      $byCategory | (
-       if .["Scheduled"] then
-         "* [Upcoming streams](#upcoming)"
-       else
-         empty
-       end,
-
-       if .["Livestreamed"] then
-         "* [Live streams](#live)"
-       else
-         empty
-       end,
-
-       if .["Videos"] then
-         "* [Uploaded videos](#uploaded)"
-       else
-         empty
-       end
+       ( select (.["Scheduled"])    | "* [Upcoming streams](#upcoming)" ),
+       ( select (.["Livestreamed"]) | "* [Live streams](#live)"         ),
+       ( select (.["Videos"])       | "* [Uploaded videos](#uploaded)"  )
     )
   ),
+
+  ( select ( $playlists | length > 0 ) | "* [Playlists](#playlists)" ),
 
   "",
 

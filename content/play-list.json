@@ -184,8 +184,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "Uxx6mE_f5G6qaCvN4uRnyVLr1AQ",
+  "etag": "GzQvdjSkPUC3McZ7JFkbA2A6Yz8",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4xMkVGQjNCMUM1N0RFNEUx",
+  "snippet": {
+    "publishedAt": "2025-04-13T00:36:04Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Anaphora of The Signing of the Chalice",
+    "description": "April 18, 2025: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf.\n\nFr. Chuck was the main celebrant and gave the homily.\n\n00:00:00 Recording starts\n00:00:20 Lighting of the Church\n00:06:40 Opening Prayers\n00:15:54 Readings\n00:21:53 Homily\n00:30:00 Transfer of the Chalice\n00:34:00 Rite of Peace\n00:42:16 Intercessions\n00:46:05 Eucharistic Procession\n00:54:15 Communion",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/KlrmpuONL3A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "KlrmpuONL3A"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "KlrmpuONL3A",
     "videoPublishedAt": "2025-04-19T03:14:33Z"
@@ -193,8 +235,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "sjrVanNPlDxSvsmM0AQG1_pN-u0",
+  "etag": "WzAT4djUUWf5jWLOgr1B44Eq7_w",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2025-04-13T00:35:49Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Thursday of the Mysteries",
+    "description": "April 17, 2025: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n \nhttps://www.youtube.com/watch?v=FaL28JhcgRI\nhttps://www.stmaron.org/bishops-blog/great-friday-and-saturday-of-the-light-the-profound-mysteries\n\nFr. Chuck was the main celebrant and washed the apostles feet; Deacon Adonis gave the homily.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\n\n00:00:00 Recording starts\n00:10:50 Lighting of the Church\n00:17:51 Opening hymn\n00:28:10 Readings\n00:33:57 Washing of the Feet\n00:51:30 Homily\n00:59:53 Creed\n01:06:14 Anaphora of Saint Sixtus, Pope of Rome\n01:21:37 Communion\n01:30:21 Announcements\n01:34:32 Exposition of the Blessed Sacrament",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/WImxbWeCB70/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "WImxbWeCB70"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "WImxbWeCB70",
     "videoPublishedAt": "2025-04-18T04:17:13Z"
@@ -202,8 +286,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "R7zX2aegiHPCRgvtvErtsyfH-YA",
+  "etag": "vpinw35AvixfC4xFRggdW8jDYtI",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2025-04-13T00:35:30Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Wednesday of Passion Week, The Rite of the Lamp",
+    "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nFr. Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:59 Lighting of the Church \n00:09:16 Opening hymn and prayer\n00:13:05 First vigil\n00:21:57 Second vigil\n00:27:30 Third vigil\n00:34:23 Fourth vigil\n00:39:57 Fifth vigil\n00:47:11 Sixth vigil\n00:52:35 Seventh vigil\n01:00:12 Blessing of the Oil of Penitents\n01:02:48 Anointing\n01:09:53 Homily\n01:19:20 Creed\n01:24:21 Anaphora of Saint Sixtus, Pope of Rome\n01:38:40 Communion\n01:46:15 Distribution of the Oil",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/iadGRGPk1Kw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "iadGRGPk1Kw"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "iadGRGPk1Kw",
     "videoPublishedAt": "2025-04-17T13:53:28Z"
@@ -211,8 +337,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "tAqbRkga6srOmzKCb2yksN3UP3w",
+  "etag": "zbT5AFHrUrr1zUSlmO7-OZXSIfE",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4wMTcyMDhGQUE4NTIzM0Y5",
+  "snippet": {
+    "publishedAt": "2025-04-11T00:36:05Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Tuesday of Passion Week",
+    "description": "April 15, 2025: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Chuck was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:16 Lighting of the Church \n00:07:44 Opening hymn\n00:18:08 Readings\n00:28:52 Homily\n00:35:47 Creed\n00:40:51 Anaphora of Saint Peter, Head of the Apostles\n00:55:56 Communion",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/hSivWE5Cr4g/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "hSivWE5Cr4g"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "hSivWE5Cr4g",
     "videoPublishedAt": "2025-04-16T13:25:36Z"
@@ -220,8 +388,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "Qn_XOk-3vT7VNVKlZUg-o7Gxl3s",
+  "etag": "ctJX-HhftgFYe95RYXT53x8PbzE",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2025-04-11T00:35:00Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Monday of Passion Week",
+    "description": "April 14, 2025: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nFr. Dominique was the main celebrant and Deacon Adonis gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:07:39 Opening hymn\n00:18:05 Readings\n00:31:07 Homily\n00:38:48 Creed\n00:44:15 Anaphora of Saint Peter, Head of the Apostles\n00:59:05 Communion",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/G7lQxodnFDU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "G7lQxodnFDU"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "G7lQxodnFDU",
     "videoPublishedAt": "2025-04-15T13:02:02Z"
@@ -229,8 +439,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "KDDhydjBmpBlmh4jDdjhIBL0npk",
+  "etag": "sbY8aFNAOeCwyomNmmTccWwPLGs",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2024-12-25T21:46:15Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Tony.\n\nSecond oration -- Dec 16:\n\nO Hope of the Patriarchs and longing of the Gentiles,\nin Your Nativity You have granted us hope.\nThe joy of this hope has called together the Shepherds, \nthe Magi and all believers in Your Holy Name,\nand led them to adore You with all the acclaim of their hearts. \n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Virgin Mother and Saint Joseph, Your Chosen One,\nto keep us, by Your grace, from attachment to earthly goods.\nTeach us not to depend only on ourselves and the weak ones of this world,\nbut to rely only on Your Fatherly direction and Your Divine Providence. \nAttract our hearts and minds to reflect on Your heavenly riches \nand to aspire and long for them above.\n\nAmen\n\nChapters:\n00:00:00 Recording starts\n00:00:35 Glory to the Word\n00:06:17 Oration\n00:13:30 Reflection by Bishop Gregory\n00:25:49 Arsal Allah\n00:32:15 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/oFLTvEna0Yw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "oFLTvEna0Yw"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "oFLTvEna0Yw",
     "videoPublishedAt": "2024-12-17T13:36:16Z"
@@ -238,8 +490,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "ZNoCWcMR3njwL9Kh1-Z5m15PSvY",
+  "etag": "9lAoKEkSZfhD-tyQxKkCjc639iQ",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2024-12-25T21:46:15Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Joyce.\n\nThird prayer – Dec. 17 (modern)\n\nO Admirable Leader, you have guided the people to obey \nyou, not by harshness but by the tenderness of your love. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  Mother  and  Saint  Joseph,  your \nchosen  one,  to  teach  us  perfect  obedience  to  your  holy \ncommandments  and  to  our  superiors,  not  for  fear  of \npunishment,  or  constraint,  or  external  force,  but  by  the \nassent  of  our  minds,  the  surrender  of  our  hearts,  the \nenthusiasm of our spirits, and the joy of our souls. Amen.\n\nThird oration – Dec. 17 (classic)\n\nO Admirable Leader Who gains the obedience of Your people not by the severity of Your judgment but by the sweetness of Your love and Your welcome sojourn among us.\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto teach us complete obedience to Your holy commandments\nand to submit to our superiors not for fear of punishment\nbut by a willing surrender of mind and heart, with gladness of heart and spirit.\n\nAmen\n\nChapters:\n00:00:00 Recording starts\n00:08:00 Glory to the Word\n00:13:30 Oration\n00:16:13 Reflection by Fr. Chuck\n00:28:22 Arsal Allah\n00:35:07 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/VrEiwEra-sg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "VrEiwEra-sg"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "VrEiwEra-sg",
     "videoPublishedAt": "2024-12-18T13:18:20Z"
@@ -247,8 +541,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "HXfaG3UM_uKMLOPP4HfmQH1zI-M",
+  "etag": "-7UOCA7Q_C_VguvgClXrwOxj2KI",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS4wMTcyMDhGQUE4NTIzM0Y5",
+  "snippet": {
+    "publishedAt": "2024-12-25T21:46:15Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Tony.\n\nFourth prayer -- Dec. 18: (modern)\n\nO  Lord,  Wine  of  the  Virgins  and  Lily  of  Purity,  through \nyour body all bodies are purified and all souls are clothed \nin chastity. By dwelling in the womb of your mother, you \nhave  made  her  the  most  pure  and  glorious  of  all  virgins. \nWe implore you, through your pure nativity and through \nthe  intercession  of  your  mother  and  Saint  Joseph,  your \nchosen one, to make our souls and bodies chaste and our \nthoughts and actions pure, that we may serve you all the \ndays of our lives. Amen.  \n\n\n\nFourth oration -- Dec. 18: (classic)\n\n0 Wine of Virgins and Lily of Purity,\nWho by a touch of Your hand heals the body and cleanses the soul;\nWho by dwelling in the womb of Your Mother has made her the purest of the pure and most admirable among virgins;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us to be pure in soul and body and clean in act clean and thought,\nthat we may serve You with a clean heart and pure body all the days of our lives.\n\nAmen\n\n\nChapters:\n00:00:00 Recording starts\n00:08:42 Glory to the Word\n00:14:12 Oration\n00:18:06 Reflection by Deacon Adonis\n00:38:52 Arsal Allah\n00:45:11 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4Ekhpb9qDww/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "4Ekhpb9qDww"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "4Ekhpb9qDww",
     "videoPublishedAt": "2024-12-19T13:25:02Z"
@@ -256,8 +592,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "zccdQSyZl7GHFg66BWkteTrJ90g",
+  "etag": "454Lgm8MHobRnUtR95ZAjEWB288",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2024-12-25T21:46:15Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Tony.\n\nFourth prayer -- Dec. 19: (modern)\nO Mighty One, seated in the heavenly heights,\nyou left the glory  of  your divinity and loved the lowliness \nof our human nature to become our model of humility and \nlowliness.  We  implore  you,  through  your  pure  nativity \nand  through  the  intercession  of  your  Mother  and  Saint \nJoseph, your chosen one, to give us humility of heart and \nthe  denial  of  ourselves,  that  we  may  remove  all  pride \nwhich  prevents  us  from  knowing  you.  We  would  then \nrealize the weakness of our condition and glorify you, for \nyou  alone  are  holy  and  great  is  your  name.  To  you  be \nglory, power, and strength. Amen.\n\nFourth prayer -- Dec. 19: (classic)\n\nO Most High, by nature supreme and outranking all men and all things,\nWho has left the magnificence of Your Divinity\nand loved the lowliness of our humanity to become for us a\nmodel in humility and lowliness;\n\nWe beseech You, through Your Pure Nativity\nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us humility of heart and an accurate estimation of ourselves.\nHelp us to conquer every show of false pride, which would have us choose\nour own whims rather than Your Will.\nMay we realize that, compared to You, we are little indeed.\nGlory be to You, for You alone are holy and great is Your Name.\nTo You be Glory, Magnificence and Power!\n\nAmen\n\nChapters:\n00:00:00 Recording starts\n00:00:35 Glory to the Word\n00:05:47 Oration\n00:09:03 Reflection by Subdeacon Norbert",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/YrbeNil0jK8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "YrbeNil0jK8"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "YrbeNil0jK8",
     "videoPublishedAt": "2024-12-20T13:01:58Z"
@@ -265,8 +643,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "IaBuMPgMU3ajr83_odfc_LQvuz8",
+  "etag": "nrhJgepWMhC0j_zoBmcGg-Zgv90",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2024-12-25T21:46:15Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by Matthew.\n\nSixth oration -- Dec. 20: (classic)\n\nO Word of God, Who comes\nfrom the Mouth of God to be the\nLife of all men; You Who became\nLiving Bread and was born in\nBethlehem, \"The House of Bread\",\nto satisfy our hunger; We beseech\nYou, through Your Pure Nativity\nand the intercession of Your\nMother and Saint Joseph, Your\nChosen One, to grant us a piercing\nhunger for that Bread which is\nYour Pure Body and Blood.  May\nwe ever approach Your altar and\nreceive Your Sacred Mysteries\nwith fitting preparation so that our\nCommunion may be for us\nsalvation and life everlasting.\nAmen.\n\nChapters:\n00:00:00 Recording starts\n00:08:41 Glory to the Word\n00:14:07 Oration\n00:20:29 Reflection by Fr. Dominique\n00:36:40 Arsal Allah\n00:43:16 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/UfO3NAk6ku4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "UfO3NAk6ku4"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "UfO3NAk6ku4",
     "videoPublishedAt": "2024-12-21T13:31:31Z"
@@ -274,8 +694,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "lahD4Jcqy6RhJZOmsdcAqcW6fXQ",
+  "etag": "yqSLfocXV-I36Qal4F_w6G5CMH4",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2024-03-30T20:59:09Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Hosanna Sunday",
+    "description": "March 24, 2024: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\n\n\nChapters:\n00:00:00 Recording starts\n00:05:09 Pictures with Bishop Gregory\n00:09:42 Lighting of the Church\n00:18:55 Opening hymn\n00:30:20 Readings\n00:40:22 Homily\n00:45:20 Blessing of the branches\n00:49:30 Creed\n00:53:10 Gifts\n00:56:40 Anaphora of the Twelve Apostles\n01:05:33 Intercessions\n01:16:51 Communion",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "QfQNr8w7Wec"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "QfQNr8w7Wec",
     "videoPublishedAt": "2024-03-25T05:57:10Z"
@@ -283,8 +745,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "xXryPtV1H9B1577d7RsZDPx22xo",
+  "etag": "29HFlN3_n9MegZvPYO7rOBgRaNo",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2024-03-30T20:59:29Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Monday of Passion Week",
+    "description": "March 25, 2024: Monday of Passion Week.  The Feast of the Annunciation.\nToday's Divine Liturgy can be found at http://ololc.org/doc/annunciation.pdf.\n\nPage 27 -- The Announcement to Mary\nPage 748 -- Creed\nPage 815 -- Anaphora of the Saint John the Apostle\n\nChapters:\n00:00:00 Recording starts\n00:02:25 Lighting of the Church\n00:16:50 Opening hymn\n00:28:51 Readings\n00:39:23 Homily\n00:47:45 Creed\n00:52:42 Anaphora of the Twelve Apostles\n01:08:08 Communion",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/IfVTnmRyZCA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/IfVTnmRyZCA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/IfVTnmRyZCA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/IfVTnmRyZCA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/IfVTnmRyZCA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "IfVTnmRyZCA"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "IfVTnmRyZCA",
     "videoPublishedAt": "2024-03-26T12:46:45Z"
@@ -292,8 +796,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "5xZEDEfGAwhlHSHqkUQZlPqGC_M",
+  "etag": "1veJt5wXaTHoZzxgVFZOJZvHDRg",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi4wMTcyMDhGQUE4NTIzM0Y5",
+  "snippet": {
+    "publishedAt": "2024-03-30T20:59:44Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Tuesday of Passion Week",
+    "description": "March 26, 2024: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/q4zQNaXIMzU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/q4zQNaXIMzU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/q4zQNaXIMzU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/q4zQNaXIMzU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/q4zQNaXIMzU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "q4zQNaXIMzU"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "q4zQNaXIMzU",
     "videoPublishedAt": "2024-03-27T13:24:21Z"
@@ -301,8 +847,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "BCQ37yynbiANNfBu96VfPbVmcyE",
+  "etag": "tXH_4NSQxe_o7i6955pfNwlCEX4",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2024-03-30T21:00:13Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Wednesday of Passion Week, The Rite of the Lamp",
+    "description": "March 27, 2024: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\n00:00:00 Recording starts\n00:03:48 Lighting of the Church\n00:17:16 Opening hymn\n00:20:42 Readings\n00:21:41 First Vigil\n00:30:24 Second Vigil\n00:36:41 Third Vigil\n00:43:07 Fourth Vigil\n00:48:18 Fifth Vigil\n00:54:50 Sixth Vigil\n01:00:09 Seventh Vigil\n01:07:38 Blessing of the Oil of Penitents\n01:15:15 Homily\n01:23:07 Creed\n01:28:22 Anaphora of the Twelve Apostles\n01:43:30 Communion\n01:48:54 Recession",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/eS-Mpj2CUFo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/eS-Mpj2CUFo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/eS-Mpj2CUFo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/eS-Mpj2CUFo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/eS-Mpj2CUFo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "eS-Mpj2CUFo"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "eS-Mpj2CUFo",
     "videoPublishedAt": "2024-03-28T14:05:11Z"
@@ -310,8 +898,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "IDH8OhHhpi4YVW2kZXwMHRgJxj4",
+  "etag": "dps2Rw0oIIFS76g2NJD5dnUbAU0",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2024-03-30T21:00:31Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Thursday of the Mysteries",
+    "description": "March 28, 2024: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nPage 305 -- Thursday of the Mysteries\nPage 748 -- Creed\nPage 815 -- Anaphora of The Twelve Apostles\n\n00:00:00 Recording starts\n00:00:36 Lighting of the Church\n00:12:56 Opening hymn\n00:25:25 Readings\n00:29:38 Washing of the Feet\n00:45:47 Homily\n00:54:55 Creed\n01:01:27 Anaphora of the Twelve Apostles\n01:17:29 Communion\n01:28:56 Procession and Exposition of the Blessed Sacrament\n04:38:56 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/D2a6iAFOrd8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/D2a6iAFOrd8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/D2a6iAFOrd8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/D2a6iAFOrd8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/D2a6iAFOrd8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "D2a6iAFOrd8"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "D2a6iAFOrd8",
     "videoPublishedAt": "2024-03-29T04:22:23Z"
@@ -319,8 +949,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "uGiiTUWyokKReuiDWjG5Ut7SSvQ",
+  "etag": "rS6BxDZHipm8FoFrip4ivTE1DWY",
   "id": "UEx2Tkg4eVRPMUFIZnJ4Ykh5SzB4YkxrdXR3THh6R0NOaS41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2022-03-24T10:01:59Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Act of Consecration to the Immaculate Heart of Mary, part 1 of 5",
+    "description": "https://www.stmaron.org/press-releases/solemn-act-of-consecration-of-humanity-and-russia-and-ukraine-in-particular-to-the-immaculate-heart-of-mary\n\nPope Francis asks us to join in a solemn Act of Consecration of humanity, and Russia and Ukraine in particular, to the Immaculate Heart of Mary. The Holy Father himself will pray his solemn Act of Consecration in Rome at approximately 6:30pm (Rome), 12:30pm (Eastern time), March 25, 2022.\n\nHe asks us to join him in prayer in our churches, homes and places of prayer that day, Friday, March 25.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/u2A0uDzWvGA/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/u2A0uDzWvGA/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/u2A0uDzWvGA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/u2A0uDzWvGA/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/u2A0uDzWvGA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "u2A0uDzWvGA"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "u2A0uDzWvGA",
     "videoPublishedAt": "2022-03-24T10:09:23Z"
@@ -328,8 +1000,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "fsAuPq2Y1GhaHM-bC5pk0Q4UJTE",
+  "etag": "noS4yM4x3x1z95-7KRPesTb7vcE",
   "id": "UEx2Tkg4eVRPMUFIZnJ4Ykh5SzB4YkxrdXR3THh6R0NOaS4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2022-03-24T10:07:13Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Act of Consecration to the Immaculate Heart of Mary, part 2 of 5",
+    "description": "https://www.stmaron.org/press-releases/solemn-act-of-consecration-of-humanity-and-russia-and-ukraine-in-particular-to-the-immaculate-heart-of-mary\n\nPope Francis asks us to join in a solemn Act of Consecration of humanity, and Russia and Ukraine in particular, to the Immaculate Heart of Mary. The Holy Father himself will pray his solemn Act of Consecration in Rome at approximately 6:30pm (Rome), 12:30pm (Eastern time), March 25, 2022.\n\nHe asks us to join him in prayer in our churches, homes and places of prayer that day, Friday, March 25.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/FdnRLqs-lbk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/FdnRLqs-lbk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/FdnRLqs-lbk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/FdnRLqs-lbk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/FdnRLqs-lbk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "FdnRLqs-lbk"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "FdnRLqs-lbk",
     "videoPublishedAt": "2022-03-24T10:09:27Z"
@@ -337,8 +1051,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "erzc3A78fJZb_F1023Mi7KXQAik",
+  "etag": "FKnWYl6KR-gGnY4JC_-mC8Ta2w4",
   "id": "UEx2Tkg4eVRPMUFIZnJ4Ykh5SzB4YkxrdXR3THh6R0NOaS4wMTcyMDhGQUE4NTIzM0Y5",
+  "snippet": {
+    "publishedAt": "2022-03-24T10:07:56Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Act of Consecration to the Immaculate Heart of Mary, part 3 of 5",
+    "description": "https://www.stmaron.org/press-releases/solemn-act-of-consecration-of-humanity-and-russia-and-ukraine-in-particular-to-the-immaculate-heart-of-mary\n\nPope Francis asks us to join in a solemn Act of Consecration of humanity, and Russia and Ukraine in particular, to the Immaculate Heart of Mary. The Holy Father himself will pray his solemn Act of Consecration in Rome at approximately 6:30pm (Rome), 12:30pm (Eastern time), March 25, 2022.\n\nHe asks us to join him in prayer in our churches, homes and places of prayer that day, Friday, March 25.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ho_kapDdpMc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ho_kapDdpMc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ho_kapDdpMc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ho_kapDdpMc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/ho_kapDdpMc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ho_kapDdpMc"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "ho_kapDdpMc",
     "videoPublishedAt": "2022-03-24T10:09:34Z"
@@ -346,8 +1102,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "5zMb_qZHXmBYIql0kc-6204dH2w",
+  "etag": "cWfOOXYoEQ0BFvQlfK79tXQgJEk",
   "id": "UEx2Tkg4eVRPMUFIZnJ4Ykh5SzB4YkxrdXR3THh6R0NOaS41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2022-03-24T10:08:36Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Act of Consecration to the Immaculate Heart of Mary, part 4 of 5",
+    "description": "https://www.stmaron.org/press-releases/solemn-act-of-consecration-of-humanity-and-russia-and-ukraine-in-particular-to-the-immaculate-heart-of-mary\n\nPope Francis asks us to join in a solemn Act of Consecration of humanity, and Russia and Ukraine in particular, to the Immaculate Heart of Mary. The Holy Father himself will pray his solemn Act of Consecration in Rome at approximately 6:30pm (Rome), 12:30pm (Eastern time), March 25, 2022.\n\nHe asks us to join him in prayer in our churches, homes and places of prayer that day, Friday, March 25.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/lIPp17ggTd0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/lIPp17ggTd0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/lIPp17ggTd0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/lIPp17ggTd0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/lIPp17ggTd0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "lIPp17ggTd0"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "lIPp17ggTd0",
     "videoPublishedAt": "2022-03-24T10:09:38Z"
@@ -355,8 +1153,50 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "1uQgAC-Tzf5XQOfpj7jspIdYO28",
+  "etag": "Gocg8p6KQ8-_15rLe1dyK_NUSmQ",
   "id": "UEx2Tkg4eVRPMUFIZnJ4Ykh5SzB4YkxrdXR3THh6R0NOaS4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2022-03-24T10:10:37Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Act of Consecration to the Immaculate Heart of Mary, part 5 of 5",
+    "description": "https://www.stmaron.org/press-releases/solemn-act-of-consecration-of-humanity-and-russia-and-ukraine-in-particular-to-the-immaculate-heart-of-mary\n\nPope Francis asks us to join in a solemn Act of Consecration of humanity, and Russia and Ukraine in particular, to the Immaculate Heart of Mary. The Holy Father himself will pray his solemn Act of Consecration in Rome at approximately 6:30pm (Rome), 12:30pm (Eastern time), March 25, 2022.\n\nHe asks us to join him in prayer in our churches, homes and places of prayer that day, Friday, March 25.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-U_XZOTCMwI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-U_XZOTCMwI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-U_XZOTCMwI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/-U_XZOTCMwI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/-U_XZOTCMwI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "-U_XZOTCMwI"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
   "contentDetails": {
     "videoId": "-U_XZOTCMwI",
     "videoPublishedAt": "2022-03-24T10:09:44Z"
