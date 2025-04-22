@@ -32,7 +32,7 @@ rc='0'
       jq '.id' "${VIDEO_DB}" >"${pageStopJsonFile}"
       getUpcoming
       getMine
-    ) | tee search.json | jq '.id.videoId' \
+    ) | jq '.id.videoId' \
   | cat - "${pageStopJsonFile}" | sort | uniq \
   | jq --slurp --raw-output --compact-output '_nwise(50) | join(",")' \
   | while read -r idList ; do
