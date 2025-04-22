@@ -21,18 +21,17 @@ source "${SOURCE_DIR}/lib/call-rest.sh"
 source "${SOURCE_DIR}/lib/utils.sh"
 
 declare -r idFile="$(mktemp)"
-declare -r playlistTempJsonFile="$(mktemp)"
 declare -r pageStopJsonFile="$(mktemp)"
 
 rc='0'
 (
-  getMyPlaylists | tee "${playlistTempJsonFile}"
+  exec {fdOut}>&1
 
-  jq --raw-output --compact-output '.id' "${playlistTempJsonFile}" | while read -r listId ; do
+  getMyPlaylists | tee >( cat >&"${fdOut}" ) | jq --raw-output --compact-output '.id' | while read -r listId ; do
     getPlaylistItems "${listId}"
   done
 ) && rc="$?"
 
-rm "${playlistTempJsonFile}" "${pageStopJsonFile}" "${idFile}"
+rm "${pageStopJsonFile}" "${idFile}"
 
 exit "${rc}"

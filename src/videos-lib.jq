@@ -521,12 +521,13 @@ def bodyDescription:
 
 def body ($byAtomicTitle):
   . as $entry
+  | "https://youtube.com/watch?v=\(.id)" as $href
   | (
     "![](\(.snippet.thumbnails.medium.url))",
     "",
     "|||",
     "|-----|------|",
-    "| Video link: | [https://youtube.com/watch?v=\(.id)](https://youtube.com/watch?v=\(.id)) |",
+    "| Video link: | [\($href)](\($href)) |",
     (
       if .liveStreamingDetails then
         (
@@ -543,6 +544,8 @@ def body ($byAtomicTitle):
     ),
 
     ( ( .contentDetails.duration // "P0D" ) | select ( . != "P0D" ) | "| Duration: | \( mdDuration ) |" ),
+
+    "| Visibility:    | \( .status.privacyStatus )          |",
 
     (
         select (.statistics.viewCount | tonumber > 0)
@@ -590,28 +593,28 @@ def playlistBody ($videos ; $playlistItems):
     ( $videos | groupToObj ( .id ) ) as $videosById
   | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
   | .[]
+  | "https://youtube.com/playlist?list=\(.id)" as $href
   | (
+      "#### \( .snippet.title )[](#\( playlistAnchor ))",
+      "![](\(.snippet.thumbnails.medium.url))",
+      "",
+      "|||",
+      "|-----|-----|",
+      "| Published at:  | \( .snippet.publishedAt  | mdTime ) |",
+      "| Visibility:    | \( .status.privacyStatus )          |",
+      "| Video count:   | \( .contentDetails.itemCount )      |",
+      "| Playlist link: | [\($href)](\($href))                |",
+      "",
+      ( keys ),
+      bodyDescription,
       (
-        (
-          "#### \( .snippet.title )[](#\( playlistAnchor ))",
-          "![](\(.snippet.thumbnails.medium.url))",
-          "",
-          "|||",
-          "|-----|-----|",
-          "| Published at: | \( .snippet.publishedAt  | mdTime ) |",
-          "| Visibility:   | \( .status.privacyStatus )          |",
-          "| Video count:  | \( .contentDetails.itemCount )      |",
-          "",
-          ( keys ),
-          bodyDescription,
-          (
-              $itemsByPlaylist[ .id ][]
-            | $videosById[ .contentDetails.videoId ][]
-            | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
-          ),    
-          ""
-        )
-      )
+          $itemsByPlaylist[ .id ][]
+        | $videosById[ .contentDetails.videoId ][]
+        | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
+      ),    
+      "",
+      "---",
+      ""
     )
 ;
 
