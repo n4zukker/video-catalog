@@ -138,14 +138,16 @@ def mdSeeAlsoTime:
 # Input:
 #  "2022-04-10T17:35:47Z"
 #  "2024-12-25T21:46:15.543315Z"
+#  "2024-12-25T21:46:15.43315Z"
 #  "foobar"
 #
 # Output:
 #  "X2022-04-10-12-35-47"
 #  "X2024-12-25-16-46-15"
+#  "X2024-12-25-16-46-15"
 
 def anchorText ($prefix):
-    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d{6})?Z$")
+    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d+)?Z$")
   | "\(.yymmdd)T\(.hhmmss)Z"
   | fromdate
   | localtime
@@ -490,6 +492,13 @@ def linkTimestamps ($id):
   ) // .
 ;
 
+def bodyDescription:
+  (
+    ">" + ( . as $entry | .snippet.description | split("\n") | .[] | linkHyperlinks | linkTimestamps ( $entry.id ) ) + "  "
+  ),
+  ""
+;
+
 def body ($byAtomicTitle):
   . as $entry
   | (
@@ -534,12 +543,9 @@ def body ($byAtomicTitle):
           ) 
         )
     ),
+    "",
 
-    "",
-    (
-      ">" + ( .snippet.description | split("\n") | .[] | linkHyperlinks | linkTimestamps ( $entry.id ) ) + "  "
-    ),
-    "",
+    bodyDescription,
 
     ( seeAlso ( $byAtomicTitle ) ),
 
@@ -565,14 +571,19 @@ def playlistBody ($videos ; $playlistItems):
   | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
   | .[]
   | (
-      "#### \( .snippet.title )[](#\( playlistAnchor ))",
-      "",
       (
-          $itemsByPlaylist[ .id ][]
-        | $videosById[ .contentDetails.videoId ][]
-        | "* [\( .snippet.title )]( #\( seeAlsoAnchor ) )"
-      ),    
-      ""
+        (
+          "#### \( .snippet.title )[](#\( playlistAnchor ))",
+          "",
+          bodyDescription,
+          (
+              $itemsByPlaylist[ .id ][]
+            | $videosById[ .contentDetails.videoId ][]
+            | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
+          ),    
+          ""
+        )
+      )
     )
 ;
 
