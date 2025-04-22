@@ -599,13 +599,12 @@ def playlistBody ($videos ; $playlistItems):
       "![](\(.snippet.thumbnails.medium.url))",
       "",
       "|||",
-      "|-----|-----|",
+      "|:--|:------|",
       "| Published at:  | \( .snippet.publishedAt  | mdTime ) |",
       "| Visibility:    | \( .status.privacyStatus )          |",
       "| Video count:   | \( .contentDetails.itemCount )      |",
       "| Playlist link: | [\($href)](\($href))                |",
       "",
-      ( keys ),
       bodyDescription,
       (
           $itemsByPlaylist[ .id ][]
