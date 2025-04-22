@@ -447,11 +447,13 @@ def seePlaylists:
 #
 def mergePlaylists ($playlists ; $playlistItems):
     ( $playlists | groupToObj( .id ) ) as $playlistsById
-  | ( reduce $playlistItems[] as $item ( {} ; .[ $item.contentDetails.videoId ] |= ( . // [] ) + [ $item ] ) ) as $playlistItemsById
+  | ( $playlistItems | groupToObj ( .contentDetails.videoId ) ) as $playlistItemsById
   | map (
         $playlistItemsById[.id] as $items
       | if $items then
-          .playlists = ( $items | map ( ( $playlistsById[ .snippet.playlistId ] // [] )[] ) )
+          .playlists = (
+            $items | map ( $playlistsById[ .snippet.playlistId ][] )
+          )
         else
           .
         end

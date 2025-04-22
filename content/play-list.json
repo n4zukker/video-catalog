@@ -1,5 +1,57 @@
 {
   "kind": "youtube#playlist",
+  "etag": "YeWuSm-LxdmfjCNnYfPfbenRhG8",
+  "id": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
+  "snippet": {
+    "publishedAt": "2025-04-22T22:04:28.220263Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Ordinations",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "localized": {
+      "title": "Ordinations",
+      "description": ""
+    }
+  },
+  "status": {
+    "privacyStatus": "public"
+  },
+  "contentDetails": {
+    "itemCount": 2
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  }
+}
+{
+  "kind": "youtube#playlist",
   "etag": "1yPMJ0z_7vOj-F7fhLKAID32vLU",
   "id": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
   "snippet": {
@@ -204,6 +256,108 @@
   },
   "player": {
     "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "B3gOX5oYgEB1M4HwHJfQ6nqTyFo",
+  "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2025-04-22T22:04:28Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Ordination of Subdeacon Adonis El-Asmar to the Order of Deacons",
+    "description": "May 11, 2024:\nThe Ordination of Subdeacon Adonis El-Asmar to The Order of Deacons By The Imposition of Hands of The Most Reverend Gregory J. Mansour, Bishop of the Eparchy of St. Maron of Brooklyn.\n\nThe text for this Divine Liturgy can be found at http://ololc.org/doc/deaconOrdination.pdf.\n\nChapters:\n00:00:00 Recording starts\n00:02:14 Lighting of the Church\n00:12:40 Entrance hymn\n00:16:30 Blessing of the Candidate\n00:17:05 Opening Prayers\n00:20:33 Prayer of Forgiveness\n00:27:46 Readings\n00:33:49 Homily\n00:41:51 Creed\n00:47:54 Anaphora of the Twelve Apostles\n01:06:06 The Rite of Ordination of the Deacon\n01:09:50 Diaconal Proclamation\n01:10:36 Presentation of the Candidate\n01:11:29 Election of the Candidate\n01:12:50 Imposition of Hand and Prayers of Consecration\n01:16:14 Announcement of the Ordination\n01:18:28 First Procession\n01:21:59 Second Procession\n01:24:34 Third Procession\n01:27:53 Handing on of the Holy Mysteries\n01:27:47 Final Exhortation\n01:31:37 Communion\n01:42:58 Final Blessing",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/TTTgLJCB1II/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "TTTgLJCB1II"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "TTTgLJCB1II",
+    "videoPublishedAt": "2024-05-12T04:03:23Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "K8qhh3l8HYm_W6urJCXbxfoWDgg",
+  "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2025-04-22T22:04:28Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Ordination of Deacon Peter Frangie to the Holy Order of Priesthood",
+    "description": "July 17, 2021: Ordination of Deacon Peter Frangie to the Holy Order of Priesthood.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ordination-liturgy.pdf.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/euYcTWI6ZmY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/euYcTWI6ZmY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/euYcTWI6ZmY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/euYcTWI6ZmY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/euYcTWI6ZmY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "euYcTWI6ZmY"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "euYcTWI6ZmY",
+    "videoPublishedAt": "2021-07-17T20:34:36Z"
   }
 }
 {
