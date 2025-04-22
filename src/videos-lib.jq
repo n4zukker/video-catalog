@@ -595,7 +595,7 @@ def playlistBody ($videos ; $playlistItems):
   | .[]
   | "https://youtube.com/playlist?list=\(.id)" as $href
   | (
-      "#### \( .snippet.title )[](#\( playlistAnchor ))",
+      "#### \( .snippet.title )[]{#\( playlistAnchor )}",
       "![](\(.snippet.thumbnails.medium.url))",
       "",
       "|||",
