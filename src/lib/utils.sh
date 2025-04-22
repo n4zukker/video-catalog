@@ -27,7 +27,7 @@ function GET_PAGES () {
     while true; do
       nextPageToken="$(
         GET "${argArray[@]}" $( [[ -n "${nextPageToken}" ]] && printf "%q %q" '--data-urlencode' "pageToken=${nextPageToken}" ) \
-        | tee >( jq '.items[]' >"/dev/fd/${fdOut}" ) \
+        | tee >( jq '.items[]' >&"${fdOut}" ) \
 	| tee >( jq '.items[].id | select ( type == "object" ) | .videoId' >"${idFile}" ) \
         | jq --raw-output '.nextPageToken // empty'
       )"
@@ -47,12 +47,25 @@ function GET_PAGES () {
 function getMyPlaylists () (
   GET_PAGES 'youtube/v3/playlists' \
 	--data-urlencode 'part=contentDetails' \
-	--data-urlencode 'part=snippet' \
 	--data-urlencode 'part=id' \
+	--data-urlencode 'part=player' \
+	--data-urlencode 'part=snippet' \
+	--data-urlencode 'part=status' \
         --data-urlencode 'mine=true' \
         --data-urlencode 'maxResults=50' \
         --data-urlencode 'order=date'
 )
+
+function getPlaylistItems () {
+  local -r listId="$1"
+
+  GET_PAGES 'youtube/v3/playlistItems' \
+        --data-urlencode 'part=contentDetails' \
+        --data-urlencode 'part=id' \
+        --data-urlencode 'part=snippet' \
+        --data-urlencode "playlistId=${listId}" \
+        --data-urlencode 'maxResults=50'
+}
 
 function getMine () (
   GET_PAGES 'youtube/v3/search' \

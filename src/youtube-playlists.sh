@@ -22,25 +22,17 @@ source "${SOURCE_DIR}/lib/utils.sh"
 
 declare -r idFile="$(mktemp)"
 declare -r playlistTempJsonFile="$(mktemp)"
+declare -r pageStopJsonFile="$(mktemp)"
 
 rc='0'
 (
-  getMyPlaylists >"${playlistTempJsonFile}"
+  getMyPlaylists | tee "${playlistTempJsonFile}"
 
-  jq . "${playlistTempJsonFile}"
-
-  jq --raw-output --compact-output '.id' "${playlistTempJsonFile}" \
-  | while read -r listId ; do
-      GET 'youtube/v3/playlistItems' \
-        --data-urlencode 'part=contentDetails' \
-        --data-urlencode 'part=id' \
-        --data-urlencode 'part=snippet' \
-        --data-urlencode "playlistId=${listId}" \
-	;
-    done \
-  | jq '.items[]'
+  jq --raw-output --compact-output '.id' "${playlistTempJsonFile}" | while read -r listId ; do
+    getPlaylistItems "${listId}"
+  done
 ) && rc="$?"
 
-rm "${playlistTempJsonFile}" "${idFile}"
+rm "${playlistTempJsonFile}" "${pageStopJsonFile}" "${idFile}"
 
 exit "${rc}"

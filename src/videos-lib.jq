@@ -95,6 +95,28 @@ def categorize:
 # Examples:
 #
 # Command:
+#  fromdatems
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#  "2024-12-25T21:46:15.543315Z"
+#  "2024-12-25T21:46:15.43315Z"
+#  "foobar"
+#
+# Output:
+#  1649612147
+#  1735163175
+#  1735163175
+
+def fromdatems:
+    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d+)?Z$")
+  | "\(.yymmdd)T\(.hhmmss)Z"
+  | fromdate
+;
+
+# Examples:
+#
+# Command:
 #  mdTime
 #
 # Input:
@@ -105,7 +127,7 @@ def categorize:
 
 def mdTime:
   if . then
-    fromdate | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
+    fromdatems | localtime | strftime ( "%A, %B %e, %Y, %I:%M %p %Z" )
   else
     ""
   end
@@ -124,7 +146,7 @@ def mdTime:
 
 def mdSeeAlsoTime:
   if . then
-    fromdate | localtime | strftime ( "%x" )
+    fromdatems | localtime | strftime ( "%x" )
   else
     ""
   end
@@ -147,9 +169,7 @@ def mdSeeAlsoTime:
 #  "X2024-12-25-16-46-15"
 
 def anchorText ($prefix):
-    capture("^(?<yymmdd>\\d{4}-\\d{2}-\\d{2})T(?<hhmmss>\\d{2}:\\d{2}:\\d{2})(?<ms>[.]\\d+)?Z$")
-  | "\(.yymmdd)T\(.hhmmss)Z"
-  | fromdate
+    fromdatems
   | localtime
   | strftime ( "\($prefix)%Y-%m-%d-%H-%M-%S" )
 ;
@@ -431,7 +451,7 @@ def mergePlaylists ($playlists ; $playlistItems):
   | map (
         $playlistItemsById[.id] as $items
       | if $items then
-          .playlists = ( $items | map ( $playlistsById[ .snippet.playlistId ][] ) )
+          .playlists = ( $items | map ( ( $playlistsById[ .snippet.playlistId ] // [] )[] ) )
         else
           .
         end
@@ -525,7 +545,7 @@ def body ($byAtomicTitle):
     ( ( .contentDetails.duration // "P0D" ) | select ( . != "P0D" ) | "| Duration: | \( mdDuration ) |" ),
 
     (
-      select (.statistics.viewCount | tonumber > 0)
+        select (.statistics.viewCount | tonumber > 0)
       | .statistics
       | (
           "| Views: | \( .viewCount ) |",
@@ -574,7 +594,15 @@ def playlistBody ($videos ; $playlistItems):
       (
         (
           "#### \( .snippet.title )[](#\( playlistAnchor ))",
+          "![](\(.snippet.thumbnails.medium.url))",
           "",
+          "|||",
+          "|-----|-----|",
+          "| Published at: | \( .snippet.publishedAt  | mdTime ) |",
+          "| Visibility:   | \( .status.privacyStatus )          |",
+          "| Video count:  | \( .contentDetails.itemCount )      |",
+          "",
+          ( keys ),
           bodyDescription,
           (
               $itemsByPlaylist[ .id ][]
@@ -615,7 +643,7 @@ def toc ($byAtomicTitle; $byCategory; $playlists):
   "",
 
   (
-    map (
+      map (
         select ( ( categorize == "Livestreamed" ) and ( atomicTitles | all ( . as $title | $byAtomicTitle[$title] | length == 1 ) ) )
       )
     | sort_by ( keyDate )
