@@ -52,13 +52,13 @@
 }
 {
   "kind": "youtube#playlist",
-  "etag": "1yPMJ0z_7vOj-F7fhLKAID32vLU",
+  "etag": "swtwnUOQRQfcx3aLEr99R6Zabwc",
   "id": "PLvNH8yTO1AHeiYRAAGMZ4JJobuN9EEyMJ",
   "snippet": {
     "publishedAt": "2025-04-11T00:34:49.113324Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Passion Week 2025",
-    "description": "",
+    "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday April 13, 2025 through Sunday April 20, 2025.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/uD2au5j3rJg/default.jpg",
@@ -89,7 +89,7 @@
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "localized": {
       "title": "Passion Week 2025",
-      "description": ""
+      "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday April 13, 2025 through Sunday April 20, 2025."
     }
   },
   "status": {
@@ -156,13 +156,13 @@
 }
 {
   "kind": "youtube#playlist",
-  "etag": "bzB-YRG90ylO27IGdALq4nwSAMY",
+  "etag": "kMq6p6o9n7krQMt6yk9xZK20jrI",
   "id": "PLvNH8yTO1AHf0C5XPiWI1qLcX-fwsdLCJ",
   "snippet": {
     "publishedAt": "2024-03-30T20:58:33.98628Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Passion Week 2024",
-    "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Passion Week and Easter, Sunday March 24, 2024 through Sunday March 31, 2024.",
+    "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday March 24, 2024 through Sunday March 31, 2024.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/QfQNr8w7Wec/default.jpg",
@@ -193,7 +193,7 @@
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "localized": {
       "title": "Passion Week 2024",
-      "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Passion Week and Easter, Sunday March 24, 2024 through Sunday March 31, 2024."
+      "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday March 24, 2024 through Sunday March 31, 2024."
     }
   },
   "status": {
@@ -770,7 +770,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "930e4GSt2KqLJFC2kCZ6mtzj6RQ",
+  "etag": "2aDVqEdglCRVHicZnuldtkJLEos",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi45NDk1REZENzhEMzU5MDQz",
   "snippet": {
     "publishedAt": "2025-04-13T00:36:55Z",
@@ -821,7 +821,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "O6u9T6ZTBoXrfQ6HyoD_Sv0aIX8",
+  "etag": "Xa9mRp91tT5saYwcCdXYFjuY1Cg",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi5GNjNDRDREMDQxOThCMDQ2",
   "snippet": {
     "publishedAt": "2025-04-13T00:37:09Z",
