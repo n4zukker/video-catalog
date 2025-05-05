@@ -6393,7 +6393,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-nKDHKxvZwE9UVbUnGOW3oiIvjc",
+  "etag": "jvor30C8A4TOgHjX74gKfkCkyS0",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6402,27 +6402,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CKTq4sAG&rs=AOn4CLC1Mbw9nIxY9K7z-cGAiIMRXWnWZw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CKjx4sAG&rs=AOn4CLAtZ6-tppJ_NijytCuhTL9OCVY9Sg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLDf8taJiC61AaNxPT8qRvEUVK4bwg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLB2EgadDqb3mCzzsNOE_xXZd99rTQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLAgEVN5NTjyaY1_PkiEFpPVDUA5Tw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLB_MKpGgJ2fP-dq4hhilESpks8uxg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CKTq4sAG&rs=AOn4CLDpiQ4KzIuSnRvqLVsklX5vr3Y5Aw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CKjx4sAG&rs=AOn4CLA4a_hwu6CQw_onFF45JNT0qQiStA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLDURH_qkWFgT6GkiVH2ayGI7K-pyA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLAdBoxIb4u4I_Nt__0X87a_RDdt3g",
         "width": 1280,
         "height": 720
       }
@@ -11907,7 +11907,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "uuwokx5MnYUTi4lMdLQmYtVyPlI",
+  "etag": "vx5DUTdu2zV8bWz-xSzeSTTdz_s",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -11916,27 +11916,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CKTq4sAG&rs=AOn4CLDqN4xjJtVQ3PM7i5sHs2qLxu8mHg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CKjx4sAG&rs=AOn4CLAJKXG0NnGfwP3nmEuuQOfXrA5WXw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLBzolKOrcNCwGLaSjjcC4h3oNWmzg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLA4xhZVHI7kjX1QsxoIe4kJd-BhCA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLBrnF3EsRSynK-oPQQqN17Y-U616w",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLDeLED3lQetDRrI-uk7uEt8kCsZSA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CKTq4sAG&rs=AOn4CLBlENtTWOzAI7Ge1sGGcjH4XH1oDQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CKjx4sAG&rs=AOn4CLDfE2M7e2SxSwEf5l7InJ6WoJpKZA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLAHFJXhmKgYnl71vxlEez9BVeMfmg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLA0jANsH41qhV7D5fRtpzEHgk_uZQ",
         "width": 1280,
         "height": 720
       }
@@ -19014,12 +19014,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wQyc-_Jyuxo4VvcDBX2WomWrDfM",
+  "etag": "FlsXm6uzTV4lYnT7PQmW_QJ06Jo",
   "id": "R0dz1tSX44k",
   "snippet": {
     "publishedAt": "2024-05-06T03:37:21Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "6th Sunday of the Resurrection",
+    "title": "6th Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
     "description": "May 5, 2024: 6th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection, New Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
     "thumbnails": {
       "default": {
@@ -19052,7 +19052,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "6th Sunday of the Resurrection",
+      "title": "6th Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
       "description": "May 5, 2024: 6th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection, New Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
     }
   },
@@ -23854,7 +23854,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "67YXUDTxdPYUj8hVkJ1dNOUajXQ",
+  "etag": "VWO2_QCeitxRi2Ldcmx-pj9vbgg",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -23863,27 +23863,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CKTq4sAG&rs=AOn4CLCej3W1SiCEKk-xRIG3mSkn_qqAhQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CKjx4sAG&rs=AOn4CLDm_EgcQ6mZufDTBxvD5ZMK3TT8Vg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLCVB29ciTEvinVl--oBedyRMCRkhw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLCKUk97UiYcD3JvtAzm_sb9sli7NQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLC2DSc6IvejhVCuGiI-PgGy5jxOTQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLAjxNr8yHVU3CVILjEUkJusBO5r-g",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CKTq4sAG&rs=AOn4CLChtuXLbOGkRWqHBQZ5T8M9FUPySg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CKjx4sAG&rs=AOn4CLDC6CfCZTcotiwVAYroU03becXkDw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CKTq4sAG&rs=AOn4CLANJk9_-YDKaJu_oBO0uqCj2S-maQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CKjx4sAG&rs=AOn4CLBm4dsldyYoeqrNEjyL3kh9a-mi9w",
         "width": 1280,
         "height": 720
       }
@@ -25836,12 +25836,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "WAtDX_ecVdOYnB5uzeoBtSzsg5g",
+  "etag": "4cxrQnxN2uKDk3pCGUN4uOLli8M",
   "id": "c9gV-ckyeas",
   "snippet": {
     "publishedAt": "2025-05-05T05:23:58Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "3rd Sunday of the Resurrection; Our Lady of Lebanon",
+    "title": "3rd Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
     "description": "May 4, 2025: Third Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nFr. Dominique was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:21 Lighting of the church\n00:07:00 Opening hymn\n00:19:09 Readings\n00:32:35 Homily\n00:42:42 Creed\n00:48:15 Anaphora of Saint John the Apostle\n01:04:11 Communion\n01:10:55 Announcements",
     "thumbnails": {
       "default": {
@@ -25874,7 +25874,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "3rd Sunday of the Resurrection; Our Lady of Lebanon",
+      "title": "3rd Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
       "description": "May 4, 2025: Third Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nFr. Dominique was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:21 Lighting of the church\n00:07:00 Opening hymn\n00:19:09 Readings\n00:32:35 Homily\n00:42:42 Creed\n00:48:15 Anaphora of Saint John the Apostle\n01:04:11 Communion\n01:10:55 Announcements"
     }
   },
@@ -35561,13 +35561,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wxOv1VhUI5U50_kYxgzaTk5Ukgo",
+  "etag": "ljJpQ5FCTlMiHsQIY4DVVbyFtTk",
   "id": "ooP_9xm_hBY",
   "snippet": {
     "publishedAt": "2023-11-20T06:13:23Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Announcement to Zechariah",
-    "description": "November 19, 2023: The Announcement to Zechariah; First Sunday of Annoucements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah \nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome.",
+    "description": "November 19, 2023: The Announcement to Zechariah; First Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah \nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome.",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/ooP_9xm_hBY/default.jpg",
@@ -35600,7 +35600,7 @@
     "liveBroadcastContent": "none",
     "localized": {
       "title": "Sunday of the Announcement to Zechariah",
-      "description": "November 19, 2023: The Announcement to Zechariah; First Sunday of Annoucements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah \nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome."
+      "description": "November 19, 2023: The Announcement to Zechariah; First Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah \nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome."
     }
   },
   "contentDetails": {
