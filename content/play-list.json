@@ -1,5 +1,52 @@
 {
   "kind": "youtube#playlist",
+  "etag": "BcWIOYO8LGtS8ZMPJHWJHzvkCbc",
+  "id": "PLvNH8yTO1AHdcW2orxy9OE802KIKOjM9s",
+  "snippet": {
+    "publishedAt": "2025-04-28T22:14:54.300766Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Events",
+    "description": "",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "localized": {
+      "title": "Events",
+      "description": ""
+    }
+  },
+  "status": {
+    "privacyStatus": "public"
+  },
+  "contentDetails": {
+    "itemCount": 2
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHdcW2orxy9OE802KIKOjM9s\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  }
+}
+{
+  "kind": "youtube#playlist",
   "etag": "YeWuSm-LxdmfjCNnYfPfbenRhG8",
   "id": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
   "snippet": {
@@ -260,6 +307,103 @@
 }
 {
   "kind": "youtube#playlistItem",
+  "etag": "H5NYGt-9KlzTYWfPGgQ9iwPoyFs",
+  "id": "UEx2Tkg4eVRPMUFIZGNXMm9yeHk5T0U4MDJLSUtPak05cy41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2025-04-28T22:14:54Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Walking with Jesus From Palm Sunday to the Resurrection",
+    "description": "Our Lady of Lebanon Cathedral Proudly presents for the first time ever\nWalking with Jesus From Palm Sunday to the Resurrection\n\nExperience the Harmony of Faith this Easter as the timeless hymns of Catholic and Orthodox Traditions comes together in a breathtaking liturgical concert, where every note celebrates our shared joy and unity.\n\nPerformances by\nChurch of the Virgin Mary Melkite Church Choir\nOur Lady of Lebanon Maronite Cathedral Choir\nSt. Mary's Antiochian Orthodox Church Choir\nSt. Nicholas Antiochian Orthodox Cathedral Choir\n\nChapters:\n00:00:00 Recording starts\n00:13:46 Introduction\n00:16:17 All Choirs\n00:23:16 St. Mary's Antiochian Orthodox Church Choir\n00:33:25 St. Nicholas Antiochian Orthodox Cathedral Choir\n00:49:37 Our Lady of Lebanon Cathedral Choir\n01:22:13 Church of the Virgin Mary Melkite Choir\n01:50:30 All Choirs\n01:58:32 Everyone\n01:59:31 Final Remarks",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/uwVAPxaeVNI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdcW2orxy9OE802KIKOjM9s",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "uwVAPxaeVNI"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "uwVAPxaeVNI",
+    "videoPublishedAt": "2025-04-26T14:11:32Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "959awmyDSeuWCHqNyjffgaotbzM",
+  "id": "UEx2Tkg4eVRPMUFIZGNXMm9yeHk5T0U4MDJLSUtPak05cy4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2025-04-28T22:14:54Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Prayer Service for Lebanon",
+    "description": "Prayer text: http://ololc.org/doc/prayer-for-lebanon-ramsho.pdf\n\n\nBrother Bishops. Priests. Deacons and Subdeacons. Consecrated Men and Women. Lay Faithful: \n\nOn  behalf of Archbishop  Anoushavan Tanielian.  President  of CAMECT.  Metropolitan  Joseph\nand I invite you to an ecumenical and interfaith prayer service for Lebanon on Tuesday. August\n25. 2020 at 7:00 PM at Our Lady of Lebanon Cathedral located at  113  Remsen Street. Brooklyn. NY  11201.  Your  presence.  and  that  of your  family.  friends  and  congregations  would  be  most welcome.\n\nLebanon needs and deserves our prayers.  One hundred years ago it was a Christian Patriarch and a  Muslim Mufti  who  insured  that  Lebanon would be  a  welcoming  refuge  for  all.  The National Poet  of  1943   insured  once  again  that  Lebanon  would  be  a  shared  dream  of  the  different communities.  In  the   1980's.  even  during  her  civil  war.  Saint  Pope  John  Paul  II  stated  that\n\"Lebanon is more than a country. it is a message for East and West\".\n\nToday  this vision.  dream. and hope of Lebanon  is  in  need of our  help  and our prayer.  And  so. under the  Patronage  of Our Lady of Lebanon.  we  invite  you  to the  Maronite  Cathedral.  which bears  her  name.  to  pray  for  the  Lebanese  people  and  for  the  vision.  dream  and  hope  that  is Lebanon!\n\nI hope to see you!\n\nSincerely yours in Christ,\n+ Gregory John Mansour\n\n\nPrayer text: http://ololc.org/doc/prayer-for-lebanon-ramsho.pdf",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/t98RJnvPLis/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/t98RJnvPLis/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/t98RJnvPLis/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/t98RJnvPLis/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/t98RJnvPLis/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdcW2orxy9OE802KIKOjM9s",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "t98RJnvPLis"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "t98RJnvPLis",
+    "videoPublishedAt": "2020-08-26T00:49:12Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
   "etag": "B3gOX5oYgEB1M4HwHJfQ6nqTyFo",
   "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS41NkI0NEY2RDEwNTU3Q0M2",
   "snippet": {
@@ -362,7 +506,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "7Dweb3xtO0hOSb6OFNSLXeK8Tqc",
+  "etag": "2OImsRwLnMSSF7bC6-H0_8gfGcI",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4yODlGNEE0NkRGMEEzMEQy",
   "snippet": {
     "publishedAt": "2025-04-11T00:35:20Z",
@@ -413,7 +557,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "Xn4N-X2VqHP95jhbed2RCqEXHwQ",
+  "etag": "4nWcigswjmPJfEq7GYxOR4ykyp8",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi41NkI0NEY2RDEwNTU3Q0M2",
   "snippet": {
     "publishedAt": "2025-04-11T00:35:00Z",
@@ -464,7 +608,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "mXE3E-_5B7cAMoWlcVu6Rb__0uY",
+  "etag": "w3dLv1UXKzeNUe_unOK5mo2o_mA",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4wMTcyMDhGQUE4NTIzM0Y5",
   "snippet": {
     "publishedAt": "2025-04-11T00:36:05Z",
@@ -515,7 +659,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "SYakKHN37jFpCVgx_1emXLiGISs",
+  "etag": "ojFz3On6CDUpWaZJTv6rX_VwdZI",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi41MjE1MkI0OTQ2QzJGNzNG",
   "snippet": {
     "publishedAt": "2025-04-13T00:35:30Z",
@@ -566,7 +710,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "_wPt_JxFgXRl4w3ZDjGg3sYlwlQ",
+  "etag": "bHMHOLKbTzKRMy3n5pIvTYTvyt8",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4wOTA3OTZBNzVEMTUzOTMy",
   "snippet": {
     "publishedAt": "2025-04-13T00:35:49Z",
@@ -617,7 +761,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "IaREWPbbFSbuggzGLP3bnkIiokY",
+  "etag": "zruan7lUVCfx3IJgqNcFQT29Yq4",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi4xMkVGQjNCMUM1N0RFNEUx",
   "snippet": {
     "publishedAt": "2025-04-13T00:36:04Z",
@@ -719,7 +863,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "g5s-jKEDPT5-f7uLd5q8Vkw-KZc",
+  "etag": "-pGW1Xfq-0IVyLeHNH0KRAcXcSo",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
     "publishedAt": "2025-04-13T00:36:40Z",
@@ -770,7 +914,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "2aDVqEdglCRVHicZnuldtkJLEos",
+  "etag": "TchVwGnoq6hQygLat_Ewe8NZMV0",
   "id": "UEx2Tkg4eVRPMUFIZWlZUkFBR01aNEpKb2J1TjlFRXlNSi45NDk1REZENzhEMzU5MDQz",
   "snippet": {
     "publishedAt": "2025-04-13T00:36:55Z",
@@ -1382,7 +1526,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "tXH_4NSQxe_o7i6955pfNwlCEX4",
+  "etag": "TVFBxtumFqqb75GmPHBokscKrhA",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi41MjE1MkI0OTQ2QzJGNzNG",
   "snippet": {
     "publishedAt": "2024-03-30T21:00:13Z",
@@ -1433,7 +1577,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "dps2Rw0oIIFS76g2NJD5dnUbAU0",
+  "etag": "JC8CK5n07cyCqvC-l9kV474P4O0",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi4wOTA3OTZBNzVEMTUzOTMy",
   "snippet": {
     "publishedAt": "2024-03-30T21:00:31Z",
@@ -1586,7 +1730,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "YwyskkMQCT6TScAL28c1_7xSZYs",
+  "etag": "j2rvfd_qhH4n0QKKx7tDjVi9Ciw",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
     "publishedAt": "2024-03-30T21:01:26Z",
@@ -1637,7 +1781,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "BRyY7xJD5qkjGnHkK-CnP8Ah30U",
+  "etag": "rrN4z_bYkP_tkqfP_YSQCkVSfn4",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi45NDk1REZENzhEMzU5MDQz",
   "snippet": {
     "publishedAt": "2024-03-30T21:01:46Z",
@@ -1688,7 +1832,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "z95rSR5lUtK2s465Bf_X0l1ZrZw",
+  "etag": "zqy1YO8IpaVNMw8Pi6CCv8XaPYQ",
   "id": "UEx2Tkg4eVRPMUFIZjBDNVhQaVdJMXFMY1gtZndzZExDSi5GNjNDRDREMDQxOThCMDQ2",
   "snippet": {
     "publishedAt": "2024-03-30T21:02:00Z",
