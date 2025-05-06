@@ -155,6 +155,25 @@ def mdSeeAlsoTime:
 # Examples:
 #
 # Command:
+#  mdSeeAlsoYear
+#
+# Input:
+#  "2022-04-10T17:35:47Z"
+#
+# Output:
+#  "2022"
+
+def mdSeeAlsoYear:
+  if . then
+    fromdatems | localtime | strftime ( "%Y" )
+  else
+    ""
+  end
+;
+
+# Examples:
+#
+# Command:
 #  anchorText("X")
 #
 # Input:
@@ -257,40 +276,47 @@ def seeAlsoAnchor:
   keyDate | mdSeeAlsoAnchor
 ;
 
+#
+# Make a series of references to videos.
+# 
 # Examples:
 #
 # Command:
-#  seeAlsoChainGroup
+#  seeAlsoChainGroup ( mdSeeAlsoYear )
 #
 # Input:
 #  [
 #    {
 #      "kind": "youtube#video",
 #      "snippet": {
-#        "publishedAt": "2022-04-10T17:35:47Z",
+#        "publishedAt": "2022-04-10T01:02:03Z",
 #        "title": "Hosanna Sunday"
-#      },
-#      "liveStreamingDetails": {
-#        "actualStartTime": "2022-04-10T15:28:00Z",
-#        "actualEndTime": "2022-04-10T17:17:09Z",
-#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    },
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-11T01:02:03Z",
+#        "title": "Passion Monday"
 #      }
 #    }
 #  ]
 #
 # Output:
 #  [
-#    "[04/10/2022](#d2022-04-10-10-28-00)"
+#    "[2022](#d2022-04-09-20-02-03)",
+#    "[2022](#d2022-04-10-20-02-03)"
 #  ]
 #
-def seeAlsoChainGroup:
-  map ( "[\( keyDate | mdSeeAlsoTime )](#\( seeAlsoAnchor ))" )
+def seeAlsoChainGroup ( textDef ):
+  map ( "[\( keyDate | textDef )](#\( seeAlsoAnchor ))" )
 ;
+
 
 # Examples:
 #
 # Command:
-#  seeAlsoChain
+#  seeAlsoChain ( 0 )
 #
 # Input:
 #  [
@@ -309,7 +335,48 @@ def seeAlsoChainGroup:
 #  ]
 #
 # Output:
-#    "[04/10/2022](#d2022-04-10-10-28-00)"
+#    "[2022](#d2022-04-10-10-28-00)"
+#
+# Input:
+#  [
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2021-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      }
+#    },
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-10T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    },
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2022-04-11T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      },
+#      "liveStreamingDetails": {
+#        "actualStartTime": "2022-04-11T15:28:00Z",
+#        "actualEndTime": "2022-04-10T17:17:09Z",
+#        "scheduledStartTime": "2022-04-10T15:30:00Z"
+#      }
+#    }
+#  ]
+#
+# Output:
+#    ""
+#    " * [2021](#d2021-04-10-12-35-47)"
+#    " * [04/10/2022](#d2022-04-10-10-28-00)"
+#    "[04/11/2022](#d2022-04-11-10-28-00)"
 #
 # Input:
 #  [
@@ -343,30 +410,42 @@ def seeAlsoChainGroup:
 #    "[04/10/2022](#d2022-04-10-10-28-00)"
 #    "[04/11/2022](#d2022-04-11-10-28-00)"
 #
-def seeAlsoChain:
-    group_by ( keyYear )
-  | if length == 1 or all( length == 1 ) then
-      map ( .[] ) | seeAlsoChainGroup[]
+def seeAlsoChain ( $myYear ):
+  def textDef ( $byYear ) :
+      . as $kd
+    | ( fromdate | localtime[0] ) as $ky
+    | if $ky == $myYear or ( $byYear[ $ky | tostring ] | length > 1 ) then
+        mdSeeAlsoTime
+      else
+        mdSeeAlsoYear
+      end
+  ;
+
+    groupToObj ( keyYear | tostring ) as $byYear
+  | group_by ( keyYear )
+  | if all( length == 1 ) or length == 1 then
+      map ( .[] ) | seeAlsoChainGroup ( textDef ($byYear) )[]
     else
      (
        "",
-       map ( seeAlsoChainGroup | .[0] |= " * \(.)" | .[] )[]
+       ( map ( ( seeAlsoChainGroup ( textDef ($byYear) ) | .[0] |= " * \(.)" )[] )[] )
      )
     end
 ;
 
 def seeAlso ($byAtomicTitle):
-  atomicTitles as $aTitles
+    atomicTitles as $aTitles
+  | keyDate as $myDate
+  | keyYear as $myYear
   | (
-    . as $entry
-    | $aTitles
+      $aTitles
     | map(
         . as $t
         | $byAtomicTitle[$t] | select ( length > 1 )
         | sort_by(
             keyDate
           )
-        | map ( select ( keyDate != ( $entry | keyDate ) ) )
+        | map ( select ( keyDate != $myDate ) )
         | { key: $t, value: . }
       )
   ) as $titles
@@ -376,9 +455,9 @@ def seeAlso ($byAtomicTitle):
     | if length == 0 then
         empty
       elif ( $aTitles | length ) == 1 then
-        [ .[0].value | seeAlsoChain ]
+        [ .[0].value | seeAlsoChain ( $myYear ) ]
       else
-        map ( "", "*\(.key)*:", ( .value | seeAlsoChain ) )
+        map ( "", "*\(.key)*:", ( .value | seeAlsoChain ( $myYear ) ) )
       end
     ) as $seeAlsoLines
 
