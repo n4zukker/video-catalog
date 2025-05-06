@@ -277,22 +277,12 @@ def seeAlsoAnchor:
 ;
 
 #
-# Make a series of references to videos.
-# 
 # Examples:
 #
 # Command:
-#  seeAlsoChainGroup ( mdSeeAlsoYear )
+#  seeAlsoChainLink ( mdSeeAlsoYear )
 #
 # Input:
-#  [
-#    {
-#      "kind": "youtube#video",
-#      "snippet": {
-#        "publishedAt": "2022-04-10T01:02:03Z",
-#        "title": "Hosanna Sunday"
-#      }
-#    },
 #    {
 #      "kind": "youtube#video",
 #      "snippet": {
@@ -300,16 +290,12 @@ def seeAlsoAnchor:
 #        "title": "Passion Monday"
 #      }
 #    }
-#  ]
 #
 # Output:
-#  [
-#    "[2022](#d2022-04-09-20-02-03)",
-#    "[2022](#d2022-04-10-20-02-03)"
-#  ]
+#   "[2022](#d2022-04-10-20-02-03)"
 #
-def seeAlsoChainGroup ( textDef ):
-  map ( "[\( keyDate | textDef )](#\( seeAlsoAnchor ))" )
+def seeAlsoChainLink ( textDef ):
+  "[\( keyDate | textDef )](#\( seeAlsoAnchor ))"
 ;
 
 
@@ -339,6 +325,13 @@ def seeAlsoChainGroup ( textDef ):
 #
 # Input:
 #  [
+#    {
+#      "kind": "youtube#video",
+#      "snippet": {
+#        "publishedAt": "2020-04-10T17:35:47Z",
+#        "title": "Hosanna Sunday"
+#      }
+#    },
 #    {
 #      "kind": "youtube#video",
 #      "snippet": {
@@ -374,7 +367,8 @@ def seeAlsoChainGroup ( textDef ):
 #
 # Output:
 #    ""
-#    " * [2021](#d2021-04-10-12-35-47)"
+#    " * [2020](#d2020-04-10-12-35-47)"
+#    "[2021](#d2021-04-10-12-35-47)"
 #    " * [04/10/2022](#d2022-04-10-10-28-00)"
 #    "[04/11/2022](#d2022-04-11-10-28-00)"
 #
@@ -422,14 +416,28 @@ def seeAlsoChain ( $myYear ):
   ;
 
     groupToObj ( keyYear | tostring ) as $byYear
-  | group_by ( keyYear )
-  | if all( length == 1 ) or length == 1 then
-      map ( .[] ) | seeAlsoChainGroup ( textDef ($byYear) )[]
+  | map ( { key: keyYear, value: ( seeAlsoChainLink ( textDef ( $byYear ) ) ) } )
+  | groupToObj ( .key | tostring )
+  | map_values ( map ( .value ) )
+  | reduce .[] as $item (
+      [] ;
+        .[-1][-1] as $prevLine
+      | if length == 0 then
+        [ $item ]
+      elif ( $item | length ) == 1 and ( $prevLine | length ) == ( $item[0] | length ) then
+        .[-1] |= . + $item
+      else
+        . + [ $item ]
+      end
+    )
+
+  | if length == 1 then
+      .[][]
     else
-     (
-       "",
-       ( map ( ( seeAlsoChainGroup ( textDef ($byYear) ) | .[0] |= " * \(.)" )[] )[] )
-     )
+      (
+        "",
+        ( map ( ( .[0] |= " * \(.)" ) | .[] ) [] )
+       )
     end
 ;
 
