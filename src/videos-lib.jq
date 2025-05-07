@@ -756,17 +756,19 @@ def matrix:
       "|:-----|\( $years | map (   ":---:"  ) | join (  "|"  ) )|",
       "|   |\( $years | join ( " | " ) )|",
       (
-          to_entries[]
+          to_entries
+        | map ( .value |= groupToObj ( keyYear | tostring ) )
+        | sort_by ( .value | to_entries[-1].value[0] | keyDate | fromdate | localtime | .[0] = null )
+        | .[]
         | [
             "| \( .key ) |",
             (
-                ( .value | groupToObj ( keyYear | tostring ) ) as $videosByYear
+                .value as $videosByYear
               | $years
               | map (
                     ( $videosByYear[.] // [] )
-                  | map ( keyDate )
-                  | sort
-                  | map ( mdSeeAlsoTime )
+                  | sort_by ( keyDate )
+                  | map ( seeAlsoChainLink( mdSeeAlsoTime ) )
                   | join ( " " ) 
                 )
              | join (" | ")
