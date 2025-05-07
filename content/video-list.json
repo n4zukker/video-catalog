@@ -3700,13 +3700,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nXFatHUPlUi55ShIp6khgpjx6_I",
+  "etag": "MVdaI6PgMWdIxH-kOtl_rq9gFt4",
   "id": "4vEXg9zShUU",
   "snippet": {
     "publishedAt": "2024-01-01T06:04:24Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "The Finding of Our Lord in the Temple",
-    "description": "December 31, 2023: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John",
+    "title": "The Finding of the Lord in the Temple",
+    "description": "December 31, 2023: The Finding of the Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/4vEXg9zShUU/default.jpg",
@@ -3738,8 +3738,8 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "The Finding of Our Lord in the Temple",
-      "description": "December 31, 2023: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John"
+      "title": "The Finding of the Lord in the Temple",
+      "description": "December 31, 2023: The Finding of the Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John"
     }
   },
   "contentDetails": {
@@ -6393,7 +6393,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ioD1rybfWD7v1EMXbR9-L-3cKP0",
+  "etag": "-Z5WBGDRpJcEGcnkWb2CeMhzakI",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6402,27 +6402,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CKz44sAG&rs=AOn4CLBlM2HXsyEZdGnQZmvh7VmYdOduHA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMDq6sAG&rs=AOn4CLCqTJSQCTqKORgPlGSYglSbvPxvZA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLBz6kUvJeE9oiKxDOMLCX02nIzF5Q",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLA5AkXJxmxjaC3w-FMyYDyPYTKzqQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLCYGhbdGVlP-mkVe6UR7EttaixLlA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLBexB0X6PvlMsFJJNaxJ8PyWQ9XCQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CKz44sAG&rs=AOn4CLC-b0bymTS5goqjqsSYY9ssxboNKg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMDq6sAG&rs=AOn4CLBeY2wUwZYnN80DnqhlT3-MDu8ONw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CKz44sAG&rs=AOn4CLBvC2cQcCO3CoiUl2UvZQmk8p2kJQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLDGof07hIynwd8R-aRQRqvZGTyohw",
         "width": 1280,
         "height": 720
       }
@@ -6479,7 +6479,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "70rpk2qVQLiINrLBxx0bj5eYX8g",
+  "etag": "GwLMHmWOXnJsqTN2Xd5hDriQGHQ",
   "id": "867kSikCN6M",
   "snippet": {
     "publishedAt": "2023-12-11T06:51:23Z",
@@ -11907,7 +11907,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "XbulOXERxfwP2vAJHI1bPIT_XBw",
+  "etag": "glIwF4d5wT18VT-0FD1DuPdXRhE",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -11916,27 +11916,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CKz44sAG&rs=AOn4CLBlIRT-9Aglk1vLM68ZasHFuihA6w",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMDq6sAG&rs=AOn4CLCBza3ejYaSNK4WlVmmCWJObPTF_A",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLDD0kOX46pom4Jp9SGvenL_M6_VVg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLDa9fVSDxIn_wVokSXN16ayLfws_Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLD3XBHPppGrlBowI5oME7EQmXoW8A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLA-Lf40skkImK-jqU_vbKHCS23DNg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CKz44sAG&rs=AOn4CLCyt1VbCT3UXAagPnczPtoJ9L7BGg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMDq6sAG&rs=AOn4CLD3zdzB38dh5WrtKhz6ssxjsPDsvg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CKz44sAG&rs=AOn4CLAyoTjplW8w5SHnEwSF9xjhBGtF5Q",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLCZETv7-XSC2LV64Pvxj0nvuECJ5Q",
         "width": 1280,
         "height": 720
       }
@@ -14408,7 +14408,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PFK3p_YYMgOZ0ccnv1vV5_zuaoo",
+  "etag": "_5n3-uT0TTvI2t1rG4yR3uorKJ8",
   "id": "JdfS3a5m9wE",
   "snippet": {
     "publishedAt": "2021-04-25T02:03:43Z",
@@ -14470,7 +14470,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "582",
+    "viewCount": "583",
     "likeCount": "12",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -18485,13 +18485,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "fygWFf7ku4DJKjZ-nM_utbbs-RA",
+  "etag": "RBmphacJWKdjr745d0myPRFLCzM",
   "id": "Qab2A1tSwTU",
   "snippet": {
     "publishedAt": "2023-05-22T05:08:08Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "7th Sunday of Resurrection; First Communion",
-    "description": "May 21, 2023: Seventh Sunday of Resurrection.   First Communion\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:00:42 Lighting of the Church\n00:08:28 Opening hymn\n00:11:25 Children's entrance\n00:13:08 Opening prayers\n00:21:13 Readings\n00:29:16 Homily\n00:37:00 Gifts procession\n00:39:15 Offerings Incense hymn\n00:41:30 Rite of Peace\n00:44:28 Eucharistic Prayer\n00:51:13 Intercessions\n00:59:18 Communion to the children and their families\n01:06:31 Thanksgiving Prayer\n01:11:52 Children's Thanksgiving Prayer\n01:15:50 Recession and Pictures",
+    "title": "7th Sunday of the Resurrection; First Communion",
+    "description": "May 21, 2023: Seventh Sunday of the Resurrection.   First Communion\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:00:42 Lighting of the Church\n00:08:28 Opening hymn\n00:11:25 Children's entrance\n00:13:08 Opening prayers\n00:21:13 Readings\n00:29:16 Homily\n00:37:00 Gifts procession\n00:39:15 Offerings Incense hymn\n00:41:30 Rite of Peace\n00:44:28 Eucharistic Prayer\n00:51:13 Intercessions\n00:59:18 Communion to the children and their families\n01:06:31 Thanksgiving Prayer\n01:11:52 Children's Thanksgiving Prayer\n01:15:50 Recession and Pictures",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/Qab2A1tSwTU/default.jpg",
@@ -18523,8 +18523,8 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "7th Sunday of Resurrection; First Communion",
-      "description": "May 21, 2023: Seventh Sunday of Resurrection.   First Communion\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:00:42 Lighting of the Church\n00:08:28 Opening hymn\n00:11:25 Children's entrance\n00:13:08 Opening prayers\n00:21:13 Readings\n00:29:16 Homily\n00:37:00 Gifts procession\n00:39:15 Offerings Incense hymn\n00:41:30 Rite of Peace\n00:44:28 Eucharistic Prayer\n00:51:13 Intercessions\n00:59:18 Communion to the children and their families\n01:06:31 Thanksgiving Prayer\n01:11:52 Children's Thanksgiving Prayer\n01:15:50 Recession and Pictures"
+      "title": "7th Sunday of the Resurrection; First Communion",
+      "description": "May 21, 2023: Seventh Sunday of the Resurrection.   First Communion\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:00:42 Lighting of the Church\n00:08:28 Opening hymn\n00:11:25 Children's entrance\n00:13:08 Opening prayers\n00:21:13 Readings\n00:29:16 Homily\n00:37:00 Gifts procession\n00:39:15 Offerings Incense hymn\n00:41:30 Rite of Peace\n00:44:28 Eucharistic Prayer\n00:51:13 Intercessions\n00:59:18 Communion to the children and their families\n01:06:31 Thanksgiving Prayer\n01:11:52 Children's Thanksgiving Prayer\n01:15:50 Recession and Pictures"
     }
   },
   "contentDetails": {
@@ -22382,7 +22382,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2xge7CQpWDDvZsJAW7FDxCZHd7U",
+  "etag": "8GeFNCTnwGVKtxtO4pmiWlwmnxQ",
   "id": "WImxbWeCB70",
   "snippet": {
     "publishedAt": "2025-04-18T04:17:13Z",
@@ -22445,7 +22445,7 @@
   },
   "statistics": {
     "viewCount": "183",
-    "likeCount": "2",
+    "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -23854,7 +23854,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tpPFI-Oy6SQhvAe1txf97cBEwZk",
+  "etag": "urZdj9QcpzexGrAVkOc6_ZT1_GQ",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -23863,27 +23863,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CKz44sAG&rs=AOn4CLADOgVUWQgU5g5Um4b3gxRq3QX3Og",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMDq6sAG&rs=AOn4CLCv8MXJdTomMplKJjyFHG5sdChejQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLBs1aseNuiBSdEEw7mmvuFc-Fxetw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLC7tZK5XrgQTHNx-R-DNjBYqzQbNg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CKz44sAG&rs=AOn4CLCKUy79UzZUGtm_AK_I3FDuFCnMkA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLC8VK5RD8fdLdRQdTYT0KLT3-UOtA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CKz44sAG&rs=AOn4CLDU4lRWlsNAX8HntWKmSr7oP2ilEg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMDq6sAG&rs=AOn4CLDKwJphWGczMGNurqh97B2PW0_MFw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CKz44sAG&rs=AOn4CLD9qrkeDUCO4EFrlPz741zvLasgMg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMDq6sAG&rs=AOn4CLBVxd1unemIdT0w9bScNm02OTEHAw",
         "width": 1280,
         "height": 720
       }
@@ -25836,7 +25836,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4cxrQnxN2uKDk3pCGUN4uOLli8M",
+  "etag": "C_j7EwZTyYmey-7UikGoqFOtq1A",
   "id": "c9gV-ckyeas",
   "snippet": {
     "publishedAt": "2025-05-05T05:23:58Z",
@@ -25898,7 +25898,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "70",
+    "viewCount": "76",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -26121,7 +26121,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZNbme_ePvD0SG1mcmVdLdyPlpo8",
+  "etag": "fisRj0vcbE4a0mNROBiOQ4rqXwk",
   "id": "cg1BRQ3KF_g",
   "snippet": {
     "publishedAt": "2025-04-28T05:09:07Z",
@@ -26183,7 +26183,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "117",
+    "viewCount": "119",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -26572,12 +26572,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YDC71sJAJ9k9pShuROrBTlFSp0E",
+  "etag": "M210dWjyFhW2DWrk3OTxBtQKSMk",
   "id": "d9H5HieN1wU",
   "snippet": {
     "publishedAt": "2021-07-11T20:47:07Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Eigth Sunday of Pentecost; The Feast of the Massabki Martyrs",
+    "title": "Eighth Sunday of Pentecost; The Feast of the Massabki Martyrs",
     "description": "July 11, 2021: 8th Sunday of Pentecost.\nWe will celebrate the feast of the Massabki Martyrs.   Their actual feast day is June 10.\n\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 708 -- The Massabki Martyrs\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord",
     "thumbnails": {
       "default": {
@@ -26610,7 +26610,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "Eigth Sunday of Pentecost; The Feast of the Massabki Martyrs",
+      "title": "Eighth Sunday of Pentecost; The Feast of the Massabki Martyrs",
       "description": "July 11, 2021: 8th Sunday of Pentecost.\nWe will celebrate the feast of the Massabki Martyrs.   Their actual feast day is June 10.\n\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 708 -- The Massabki Martyrs\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord"
     }
   },
@@ -28995,7 +28995,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "C3DNEOiTe68wETmqPIBtAqJVkDw",
+  "etag": "5ynWaiDfDBwtEKR2g2eo741ahbA",
   "id": "h9872JVmTRs",
   "snippet": {
     "publishedAt": "2025-04-20T17:46:27Z",
@@ -29057,8 +29057,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "103",
-    "likeCount": "6",
+    "viewCount": "105",
+    "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -29605,13 +29605,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Bh8X7Kv0OXygPmQ_C7gwZ6kFrhc",
+  "etag": "oAJ3dDm0mGkbto3NcWWySsLnh2Q",
   "id": "hTi_jajnrZ4",
   "snippet": {
     "publishedAt": "2025-01-06T07:13:16Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "The Finding of Our Lord in the Temple",
-    "description": "January 5, 2025: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\n-----\nThe Jubilee Prayer\n\nFather in heaven, may the faith you have given us\nin your son, Jesus Christ, our brother,\nand the flame of charity enkindled\nin our hearts by the Holy Spirit,\nreawaken in us the blessed hope \nfor the coming of your Kingdom.\n\nMay your grace transform us\ninto tireless cultivators of the seeds of the Gospel.\nMay those seeds transform from within both humanity\nand the whole cosmos in the sure expectation\nof a new heaven and a new earth,\nwhen, with the powers of Evil vanquished,\nyour glory will shine eternally.\n\nMay the grace of the Jubilee\nreawaken in us, Pilgrims of Hope,\na yearning for the treasures of heaven.\nMay that same grace spread the joy\nand peace of our Redeemer throughout the earth.\nTo you our God, eternally blessed, \nbe glory and praise for ever.  Amen\n\n-----\n\nصلاة اليوبيل\n\nأيها الآب الذي في السماوات،\nإن الإيمان الذي وهبتَه لنا\nبابنك يسوع المسيح، أخانا،\nوشعلة المحبة\nالمُنسكِبَة في قلوبنا بروحك القدوس،\nيوقظان فينا الرجاء المبارك لمجيء ملكوتك.\n \n\nإنّ نعمتك تحوّلنا إلى مزارعين مجتهدين للبذور الإنجيلية\nالتي تُخَمِّر الإنسانية والعالم،\nفي الانتظار الوثيق\nللسماوات الجديدة والأرض الجديدة،\nعندما تُهزَم قوى الشر\nويَظهَرُ مجدُك إلى الأبد.\n\n إنّ نعمة اليوبيل تحيي فينا\nنحن، حجاج الرجاء،\nالشوق نحو الخيرات السماوية\nوتسكب على العالم أجمع\nفرح وسلام فادينا.\nأيها الإله الأزليّ المبارك،\nلك الحمد والتسبيح إلى الأبد، آمين.\n\nChapters:\n00:00:00 Recording starts\n00:03:01 Lighting of the church\n00:09:01 Opening hymn\n00:19:49 Readings\n00:31:10 Homily\n00:41:05 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:01:51 Communion\n01:11:45 Jubilee Prayer",
+    "title": "The Finding of the Lord in the Temple",
+    "description": "January 5, 2025: The Finding of the Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\n-----\nThe Jubilee Prayer\n\nFather in heaven, may the faith you have given us\nin your son, Jesus Christ, our brother,\nand the flame of charity enkindled\nin our hearts by the Holy Spirit,\nreawaken in us the blessed hope \nfor the coming of your Kingdom.\n\nMay your grace transform us\ninto tireless cultivators of the seeds of the Gospel.\nMay those seeds transform from within both humanity\nand the whole cosmos in the sure expectation\nof a new heaven and a new earth,\nwhen, with the powers of Evil vanquished,\nyour glory will shine eternally.\n\nMay the grace of the Jubilee\nreawaken in us, Pilgrims of Hope,\na yearning for the treasures of heaven.\nMay that same grace spread the joy\nand peace of our Redeemer throughout the earth.\nTo you our God, eternally blessed, \nbe glory and praise for ever.  Amen\n\n-----\n\nصلاة اليوبيل\n\nأيها الآب الذي في السماوات،\nإن الإيمان الذي وهبتَه لنا\nبابنك يسوع المسيح، أخانا،\nوشعلة المحبة\nالمُنسكِبَة في قلوبنا بروحك القدوس،\nيوقظان فينا الرجاء المبارك لمجيء ملكوتك.\n \n\nإنّ نعمتك تحوّلنا إلى مزارعين مجتهدين للبذور الإنجيلية\nالتي تُخَمِّر الإنسانية والعالم،\nفي الانتظار الوثيق\nللسماوات الجديدة والأرض الجديدة،\nعندما تُهزَم قوى الشر\nويَظهَرُ مجدُك إلى الأبد.\n\n إنّ نعمة اليوبيل تحيي فينا\nنحن، حجاج الرجاء،\nالشوق نحو الخيرات السماوية\nوتسكب على العالم أجمع\nفرح وسلام فادينا.\nأيها الإله الأزليّ المبارك،\nلك الحمد والتسبيح إلى الأبد، آمين.\n\nChapters:\n00:00:00 Recording starts\n00:03:01 Lighting of the church\n00:09:01 Opening hymn\n00:19:49 Readings\n00:31:10 Homily\n00:41:05 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:01:51 Communion\n01:11:45 Jubilee Prayer",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/hTi_jajnrZ4/default.jpg",
@@ -29643,8 +29643,8 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "The Finding of Our Lord in the Temple",
-      "description": "January 5, 2025: The Finding of Our Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\n-----\nThe Jubilee Prayer\n\nFather in heaven, may the faith you have given us\nin your son, Jesus Christ, our brother,\nand the flame of charity enkindled\nin our hearts by the Holy Spirit,\nreawaken in us the blessed hope \nfor the coming of your Kingdom.\n\nMay your grace transform us\ninto tireless cultivators of the seeds of the Gospel.\nMay those seeds transform from within both humanity\nand the whole cosmos in the sure expectation\nof a new heaven and a new earth,\nwhen, with the powers of Evil vanquished,\nyour glory will shine eternally.\n\nMay the grace of the Jubilee\nreawaken in us, Pilgrims of Hope,\na yearning for the treasures of heaven.\nMay that same grace spread the joy\nand peace of our Redeemer throughout the earth.\nTo you our God, eternally blessed, \nbe glory and praise for ever.  Amen\n\n-----\n\nصلاة اليوبيل\n\nأيها الآب الذي في السماوات،\nإن الإيمان الذي وهبتَه لنا\nبابنك يسوع المسيح، أخانا،\nوشعلة المحبة\nالمُنسكِبَة في قلوبنا بروحك القدوس،\nيوقظان فينا الرجاء المبارك لمجيء ملكوتك.\n \n\nإنّ نعمتك تحوّلنا إلى مزارعين مجتهدين للبذور الإنجيلية\nالتي تُخَمِّر الإنسانية والعالم،\nفي الانتظار الوثيق\nللسماوات الجديدة والأرض الجديدة،\nعندما تُهزَم قوى الشر\nويَظهَرُ مجدُك إلى الأبد.\n\n إنّ نعمة اليوبيل تحيي فينا\nنحن، حجاج الرجاء،\nالشوق نحو الخيرات السماوية\nوتسكب على العالم أجمع\nفرح وسلام فادينا.\nأيها الإله الأزليّ المبارك،\nلك الحمد والتسبيح إلى الأبد، آمين.\n\nChapters:\n00:00:00 Recording starts\n00:03:01 Lighting of the church\n00:09:01 Opening hymn\n00:19:49 Readings\n00:31:10 Homily\n00:41:05 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:01:51 Communion\n01:11:45 Jubilee Prayer"
+      "title": "The Finding of the Lord in the Temple",
+      "description": "January 5, 2025: The Finding of the Lord in the Temple\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 87 -- The Finding of Our Lord in the Temple\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\n-----\nThe Jubilee Prayer\n\nFather in heaven, may the faith you have given us\nin your son, Jesus Christ, our brother,\nand the flame of charity enkindled\nin our hearts by the Holy Spirit,\nreawaken in us the blessed hope \nfor the coming of your Kingdom.\n\nMay your grace transform us\ninto tireless cultivators of the seeds of the Gospel.\nMay those seeds transform from within both humanity\nand the whole cosmos in the sure expectation\nof a new heaven and a new earth,\nwhen, with the powers of Evil vanquished,\nyour glory will shine eternally.\n\nMay the grace of the Jubilee\nreawaken in us, Pilgrims of Hope,\na yearning for the treasures of heaven.\nMay that same grace spread the joy\nand peace of our Redeemer throughout the earth.\nTo you our God, eternally blessed, \nbe glory and praise for ever.  Amen\n\n-----\n\nصلاة اليوبيل\n\nأيها الآب الذي في السماوات،\nإن الإيمان الذي وهبتَه لنا\nبابنك يسوع المسيح، أخانا،\nوشعلة المحبة\nالمُنسكِبَة في قلوبنا بروحك القدوس،\nيوقظان فينا الرجاء المبارك لمجيء ملكوتك.\n \n\nإنّ نعمتك تحوّلنا إلى مزارعين مجتهدين للبذور الإنجيلية\nالتي تُخَمِّر الإنسانية والعالم،\nفي الانتظار الوثيق\nللسماوات الجديدة والأرض الجديدة،\nعندما تُهزَم قوى الشر\nويَظهَرُ مجدُك إلى الأبد.\n\n إنّ نعمة اليوبيل تحيي فينا\nنحن، حجاج الرجاء،\nالشوق نحو الخيرات السماوية\nوتسكب على العالم أجمع\nفرح وسلام فادينا.\nأيها الإله الأزليّ المبارك،\nلك الحمد والتسبيح إلى الأبد، آمين.\n\nChapters:\n00:00:00 Recording starts\n00:03:01 Lighting of the church\n00:09:01 Opening hymn\n00:19:49 Readings\n00:31:10 Homily\n00:41:05 Creed\n00:47:24 Anaphora of Saint John the Apostle\n01:01:51 Communion\n01:11:45 Jubilee Prayer"
     }
   },
   "contentDetails": {
@@ -31170,7 +31170,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HLatqIbRSU4bML36RQBf_67-blo",
+  "etag": "nO6B-LgjEVYa_opwKQAKZhFJ6xk",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -31232,7 +31232,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "911",
+    "viewCount": "912",
     "likeCount": "37",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -35647,12 +35647,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "QV24siFe1db01n4cBHe3QmMKS9w",
+  "etag": "v-eNvsJ8wcbnU5npOXAtii8gEd8",
   "id": "p7lUCmjGF8U",
   "snippet": {
     "publishedAt": "2022-02-06T19:57:39Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Sunday of the Commemoration of the Priests; The Feast of St. Maron",
+    "title": "Sunday of the Commemoration of the Priests; The Feast of Saint Maron",
     "description": "February 6, 2022: Sunday of the Commemoration of the Priests.\nFebruary 9, 2022: The Feast of St. Maron\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 678 -- Saint Maron\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nThis week's bulletin can be found at http://ololc.org/doc/220206-bulletin.pdf.",
     "thumbnails": {
       "default": {
@@ -35685,7 +35685,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "Sunday of the Commemoration of the Priests; The Feast of St. Maron",
+      "title": "Sunday of the Commemoration of the Priests; The Feast of Saint Maron",
       "description": "February 6, 2022: Sunday of the Commemoration of the Priests.\nFebruary 9, 2022: The Feast of St. Maron\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 678 -- Saint Maron\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nThis week's bulletin can be found at http://ololc.org/doc/220206-bulletin.pdf."
     }
   },
@@ -37907,7 +37907,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "jOHWpsMRFtq54JAef2h7vVELlS8",
+  "etag": "nJWk7yXyfAVGtL8qbMDag78GXf8",
   "id": "ryeydSnqQDQ",
   "snippet": {
     "publishedAt": "2025-04-19T13:34:00Z",
@@ -39379,12 +39379,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DvF41hge-aUJrei-DmiKScCu_uk",
+  "etag": "CroBNNcJaS4SnziJakakhHX6LgU",
   "id": "uECgZqE-FCs",
   "snippet": {
     "publishedAt": "2020-08-09T17:27:34Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "The Transfiguration of Our Lord; 11th Sunday of Pentecost",
+    "title": "The Transfiguration of Our Lord; Eleventh Sunday of Pentecost",
     "description": "August 9, 2020: Transfiguration of Our Lord & 11th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 583 -- The Feast of the Transfiguration\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200809-bulletin.pdf",
     "thumbnails": {
       "default": {
@@ -39417,7 +39417,7 @@
     "categoryId": "29",
     "liveBroadcastContent": "none",
     "localized": {
-      "title": "The Transfiguration of Our Lord; 11th Sunday of Pentecost",
+      "title": "The Transfiguration of Our Lord; Eleventh Sunday of Pentecost",
       "description": "August 9, 2020: Transfiguration of Our Lord & 11th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 583 -- The Feast of the Transfiguration\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200809-bulletin.pdf"
     }
   },
@@ -39808,7 +39808,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wvF1181wV3PzbvcyzAaOBPzJ3ig",
+  "etag": "B3DJ37zq-G4FRiO2KZUn4VxZYpw",
   "id": "uwVAPxaeVNI",
   "snippet": {
     "publishedAt": "2025-04-26T14:11:32Z",
@@ -39865,7 +39865,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "487",
+    "viewCount": "490",
     "likeCount": "11",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -39877,35 +39877,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1750172"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128106"
-      }
-    ],
-    "bitrateBps": "1878278"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-04-25T23:50:17Z",
