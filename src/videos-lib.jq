@@ -749,3 +749,30 @@ def toc ($byAtomicTitle; $byCategory; $playlists):
   ""
 ;
 
+def matrix:
+    ( map ( map ( keyYear )[] ) | unique | map ( tostring ) ) as $years
+  | (
+      "||\( $years | map ( "" ) | join ("|") )|",
+      "|:-----|\( $years | map (   ":---:"  ) | join (  "|"  ) )|",
+      "|   |\( $years | join ( " | " ) )|",
+      (
+          to_entries[]
+        | [
+            "| \( .key ) |",
+            (
+                ( .value | groupToObj ( keyYear | tostring ) ) as $videosByYear
+              | $years
+              | map (
+                    ( $videosByYear[.] // [] )
+                  | map ( keyDate )
+                  | sort
+                  | map ( mdSeeAlsoTime )
+                  | join ( " " ) 
+                )
+             | join (" | ")
+            ),
+            "|"
+          ] | join ("")
+      )
+    )
+;

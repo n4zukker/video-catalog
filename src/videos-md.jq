@@ -47,6 +47,10 @@ include "videos-lib";
             "## Playlists [](#playlists)",
             playlistBody ( $videos ; $playlistItems )
           )
+      ),
+      (
+        "## Matrix [](#matrix)",
+        ( $byAtomicTitle | matrix )
       )
     )
 )
