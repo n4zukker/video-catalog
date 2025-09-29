@@ -513,7 +513,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3FPTWsYoLA5t2lC-2LwrQsrvPKs",
+  "etag": "beDFBCTczV68GPu15xzCUeFvNjU",
   "id": "-zLydxMZmlc",
   "snippet": {
     "publishedAt": "2025-08-25T05:10:52Z",
@@ -577,7 +577,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "127",
+    "viewCount": "128",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -952,6 +952,98 @@
     "actualStartTime": "2020-05-18T22:54:46Z",
     "actualEndTime": "2020-05-19T01:06:52Z",
     "scheduledStartTime": "2020-05-18T23:00:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "x7vBmqUdXlKGJYSMrORqx7QZ0ss",
+  "id": "0lNRPWIEXbk",
+  "snippet": {
+    "publishedAt": "2025-09-25T15:45:32Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of Christ the King",
+    "description": "October 26, 2025: Sunday of Christ the King.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0lNRPWIEXbk/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0lNRPWIEXbk/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0lNRPWIEXbk/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0lNRPWIEXbk/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/0lNRPWIEXbk/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Sunday of Christ the King",
+      "description": "October 26, 2025: Sunday of Christ the King.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-10-26T15:30:00Z",
+    "activeLiveChatId": "Cg0KCzBsTlJQV0lFWGJrKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMGxOUlBXSUVYYms"
   }
 }
 {
@@ -2262,7 +2354,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PGW31Yb-0gT5n9Dn1zoTkjIbBVc",
+  "etag": "hyx_jyIxxTnqS7b-mC-vTlftf9Q",
   "id": "2Jby-ZKEbZI",
   "snippet": {
     "publishedAt": "2025-06-30T05:09:56Z",
@@ -2318,7 +2410,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -2331,11 +2423,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -2703,54 +2790,54 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BfNRgy4Yjny-d7zqHUUVoPq6vUY",
+  "etag": "mtXjNQq0D4SNVdX-Vx8ORvuzZ6Q",
   "id": "2wV6e8Rlbb8",
   "snippet": {
-    "publishedAt": "2025-08-23T17:31:48Z",
+    "publishedAt": "2025-09-29T05:08:15Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "2nd Sunday after the Feast of the Exaltation of the Holy Cross",
-    "description": "September 28, 2025: The Second Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "title": "2nd Sunday after the Feast of the Exaltation of the Holy Cross; Holy Rosary Sunday",
+    "description": "September 28, 2025: The Second Sunday after the Feast of the Exaltation of the Holy Cross.\nHoly Rosary Sunday\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\nBishop Gregory was the main celebrant and Fr. Dominique gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:38 Lighting of the Candles\n00:06:12 Opening hymn\n00:16:57 Readings\n00:30:35 Homily\n00:39:15 Creed\n00:45:52 Anaphora of Saint Peter\n01:00:22 Communion\n01:07:43 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/2wV6e8Rlbb8/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "defaultLanguage": "en",
     "localized": {
-      "title": "2nd Sunday after the Feast of the Exaltation of the Holy Cross",
-      "description": "September 28, 2025: The Second Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+      "title": "2nd Sunday after the Feast of the Exaltation of the Holy Cross; Holy Rosary Sunday",
+      "description": "September 28, 2025: The Second Sunday after the Feast of the Exaltation of the Holy Cross.\nHoly Rosary Sunday\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\nBishop Gregory was the main celebrant and Fr. Dominique gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:38 Lighting of the Candles\n00:06:12 Opening hymn\n00:16:57 Readings\n00:30:35 Homily\n00:39:15 Creed\n00:45:52 Anaphora of Saint Peter\n01:00:22 Communion\n01:07:43 Announcements"
     },
     "defaultAudioLanguage": "en"
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H25M35S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -2758,7 +2845,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -2767,7 +2854,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
+    "viewCount": "82",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -2779,18 +2866,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1409303"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128287"
+      }
+    ],
+    "bitrateBps": "1537590"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2025-09-28T15:30:00Z",
-    "activeLiveChatId": "Cg0KCzJ3VjZlOFJsYmI4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILMndWNmU4UmxiYjg"
+    "actualStartTime": "2025-09-28T15:28:57Z",
+    "actualEndTime": "2025-09-28T16:54:16Z",
+    "scheduledStartTime": "2025-09-28T15:30:00Z"
   }
 }
 {
@@ -3580,7 +3689,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DKe35bCw_9g51EgkZ-HzvDjp8YY",
+  "etag": "lTmbQqUBwiQT1RnSDZhw8J-SYdk",
   "id": "4EPfW8vsKG0",
   "snippet": {
     "publishedAt": "2021-05-23T20:48:33Z",
@@ -4105,7 +4214,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YvHdk8vNWwCCWpRBLylHcH2rbyc",
+  "etag": "3r1m9oZMwFCm0Nxls9O9mrGAh6U",
   "id": "552iFrvojYE",
   "snippet": {
     "publishedAt": "2024-05-29T19:05:30Z",
@@ -4169,7 +4278,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "252",
+    "viewCount": "258",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -4277,6 +4386,98 @@
     "actualStartTime": "2022-07-24T15:17:33Z",
     "actualEndTime": "2022-07-24T16:35:39Z",
     "scheduledStartTime": "2022-07-24T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "4W-wkgRvsIWS1Z75mYSiy9PiQ00",
+  "id": "5BNKe8mR57M",
+  "snippet": {
+    "publishedAt": "2025-09-25T15:40:50Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross",
+    "description": "October 5, 2025: The 3rd Sunday after the Feast of the Exaltation of the Holy Cross.\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/5BNKe8mR57M/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/5BNKe8mR57M/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/5BNKe8mR57M/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/5BNKe8mR57M/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/5BNKe8mR57M/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross",
+      "description": "October 5, 2025: The 3rd Sunday after the Feast of the Exaltation of the Holy Cross.\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-10-05T15:30:00Z",
+    "activeLiveChatId": "Cg0KCzVCTktlOG1SNTdNKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILNUJOS2U4bVI1N00"
   }
 }
 {
@@ -6129,7 +6330,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "q0LopgHnC5jl-6I5JBVgR9HVV4k",
+  "etag": "qt26W9dW8f4vfho5DgzRCmUTHwk",
   "id": "71N7Q59lmiI",
   "snippet": {
     "publishedAt": "2025-08-18T05:41:15Z",
@@ -6193,7 +6394,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "93",
+    "viewCount": "95",
     "likeCount": "5",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -6218,6 +6419,98 @@
     "actualStartTime": "2025-08-17T15:21:22Z",
     "actualEndTime": "2025-08-17T16:45:13Z",
     "scheduledStartTime": "2025-08-17T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "Arck-1P9PASFfWrPfN9Y-E0bWYs",
+  "id": "7EY_Z921vTM",
+  "snippet": {
+    "publishedAt": "2025-09-25T15:44:02Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "5th Sunday after the Feast of the Exaltation of the Holy Cross",
+    "description": "October 19, 2025: The 5th Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7EY_Z921vTM/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7EY_Z921vTM/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7EY_Z921vTM/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7EY_Z921vTM/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7EY_Z921vTM/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "5th Sunday after the Feast of the Exaltation of the Holy Cross",
+      "description": "October 19, 2025: The 5th Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-10-19T15:30:00Z",
+    "activeLiveChatId": "Cg0KCzdFWV9aOTIxdlRNKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILN0VZX1o5MjF2VE0"
   }
 }
 {
@@ -6835,7 +7128,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rm1dCC9tlbv5Zgdk__hmm-bz1T8",
+  "etag": "4q_0W3hu0URBY_K7yc_umWOGgH4",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6844,27 +7137,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=COy0wcYG&rs=AOn4CLDUAFM8JFfm0SRJ4VufnIu_Lld_5w",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMzJ6sYG&rs=AOn4CLDWiHWlEE_02EarToXUdxlnAVkZng",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLB0vLZqtuwbSxXB4gylLSsWM66MVg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLD5yqe6WTX1XqoPqnYYc2HmHITaSQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLBZlraxrmQfAiE8fVqiJwdPZUbBLw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLCCOH8sr4cTwE8Mu0m4x1T7E3ulow",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=COy0wcYG&rs=AOn4CLB2hXHt0-OyuOxcgAtmnx2UD9aCJg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLD1LzD4c9R97yMdYKi6uLsxSO1cAQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=COy0wcYG&rs=AOn4CLACN1J46J9Ld3TKLeVLTHV-g7TwDw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLAnE8VHSsSwGmfE6BNIe-MruCfw6Q",
         "width": 1280,
         "height": 720
       }
@@ -8396,7 +8689,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "L1gxlZ58L7LZA4enY8vBUcpacy8",
+  "etag": "Q7JsHK2zq8pY8n5Sou6uQeqw380",
   "id": "AOaznjuei3U",
   "snippet": {
     "publishedAt": "2025-07-14T05:14:00Z",
@@ -8452,7 +8745,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -8465,12 +8758,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -9447,7 +9734,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YzptXbz5163kpal9FztOpknY9Kg",
+  "etag": "qW_KU3LKmCCJWslmFTQJHa0FrK0",
   "id": "BhzyUDoKvlE",
   "snippet": {
     "publishedAt": "2025-09-15T05:32:57Z",
@@ -9511,7 +9798,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "122",
+    "viewCount": "128",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -9524,35 +9811,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1419940"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "129222"
-      }
-    ],
-    "bitrateBps": "1549162"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-09-14T15:23:58Z",
@@ -11648,7 +11914,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AIhDVoi-WaH0LX8-t6sCEZY7bv4",
+  "etag": "JMBk3vlW0Lt-SEHwZWuTGZ9RDDA",
   "id": "FI2AqMHDNyw",
   "snippet": {
     "publishedAt": "2025-08-11T06:01:38Z",
@@ -11712,7 +11978,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "114",
+    "viewCount": "115",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -12696,7 +12962,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "xzODfy6GVrR7j7ftK9D460PZd50",
+  "etag": "wyA_h3UsZGiVt96JEolhyQzkY08",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -12705,27 +12971,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=COy0wcYG&rs=AOn4CLBmHH_SwEI-EHN6tULKT2p3ONdr4A",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMzJ6sYG&rs=AOn4CLDmfL8PgY1dKCDWC33NxtfRidiJ1g",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLBevX6ny9b8RxEUm8q_tsKU197HCw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLBdaJombTRvO2hxweaBuxmTtoC2KA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLDH8Ey5iWTnow0yvA_aukYbDK5imQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLCvjeBUPDsBXwMU6EDzZDrBkZpCpA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=COy0wcYG&rs=AOn4CLCHCYXBlaKsOm25kI6lfaXPgmWciA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLAz_A_R1vlZud1p6aUyeuSdUg79lA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=COy0wcYG&rs=AOn4CLAbZx9Bjpw0IL0fCPjo_ysligJlVw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLDGCjYJU8STRg2AQ6eiCo_qJNsfzw",
         "width": 1280,
         "height": 720
       }
@@ -15226,7 +15492,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "1kVwM76vgWNq_l_0rOJET0_0iBE",
+  "etag": "ifSEiSUXmUj4B9aQH7ig_TRrAXg",
   "id": "JdfS3a5m9wE",
   "snippet": {
     "publishedAt": "2021-04-25T02:03:43Z",
@@ -15290,7 +15556,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "597",
+    "viewCount": "598",
     "likeCount": "12",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -16710,7 +16976,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "VcF8Ut-VCU_KCi4HPU-yX3tMhxw",
+  "etag": "wMYOCcKXdCP7LlvqwYUaBWp-6A0",
   "id": "LwamjWvRIKk",
   "snippet": {
     "publishedAt": "2025-05-19T05:11:07Z",
@@ -16774,7 +17040,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "167",
+    "viewCount": "168",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -16889,7 +17155,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ufpImVZw796bWyo3o_lmfEVodYc",
+  "etag": "vxs4a07vwoEplBgPTOiKRHMHK3k",
   "id": "MMFejKYDD-w",
   "snippet": {
     "publishedAt": "2023-03-28T17:36:07Z",
@@ -16953,7 +17219,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "174",
+    "viewCount": "175",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -16990,7 +17256,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zZRI3Mzu8_s3_-sxxrndqbhXsY0",
+  "etag": "tbos4pqtyNKTRY2Y68JTZYwoI2E",
   "id": "MMf8Eb_hNME",
   "snippet": {
     "publishedAt": "2025-05-30T12:49:14Z",
@@ -17046,7 +17312,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -17059,11 +17325,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -21992,7 +22253,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zEQmQ9n8kv6Sg3b7mo_GreMOjQk",
+  "etag": "oSHkcJKQD7OtHYpGAYK0knFVHhU",
   "id": "TTTgLJCB1II",
   "snippet": {
     "publishedAt": "2024-05-12T04:03:23Z",
@@ -22056,7 +22317,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "419",
+    "viewCount": "420",
     "likeCount": "9",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -22782,7 +23043,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YP9if5YVDzbRhiIYnQlv73UwU6A",
+  "etag": "qMWAyiK_xYTp7RRlXO64eEbjzDA",
   "id": "V0g4NqH_nk4",
   "snippet": {
     "publishedAt": "2023-11-18T13:30:00Z",
@@ -22846,7 +23107,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "388",
+    "viewCount": "389",
     "likeCount": "9",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -24093,7 +24354,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "MBJnJ5_EJhcEAjm6ht42LBMDPTo",
+  "etag": "G0mtGw5UxiBNAVD2xEJ1Dl4AiGw",
   "id": "XjkWOWezKLs",
   "snippet": {
     "publishedAt": "2025-09-08T06:13:40Z",
@@ -24157,7 +24418,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "166",
+    "viewCount": "171",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -24169,35 +24430,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1187094"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "130527"
-      }
-    ],
-    "bitrateBps": "1317621"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-09-07T15:24:56Z",
@@ -25078,7 +25318,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "_w1yHhKseF2V_GJ99Ylx9oJb0Ps",
+  "etag": "OYE9RseaX10Gs8CSQt2FGr0-Emo",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -25087,27 +25327,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=COy0wcYG&rs=AOn4CLAma5wroNdCycAQc9Wbpn6mpOz-LQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMzJ6sYG&rs=AOn4CLCHT3wfN604sm2qdi0hVp5mGRA2KQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLCxvWAfizMxUoR8V-wC7BbsJb_kaA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLAwCdk4uQXyWH3c-TPrvuEiS6zNgw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=COy0wcYG&rs=AOn4CLDVM7YjB_0CDBtH5U1vjdG57XEASQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLDoEz7Qe1CXoxeUUeqgSv1yxnvHmg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=COy0wcYG&rs=AOn4CLCQiKoNgiiBQLfM-n_6V5gPnMwTIg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLDvnXpSSxWGO3ONZpYQDz4BVH0wLQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=COy0wcYG&rs=AOn4CLBwrtGuV6a05Zc-zjinHXI7HTfgfg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMzJ6sYG&rs=AOn4CLAihsLh9jhsJlcQsf3Mn3CuOR_EnA",
         "width": 1280,
         "height": 720
       }
@@ -27003,7 +27243,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ELPtNcC1jqqfd1tMD4e3jx5MmgE",
+  "etag": "-EdYBbbL4T-DDlxL7Xs_TdqAebs",
   "id": "bl-tJp1IwpE",
   "snippet": {
     "publishedAt": "2025-07-28T04:53:00Z",
@@ -27067,7 +27307,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "84",
+    "viewCount": "85",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -27365,6 +27605,98 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "WzknAWiQpYHdwf798D5iOoOqe2w",
+  "id": "cFmHE50OdC8",
+  "snippet": {
+    "publishedAt": "2025-09-25T15:42:09Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "4th Sunday after the Feast of the Exaltation of the Holy Cross",
+    "description": "October 12, 2025: The 3rd Sunday after the Feast of the Exaltation of the Holy Cross.\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cFmHE50OdC8/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cFmHE50OdC8/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cFmHE50OdC8/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/cFmHE50OdC8/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/cFmHE50OdC8/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "4th Sunday after the Feast of the Exaltation of the Holy Cross",
+      "description": "October 12, 2025: The 3rd Sunday after the Feast of the Exaltation of the Holy Cross.\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {},
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2025-10-12T15:30:00Z",
+    "activeLiveChatId": "Cg0KC2NGbUhFNTBPZEM4KicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILY0ZtSEU1ME9kQzg"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "6Wbf4go1j6nfno2BIhRcEzmW3xU",
   "id": "cIjuxB3B_K0",
   "snippet": {
@@ -27540,7 +27872,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "D53ZkA-xbuyrVgYMrfiwvqmZfW4",
+  "etag": "HzdP6qrqCD54TTlKwf60crfATFM",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -27604,7 +27936,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "214",
+    "viewCount": "215",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -29904,7 +30236,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "EV60VQelj5zWXoKDVqXrvnVWur8",
+  "etag": "eutV-4wwg70Fs944U93CMZwfYas",
   "id": "giw24qXaV9U",
   "snippet": {
     "publishedAt": "2025-07-21T07:51:38Z",
@@ -29968,7 +30300,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "149",
+    "viewCount": "151",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -30871,7 +31203,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-0NaSD3LuXPIKiJ6Qww5-hkRHJk",
+  "etag": "vDQlTu0SR9G35sWdupd8-i2nRCY",
   "id": "hP4ZfROj9nc",
   "snippet": {
     "publishedAt": "2025-06-09T05:30:58Z",
@@ -30927,7 +31259,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -30940,11 +31272,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -32718,7 +33045,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "soAZrHbzW3m3Hecp4pDZidZAVeA",
+  "etag": "BBwN0h4vSW2AYpOqDH0g0-gTeP0",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -32782,7 +33109,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1127",
+    "viewCount": "1140",
     "likeCount": "39",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -34991,7 +35318,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "X6jel0asjsKorx5F4xWBAFI2rqA",
+  "etag": "6cvICTATiEPgSjSm8f0GNBqn8eo",
   "id": "lEIm1ApvDmo",
   "snippet": {
     "publishedAt": "2025-06-16T05:23:50Z",
@@ -35047,7 +35374,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -35060,11 +35387,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -35341,7 +35663,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ECY6_WrNVIAejpOIpva5KK7Fwpg",
+  "etag": "88mnKA2lvqcED_tM1gNT2tzz-T4",
   "id": "m0vXxPAZSus",
   "snippet": {
     "publishedAt": "2020-04-21T20:51:35Z",
@@ -37085,36 +37407,36 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YSHIoLXrOUgzwcfWRF__7vCjAGI",
+  "etag": "lcT7-fjyYqRGOKMefmXYWA7kTDE",
   "id": "oIUu9Tf7tgc",
   "snippet": {
-    "publishedAt": "2025-08-23T17:30:40Z",
+    "publishedAt": "2025-09-22T05:17:59Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "1st Sunday after the Feast of the Exaltation of the Holy Cross",
-    "description": "September 21, 2025: The First Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anahora of The Twelve Apostles\n\nChapters:\n00:00:00 Prayers before the Divine Liturgy\n00:04:28 Lighting of the Candles\n00:17:24 Opening hymn\n00:34:13 Readings\n00:45:26 Homily\n00:52:18 Creed\n01:00:34 Anaphora of Twelve Apostles\n01:18:37 Communion\n01:30:52 Announcements",
+    "description": "September 21, 2025: The First Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anahora of The Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.  Archbishop Gabriele Giordano Caccia and Bishop Elias Zaidan concelebrated with Bishop Gregory, Fr. Dominique and Fr. Chuck.\n\nChapters:\n00:00:00 Prayers before the Divine Liturgy\n00:04:28 Lighting of the Candles\n00:17:24 Opening hymn\n00:34:13 Readings\n00:45:26 Homily\n00:52:18 Creed\n01:00:34 Anaphora of Twelve Apostles\n01:18:37 Communion\n01:30:52 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/oIUu9Tf7tgc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -37125,14 +37447,14 @@
     "defaultLanguage": "en",
     "localized": {
       "title": "1st Sunday after the Feast of the Exaltation of the Holy Cross",
-      "description": "September 21, 2025: The First Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anahora of The Twelve Apostles\n\nChapters:\n00:00:00 Prayers before the Divine Liturgy\n00:04:28 Lighting of the Candles\n00:17:24 Opening hymn\n00:34:13 Readings\n00:45:26 Homily\n00:52:18 Creed\n01:00:34 Anaphora of Twelve Apostles\n01:18:37 Communion\n01:30:52 Announcements"
+      "description": "September 21, 2025: The First Sunday after the Feast of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 754 -- Anahora of The Twelve Apostles\n\nBishop Gregory was the main celebrant and gave the homily.  Archbishop Gabriele Giordano Caccia and Bishop Elias Zaidan concelebrated with Bishop Gregory, Fr. Dominique and Fr. Chuck.\n\nChapters:\n00:00:00 Prayers before the Divine Liturgy\n00:04:28 Lighting of the Candles\n00:17:24 Opening hymn\n00:34:13 Readings\n00:45:26 Homily\n00:52:18 Creed\n01:00:34 Anaphora of Twelve Apostles\n01:18:37 Communion\n01:30:52 Announcements"
     },
     "defaultAudioLanguage": "en"
   },
   "contentDetails": {
-    "duration": "PT2H6M57S",
+    "duration": "PT2H6M45S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -37140,7 +37462,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -37149,9 +37471,9 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "219",
-    "likeCount": "8",
-    "dislikeCount": "1",
+    "viewCount": "393",
+    "likeCount": "9",
+    "dislikeCount": "2",
     "favoriteCount": "0",
     "commentCount": "0"
   },
@@ -37161,14 +37483,35 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1643218"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "126260"
+      }
+    ],
+    "bitrateBps": "1769478"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2025-09-21T15:01:57Z",
@@ -37615,7 +37958,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-Ii1gs4ypJML7ZspvdYhxGQ34R0",
+  "etag": "E8OO21Dmix6UCitX4j-tUUu9HfQ",
   "id": "pPEbj3fAGxU",
   "snippet": {
     "publishedAt": "2025-06-02T05:08:07Z",
@@ -37671,7 +38014,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -37684,12 +38027,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -37709,7 +38046,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5pBpyQ-_p5_wsGIpx8ZV6r3t1Fo",
+  "etag": "hNx_8MW-ClDG0p7A-h5UrXkUo40",
   "id": "pUmBA962GBk",
   "snippet": {
     "publishedAt": "2025-07-07T05:17:31Z",
@@ -37765,7 +38102,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -37778,11 +38115,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -37887,7 +38219,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "dxpxuItMZSplEHGKA97cLXGsDmM",
+  "etag": "2otCns7EoagreNT1GJMOWdJkRjA",
   "id": "pkfweTY0wHw",
   "snippet": {
     "publishedAt": "2021-09-12T22:10:19Z",
@@ -37951,7 +38283,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "246",
+    "viewCount": "247",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -39036,7 +39368,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CVAdVwgzuLniNUGQMFk4e4v3yhg",
+  "etag": "SaEzMhkOEuifhSHF_EgvRwspDaM",
   "id": "r62cQDFYIZs",
   "snippet": {
     "publishedAt": "2021-08-15T17:22:51Z",
@@ -39210,7 +39542,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rMGuIJIRZ14bqIqOM-XRCwRPmxQ",
+  "etag": "BBF-sUoyLfYPWB-dvoYR3SIYiAo",
   "id": "rDQMQHyDSJo",
   "snippet": {
     "publishedAt": "2025-06-23T05:05:17Z",
@@ -39266,7 +39598,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -39274,17 +39606,11 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "132",
+    "viewCount": "136",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion",
-      "https://en.wikipedia.org/wiki/Society"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -39742,7 +40068,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "TlWKWSqM7TIKJituO0zRuA5eWfY",
+  "etag": "DDc0YQ4w1C2oWgQ_Tk0ycvCiuCs",
   "id": "rum3RnNXUuI",
   "snippet": {
     "publishedAt": "2025-05-26T04:59:25Z",
@@ -39798,7 +40124,7 @@
   },
   "status": {
     "uploadStatus": "processed",
-    "privacyStatus": "public",
+    "privacyStatus": "unlisted",
     "license": "youtube",
     "embeddable": true,
     "publicStatsViewable": true,
@@ -39811,11 +40137,6 @@
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
-  },
-  "topicDetails": {
-    "topicCategories": [
-      "https://en.wikipedia.org/wiki/Religion"
-    ]
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -40619,7 +40940,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "SjQr0ONJDpz1xRCV20BhUAc0Izs",
+  "etag": "ZunXzWZBuc8bQMpGTtU6Ly7vrB8",
   "id": "t3JmKObk0UY",
   "snippet": {
     "publishedAt": "2025-01-29T17:36:14Z",
@@ -40683,7 +41004,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "72",
+    "viewCount": "76",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -40707,7 +41028,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bv1kytriZRj1pVbDrqcn6XzGdzA",
+  "etag": "_Gz67KgJmky3OB_5QLTyNzBS3XA",
   "id": "t98RJnvPLis",
   "snippet": {
     "publishedAt": "2020-08-26T00:49:12Z",
@@ -40771,7 +41092,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1184",
+    "viewCount": "1188",
     "likeCount": "24",
     "dislikeCount": "7",
     "favoriteCount": "0",
