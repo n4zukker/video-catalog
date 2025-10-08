@@ -7150,7 +7150,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "6NLMEMasoj25VujDTMPZ7FeuddY",
+  "etag": "nx5JrF9X3K9rW-O_zklZXsMIuWE",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -7159,27 +7159,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMzumMcG&rs=AOn4CLCl4Ml_dHK5rte8L4lj4MPjnB9l6g",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPz3mMcG&rs=AOn4CLB6gpvxXzfrC1p7bSi50HQBSftgew",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLBMgggw6BUgEykQh0nyAZVV7Yxgkg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLAK1ZstIRcr--h0U4IwzjrW9bPG-A",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLBOGvF0V7DAstI4kBk0cvuBIWNJFw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLDs5b-l1d8D4bjar8p982rUoJ_bWQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMzumMcG&rs=AOn4CLB4_rSmxtU3oHI8DYnk90_vYBAdKA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPz3mMcG&rs=AOn4CLAAvgfKOwWd-rRpf12-x5sv8T350Q",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMzumMcG&rs=AOn4CLCmaxbiDZVPNteFVUk8gKeMpgYXhg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLChojUSbb0vkb0p6F3_YDhkfuvQmg",
         "width": 1280,
         "height": 720
       }
@@ -12984,7 +12984,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HpT9r2Jf7OPEkZa62PGcuvmb5AI",
+  "etag": "-Qd9CFSdFAv3uYtkWDomnilFiiI",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -12993,27 +12993,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMzumMcG&rs=AOn4CLCwGsrFxovd6caZzz-T8OhwqXvTTQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPz3mMcG&rs=AOn4CLALfPA_O1NmkOFgTIbdD7xb_pI6Zw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLDHSWW-sL4-QgKbChh-ilZWaCJJ8Q",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLBWEon3Z__oTZKt9YWLhuZeVGPM1Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLANHV9csJqhznMRlrTA2Jm8ij1xCg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLADD3zZDY4MC3AcAk30Qy0sWVjkTw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMzumMcG&rs=AOn4CLCJEABJKs83KVvxpDXBhu9U3dbb_g",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPz3mMcG&rs=AOn4CLCjUGuHS-0pifs_BCFARrxoSBcUPQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMzumMcG&rs=AOn4CLDtLKyAgz1KWXqdRhd7bDECQKXB5g",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLDonetnkgrh3S20dwVmrTZwiSzSfQ",
         "width": 1280,
         "height": 720
       }
@@ -25341,7 +25341,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zirNzI0X0E_cm6LWyCEeX85b88E",
+  "etag": "dzyK_6f0eDGgOWiZqQY0KYKDR3w",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -25350,27 +25350,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMzumMcG&rs=AOn4CLC73DwgBboG8j7i9Rg9lFuXY0yUSQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPz3mMcG&rs=AOn4CLCy--YtAvbMRRUmJp88N8NjNPru4w",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLD8Pgkk2LqKedqLNnc-f7lW53YAWw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLAtlbzsoZgymYYSx20YW655kxP4ew",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMzumMcG&rs=AOn4CLC7IXicEc2cusNQUsTIgw1bjtpaYQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLDVg6QYJs8luSEJU7gsPKOe6CP5cQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMzumMcG&rs=AOn4CLAXrWYPYV44TttwMRpUNGGkwZe8fQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPz3mMcG&rs=AOn4CLBT2Xt-VrfCRqLQAzPtjHkZ5xwLCQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMzumMcG&rs=AOn4CLBM_fnFJTJGz31uenAPobVZgNCYTA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPz3mMcG&rs=AOn4CLDwj8-4owyzxvZl40mfryUFICrBNg",
         "width": 1280,
         "height": 720
       }
@@ -28595,12 +28595,12 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "7XS-aNvP2xoLff9vMwZWlNBwf_c",
+  "etag": "bWVt-9CYb6NgKnfeIcLxSgcSHAQ",
   "id": "eHl0YPAVeNQ",
   "snippet": {
     "publishedAt": "2020-10-04T19:34:32Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross",
+    "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross; Holy Rosary Sunday",
     "description": "October 4, 2020: 3rd Sunday of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 606 -- The Exaltation of the Holy Cross\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John, the Apostle.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/201004-bulletin.pdf",
     "thumbnails": {
       "default": {
@@ -28634,7 +28634,7 @@
     "liveBroadcastContent": "none",
     "defaultLanguage": "en",
     "localized": {
-      "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross",
+      "title": "3rd Sunday after the Feast of the Exaltation of the Holy Cross; Holy Rosary Sunday",
       "description": "October 4, 2020: 3rd Sunday of the Exaltation of the Holy Cross.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 606 -- The Exaltation of the Holy Cross\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John, the Apostle.\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/201004-bulletin.pdf"
     }
   },
