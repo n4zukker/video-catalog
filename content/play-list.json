@@ -1373,58 +1373,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "w83TKKqWCxJzAjn2jomncQsx2oY",
-  "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS45ODRDNTg0QjA4NkFBNkQy",
-  "snippet": {
-    "publishedAt": "2025-12-09T18:03:51Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "The Christmas Novena",
-    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by George.\n\nNinth prayer -- Dec. 23: (modern)\n\nO  Lord,  though  you  are  rich  by  nature,  you  loved  the \npoverty  of  our  humanity  when  you  became  man  like  us. \nThough you were the descendant of kings and the heir of \nDavid, the venerable, you were satisfied with a grotto and \na  humble  manger.    We  implore  you,  through  your  pure \nnativity and through the intercession of your mother and \nSaint  Joseph,  your  chosen  one,  to  give  us  a  love  of \nvoluntary  poverty,  that  we  may  be  satisfied  only  with \nwhat  is  necessary  for  our  existence,  avoiding  waste  and \nthe love of an easy life, all the days of our lives. Amen.\n\n\n\nNinth Oration -- Dec. 23: (classic)\n\n0 God, Who in Your very nature contain all the riches of heaven and earth,\nYou loved the poverty of humanity by choosing to become one of us,\nYou are the descendant of Kings and the Heir of David the Venerable.\nYou were satisfied to be born a stable and a humble manger.\n \nWe beseech You, through Your Pure Nativity \nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us an appreciation of voluntary poverty.\nMay we be satisfied with only that which is necessary for the maintenance of our lives.\nTeach us to flee from excessive luxury and the love of abundance all the days of our lives.\n\nAmen\n\n\n\nChapters:\n00:00:00 Recording starts\n00:07:30 Glory to the Voice\n00:14:14 Oration\n00:17:36 Reflection by Bishop Gregory\n00:27:30 Arsal Allah\n00:36:07 Benediction",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/default_live.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/mqdefault_live.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/hqdefault_live.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/sddefault_live.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/maxresdefault_live.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 7,
-    "resourceId": {
-      "kind": "youtube#video",
-      "videoId": "GdPEwbBgPz0"
-    },
-    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
-  },
-  "contentDetails": {
-    "videoId": "GdPEwbBgPz0",
-    "videoPublishedAt": "2025-12-09T18:03:50Z"
-  }
-}
-{
-  "kind": "youtube#playlistItem",
-  "etag": "S_eyW-iMW8YmLNy2n5-r3I76noU",
+  "etag": "819ng06PYdEbzFx2ReGIPJK4QMs",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS5DQUNERDQ2NkIzRUQxNTY1",
   "snippet": {
     "publishedAt": "2025-12-09T17:58:16Z",
@@ -1460,7 +1409,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 8,
+    "position": 7,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "FL0nZkqMIuM"
@@ -1475,7 +1424,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "dhs4oxtp0-W14kyDQJErPhGW9A8",
+  "etag": "YUYnGXeJSDDDWsbcBgVFkNFHLtg",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS45NDk1REZENzhEMzU5MDQz",
   "snippet": {
     "publishedAt": "2025-12-09T17:59:11Z",
@@ -1511,7 +1460,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 9,
+    "position": 8,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "s0Dst11kv7E"
@@ -1526,7 +1475,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "ab_7cVsK-dW2UVm5hi9YA80Tb54",
+  "etag": "1p8WkHnhefdk7dBjL9p5Y_lZkAM",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS5GNjNDRDREMDQxOThCMDQ2",
   "snippet": {
     "publishedAt": "2025-12-09T18:00:19Z",
@@ -1562,7 +1511,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 10,
+    "position": 9,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "rv8PkEZ5hPU"
@@ -1577,7 +1526,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "tl-VL77e7FhdRlvHBvYDNa0z-YU",
+  "etag": "nSSxvjW8aTT-S0r-YYj2P3rlkaQ",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS40NzZCMERDMjVEN0RFRThB",
   "snippet": {
     "publishedAt": "2025-12-09T18:01:20Z",
@@ -1613,7 +1562,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 11,
+    "position": 10,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "WG7AIQIUAcE"
@@ -1628,7 +1577,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "Q2V3myi9w-fmDlBeHNxxlOZrtC8",
+  "etag": "SLn5aJXqr0s0LjMfUI1qmfvYhQI",
   "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS5EMEEwRUY5M0RDRTU3NDJC",
   "snippet": {
     "publishedAt": "2025-12-09T18:02:13Z",
@@ -1664,7 +1613,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
-    "position": 12,
+    "position": 11,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "wvDlbIprOPk"
@@ -1675,6 +1624,57 @@
   "contentDetails": {
     "videoId": "wvDlbIprOPk",
     "videoPublishedAt": "2025-12-21T13:22:33Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "gp6lxMcJHKsIqYEKt5kFupQylkE",
+  "id": "UEx2Tkg4eVRPMUFIZFJLRTJMSU9WcEpZcVpHUW1LSktoWS45ODRDNTg0QjA4NkFBNkQy",
+  "snippet": {
+    "publishedAt": "2025-12-09T18:03:51Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Christmas Novena",
+    "description": "The Christmas Novena prayers can be found at http://ololc.org/doc/novena.pdf.\nCover art by George.\n\nNinth prayer -- Dec. 23: (modern)\n\nO  Lord,  though  you  are  rich  by  nature,  you  loved  the \npoverty  of  our  humanity  when  you  became  man  like  us. \nThough you were the descendant of kings and the heir of \nDavid, the venerable, you were satisfied with a grotto and \na  humble  manger.    We  implore  you,  through  your  pure \nnativity and through the intercession of your mother and \nSaint  Joseph,  your  chosen  one,  to  give  us  a  love  of \nvoluntary  poverty,  that  we  may  be  satisfied  only  with \nwhat  is  necessary  for  our  existence,  avoiding  waste  and \nthe love of an easy life, all the days of our lives. Amen.\n\n\n\nNinth Oration -- Dec. 23: (classic)\n\n0 God, Who in Your very nature contain all the riches of heaven and earth,\nYou loved the poverty of humanity by choosing to become one of us,\nYou are the descendant of Kings and the Heir of David the Venerable.\nYou were satisfied to be born a stable and a humble manger.\n \nWe beseech You, through Your Pure Nativity \nand through the intercession of Your Mother and Saint Joseph, Your Chosen One,\nto grant us an appreciation of voluntary poverty.\nMay we be satisfied with only that which is necessary for the maintenance of our lives.\nTeach us to flee from excessive luxury and the love of abundance all the days of our lives.\n\nAmen\n\n\n\nChapters:\n00:00:00 Recording starts\n00:07:30 Glory to the Voice\n00:14:14 Oration\n00:17:36 Reflection by Bishop Gregory\n00:27:30 Arsal Allah\n00:36:07 Benediction",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/GdPEwbBgPz0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHdRKE2LIOVpJYqZGQmKJKhY",
+    "position": 12,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "GdPEwbBgPz0"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "GdPEwbBgPz0",
+    "videoPublishedAt": "2025-12-24T13:25:07Z"
   }
 }
 {
