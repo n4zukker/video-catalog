@@ -1,5 +1,57 @@
 {
   "kind": "youtube#playlist",
+  "etag": "GFtQ2dKx4rhoMedWOEkyn146VUw",
+  "id": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:35:23.463396Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Passion Week 2026",
+    "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday March 29, 2026 through Sunday April 5, 2026.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "localized": {
+      "title": "Passion Week 2026",
+      "description": "Prayer services and Divine Liturgies at Our Lady of Lebanon Cathedral during Palm Sunday, Passion Week and Easter, Sunday March 29, 2026 through Sunday April 5, 2026."
+    }
+  },
+  "status": {
+    "privacyStatus": "public"
+  },
+  "contentDetails": {
+    "itemCount": 10
+  },
+  "player": {
+    "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  }
+}
+{
+  "kind": "youtube#playlist",
   "etag": "BcWIOYO8LGtS8ZMPJHWJHzvkCbc",
   "id": "PLvNH8yTO1AHdcW2orxy9OE802KIKOjM9s",
   "snippet": {
@@ -303,6 +355,516 @@
   },
   "player": {
     "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHfrxbHyK0xbLkutwLxzGCNi\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "7XBgHnEEpNQ5yhjCPvmHDJ7Zqpg",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy4wMTcyMDhGQUE4NTIzM0Y5",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:42:41Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Glorious Resurrection Liturgy and the Rite of Peace",
+    "description": "April 4, 2026: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/xlA3_3BhF1k/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "xlA3_3BhF1k"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "xlA3_3BhF1k",
+    "videoPublishedAt": "2026-02-26T15:42:39Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "71lSL51xJx2H3ChqNHrK_YlQRQY",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy41MjE1MkI0OTQ2QzJGNzNG",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:52:38Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Glorious Resurrection Liturgy and the Rite of Peace — Midnight Divine Liturgy",
+    "description": "April 5, 2026: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/iJoBW0V2foU/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/iJoBW0V2foU/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/iJoBW0V2foU/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/iJoBW0V2foU/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/iJoBW0V2foU/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "iJoBW0V2foU"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "iJoBW0V2foU",
+    "videoPublishedAt": "2026-02-26T15:41:27Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "zXQmeINABgORCLNkcd17vr5U9qA",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy4yODlGNEE0NkRGMEEzMEQy",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:40:07Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Saturday of the Great Light -- Prayer of Forgiveness",
+    "description": "April 4, 2026: Saturday of the Great Light.\nToday's Divine Liturgy can be found at http://ololc.org/doc/saturday.pdf.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/2bBkYb_8OY4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/2bBkYb_8OY4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/2bBkYb_8OY4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/2bBkYb_8OY4/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/2bBkYb_8OY4/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "2bBkYb_8OY4"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "2bBkYb_8OY4",
+    "videoPublishedAt": "2026-02-26T15:40:06Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "OytRcs2tB1dI4TTnVjwX_mSa_qM",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy41NkI0NEY2RDEwNTU3Q0M2",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:36:02Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Great Friday of the Crucifixion",
+    "description": "April 3, 2026: Great Friday of the Crucifixion.\nThis evening's service can be found at http://ololc.org/doc/fridayPM.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n https://www.youtube.com/watch?v=FaL28JhcgRI",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/PQgVi8XQnpU/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/PQgVi8XQnpU/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/PQgVi8XQnpU/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/PQgVi8XQnpU/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/PQgVi8XQnpU/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "PQgVi8XQnpU"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "PQgVi8XQnpU",
+    "videoPublishedAt": "2026-02-26T15:36:01Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "k7E_Dhw-g5eqLVwJ-43PvQD5jXI",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:53:17Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Anaphora of The Signing of the Chalice",
+    "description": "April 3, 2026: Anaphora of The Signing of the Chalice.\nToday's service can be found at http://ololc.org/doc/fridayAM.pdf.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Zju8WRasBr4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Zju8WRasBr4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Zju8WRasBr4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Zju8WRasBr4/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Zju8WRasBr4/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Zju8WRasBr4"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "Zju8WRasBr4",
+    "videoPublishedAt": "2026-02-26T15:34:11Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "I1IcoypXp_ybCTAwFjFcy93FLeI",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy4xMkVGQjNCMUM1N0RFNEUx",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:53:40Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Thursday of the Mysteries",
+    "description": "April 2, 2026: Thursday of the Mysteries.\nToday's Divine Liturgy can be found at http://ololc.org/doc/thursday.pdf.\n\nSee Bishop Gregory's talk, Great Friday and Saturday of the Light -- The Profound Mysteries on the \"Profound Mysteries\" for a deeper understanding of Passion Week.\n \nhttps://www.youtube.com/watch?v=FaL28JhcgRI\nhttps://www.stmaron.org/bishops-blog/great-friday-and-saturday-of-the-light-the-profound-mysteries",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7Dr6hsoC-YU/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7Dr6hsoC-YU/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7Dr6hsoC-YU/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7Dr6hsoC-YU/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/7Dr6hsoC-YU/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 5,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7Dr6hsoC-YU"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "7Dr6hsoC-YU",
+    "videoPublishedAt": "2026-02-26T15:32:28Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "KaiAhiN02sT0RZ3Cl1IwGDVKFeU",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy41MzJCQjBCNDIyRkJDN0VD",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:53:52Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Wednesday of Passion Week, The Rite of the Lamp",
+    "description": "April 16, 2025: Wednesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/riteoflamp.pdf.\n\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/4QPVuXjVyUA/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/4QPVuXjVyUA/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/4QPVuXjVyUA/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/4QPVuXjVyUA/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/4QPVuXjVyUA/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 6,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "4QPVuXjVyUA"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "4QPVuXjVyUA",
+    "videoPublishedAt": "2026-02-26T15:31:03Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "AlU8SoN8ash1ES4fmILCRLIbEmU",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy5DQUNERDQ2NkIzRUQxNTY1",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:54:16Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Tuesday of Passion Week",
+    "description": "March 31, 2026: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Bdg8XRgpv98/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Bdg8XRgpv98/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Bdg8XRgpv98/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Bdg8XRgpv98/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/Bdg8XRgpv98/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 7,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Bdg8XRgpv98"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "Bdg8XRgpv98",
+    "videoPublishedAt": "2026-02-26T15:29:50Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "ZeN5-XGX1vUXPcDJpfcQ7DzP06g",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy45NDk1REZENzhEMzU5MDQz",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:54:29Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Monday of Passion Week",
+    "description": "March 30, 2026: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek2.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/G4a-76kr6k4/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/G4a-76kr6k4/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/G4a-76kr6k4/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/G4a-76kr6k4/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/G4a-76kr6k4/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 8,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "G4a-76kr6k4"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "G4a-76kr6k4",
+    "videoPublishedAt": "2026-02-26T15:28:57Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "XSQhYYlzmhkOItN5fmkyoKsur8c",
+  "id": "UEx2Tkg4eVRPMUFIZWs4Qmg4ZW9JNnZXOXNNRlNoenBONy5GNjNDRDREMDQxOThCMDQ2",
+  "snippet": {
+    "publishedAt": "2026-02-26T15:54:45Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Hosanna Sunday",
+    "description": "March 29, 2026: Hosanna Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/palmsunday.pdf.\n\nPage 284 -- Hosanna Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/RX_llECRxyA/default_live.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/RX_llECRxyA/mqdefault_live.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/RX_llECRxyA/hqdefault_live.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/RX_llECRxyA/sddefault_live.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/RX_llECRxyA/maxresdefault_live.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHek8Bh8eoI6vW9sMFShzpN7",
+    "position": 9,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "RX_llECRxyA"
+    },
+    "videoOwnerChannelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "videoOwnerChannelId": "UCHYXf9VZK51bNOz-zJX9T6Q"
+  },
+  "contentDetails": {
+    "videoId": "RX_llECRxyA",
+    "videoPublishedAt": "2026-02-26T15:27:29Z"
   }
 }
 {
