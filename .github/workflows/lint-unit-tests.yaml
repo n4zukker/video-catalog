@@ -11,6 +11,7 @@ jobs:
         name: checkout from github
         uses: actions/checkout@v6
 
+      -
         name: Run tests
         shell: bash
         env:
