@@ -503,7 +503,7 @@ def seePlaylists:
 #    ] as $playlists
 #  | [
 #      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list1" } },
-#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list5" } },
+#      { "contentDetails": { "videoId": "999" }, "snippet": { "playlistId": "list1" } },
 #      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list2" } }
 #    ] as $playlistItems
 #  | [
@@ -562,6 +562,10 @@ def linkHyperlinks:
   ) // .
 ;
 
+def videoUrl ( $id):
+  "https://youtube.com/watch?v=\($id)"
+;
+
 def linkTimestamps ($id):
   (
       capture (
@@ -590,7 +594,7 @@ def linkTimestamps ($id):
         [
           "[\( .ts )]",
           "(",
-          "https://youtube.com/watch?v=\($id)",
+          videoUrl($id),
           if ( $hms | length > 0 ) then
             "&t=\( $hms | join("") )"
           else
@@ -611,7 +615,7 @@ def bodyDescription:
 
 def body ($byAtomicTitle):
   . as $entry
-  | "https://youtube.com/watch?v=\(.id)" as $href
+  | videoUrl(.id) as $href
   | (
     "![](\(.snippet.thumbnails.medium.url))",
     "",
@@ -679,11 +683,8 @@ def sectionBody ($byTitle):
   )
 ;
 
-def playlistBody ($videos ; $playlistItems):
-    ( $videos | groupToObj ( .id ) ) as $videosById
-  | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
-  | .[]
-  | "https://youtube.com/playlist?list=\(.id)" as $href
+def singlePlaylistBody ( $videosById ; $items ):
+    videoUrl(.id) as $href
   | (
       "#### \( .snippet.title )[]{#\( playlistAnchor )}",
       "![](\(.snippet.thumbnails.medium.url))",
@@ -691,20 +692,32 @@ def playlistBody ($videos ; $playlistItems):
       "|||",
       "|:--|:------|",
       "| Published at:  | \( .snippet.publishedAt  | mdTime ) |",
-      "| Visibility:    | \( .status.privacyStatus )          |",
+      "| Visibility:    | \( .status.privacyStatus // "unknown" ) |",
       "| Video count:   | \( .contentDetails.itemCount )      |",
       "| Playlist link: | [\($href)](\($href))                |",
       "",
       bodyDescription,
       (
-          $itemsByPlaylist[ .id ][]
-        | $videosById[ .contentDetails.videoId ][]
-        | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
+          $items[]
+        | . as $item
+        | $videosById[ .contentDetails.videoId ]
+        | if . then
+            .[] | "1. [\( .snippet.title )](#\( seeAlsoAnchor ))"
+          else
+           $item | "1. \( .snippet.title ) [↗️](\( videoUrl( .contentDetails.videoId )))"
+          end
       ),    
       "",
       "---",
       ""
     )
+;
+
+def playlistBody ($videos ; $playlistItems):
+    ( $videos | groupToObj ( .id ) ) as $videosById
+  | ( $playlistItems | groupToObj ( .snippet.playlistId ) ) as $itemsByPlaylist
+  | .[]
+  | singlePlaylistBody ( $videosById ; $itemsByPlaylist[ .id ] )
 ;
 
 def groupAtomicTitles:
