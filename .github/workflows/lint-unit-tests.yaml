@@ -1,6 +1,7 @@
 name: Test youtube catalog code
 on:
   pull_request:
+  workflow_dispatch: 
 
 jobs:
   test-compiles:
