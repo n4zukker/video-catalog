@@ -503,6 +503,7 @@ def seePlaylists:
 #    ] as $playlists
 #  | [
 #      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list1" } },
+#      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list5" } },
 #      { "contentDetails": { "videoId": "123" }, "snippet": { "playlistId": "list2" } }
 #    ] as $playlistItems
 #  | [
@@ -539,7 +540,7 @@ def mergePlaylists ($playlists ; $playlistItems):
         $playlistItemsById[.id] as $items
       | if $items then
           .playlists = (
-            $items | map ( $playlistsById[ .snippet.playlistId ][] )
+            $items | map ( ( $playlistsById[ .snippet.playlistId ] // [] )[] )
           )
         else
           .
