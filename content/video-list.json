@@ -430,7 +430,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5ZMkX4zLHdVWyCh2Ldz_0z9pbt4",
+  "etag": "NzDCX2YALZkUZNrOprMgp5o-meY",
   "id": "-XrVwREN3k0",
   "snippet": {
     "publishedAt": "2025-04-07T05:06:01Z",
@@ -1213,7 +1213,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "j_xLUsK__vbCebhkICFwTdsKdkg",
+  "etag": "Pzai9YtKOQPaHaWojcmzpISTsuM",
   "id": "0yeHi6LsRXw",
   "snippet": {
     "publishedAt": "2021-10-09T20:01:01Z",
@@ -1244,8 +1244,7 @@
     "localized": {
       "title": "Private Service",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT56M14S",
@@ -1644,101 +1643,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "mH_Ti6CxMigXmCVvbRu8EKzfPbU",
-  "id": "1lCcsmT1YZI",
-  "snippet": {
-    "publishedAt": "2020-04-26T16:01:49Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "3rd Sunday of the Resurrection",
-    "description": "April 26, 2020: The Third Sunday of the Resurrection of the Lord.\n\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 774 -- Anaphora of St. Peter, Head of the Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200426-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/1lCcsmT1YZI/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/1lCcsmT1YZI/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/1lCcsmT1YZI/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/1lCcsmT1YZI/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/1lCcsmT1YZI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "3rd Sunday of the Resurrection",
-      "description": "April 26, 2020: The Third Sunday of the Resurrection of the Lord.\n\n\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 774 -- Anaphora of St. Peter, Head of the Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200426-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H10M29S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "368",
-    "likeCount": "5",
-    "dislikeCount": "2",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    }
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-26T13:56:42Z",
-    "actualEndTime": "2020-04-26T15:24:32Z",
-    "scheduledStartTime": "2020-04-26T13:50:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "cS7ksatOemJ9qq3vxuidehLI_uw",
+  "etag": "qSRLZ7e7v5KESxGr8ly18AZ-Py4",
   "id": "1sibIVR8zQQ",
   "snippet": {
     "publishedAt": "2024-06-24T04:56:53Z",
@@ -2695,7 +2600,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "esi-6zf6eM1AysVGj6EMvM1vLYc",
+  "etag": "ZJqSg-cx2l-qYFwW92JEEl320DE",
   "id": "2NOAm3fwNps",
   "snippet": {
     "publishedAt": "2025-12-07T14:39:19Z",
@@ -2754,7 +2659,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "177",
+    "viewCount": "179",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -3925,7 +3830,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "txOlJYhbQwimNzgb9CWSPoLFfkE",
+  "etag": "7wotAsVRy3Q9-h6krPZ4asqg1g4",
   "id": "3X4RAqUG-1s",
   "snippet": {
     "publishedAt": "2024-10-28T05:17:18Z",
@@ -4451,7 +4356,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CjR8Iv57d84W5N0hNUsRQ-Nmtmg",
+  "etag": "avAae0lWzBRrkBkj4ziacgiq2tc",
   "id": "4QPVuXjVyUA",
   "snippet": {
     "publishedAt": "2026-04-02T13:57:17Z",
@@ -4515,7 +4420,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "130",
+    "viewCount": "131",
     "likeCount": "7",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -4718,7 +4623,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CHF1JOU95Mh0AXkQBO1nqpUmIvI",
+  "etag": "KDMKNKkgLZARzyPu6ythtP3SssE",
   "id": "4vEXg9zShUU",
   "snippet": {
     "publishedAt": "2024-01-01T06:04:24Z",
@@ -4806,7 +4711,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Eux9OoiQG_-pJ6Ibg2lg5nvJD6E",
+  "etag": "BEwkHlXJMe26g0NMdnZH86S3C6w",
   "id": "552iFrvojYE",
   "snippet": {
     "publishedAt": "2024-05-29T19:05:30Z",
@@ -4847,8 +4752,7 @@
     "localized": {
       "title": "National Eucharistic Pilgrimage",
       "description": "Our Lady of Lebanon Cathedral will be part of the National Eucharistic Pilgrimage in the Diocese of Brooklyn.  The procession begins on Sunday, May 26th, at 3:30 pm midway on the Brooklyn Bridge and reaches the Cathedral at 4:30  pm.  We will do 30 minutes of adoration and benediction before the procession continues to St. James Co-Cathedral."
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT27M31S",
@@ -4870,7 +4774,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "321",
+    "viewCount": "326",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -5158,7 +5062,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "yi9CHeEWBgEkOfNiGjtU8NzyERA",
+  "etag": "RLuOvf3r8QiCL_fwqFQ4xX5DHpY",
   "id": "5NxoFKZN7_E",
   "snippet": {
     "publishedAt": "2021-04-02T15:13:00Z",
@@ -5221,7 +5125,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "96",
+    "viewCount": "98",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -5332,7 +5236,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "xyuupweJd4_Fiyq4AW3ElD8Em0U",
+  "etag": "4I5FstR-kFQC0qJUR1REhN6YFjQ",
   "id": "5kI4oydQXo4",
   "snippet": {
     "publishedAt": "2024-08-26T06:06:07Z",
@@ -5682,7 +5586,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "cquQcZsqogocBV-GSliJPeG8XhA",
+  "etag": "SKvE6o-6Kkxl293bU_ioEA_LijM",
   "id": "6Lb8fqc7J0k",
   "snippet": {
     "publishedAt": "2023-07-10T04:59:10Z",
@@ -5852,100 +5756,6 @@
     "actualStartTime": "2021-05-13T23:25:26Z",
     "actualEndTime": "2021-05-14T02:17:30Z",
     "scheduledStartTime": "2021-05-13T23:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "4owcYuCc3Dt8Q0YrEpA7O2l3U7Q",
-  "id": "6RFsSTXBCJ4",
-  "snippet": {
-    "publishedAt": "2020-04-09T23:47:12Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Thursday of the Mysteries (No Washing of the Feet)",
-    "description": "Text: http://ololc.org/doc/thursday.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/6RFsSTXBCJ4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/6RFsSTXBCJ4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/6RFsSTXBCJ4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/6RFsSTXBCJ4/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/6RFsSTXBCJ4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Thursday of the Mysteries (No Washing of the Feet)",
-      "description": "Text: http://ololc.org/doc/thursday.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT1H10M17S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "485",
-    "likeCount": "13",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    },
-    "recordingDate": "2020-04-09T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-09T21:57:25Z",
-    "actualEndTime": "2020-04-09T23:07:38Z"
   }
 }
 {
@@ -6125,7 +5935,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "38eDhdhAhh-_QSRwUmuTi__Q9zw",
+  "etag": "Nh2YCWcJ7A4wRSw1tnHvNZvfJGo",
   "id": "6aIcIn6qBiU",
   "snippet": {
     "publishedAt": "2024-10-14T05:23:34Z",
@@ -6296,100 +6106,6 @@
     "actualStartTime": "2020-06-15T13:35:51Z",
     "actualEndTime": "2020-06-16T13:27:35Z",
     "scheduledStartTime": "2020-06-28T14:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "gz2B1W1VVw9QiNrQyte-2BkTAKs",
-  "id": "6kTPPQFC2b0",
-  "snippet": {
-    "publishedAt": "2020-04-09T00:30:25Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Wednesday of Passion Week, The Rite of the Lamp",
-    "description": "Text: http://ololc.org/doc/riteoflamp.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/6kTPPQFC2b0/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/6kTPPQFC2b0/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/6kTPPQFC2b0/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/6kTPPQFC2b0/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/6kTPPQFC2b0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Wednesday of Passion Week, The Rite of the Lamp",
-      "description": "Text: http://ololc.org/doc/riteoflamp.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT1H50M52S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "377",
-    "likeCount": "11",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    },
-    "recordingDate": "2020-04-08T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-08T21:57:14Z",
-    "actualEndTime": "2020-04-08T23:48:00Z"
   }
 }
 {
@@ -6743,7 +6459,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "WcWqvciu7lRuABXOGustIJjkv1s",
+  "etag": "JeeKKTOS4uHz5bLWhjCdhuDzwlY",
   "id": "6xa-FAVSRCU",
   "snippet": {
     "publishedAt": "2024-04-22T05:38:55Z",
@@ -7362,7 +7078,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tzLFPlP78k_z5eEMQQY7i--BVCY",
+  "etag": "cHMdQu-r62iPr2PM16vlDfsiUtM",
   "id": "7aGXWoR2W30",
   "snippet": {
     "publishedAt": "2025-03-29T13:19:48Z",
@@ -7800,7 +7516,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "e3L9qNwaChYrbiIYawv4NP1scW4",
+  "etag": "-dyy9Rgi4I3qfoeC9jLNKKs48Qo",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -7809,27 +7525,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPj3nNAG&rs=AOn4CLDu_6lqIrXveQaA9Axd_vJHa1w0tQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CKiU0dAG&rs=AOn4CLAJ951oixBmRk8DL-q1u4qGBvlM2Q",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLBQaFEF3aFkkNRGM4OHjcpi1SrD9Q",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CKiU0dAG&rs=AOn4CLDJS4ybr3P7ttU3o8IYKFJAS0eQig",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLAGBTC5o2MUnWM9Ow1iAWwVJWvFvQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CKiU0dAG&rs=AOn4CLChBYuS1mppNqDB05qUzogdkeKaAQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPj3nNAG&rs=AOn4CLAn1EcCkpGFDf7nTdCNsH0__2ryFQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CKiU0dAG&rs=AOn4CLABPLqWYKVE5SPzp-SpJPAlmDfttw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLAbks0WcpijqMlALSF8Jqitfq4bdQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CKiU0dAG&rs=AOn4CLAOqBBLO0AGfh6htDPPL2XDQTEN2A",
         "width": 1280,
         "height": 720
       }
@@ -7974,7 +7690,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "btl3adlcW7Hlk6Tui65edAaGo-0",
+  "etag": "SOZjfv1xl_yI60HDZmIU-bfXZ_0",
   "id": "8BHJ8MDFRlQ",
   "snippet": {
     "publishedAt": "2026-04-17T12:07:13Z",
@@ -8010,8 +7726,7 @@
     "localized": {
       "title": "Debel in Southern Lebanon urgently needs your help",
       "description": "To help the Christians of South Lebanon go to\n\nhttps://www.stmaron.org/how-you-can-help\n\nAnd please write in for Christians of South Lebanon\n\nOr\n\nMail a check payable to\n\nthe Eparchy of Saint Maron\n\nto 109 Remsen street Brooklyn New York 11201"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT15S",
@@ -8033,7 +7748,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "467",
+    "viewCount": "476",
     "likeCount": "13",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -8043,83 +7758,6 @@
     "topicCategories": [
       "https://en.wikipedia.org/wiki/Religion"
     ]
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "GiRl1Smmcrf8SgeAUze_wJ4r2T8",
-  "id": "8JbztxjySrw",
-  "snippet": {
-    "publishedAt": "2020-03-28T22:25:48Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Technical Difficulties",
-    "description": "We are experiencing technical difficulties and apologize for this disruption.\n\n\nPlease watch Divine Liturgy on EWTN, Noursat or another live stream.\n\n\nReturn to this channel on Friday for Stations of the Cross and Sunday for Divine Liturgy.",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/8JbztxjySrw/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/8JbztxjySrw/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/8JbztxjySrw/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/8JbztxjySrw/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Technical Difficulties",
-      "description": "We are experiencing technical difficulties and apologize for this disruption.\n\n\nPlease watch Divine Liturgy on EWTN, Noursat or another live stream.\n\n\nReturn to this channel on Friday for Stations of the Cross and Sunday for Divine Liturgy."
-    }
-  },
-  "contentDetails": {
-    "duration": "PT24S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": true,
-    "publicStatsViewable": true,
-    "madeForKids": true,
-    "selfDeclaredMadeForKids": true
-  },
-  "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
   },
   "recordingDetails": {},
   "fileDetails": {},
@@ -10056,7 +9694,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5DsA2eJYFZSkMEmmqqho2b79vk0",
+  "etag": "2FjNzGopHnghrVuMEpuHJzzj0uc",
   "id": "BB0S5hWSwCw",
   "snippet": {
     "publishedAt": "2021-04-04T07:20:50Z",
@@ -10119,7 +9757,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "210",
+    "viewCount": "211",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -10409,7 +10047,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "8RX6qyi3mIevQzL0NLX197AnJt4",
+  "etag": "aRt1DpDqOEzEjn_XISYc2jhiXPA",
   "id": "Bdg8XRgpv98",
   "snippet": {
     "publishedAt": "2026-04-01T12:56:06Z",
@@ -10450,8 +10088,7 @@
     "localized": {
       "title": "Tuesday of Passion Week",
       "description": "March 31, 2026: Tuesday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek1.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\nFr. Dominique was the main celebrant and Deacon Nadim gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:40 Lighting of the candles\n00:09:31 Opening hymn\n00:20:46 Readings\n00:30:38 Homily\n00:38:11 Creed\n00:43:17 Anaphora of Saint John the Apostle\n00:58:04 Communion"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H24M5S",
@@ -10937,7 +10574,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "uMNAneHXUMb15oFz9mejTEBp_ow",
+  "etag": "y8Ro34wVTX-L2LmXT3R6fCzllPo",
   "id": "CMzXRIHxkTI",
   "snippet": {
     "publishedAt": "2023-09-25T04:47:56Z",
@@ -11372,7 +11009,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "yH5x9jG6NDUu_B7n0zH-fQVHyR0",
+  "etag": "1GKrIAd0zIJRJTIvJpnQ0Dnlupo",
   "id": "D2a6iAFOrd8",
   "snippet": {
     "publishedAt": "2024-03-29T04:22:23Z",
@@ -11810,7 +11447,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "dlXTTtzn7vonWgjCjHdufF4hxu8",
+  "etag": "uX7toWU8Y05LGAkvhWWRp43BiKw",
   "id": "DfXP8WX_M4k",
   "snippet": {
     "publishedAt": "2025-10-23T17:28:52Z",
@@ -11846,8 +11483,7 @@
     "localized": {
       "title": "2026 Lebanese Election registration",
       "description": "A brief video in Arabic explaining the process to register for the upcoming 2026 Lebanese Elections. May God bless Lebanon."
-    },
-    "defaultAudioLanguage": "ar"
+    }
   },
   "contentDetails": {
     "duration": "PT1M3S",
@@ -12419,91 +12055,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wRqtIKVsl7tGdkx0HZ-cMrnZqKk",
-  "id": "ENa0Evc6va8",
-  "snippet": {
-    "publishedAt": "2020-03-24T20:29:29Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/ENa0Evc6va8/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/ENa0Evc6va8/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/ENa0Evc6va8/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/ENa0Evc6va8/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/ENa0Evc6va8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1M18S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "53",
-    "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-24T19:56:46Z",
-    "actualEndTime": "2020-03-24T19:58:13Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "OgIgjc0zUscJ7PLGDR3CStnDajc",
   "id": "EPtAKHb-hgc",
   "snippet": {
@@ -12853,7 +12404,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "uOK3XX8lXqaiVT0DEOlaNGyqM8c",
+  "etag": "-Uzw_PIxiR9WjPBI6BSx0EFhp1Y",
   "id": "ErlGWKU9NnI",
   "snippet": {
     "publishedAt": "2021-04-03T01:04:50Z",
@@ -12916,7 +12467,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "515",
+    "viewCount": "516",
     "likeCount": "19",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -13109,7 +12660,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qQNO_auFn6aSEjVZjFXcHOGxxH4",
+  "etag": "MvFBcnlNYBiv_YMnEo6GeJO4K1E",
   "id": "FGUp8CtE_hQ",
   "snippet": {
     "publishedAt": "2021-12-25T07:59:09Z",
@@ -13368,91 +12919,6 @@
     "actualStartTime": "2025-12-17T00:25:37Z",
     "actualEndTime": "2025-12-17T01:18:52Z",
     "scheduledStartTime": "2025-12-17T00:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "Y53-AGU4_meT-KWusku9lwSPFug",
-  "id": "FVypJsGQNg8",
-  "snippet": {
-    "publishedAt": "2020-03-22T17:28:44Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/FVypJsGQNg8/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/FVypJsGQNg8/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/FVypJsGQNg8/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/FVypJsGQNg8/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/FVypJsGQNg8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H6M9S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "1536",
-    "likeCount": "34",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "1"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-22T15:30:54Z",
-    "actualEndTime": "2020-03-22T16:37:02Z"
   }
 }
 {
@@ -13888,7 +13354,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "8PZahRCY6UtHHROkH0YbXPFlMDU",
+  "etag": "bzh6btfvtcy07nugZVnJq5g4zX0",
   "id": "G4a-76kr6k4",
   "snippet": {
     "publishedAt": "2026-03-31T13:17:38Z",
@@ -13929,8 +13395,7 @@
     "localized": {
       "title": "Monday of Passion Week",
       "description": "March 30, 2026: Monday of Passion Week.\nToday's Divine Liturgy can be found at http://ololc.org/doc/passionweek1.pdf.\n\nPage 295 -- Passion Week\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle\n\nFr. Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:01:00 Lighting of the candles\n00:14:45 Opening hymn\n00:26:02 Readings\n00:36:55 Homily\n00:47:13 Creed\n00:52:04 Anaphora of Saint John the Apostle\n01:06:34 Communion"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H31M6S",
@@ -14244,7 +13709,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "e88g3VTh8pEoqR8_A9iZesNXfIo",
+  "etag": "q4dxALtqbOMqeprSB02VP6iEvEo",
   "id": "GObfgNiEzVU",
   "snippet": {
     "publishedAt": "2024-04-08T05:17:36Z",
@@ -14415,91 +13880,6 @@
     "actualStartTime": "2020-12-17T00:03:36Z",
     "actualEndTime": "2020-12-17T04:15:03Z",
     "scheduledStartTime": "2020-12-17T00:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "pDUEtOyUYOFD4M027rU2cDW4opg",
-  "id": "GcYSiw5S4MA",
-  "snippet": {
-    "publishedAt": "2020-04-23T11:11:29Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "New Sunday (Divine Mercy Sunday)",
-    "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPj3nNAG&rs=AOn4CLBmZNo-84pLe3DdvN0cxWgmp6ot0w",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLAI8b7_oBmF6O8kThuDyiwl4EKOkg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLBzGr1yJjjidO4w4oXmm7I1kOdTcg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPj3nNAG&rs=AOn4CLAu_26DxRd9oXeoyTLNgX21ad99rA",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLDCpYSWS7z2GvXvzZfdehfJwnVqRg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "localized": {
-      "title": "New Sunday (Divine Mercy Sunday)",
-      "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT5M10S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "private",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "15",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-22T23:04:32Z",
-    "actualEndTime": "2020-04-22T23:09:50Z"
   }
 }
 {
@@ -15027,91 +14407,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "VaGzLLMEHvqgldNuxVSXLfopvEA",
-  "id": "H4_sjTXdPMw",
-  "snippet": {
-    "publishedAt": "2020-03-29T15:39:27Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/H4_sjTXdPMw/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/H4_sjTXdPMw/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/H4_sjTXdPMw/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/H4_sjTXdPMw/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/H4_sjTXdPMw/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H12M32S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "1302",
-    "likeCount": "27",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-29T13:51:09Z",
-    "actualEndTime": "2020-03-29T15:03:40Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "-ipd4Duax3vP5hGxV-GqPWUhuyY",
   "id": "HK6yw_X8Xs0",
   "snippet": {
@@ -15286,7 +14581,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "t6N25FHrH0yr8LbNdwLpNRaQuDk",
+  "etag": "a8cvpJpJnTeeOxqwouqmQUmC7vQ",
   "id": "HY1k1DTKP48",
   "snippet": {
     "publishedAt": "2022-12-11T17:50:49Z",
@@ -15373,7 +14668,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "iq69q9zq7srUdyTYkQbLDaPNikk",
+  "etag": "ntRqsu43JkovSF7lUkfoFW2HOoE",
   "id": "HjCNjMmnLXo",
   "snippet": {
     "publishedAt": "2020-11-01T21:58:09Z",
@@ -15460,7 +14755,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "iQaKkHiBnyIPxcmKLm2fl5FtUTQ",
+  "etag": "HRkFYbhMu9ROdHkwVK592KmGWyg",
   "id": "Hl6p8SBYdgY",
   "snippet": {
     "publishedAt": "2022-12-16T01:27:59Z",
@@ -15547,7 +14842,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "oYhrm9rHxgaQz1GvrJ7xjSDIHX0",
+  "etag": "n_bF-UMmPa2oUmwYevTn5TcR_dQ",
   "id": "HqLe3btLwy0",
   "snippet": {
     "publishedAt": "2021-10-19T15:04:09Z",
@@ -15588,8 +14883,7 @@
     "localized": {
       "title": "Private Service",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT53M51S",
@@ -16251,7 +15545,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "X6Ne0dAuCnN6cFCRJGNrPIRsJl4",
+  "etag": "2p5ycZStxNIYx7m0UnbuywIImqQ",
   "id": "IfVTnmRyZCA",
   "snippet": {
     "publishedAt": "2024-03-26T12:46:45Z",
@@ -16601,7 +15895,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DF8xTGFPiX70ozxA898KjSgnGAw",
+  "etag": "Ux3b_fT-omon8rcS8XjunLMoZLE",
   "id": "IyOEoMNCdqA",
   "snippet": {
     "publishedAt": "2026-04-12T10:20:59Z",
@@ -16642,8 +15936,7 @@
     "localized": {
       "title": "Memorial Divine Liturgy in memory of Ed Shiner",
       "description": "Bishop Gregory was the main celebrant and gave the homily.\n\nChorbishop Alfred Badawi, Chorbishop Peter Azar, Monsignor Albert Contantine, Monsignor Dominique Hannah,  Monsignor Albert Contantine, Father Chuck Van Heusen and Subdeacon Mark Farah were also present.\n\nChapters:\n00:00:00 Recording starts\n00:03:43 Lighting of the Church\n00:12:37 Opening hymn\n00:23:42 Readings\n00:30:49 Homily\n00:41:45 Creed\n00:47:04 Anaphora of Saint Sixtus, Pope of Rome\n01:01:40 Communion\n01:07:31 Announcements"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H24M50S",
@@ -16665,7 +15958,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "126",
+    "viewCount": "130",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -17219,7 +16512,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "gsPQcE4wkSpDgbFMdqiodNAUnrI",
+  "etag": "O5SDNxJy5p0hJ2XzSq9zh9BzL7Y",
   "id": "JdfS3a5m9wE",
   "snippet": {
     "publishedAt": "2021-04-25T02:03:43Z",
@@ -17260,8 +16553,7 @@
     "localized": {
       "title": "First Communion",
       "description": "April 24, 2021: First Communion at Our Lady of Lebanon Cathedral"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H36M3S",
@@ -17283,7 +16575,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "618",
+    "viewCount": "620",
     "likeCount": "12",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -17312,7 +16604,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "mw_LD95gi9A_tcU7TK3VgYZauO8",
+  "etag": "au8Ku5wepFpSiQ6QrbKUZFG3JL4",
   "id": "Jq4ojoa3fts",
   "snippet": {
     "publishedAt": "2024-11-18T06:11:13Z",
@@ -17837,91 +17129,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "LakiZ0CnPfGKv7IyNaLscI63I-M",
-  "id": "K8oLQ__3hBE",
-  "snippet": {
-    "publishedAt": "2020-04-04T00:05:04Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Stations of the Cross",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/K8oLQ__3hBE/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/K8oLQ__3hBE/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/K8oLQ__3hBE/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/K8oLQ__3hBE/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/K8oLQ__3hBE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Stations of the Cross",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H5M59S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "530",
-    "likeCount": "9",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-03T22:03:23Z",
-    "actualEndTime": "2020-04-03T23:28:26Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "F6syu9qU8vaiH9sKgmzvxtjjyfM",
   "id": "KlrmpuONL3A",
   "snippet": {
@@ -18185,93 +17392,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "xODvE9z7BGk-8qXpjYAATeEy4Hw",
-  "id": "LE_fkILyi_s",
-  "snippet": {
-    "publishedAt": "2020-05-07T00:38:53Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Maronite Prayer of the Faithful -- Ramsho",
-    "description": "Text: http://ololc.org/doc/ramsho.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/LE_fkILyi_s/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/LE_fkILyi_s/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/LE_fkILyi_s/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/LE_fkILyi_s/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/LE_fkILyi_s/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Maronite Prayer of the Faithful -- Ramsho",
-      "description": "Text: http://ololc.org/doc/ramsho.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H2M31S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "89",
-    "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-05-06T22:56:17Z",
-    "actualEndTime": "2020-05-07T00:03:31Z",
-    "scheduledStartTime": "2020-05-06T23:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "mjUtXapW1si3JsnS1vDO2V6M9Y8",
   "id": "LIMaVEnbI1c",
   "snippet": {
@@ -18530,7 +17650,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "TuGwxofWw90ksyMEDqVhfrtJDhQ",
+  "etag": "VOsUSrSF1Ph_c9ymrYjAIicFo7s",
   "id": "LckxrKFJKdE",
   "snippet": {
     "publishedAt": "2021-02-21T20:59:17Z",
@@ -18791,7 +17911,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "uhUxLMN_mhsWX337B4rp_FkkfVs",
+  "etag": "blYclg1xZlTQru5WOwCDMaMW0TU",
   "id": "LwamjWvRIKk",
   "snippet": {
     "publishedAt": "2025-05-19T05:11:07Z",
@@ -18855,7 +17975,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "200",
+    "viewCount": "201",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -19058,7 +18178,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "IH4OMGjU7MUdvvBkHWfwmhMq5xg",
+  "etag": "HaOr2IamwgXghbT-jln_TM5XWVo",
   "id": "MMFejKYDD-w",
   "snippet": {
     "publishedAt": "2023-03-28T17:36:07Z",
@@ -19099,8 +18219,7 @@
     "localized": {
       "title": "Consecration of the Holy Oils",
       "description": "The Divine Liturgy for the Consecration of the Chrism and Holy Oils will be celebrated on Tuesday, March 28, 2023 at 12:00 pm (noon) at the Cathedral of Our Lady of Lebanon in Brooklyn, New York.\n\nThe Divine Liturgy text can be found at http://ololc.org/doc/chrism.pdf.\n\nRite of the Consecration of the Holy Oils\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:01:40 Lighting of the Church\n00:09:55 Opening hymn\n00:12:40 Consecration of the Chrism, Opening prayers\n00:20:57 Readings\n00:27:54 Homily\n00:34:32 Rite of Consecration of Chrism\n00:53:33 Consecration of the Oil of Baptism\n00:55:17 Consecration of the Oil of the Sick\n00:58:26 Creed\n01:03:35 Anaphora of the Twelve Apostles"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H31M5S",
@@ -19421,7 +18540,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AoA3_gR802YdKGZe_c1Z0pQQJfE",
+  "etag": "qc_34iZg_9psaerdqNy8e2BxufM",
   "id": "MoESYl15dOI",
   "snippet": {
     "publishedAt": "2021-04-03T18:33:43Z",
@@ -19484,7 +18603,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "138",
+    "viewCount": "140",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -19678,93 +18797,6 @@
     "actualStartTime": "2020-05-27T22:55:12Z",
     "actualEndTime": "2020-05-28T00:16:03Z",
     "scheduledStartTime": "2020-05-27T23:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "Bx2hZ5YB-PkVTHTUXuk8YsT0z4s",
-  "id": "MvX67dm9J40",
-  "snippet": {
-    "publishedAt": "2020-05-03T15:51:54Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "4th Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
-    "description": "May 3, 2020: The Fourth Sunday of the Resurrection of the Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 454 -- Commemoration of the Virgin Mary\nPage 748 -- Creed\nPage 774 -- Anaphora of St. Peter, Head of the Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200503-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/MvX67dm9J40/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/MvX67dm9J40/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/MvX67dm9J40/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/MvX67dm9J40/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/MvX67dm9J40/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "4th Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
-      "description": "May 3, 2020: The Fourth Sunday of the Resurrection of the Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 454 -- Commemoration of the Virgin Mary\nPage 748 -- Creed\nPage 774 -- Anaphora of St. Peter, Head of the Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200503-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H15M46S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "261",
-    "likeCount": "6",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-05-03T13:58:25Z",
-    "actualEndTime": "2020-05-03T15:14:10Z",
-    "scheduledStartTime": "2020-05-03T13:50:00Z"
   }
 }
 {
@@ -20991,7 +20023,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ygiucpY1rfFIfCko-jHXSlbwsDg",
+  "etag": "YD1Sh7JV_C76UkXdaDG2jNQAXEU",
   "id": "PQgVi8XQnpU",
   "snippet": {
     "publishedAt": "2026-04-04T13:54:19Z",
@@ -21173,7 +20205,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "1XWXtjZkFS3awBuJp6a8bqtOAnA",
+  "etag": "6mw9UlYUeDG9MqRr1qFAc-p-3mY",
   "id": "Q0OUeNAFTBA",
   "snippet": {
     "publishedAt": "2021-03-28T20:36:40Z",
@@ -21236,7 +20268,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "384",
+    "viewCount": "385",
     "likeCount": "11",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -21886,7 +20918,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "eC-FsPA2pV2MUXj1xeVn74VYQlU",
+  "etag": "NTahps1Xzs9YolMUDip1dlOtgX8",
   "id": "QcBW666jxL0",
   "snippet": {
     "publishedAt": "2025-11-10T06:07:38Z",
@@ -22497,99 +21529,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CrKRiZNdG-Pz_u62mPTPbYjUTEg",
-  "id": "R754icAwFn0",
-  "snippet": {
-    "publishedAt": "2020-04-11T15:19:01Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Saturday of the Great Light -- Prayer of Forgiveness",
-    "description": "Text: http://ololc.org/doc/saturday.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/R754icAwFn0/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/R754icAwFn0/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/R754icAwFn0/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/R754icAwFn0/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/R754icAwFn0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Saturday of the Great Light -- Prayer of Forgiveness",
-      "description": "Text: http://ololc.org/doc/saturday.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT44M26S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "247",
-    "likeCount": "12",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    }
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-11T13:58:51Z",
-    "actualEndTime": "2020-04-11T14:43:33Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "w2XO9S_lsez_5f6rkuls4OTZc3Y",
   "id": "RKZ3Ne5ATQM",
   "snippet": {
@@ -22677,7 +21616,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "TkLI15Pg0-ONahuoQtOP75gKj3Q",
+  "etag": "ZvuEdUxT0XPPN2cIcE2YnFmg_KE",
   "id": "RX_llECRxyA",
   "snippet": {
     "publishedAt": "2026-03-30T06:11:21Z",
@@ -22741,7 +21680,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "177",
+    "viewCount": "178",
     "likeCount": "5",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -23297,93 +22236,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "b0SLKW9ByKky54X4UnHmuFp9bB8",
-  "id": "S36Sj3ivjO4",
-  "snippet": {
-    "publishedAt": "2020-03-21T15:39:58Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/S36Sj3ivjO4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/S36Sj3ivjO4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/S36Sj3ivjO4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/S36Sj3ivjO4/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/S36Sj3ivjO4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H20M19S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "4",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "recordingDate": "2020-03-21T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-21T13:43:48Z",
-    "actualEndTime": "2020-03-21T15:04:36Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "Gurghow0a8MPl0KUVuKQ5NUih28",
   "id": "S3mzaJO2HKI",
   "snippet": {
@@ -23471,7 +22323,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "QWxXRyvfA66vWTkCRZoqtt40xj4",
+  "etag": "uMNC-KpnjfAuHezx6UmbE2JG1JY",
   "id": "S3sJQSdPuK0",
   "snippet": {
     "publishedAt": "2021-02-20T03:45:13Z",
@@ -24082,91 +22934,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "XntRxZ1IfQZ6rK-ZTIltfdlzh1Y",
-  "id": "Sy2H4uCkzLQ",
-  "snippet": {
-    "publishedAt": "2019-08-26T17:24:42Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/Sy2H4uCkzLQ/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/Sy2H4uCkzLQ/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/Sy2H4uCkzLQ/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/Sy2H4uCkzLQ/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/Sy2H4uCkzLQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT3M22S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "6",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2019-08-26T17:15:25Z",
-    "actualEndTime": "2019-08-26T17:18:40Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "KdCIUvhrtzOhjSRqnQc7TBP5-ZI",
   "id": "SzpZmLPieD0",
   "snippet": {
@@ -24338,93 +23105,6 @@
     "actualStartTime": "2023-12-08T00:30:07Z",
     "actualEndTime": "2023-12-08T01:44:50Z",
     "scheduledStartTime": "2023-12-08T00:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "1FbiyV0TscRyPCQqx6M0fOLhSxg",
-  "id": "TAxddwr0yMc",
-  "snippet": {
-    "publishedAt": "2020-03-19T04:51:21Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Divine Liturgy",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/TAxddwr0yMc/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/TAxddwr0yMc/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/TAxddwr0yMc/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/TAxddwr0yMc/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/TAxddwr0yMc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Divine Liturgy",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT5M2S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": true,
-    "selfDeclaredMadeForKids": true
-  },
-  "statistics": {
-    "viewCount": "41",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-18T22:07:59Z",
-    "actualEndTime": "2020-03-19T04:20:19Z",
-    "scheduledStartTime": "2020-03-18T22:03:28Z"
   }
 }
 {
@@ -24691,7 +23371,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3I4-BHQewtJk98463F7AXoBuyi8",
+  "etag": "CQWUE6Id6wubU4GaayTo-WT3L9I",
   "id": "TTTgLJCB1II",
   "snippet": {
     "publishedAt": "2024-05-12T04:03:23Z",
@@ -24732,8 +23412,7 @@
     "localized": {
       "title": "Ordination of Subdeacon Adonis El-Asmar to the Order of Deacons",
       "description": "May 11, 2024:\nThe Ordination of Subdeacon Adonis El-Asmar to The Order of Deacons By The Imposition of Hands of The Most Reverend Gregory J. Mansour, Bishop of the Eparchy of St. Maron of Brooklyn.\n\nThe text for this Divine Liturgy can be found at http://ololc.org/doc/deaconOrdination.pdf.\n\nChapters:\n00:00:00 Recording starts\n00:02:14 Lighting of the Church\n00:12:40 Entrance hymn\n00:16:30 Blessing of the Candidate\n00:17:05 Opening Prayers\n00:20:33 Prayer of Forgiveness\n00:27:46 Readings\n00:33:49 Homily\n00:41:51 Creed\n00:47:54 Anaphora of the Twelve Apostles\n01:06:06 The Rite of Ordination of the Deacon\n01:09:50 Diaconal Proclamation\n01:10:36 Presentation of the Candidate\n01:11:29 Election of the Candidate\n01:12:50 Imposition of Hand and Prayers of Consecration\n01:16:14 Announcement of the Ordination\n01:18:28 First Procession\n01:21:59 Second Procession\n01:24:34 Third Procession\n01:27:53 Handing on of the Holy Mysteries\n01:27:47 Final Exhortation\n01:31:37 Communion\n01:42:58 Final Blessing"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT2H3M27S",
@@ -24755,7 +23434,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "453",
+    "viewCount": "456",
     "likeCount": "9",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -24871,7 +23550,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4SkdOi7GDWLFespTc07zBT-NsX8",
+  "etag": "gdDitYv3_Xg_xcSVaTr_cZYjqTQ",
   "id": "Te9hUSy-VgM",
   "snippet": {
     "publishedAt": "2021-02-14T20:44:47Z",
@@ -24958,7 +23637,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "7_Mq6k-ZMFWd2i3xYIpbVCcfB7s",
+  "etag": "B66p5gW8Jq9DVSgWdRtaqUu6ank",
   "id": "TfmyI4rxMCU",
   "snippet": {
     "publishedAt": "2022-04-15T17:58:38Z",
@@ -25657,7 +24336,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "DMI2RyLk3NshArNLsfBXs5OuwtI",
+  "etag": "-iJ5ePsA7yObMxO_E0uH8XQUYRs",
   "id": "V0g4NqH_nk4",
   "snippet": {
     "publishedAt": "2023-11-18T13:30:00Z",
@@ -25698,8 +24377,7 @@
     "localized": {
       "title": "The Man of God is a Man for Others, CFN interview",
       "description": "Bishop Gregory discussed his recent pastoral letter, \"The Man of God is a Man for Others\" (https://www.stmaron.org/s/Bishop-Mansour-Pastoral-Letter-6.pdf) on Conversations with Cardinal Dolan, Catholic Faith Network.\n\nSee the November 14, 2023 entry at https://www.catholicfaithnetwork.org/conversationwithcardinaldolan for the entire episode."
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT11M9S",
@@ -25746,7 +24424,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "oiY8hvPoV2izdNucQzGkaUwqfAo",
+  "etag": "0zm8EuhV5ya_NJl0YWYzGn6FUDY",
   "id": "V3rbhuv5Rqs",
   "snippet": {
     "publishedAt": "2024-03-31T03:45:35Z",
@@ -25834,7 +24512,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-hZGHzoXdnENhu3Tvh4DW3_4vrE",
+  "etag": "1YW-5ehEAxZVywI80YhhKacnjH4",
   "id": "V7kJB9EeZgU",
   "snippet": {
     "publishedAt": "2026-05-04T05:12:19Z",
@@ -25898,7 +24576,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "114",
+    "viewCount": "125",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -25928,7 +24606,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "f5i3lqc3uKi2NjyCUaTm2p3QBQc",
+  "etag": "JfLgDs2bykQdupOUgoxQfAc_7c4",
   "id": "VDQa742RXIw",
   "snippet": {
     "publishedAt": "2020-09-28T18:42:14Z",
@@ -26015,7 +24693,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wCivhNBJ9CeTFh6DnPdOs1kMlJE",
+  "etag": "snMZsOzgpxwy7CXRkQ5cnIiBS3o",
   "id": "VFqY0lbNx7M",
   "snippet": {
     "publishedAt": "2021-12-26T21:17:25Z",
@@ -26189,7 +24867,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "699_6tethMhY9_t07QrnzuNmreU",
+  "etag": "gcagZzOHSbAI77cqqlJeik12sxg",
   "id": "Vmr4Sq94rnU",
   "snippet": {
     "publishedAt": "2022-07-03T16:33:43Z",
@@ -26276,7 +24954,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "pkj8jm009D3KKp9rqi4Yy4aKh7Q",
+  "etag": "pM49h1-3GaCrXjd6qpdZi2M9Eto",
   "id": "VrEiwEra-sg",
   "snippet": {
     "publishedAt": "2024-12-18T13:18:20Z",
@@ -26364,7 +25042,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "z_AXbx129z9G5zQ5YRFPT2k_Fb4",
+  "etag": "9SYl7khSHehY4yfrVRFJWopCNW0",
   "id": "W9mlbHmKFr4",
   "snippet": {
     "publishedAt": "2023-06-19T07:28:51Z",
@@ -26714,7 +25392,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "cxn6NNmKpVLTvZlcXB333RB5Kio",
+  "etag": "hXTEXTaY-cHiPs7jx2psDx2gX5A",
   "id": "Wtn_r-Kx37A",
   "snippet": {
     "publishedAt": "2021-04-04T21:05:09Z",
@@ -26777,7 +25455,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "462",
+    "viewCount": "465",
     "likeCount": "8",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -26889,7 +25567,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "fQU5Vrq6CKQn3CP71uJxyomwpVg",
+  "etag": "Xmn2e6aty-xjk1cjoSAcTMpzQag",
   "id": "XBJSvOdnEPs",
   "snippet": {
     "publishedAt": "2021-03-06T03:13:50Z",
@@ -27150,7 +25828,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nyc-2T3PgYPu_0lfzjrKkoMaCFE",
+  "etag": "7A1h3KprNVJI6OwSofcpzqvsJJc",
   "id": "XjkWOWezKLs",
   "snippet": {
     "publishedAt": "2025-09-08T06:13:40Z",
@@ -27214,7 +25892,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "189",
+    "viewCount": "190",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -27326,92 +26004,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "jw6Q0pWeXMD0BtXsli2EVQdxNdo",
-  "id": "Xoi5u9JBS90",
-  "snippet": {
-    "publishedAt": "2020-04-19T15:03:40Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "New Sunday (Divine Mercy Sunday)",
-    "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/Xoi5u9JBS90/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/Xoi5u9JBS90/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/Xoi5u9JBS90/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/Xoi5u9JBS90/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/Xoi5u9JBS90/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "New Sunday (Divine Mercy Sunday)",
-      "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT2H9M28S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "7",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-21T18:38:18Z",
-    "actualEndTime": "2020-04-21T20:50:35Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "t1KHzv6RMiHD2L_RdZY9wnWVkuA",
   "id": "YHCUAleA9W4",
   "snippet": {
@@ -27499,7 +26091,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Hd9nVBCFn0CGRXTpMo6mqOgBohc",
+  "etag": "1oDYjIQ1UVb1VfVpxLk_RdvbRZg",
   "id": "YU2iRqJ_3po",
   "snippet": {
     "publishedAt": "2022-12-04T17:48:22Z",
@@ -28373,7 +26965,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3jnLtACKleFu7AGxghyBeaFIrag",
+  "etag": "QTBy21cCvC4d0zRH4uxoImeNlIs",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -28382,27 +26974,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPj3nNAG&rs=AOn4CLCIM_xnGCi5FD19PciKTP1b95eXOA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CNSW0dAG&rs=AOn4CLAdnOKD6jox2L3zQrhIpWMj1IKikA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLBHnPJKD8t5pGlrtkXZD0a6KcOyUA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CNSW0dAG&rs=AOn4CLDOUzOedPfvDkkJqQkem2q7Eyw0Ow",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLCiX4hms730N5UmrEj-QvV6VmntnQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CNSW0dAG&rs=AOn4CLCXJPXZmGipz6Wa6HcjEY8rWA9WpQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPj3nNAG&rs=AOn4CLB62qcFP7YPzlB7vUq8rrXeFkfpdg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CNSW0dAG&rs=AOn4CLB8Pja8xeFsdIff7BdnXRIBdgbdyA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPj3nNAG&rs=AOn4CLD3myEV9t8ZS6gxJz-glxyUlDLNCA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CNSW0dAG&rs=AOn4CLC8RtcjLwR4z2Ym5P4aD_19Z0ZpbA",
         "width": 1280,
         "height": 720
       }
@@ -28629,7 +27221,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "l8iCO32a4sVEc_6x44yTutuN1Ks",
+  "etag": "DwmoRjobhCCQuqVVcPabb-KPDbE",
   "id": "ZankmID4c3I",
   "snippet": {
     "publishedAt": "2021-12-17T03:09:56Z",
@@ -28716,7 +27308,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "D05cD_xu49VoUA_MJCTAcREm3Sg",
+  "etag": "aCSJVZaJAPYMF_edze5Rh1bRuUo",
   "id": "Zju8WRasBr4",
   "snippet": {
     "publishedAt": "2026-04-04T03:10:04Z",
@@ -28780,7 +27372,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "74",
+    "viewCount": "75",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -28809,7 +27401,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AlAcLVqYw4sfeCdFTmmH7BstxsU",
+  "etag": "HmlbfG0teIDYV8dOVqnMeu2xZ1Q",
   "id": "ZqBA_Lj_5ls",
   "snippet": {
     "publishedAt": "2026-04-13T07:08:38Z",
@@ -28873,7 +27465,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "782",
+    "viewCount": "798",
     "likeCount": "18",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -28899,91 +27491,6 @@
     "actualStartTime": "2026-04-12T15:16:12Z",
     "actualEndTime": "2026-04-12T18:00:00Z",
     "scheduledStartTime": "2026-04-12T15:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "qGCRnCYk7YC0cKzV_hrPXdDv9Yc",
-  "id": "ZrrvH9-HaPk",
-  "snippet": {
-    "publishedAt": "2020-03-27T23:42:20Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/ZrrvH9-HaPk/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/ZrrvH9-HaPk/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/ZrrvH9-HaPk/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/ZrrvH9-HaPk/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/ZrrvH9-HaPk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H6M46S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "281",
-    "likeCount": "3",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-27T21:59:59Z",
-    "actualEndTime": "2020-03-27T23:06:43Z"
   }
 }
 {
@@ -29774,101 +28281,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bI5wYg7lPlLLUbr3numxicFDyCY",
-  "id": "aWXXGREXCDk",
-  "snippet": {
-    "publishedAt": "2020-04-10T23:43:17Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Great Friday of the Crucifixion",
-    "description": "Text: http://ololc.org/doc/fridayPM.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/aWXXGREXCDk/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/aWXXGREXCDk/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/aWXXGREXCDk/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/aWXXGREXCDk/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/aWXXGREXCDk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Great Friday of the Crucifixion",
-      "description": "Text: http://ololc.org/doc/fridayPM.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT1H11M52S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "711",
-    "likeCount": "19",
-    "dislikeCount": "1",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    },
-    "recordingDate": "2020-04-10T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-10T21:55:31Z",
-    "actualEndTime": "2020-04-10T23:07:18Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "OmFGwTCzZJ75bqIzhczKGZXX8uw",
+  "etag": "RCMMd0xfrDIgXoApsG_H0L12w2I",
   "id": "ad_u0trVfew",
   "snippet": {
     "publishedAt": "2024-05-27T10:02:56Z",
@@ -29909,8 +28322,7 @@
     "localized": {
       "title": "Most Holy Trinity Sunday; First Communion; Reception of the Holy Eucharist",
       "description": "May 26, 2024: Most Holy Trinity Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 416 -- Sunday of the Most Holy Trinity\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nChapters:\n00:00:00 Recording starts\n00:00:46 Lighting of the Church\n00:08:09 Opening hymn\n00:17:31 Readings\n00:25:11 Homily\n00:36:23 Creed\n00:42:46 Anaphora of The Twelve Apostles\n00:43:25 Greeting of Peace\n00:52:29 Intercessions\n01:00:25 Communion\n01:11:11 Thanksgiving Hymn\n01:21:55 Pictures\n02:07:41 Reception of the Holy Eucharist"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT2H57M50S",
@@ -29932,7 +28344,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "322",
+    "viewCount": "323",
     "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -30399,7 +28811,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZEbXLQFqbOxpqW6bpKwxAcsZHc8",
+  "etag": "gYq5FdIcY9ixWQqLp05LSTsiqs4",
   "id": "bQGpynqXBIM",
   "snippet": {
     "publishedAt": "2026-02-21T20:47:11Z",
@@ -30837,7 +29249,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "lww70m17AOb-uXFTZ9QgZxWoTYU",
+  "etag": "h4we2TZ406ucFKYw45Ob71q03I4",
   "id": "c9gV-ckyeas",
   "snippet": {
     "publishedAt": "2025-05-05T05:23:58Z",
@@ -30878,8 +29290,7 @@
     "localized": {
       "title": "3rd Sunday of the Resurrection; The Feast of Our Lady of Lebanon",
       "description": "May 4, 2025: Third Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nFr. Dominique was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:21 Lighting of the church\n00:07:00 Opening hymn\n00:19:09 Readings\n00:32:35 Homily\n00:42:42 Creed\n00:48:15 Anaphora of Saint John the Apostle\n01:04:11 Communion\n01:10:55 Announcements"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H27M5S",
@@ -30901,7 +29312,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "132",
+    "viewCount": "133",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -30931,7 +29342,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HevjgBeG6J-jpz6UsaJ87G2mJek",
+  "etag": "u93lzQGNb0M4H_szexDQrRQOg1s",
   "id": "cDtdIuPKhQA",
   "snippet": {
     "publishedAt": "2022-11-13T18:02:14Z",
@@ -31193,7 +29604,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "qK66gSir5yEi--_xmHpgl3v_qSc",
+  "etag": "0w1DnnDkXN7S267dwkI3Txeml_8",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -31234,8 +29645,7 @@
     "localized": {
       "title": "MYA Tampa FL",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT13S",
@@ -31713,7 +30123,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ceRoxj6AZcbWso_SedWL2pi-omc",
+  "etag": "mGnuuIGpU5rPH2P9PmYocaeDu7U",
   "id": "dK2dA1Tn57s",
   "snippet": {
     "publishedAt": "2026-03-23T05:22:14Z",
@@ -31777,7 +30187,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "112",
+    "viewCount": "113",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -31801,7 +30211,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Cx4d_Z6cPjxAmsi9bWTxO0A3sQc",
+  "etag": "3KpvJ41DruEsekkIBr_PyBzmhTk",
   "id": "dSoM-NQpdgY",
   "snippet": {
     "publishedAt": "2026-04-10T17:33:34Z",
@@ -31842,8 +30252,7 @@
     "localized": {
       "title": "A Call to Prayer for Peace",
       "description": "In response to the call of our Holy Father, Pope Leo XIV,  and our Patriarch, Bechara Cardinal Peter al-Rahi, Bishop Gregory J. Mansour invites all the faithful of the Eparchy of Saint Maron of Brooklyn to unite in prayer for peace on SATURDAY, APRIL 11.\n\nIn these difficult times we turn to God with hope, asking for peace in Lebanon, the Middle East, and throughout the world. Bishop Gregory encourages all to take part in this moment of prayer, whether personally, as a family or within the parish.\n\nOur Lady, Queen of Peace, Pray for us."
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT56S",
@@ -31865,8 +30274,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "9028",
-    "likeCount": "1002",
+    "viewCount": "9031",
+    "likeCount": "1000",
     "dislikeCount": "9",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -31889,7 +30298,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "GYF4nPe3EFsvr_c6-NVGXhod_wA",
+  "etag": "pXKhCplkhi6w8lOG1RROVY2WMn4",
   "id": "d_GxaBhYONU",
   "snippet": {
     "publishedAt": "2022-05-15T23:19:16Z",
@@ -32419,7 +30828,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "owSltulipt5UFKYT23AyOuKBYV8",
+  "etag": "pe-HiuJWd_9vdHZT5MAq-_aZ4-8",
   "id": "eSNEyFTn2Yw",
   "snippet": {
     "publishedAt": "2021-10-17T19:30:02Z",
@@ -32594,7 +31003,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "83AeqRTZ4L8JkcEMcC4dafYBAYQ",
+  "etag": "mvHpOUJJjyY1N6syQjnRG95Y8w4",
   "id": "eiUN9_fEfxw",
   "snippet": {
     "publishedAt": "2020-12-25T08:08:20Z",
@@ -32658,7 +31067,7 @@
   },
   "statistics": {
     "viewCount": "188",
-    "likeCount": "5",
+    "likeCount": "6",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -32768,7 +31177,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "az0FwFishoseirIFdH4SRVNCzCo",
+  "etag": "kFXKwGGH1KOR8WkOTgPHRZlUNok",
   "id": "esO8y3flq7g",
   "snippet": {
     "publishedAt": "2022-02-27T17:52:23Z",
@@ -32855,7 +31264,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "alINJUjnRkJ4eQW4p_Otk-A5f3s",
+  "etag": "GL6-jQZ7mr1WAN1fUqYdJUvSRTk",
   "id": "euYcTWI6ZmY",
   "snippet": {
     "publishedAt": "2021-07-17T20:34:36Z",
@@ -32896,8 +31305,7 @@
     "localized": {
       "title": "Ordination of Deacon Peter Frangie to the Holy Order of Priesthood",
       "description": "July 17, 2021: Ordination of Deacon Peter Frangie to the Holy Order of Priesthood.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ordination-liturgy.pdf."
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT2H28M19S",
@@ -32949,7 +31357,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "lvJFT7W0p02znrOUJYRAvOBg9Z0",
+  "etag": "K4JzBTNvi1_-KQQ6mGJllBmPGpI",
   "id": "f3JTA_JKhCE",
   "snippet": {
     "publishedAt": "2020-07-12T19:52:37Z",
@@ -33474,91 +31882,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Kgt_XRE9ONDHkKlU0zMSTQHMprE",
-  "id": "g338_ZgrJBs",
-  "snippet": {
-    "publishedAt": "2020-03-20T15:36:03Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/g338_ZgrJBs/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/g338_ZgrJBs/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/g338_ZgrJBs/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/g338_ZgrJBs/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/g338_ZgrJBs/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H29M4S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "43",
-    "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-20T13:26:33Z",
-    "actualEndTime": "2020-03-20T14:55:28Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "QpySWFCKzO9G27fItL-h92wGQsg",
   "id": "g7ruW3shEpw",
   "snippet": {
@@ -33646,7 +31969,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "sKPRPCnkYm_pr_E0dTMMsUPwcC4",
+  "etag": "v0d3OxdWK9ZX1rdVddbS8_e69Vg",
   "id": "gBmYYVsJe_A",
   "snippet": {
     "publishedAt": "2024-02-13T14:03:00Z",
@@ -33909,7 +32232,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Ok5pHm3Y-Hg-kNyas5ZRhl4KkA0",
+  "etag": "JqrnjOAhYYJqK160kir04RB7JKQ",
   "id": "gR0sVUXxP08",
   "snippet": {
     "publishedAt": "2026-02-10T14:17:59Z",
@@ -34172,7 +32495,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Hj-H2o9ob9MTnqOS0ieQN8WBNv8",
+  "etag": "9VLxysbJGquu1oOhs4Ai7ptjePI",
   "id": "gv6LQJ1rNkI",
   "snippet": {
     "publishedAt": "2021-04-01T01:44:46Z",
@@ -34235,7 +32558,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "136",
+    "viewCount": "137",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34255,99 +32578,6 @@
     "actualStartTime": "2021-03-31T23:27:18Z",
     "actualEndTime": "2021-04-01T01:36:32Z",
     "scheduledStartTime": "2021-03-31T23:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "_G6k6xl6ibsbV7YcVg-gLu_urd0",
-  "id": "gxe8yO4D0is",
-  "snippet": {
-    "publishedAt": "2020-04-12T15:53:32Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Glorious Resurrection Liturgy and the Rite of Peace",
-    "description": "Text: http://ololc.org/doc/resurrection.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/gxe8yO4D0is/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/gxe8yO4D0is/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/gxe8yO4D0is/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/gxe8yO4D0is/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/gxe8yO4D0is/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Glorious Resurrection Liturgy and the Rite of Peace",
-      "description": "Text: http://ololc.org/doc/resurrection.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT1H21M32S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "710",
-    "likeCount": "20",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    }
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-12T13:55:07Z",
-    "actualEndTime": "2020-04-12T15:17:38Z"
   }
 }
 {
@@ -34703,91 +32933,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "lMVRylWDGOtx4rr5iu2n1NqUhzE",
-  "id": "hAsLgD2bT-Q",
-  "snippet": {
-    "publishedAt": "2020-04-05T15:57:58Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Hosanna Sunday",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/hAsLgD2bT-Q/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/hAsLgD2bT-Q/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/hAsLgD2bT-Q/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/hAsLgD2bT-Q/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/hAsLgD2bT-Q/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Hosanna Sunday",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H32M14S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "927",
-    "likeCount": "25",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-05T13:49:05Z",
-    "actualEndTime": "2020-04-05T15:21:16Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "EtBXlRnfu_c1UDHN9C9Gf2fPHno",
   "id": "hDfreNlrQhk",
   "snippet": {
@@ -34958,91 +33103,6 @@
     "actualStartTime": "2023-04-06T23:28:52Z",
     "actualEndTime": "2023-04-07T01:07:55Z",
     "scheduledStartTime": "2023-04-06T23:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "2MHqp6jQKB8E6UssLviSuSYE7ho",
-  "id": "hHemXBRPKlY",
-  "snippet": {
-    "publishedAt": "2020-03-22T14:44:42Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/hHemXBRPKlY/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/hHemXBRPKlY/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/hHemXBRPKlY/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/hHemXBRPKlY/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/hHemXBRPKlY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H4M36S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "257",
-    "likeCount": "11",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-22T13:00:16Z",
-    "actualEndTime": "2020-03-22T14:04:48Z"
   }
 }
 {
@@ -35660,91 +33720,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "dpYJpB50oF9xcNE_D2oAIt4yS_k",
-  "id": "hsVI8GzPLVg",
-  "snippet": {
-    "publishedAt": "2020-04-20T03:04:59Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "New Sunday (Divine Mercy Sunday)",
-    "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/hsVI8GzPLVg/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/hsVI8GzPLVg/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/hsVI8GzPLVg/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/hsVI8GzPLVg/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/hsVI8GzPLVg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "New Sunday (Divine Mercy Sunday)",
-      "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT32M23S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "279",
-    "likeCount": "5",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-19T14:29:47Z",
-    "actualEndTime": "2020-04-19T15:02:45Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "FhDiU6nEd4B2SRchwEI6ipu28pw",
   "id": "hw-GFMAE0kY",
   "snippet": {
@@ -35833,7 +33808,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "D8iTyWVy5L8gh1qQV_kE360tubM",
+  "etag": "Qq8pVJhlRWrR8h_wiC9WGU8WpCI",
   "id": "i-wf5RdBO9g",
   "snippet": {
     "publishedAt": "2021-06-27T21:12:22Z",
@@ -35874,8 +33849,7 @@
     "localized": {
       "title": "The Feast of Saints Peter and Paul",
       "description": "June 27, 2021: We anticipate the Feast of the Apostles Peter and Paul (actual feast day, June 29)\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 562 -- The Apostles Peter and Paul\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H36M15S",
@@ -36101,7 +34075,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rKYNkxzcYul6XELadRn8pyU_Q1g",
+  "etag": "09r5AOpYvZ9Kozss6o8-kFi6_7w",
   "id": "iJoBW0V2foU",
   "snippet": {
     "publishedAt": "2026-04-05T17:45:05Z",
@@ -36142,8 +34116,7 @@
     "localized": {
       "title": "Glorious Resurrection Liturgy and the Rite of Peace — Midnight Divine Liturgy",
       "description": "April 5, 2026: Glorious Resurrection Liturgy and the Rite of Peace.\nToday's Divine Liturgy can be found at http://ololc.org/doc/resurrection.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom\n\n\nBishop Gregory was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:11:14 Opening hymn\n00:21:10 Readings\n00:32:16 Homily\n00:39:26 Rite of Peace\n00:48:23 Blessing with the Glorious Cross\n00:51:20 Creed\n00:57:17 Anaphora of Saint John Chrysostom\n01:16:32 Communion\n01:23:53 Announcements\n01:30:23 Adoration of the Glorious Cross"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H43M56S",
@@ -36165,7 +34138,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "131",
+    "viewCount": "132",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -36543,7 +34516,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "N2xZQbl-wEItpgquRjLvDkIILK0",
+  "etag": "3GWTRi9E3ZDftDz3ahEtIwpWUDk",
   "id": "i_m6hl3i8vg",
   "snippet": {
     "publishedAt": "2020-05-24T15:19:43Z",
@@ -36630,7 +34603,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ThbG9Dj5pFsMklpFM4v7wfnHsXI",
+  "etag": "J_fp83bV1cXCwXZeDgOFTLciya8",
   "id": "ia6Mu-hgeF8",
   "snippet": {
     "publishedAt": "2025-05-12T05:11:46Z",
@@ -36671,8 +34644,7 @@
     "localized": {
       "title": "4th Sunday of the Resurrection",
       "description": "May 11, 2025: Fourth Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 835 -- Anaphora of St. Mark the Evangelist"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT17M59S",
@@ -36898,91 +34870,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "NfeytDmnxQnT5p-OUHDDg7VL4Aw",
-  "id": "ijn98K1FKXE",
-  "snippet": {
-    "publishedAt": "2020-03-21T16:44:28Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/ijn98K1FKXE/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/ijn98K1FKXE/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/ijn98K1FKXE/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/ijn98K1FKXE/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/ijn98K1FKXE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT3M31S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "325",
-    "likeCount": "5",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-21T16:09:28Z",
-    "actualEndTime": "2020-03-21T16:12:52Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "_LMZVLvLsrAVPdI4z-9UuRoZ7uE",
   "id": "ir83hX2W_CY",
   "snippet": {
@@ -37070,7 +34957,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "-ZuqJeaXdY7rP1wopdZ80J-m1kY",
+  "etag": "WWlV2NcxwO_W3d7GxtIHtbJuVuE",
   "id": "irIJvBbfDkk",
   "snippet": {
     "publishedAt": "2022-11-24T20:31:42Z",
@@ -37134,7 +35021,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1415",
+    "viewCount": "1419",
     "likeCount": "47",
     "dislikeCount": "2",
     "favoriteCount": "0",
@@ -37332,7 +35219,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "P8pG4nHYdBtVBWFfRooqvMh80Cc",
+  "etag": "hfSDK2EXDttOxCZjzeaqeLVKW7s",
   "id": "j-cyrEbSICM",
   "snippet": {
     "publishedAt": "2021-04-02T01:06:38Z",
@@ -37682,92 +35569,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "78ho3lUeBpUTsGM6-nOJ8rJfaZE",
-  "id": "jE9SeWrj8bU",
-  "snippet": {
-    "publishedAt": "2020-04-06T23:55:42Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Monday of Passion Week",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/jE9SeWrj8bU/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/jE9SeWrj8bU/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/jE9SeWrj8bU/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/jE9SeWrj8bU/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/jE9SeWrj8bU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Monday of Passion Week",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H24M42S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "220",
-    "likeCount": "7",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-06T21:53:55Z",
-    "actualEndTime": "2020-04-06T23:18:34Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "-PJsTAdc50BakKMA14iBiVm3DVQ",
+  "etag": "8619M5voPKpZ1_6e9YHjbwK9kWE",
   "id": "jEIhRRyPjU8",
   "snippet": {
     "publishedAt": "2023-05-08T04:51:52Z",
@@ -38029,7 +35831,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "9NatonIKjR8rPEo4nKSOTkUqq00",
+  "etag": "-fmsoHfFPx_pKr3tXGKq7S5Ne18",
   "id": "jYAt8iowGdo",
   "snippet": {
     "publishedAt": "2023-12-16T13:33:35Z",
@@ -38204,100 +36006,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "a-cf5sRnnq9JIf5HguTEQyFF0jA",
-  "id": "kHP-lvWoNWc",
-  "snippet": {
-    "publishedAt": "2020-04-10T15:43:51Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Anaphora of The Signing of the Chalice",
-    "description": "Text: http://ololc.org/doc/fridayAM.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/kHP-lvWoNWc/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/kHP-lvWoNWc/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/kHP-lvWoNWc/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/kHP-lvWoNWc/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/kHP-lvWoNWc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Anaphora of The Signing of the Chalice",
-      "description": "Text: http://ololc.org/doc/fridayAM.pdf"
-    },
-    "defaultAudioLanguage": "ar"
-  },
-  "contentDetails": {
-    "duration": "PT1H9M48S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "398",
-    "likeCount": "8",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    },
-    "recordingDate": "2020-04-10T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-10T13:57:02Z",
-    "actualEndTime": "2020-04-10T15:06:46Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "4dXhUfpc0dtqqkAZKDLUw9mwdYE",
   "id": "kHdZzJTukms",
   "snippet": {
@@ -38391,7 +36099,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "NHI268HRepsKo7KKiWmveaDwY0I",
+  "etag": "_R3zXnHs20Zn_wxgzFV0H8m9v6Y",
   "id": "kO5PDeFRFKo",
   "snippet": {
     "publishedAt": "2020-08-30T17:50:21Z",
@@ -38478,7 +36186,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "E0TTE_4ROy5AdPL6f7E3OM7MZSw",
+  "etag": "gHEpPiLMH9Uxdpbc3t9Blyw5UD0",
   "id": "kQ5oEoYwzD0",
   "snippet": {
     "publishedAt": "2026-03-02T06:15:18Z",
@@ -38653,7 +36361,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "vxZwK9W2jKDQf2bERcg9PLbVlL4",
+  "etag": "A_rtCQdpi4CVnB32SE_aagAAyDA",
   "id": "kWiRW0Tst0s",
   "snippet": {
     "publishedAt": "2025-04-05T12:50:58Z",
@@ -39179,7 +36887,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wxUuefyGYDgcAMfjGK_Ghe0BWN0",
+  "etag": "mgesQZeuOmCnRuecT-nEMJLEk80",
   "id": "kvtd9J7sqfU",
   "snippet": {
     "publishedAt": "2025-12-01T06:10:41Z",
@@ -39519,7 +37227,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ldjqCdhQl-6odpgbA78OI7qABdg",
+  "etag": "z16zrMo8JQ8V7ZwretrGzdv3sVc",
   "id": "lBL0pn5Tl68",
   "snippet": {
     "publishedAt": "2023-12-21T13:36:32Z",
@@ -39777,7 +37485,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Kd7sjYRZXg7i-iCRxlNmHgykv2g",
+  "etag": "vmg4GImE0ErWYwKwba7tKylpzQ0",
   "id": "lISp8O1qyOU",
   "snippet": {
     "publishedAt": "2023-12-26T06:39:53Z",
@@ -39948,92 +37656,6 @@
     "actualStartTime": "2023-04-23T15:23:53Z",
     "actualEndTime": "2023-04-23T17:00:58Z",
     "scheduledStartTime": "2023-04-23T15:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "88mnKA2lvqcED_tM1gNT2tzz-T4",
-  "id": "m0vXxPAZSus",
-  "snippet": {
-    "publishedAt": "2020-04-21T20:51:35Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "New Sunday (Divine Mercy Sunday)",
-    "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/m0vXxPAZSus/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/m0vXxPAZSus/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/m0vXxPAZSus/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/m0vXxPAZSus/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/m0vXxPAZSus/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "New Sunday (Divine Mercy Sunday)",
-      "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT6M45S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "1",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-22T14:32:59Z",
-    "actualEndTime": "2020-04-22T14:39:56Z"
   }
 }
 {
@@ -41261,7 +38883,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "l0e4olLbf0pG4gNEGmrvzVmpFbs",
+  "etag": "YqSN-953EwVN-T_zsroRNkTGx_o",
   "id": "nVQvMuNNktY",
   "snippet": {
     "publishedAt": "2023-04-09T17:28:15Z",
@@ -41435,7 +39057,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nL5sAbSZ8eGanp4CJaFLkVQVbak",
+  "etag": "Op23v6FJOwC82b_GnvzwYYFK5TA",
   "id": "njiJbi6ww5U",
   "snippet": {
     "publishedAt": "2026-03-09T04:59:57Z",
@@ -41523,54 +39145,54 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "4_TTJjDjuC464dROtrwzA1CeY04",
+  "etag": "E45ghljy7Gbx4FH2dxQaQ3XR0pI",
   "id": "no4Qv7MHJwQ",
   "snippet": {
-    "publishedAt": "2026-04-23T16:32:02Z",
+    "publishedAt": "2026-05-25T05:26:09Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Pentecost Sunday",
-    "description": "May 24, 2026: Pentecost Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 406 -- Pentecost Sunday\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "description": "May 24, 2026: Pentecost Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 406 -- Pentecost Sunday\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nBishop Gregory was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:28 Lighting of the Church\n00:06:52 Opening hymn\n00:17:10 Readings\n00:31:30 Homily\n00:41:02 Creed\n00:46:51 Anaphora of Saint Sixtus, Pope of Rome\n01:00:26 Communion of the priests\n01:02:22 Rite of Adoration\n01:12:10 Communion of the faithful\n01:20:36 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/no4Qv7MHJwQ/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "defaultLanguage": "en",
     "localized": {
       "title": "Pentecost Sunday",
-      "description": "May 24, 2026: Pentecost Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 406 -- Pentecost Sunday\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
+      "description": "May 24, 2026: Pentecost Sunday.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 406 -- Pentecost Sunday\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome\n\nBishop Gregory was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:28 Lighting of the Church\n00:06:52 Opening hymn\n00:17:10 Readings\n00:31:30 Homily\n00:41:02 Creed\n00:46:51 Anaphora of Saint Sixtus, Pope of Rome\n01:00:26 Communion of the priests\n01:02:22 Rite of Adoration\n01:12:10 Communion of the faithful\n01:20:36 Announcements"
     },
     "defaultAudioLanguage": "en"
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H31M55S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -41578,7 +39200,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -41587,8 +39209,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "78",
+    "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -41599,18 +39221,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1260385"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128361"
+      }
+    ],
+    "bitrateBps": "1388746"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2026-05-24T15:30:00Z",
-    "activeLiveChatId": "Cg0KC25vNFF2N01ISndRKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILbm80UXY3TUhKd1E"
+    "actualStartTime": "2026-05-24T15:26:32Z",
+    "actualEndTime": "2026-05-24T16:58:13Z",
+    "scheduledStartTime": "2026-05-24T15:30:00Z"
   }
 }
 {
@@ -41876,7 +39520,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "43XWumSS6Eg-1byJNrhLmy3mkWw",
+  "etag": "Lzili5m41o646SB-qbPAgv5x2uk",
   "id": "oFLTvEna0Yw",
   "snippet": {
     "publishedAt": "2024-12-17T13:36:16Z",
@@ -42139,7 +39783,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PconGSMYgYT_StEaGqY_G17Pm5M",
+  "etag": "k5RlzAmo2fNaNGwfy2X9eP2wqWE",
   "id": "oOZ_g7c17Xo",
   "snippet": {
     "publishedAt": "2026-05-11T05:59:50Z",
@@ -42180,8 +39824,7 @@
     "localized": {
       "title": "6th Sunday of the Resurrection",
       "description": "May 10, 2026: 6th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection, New Sunday\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nMonsignor Dominique was the celebrant and gave the homily.  The Cathedral's MYO (Maronite Youth Organization) assisted with readings, intercessions and ushering.\n\nChapters:\n00:00:00 Recording starts\n00:00:24 Lighting of the Church\n00:06:29 Opening hymn\n00:19:02 Readings\n00:29:44 Homily\n00:38:36 Creed\n00:45:02 Anaphora of the Twelve Apostles\n00:54:44 Intercessions\n01:02:44 Communion\n01:12:54 Announcements"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H29M5S",
@@ -42203,7 +39846,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "79",
+    "viewCount": "89",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -42429,7 +40072,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Y-FvHxYM8r7X_MAIIBQCI5MPmMc",
+  "etag": "31Wo0ytPJ8Tnkey1vPO7aSxS8Wk",
   "id": "p7lUCmjGF8U",
   "snippet": {
     "publishedAt": "2022-02-06T19:57:39Z",
@@ -42691,7 +40334,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "E8OO21Dmix6UCitX4j-tUUu9HfQ",
+  "etag": "NOUJOKxED4nDd9sLvX66X_tg5dM",
   "id": "pPEbj3fAGxU",
   "snippet": {
     "publishedAt": "2025-06-02T05:08:07Z",
@@ -42955,92 +40598,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "_20kCT4zIJCcpwjsg8Qn5QU24G4",
-  "id": "pWSBUKd2ltA",
-  "snippet": {
-    "publishedAt": "2020-03-28T00:42:37Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/pWSBUKd2ltA/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/pWSBUKd2ltA/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/pWSBUKd2ltA/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/pWSBUKd2ltA/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/pWSBUKd2ltA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT33M46S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "71",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-27T23:35:44Z",
-    "actualEndTime": "2020-03-28T00:10:03Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "XGWO6neugl8Rsbqqal4hsUYiSMQ",
+  "etag": "mzg1REWMx4GUfhKbzTqg5gVbZG8",
   "id": "pkfweTY0wHw",
   "snippet": {
     "publishedAt": "2021-09-12T22:10:19Z",
@@ -43081,8 +40639,7 @@
     "localized": {
       "title": "The Feast of the Exaltation of the Holy Cross",
       "description": "September 12, 2021: The Feast of the Exaltation of the Holy Cross (observed).\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 606 -- The Exaltation of the Holy Cross \nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H29M9S",
@@ -43133,7 +40690,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "IhNnGXDHozEh7a67PtmIIvx-Vk4",
+  "etag": "CWiRcGLqJiGwSX_EWlJmGqrEgtM",
   "id": "pqupb_Ki5JE",
   "snippet": {
     "publishedAt": "2022-10-25T22:11:34Z",
@@ -43174,8 +40731,7 @@
     "localized": {
       "title": "2022 Diaconate retreat bumper",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT43S",
@@ -43197,7 +40753,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "82",
+    "viewCount": "83",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -43485,7 +41041,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "shrvM1cTcpiBvRXBG7HSxEmZsYQ",
+  "etag": "tQSjPSQzUMw5OIB5aLEF5iR1QBs",
   "id": "qSOWOJAD0go",
   "snippet": {
     "publishedAt": "2021-03-30T00:54:26Z",
@@ -43548,7 +41104,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "79",
+    "viewCount": "80",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -43568,99 +41124,6 @@
     "actualStartTime": "2021-03-29T23:25:12Z",
     "actualEndTime": "2021-03-30T00:49:37Z",
     "scheduledStartTime": "2021-03-29T23:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "qz7mKFahypELbBLkLRF9btFlXYo",
-  "id": "qSRfeua1AB4",
-  "snippet": {
-    "publishedAt": "2020-04-20T02:16:32Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "New Sunday (Divine Mercy Sunday)",
-    "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/qSRfeua1AB4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/qSRfeua1AB4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/qSRfeua1AB4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/qSRfeua1AB4/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/qSRfeua1AB4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "New Sunday (Divine Mercy Sunday)",
-      "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT18M40S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "445",
-    "likeCount": "7",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    }
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-19T13:56:13Z",
-    "actualEndTime": "2020-04-19T14:15:23Z"
   }
 }
 {
@@ -43927,7 +41390,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zXSuTGZnUbkhJmNBUNaZEeVP5No",
+  "etag": "caaAy4E5_-rYhubSigpvvR9t4J8",
   "id": "qh3ROG2nOzE",
   "snippet": {
     "publishedAt": "2023-09-15T12:46:20Z",
@@ -44014,7 +41477,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ouUr0xN6LsYzVFIPzbYvXwXrlXU",
+  "etag": "XpxPqv9LcyXtSzHP5wE05vmbjho",
   "id": "qrtR6LlxN7k",
   "snippet": {
     "publishedAt": "2023-02-25T01:47:26Z",
@@ -44363,7 +41826,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BBF-sUoyLfYPWB-dvoYR3SIYiAo",
+  "etag": "xnpDbjPKy_tHic_clUWMjCFfdb0",
   "id": "rDQMQHyDSJo",
   "snippet": {
     "publishedAt": "2025-06-23T05:05:17Z",
@@ -44977,7 +42440,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bD47Sk6kboD8cEa0tnoQexyue9I",
+  "etag": "D1g0T1rFc_2cAPtZlI2Jg8MnF6E",
   "id": "rv8PkEZ5hPU",
   "snippet": {
     "publishedAt": "2025-12-19T13:21:44Z",
@@ -45503,7 +42966,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "pVsiO2_CSyE1Qr7R3x6C11lDK10",
+  "etag": "-W4T2A7Nq8iA7S5iCibYM6HuJWg",
   "id": "sMBiZrG0RSM",
   "snippet": {
     "publishedAt": "2021-01-03T20:36:33Z",
@@ -45850,94 +43313,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CqWOOToc9I_Y68PaZW8u5Q8hMgM",
-  "id": "t-EsFeN0A6Y",
-  "snippet": {
-    "publishedAt": "2020-05-02T00:44:29Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Maronite Prayer of the Faithful -- Ramsho",
-    "description": "Text: http://ololc.org/doc/ramsho.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/t-EsFeN0A6Y/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/t-EsFeN0A6Y/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/t-EsFeN0A6Y/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/t-EsFeN0A6Y/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/t-EsFeN0A6Y/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Maronite Prayer of the Faithful -- Ramsho",
-      "description": "Text: http://ololc.org/doc/ramsho.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H5M33S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "154",
-    "likeCount": "5",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-05-01T22:58:44Z",
-    "actualEndTime": "2020-05-02T00:08:35Z",
-    "scheduledStartTime": "2020-05-01T23:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "Thi-FqbUXQhB1fzP_CRlyj4_gdk",
+  "etag": "D0emg_bRYzNtWDU68Z6n0cD97Yg",
   "id": "t3JmKObk0UY",
   "snippet": {
     "publishedAt": "2025-01-29T17:36:14Z",
@@ -45978,8 +43354,7 @@
     "localized": {
       "title": "Pro Life Interview With Chloe",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT26M29S",
@@ -46001,8 +43376,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "115",
-    "likeCount": "3",
+    "viewCount": "117",
+    "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -46025,7 +43400,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tv0-U7OYLY9ln_6Lt7XQBBldOaM",
+  "etag": "iOBjhjyGp71nRjidiu2oC1YBvZY",
   "id": "t98RJnvPLis",
   "snippet": {
     "publishedAt": "2020-08-26T00:49:12Z",
@@ -46066,8 +43441,7 @@
     "localized": {
       "title": "Prayer Service for Lebanon",
       "description": "Prayer text: http://ololc.org/doc/prayer-for-lebanon-ramsho.pdf\n\n\nBrother Bishops. Priests. Deacons and Subdeacons. Consecrated Men and Women. Lay Faithful: \n\nOn  behalf of Archbishop  Anoushavan Tanielian.  President  of CAMECT.  Metropolitan  Joseph\nand I invite you to an ecumenical and interfaith prayer service for Lebanon on Tuesday. August\n25. 2020 at 7:00 PM at Our Lady of Lebanon Cathedral located at  113  Remsen Street. Brooklyn. NY  11201.  Your  presence.  and  that  of your  family.  friends  and  congregations  would  be  most welcome.\n\nLebanon needs and deserves our prayers.  One hundred years ago it was a Christian Patriarch and a  Muslim Mufti  who  insured  that  Lebanon would be  a  welcoming  refuge  for  all.  The National Poet  of  1943   insured  once  again  that  Lebanon  would  be  a  shared  dream  of  the  different communities.  In  the   1980's.  even  during  her  civil  war.  Saint  Pope  John  Paul  II  stated  that\n\"Lebanon is more than a country. it is a message for East and West\".\n\nToday  this vision.  dream. and hope of Lebanon  is  in  need of our  help  and our prayer.  And  so. under the  Patronage  of Our Lady of Lebanon.  we  invite  you  to the  Maronite  Cathedral.  which bears  her  name.  to  pray  for  the  Lebanese  people  and  for  the  vision.  dream  and  hope  that  is Lebanon!\n\nI hope to see you!\n\nSincerely yours in Christ,\n+ Gregory John Mansour\n\n\nPrayer text: http://ololc.org/doc/prayer-for-lebanon-ramsho.pdf"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H27M54S",
@@ -46119,92 +43493,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CNwvGGeMFLqyVK64Ng-TeLADpX8",
-  "id": "tRmveYfEK54",
-  "snippet": {
-    "publishedAt": "2019-08-26T18:00:15Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/tRmveYfEK54/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/tRmveYfEK54/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/tRmveYfEK54/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/tRmveYfEK54/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/tRmveYfEK54/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT6M42S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "16",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2019-08-26T17:21:42Z",
-    "actualEndTime": "2019-08-26T17:28:27Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "_Oq-wCgMiCkKzgbxVrn2y5-o6Po",
+  "etag": "lfZBj-Ij0nVi1zXDNG_5uRaXNbg",
   "id": "tdfaEIzHCaE",
   "snippet": {
     "publishedAt": "2024-07-15T05:07:30Z",
@@ -46636,7 +43925,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "rujeatZ9FEm0hQEECVIQM5N-SxI",
+  "etag": "6WzgwvHHRZo0rbzzpPWLeJUe-Z4",
   "id": "uDFPTxZAJa0",
   "snippet": {
     "publishedAt": "2023-10-09T05:09:48Z",
@@ -46983,7 +44272,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ZBQAACfLbOIjE-OAd07Gd7EfxjI",
+  "etag": "9wLPXdmcJIxBHsmbIeIrBOy8xsQ",
   "id": "uiWZn4YVzQM",
   "snippet": {
     "publishedAt": "2025-11-17T08:38:05Z",
@@ -47071,7 +44360,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "hCX4lMtIZTRMLk9otpHgAMoQIs8",
+  "etag": "4Hz3IoWx2cXyp0K0vhMKBzc2tiM",
   "id": "uta1pLrBrRk",
   "snippet": {
     "publishedAt": "2022-08-06T15:20:50Z",
@@ -47245,7 +44534,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YtJ8PRwFizkMwg_q92wZlrdE-cE",
+  "etag": "osmybFHR6OfRJYW6vH6a7jnR0Ps",
   "id": "uwVAPxaeVNI",
   "snippet": {
     "publishedAt": "2025-04-26T14:11:32Z",
@@ -47281,8 +44570,7 @@
     "localized": {
       "title": "Walking with Jesus From Palm Sunday to the Resurrection",
       "description": "Our Lady of Lebanon Cathedral Proudly presents for the first time ever\nWalking with Jesus From Palm Sunday to the Resurrection\n\nExperience the Harmony of Faith this Easter as the timeless hymns of Catholic and Orthodox Traditions comes together in a breathtaking liturgical concert, where every note celebrates our shared joy and unity.\n\nPerformances by\nChurch of the Virgin Mary Melkite Church Choir\nOur Lady of Lebanon Maronite Cathedral Choir\nSt. Mary's Antiochian Orthodox Church Choir\nSt. Nicholas Antiochian Orthodox Cathedral Choir\n\nChapters:\n00:00:00 Recording starts\n00:13:46 Introduction\n00:16:17 All Choirs\n00:23:16 St. Mary's Antiochian Orthodox Church Choir\n00:33:25 St. Nicholas Antiochian Orthodox Cathedral Choir\n00:49:37 Our Lady of Lebanon Cathedral Choir\n01:22:13 Church of the Virgin Mary Melkite Choir\n01:50:30 All Choirs\n01:58:32 Everyone\n01:59:31 Final Remarks"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT2H10M56S",
@@ -47416,91 +44704,6 @@
     "actualStartTime": "2021-08-29T15:30:48Z",
     "actualEndTime": "2021-08-29T22:32:04Z",
     "scheduledStartTime": "2021-08-29T15:30:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "4YScpWtRDPqSrpDP8IyVfNsfZcI",
-  "id": "vIOwfIFn_gQ",
-  "snippet": {
-    "publishedAt": "2019-08-26T17:18:24Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/vIOwfIFn_gQ/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/vIOwfIFn_gQ/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/vIOwfIFn_gQ/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/vIOwfIFn_gQ/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/vIOwfIFn_gQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "20",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT6M26S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "9",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2019-08-26T16:54:00Z",
-    "actualEndTime": "2019-08-26T17:02:03Z"
   }
 }
 {
@@ -47854,91 +45057,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "wMN16evzq65JtLASo9tzsm_8vB0",
-  "id": "wF71i4kFX8w",
-  "snippet": {
-    "publishedAt": "2020-03-28T15:34:37Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-    "description": "",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/wF71i4kFX8w/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/wF71i4kFX8w/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/wF71i4kFX8w/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/wF71i4kFX8w/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/wF71i4kFX8w/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "22",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Our Lady of Lebanon Brooklyn, NY Live Stream",
-      "description": ""
-    }
-  },
-  "contentDetails": {
-    "duration": "PT10M11S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "18",
-    "likeCount": "0",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-03-28T14:52:26Z",
-    "actualEndTime": "2020-03-28T15:02:44Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "s-skXqR2xtWFrtjWEJc9bM4gQao",
   "id": "wJU61oFqc5k",
   "snippet": {
@@ -48026,94 +45144,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "HpZl2aPdowjnsSbN580aYAnlNgY",
-  "id": "wMc72ORnFOI",
-  "snippet": {
-    "publishedAt": "2020-05-05T01:36:20Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Maronite Prayer of the Faithful -- Ramsho",
-    "description": "Text: http://ololc.org/doc/ramsho.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/wMc72ORnFOI/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/wMc72ORnFOI/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/wMc72ORnFOI/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/wMc72ORnFOI/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/wMc72ORnFOI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Maronite Prayer of the Faithful -- Ramsho",
-      "description": "Text: http://ololc.org/doc/ramsho.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H9M6S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "78",
-    "likeCount": "1",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-05-04T22:53:18Z",
-    "actualEndTime": "2020-05-05T00:58:52Z",
-    "scheduledStartTime": "2020-05-04T23:00:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "Bn1M0qzr5W8txSL8J25JX7OycH8",
+  "etag": "h_TZG3UZj6n4n7zCHlehtfMGFY4",
   "id": "wQF6Azl2yGg",
   "snippet": {
     "publishedAt": "2024-12-09T06:22:05Z",
@@ -48201,7 +45232,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tYgdpqpdJoe6lbGSk8bdgtqDSCk",
+  "etag": "effDQ8Y10FhrlUjKRhBMOaeY8Do",
   "id": "wZ0WMy9qz9s",
   "snippet": {
     "publishedAt": "2026-04-27T05:13:47Z",
@@ -48242,8 +45273,7 @@
     "localized": {
       "title": "4th Sunday of the Resurrection",
       "description": "April 26, 2026: Fourth Sunday of Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 815 -- Anaphora of St. John the Apostle\n\nMonsignor Dominique was the celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:03:30 Lighting of the Church\n00:17:52 Opening hymn\n00:30:25 Readings\n00:41:45 Homily\n00:51:30 Creed\n00:57:08 Anaphora of St. John the Apostle\n01:12:57 Communion\n01:19:55 Announcements"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT1H42M15S",
@@ -48265,7 +45295,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "109",
+    "viewCount": "112",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -48294,54 +45324,53 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "nEDhs7rxHSCidhuuAHp_Vwwb4gI",
+  "etag": "vX1MdPH005RnaD9cxsAE-guIvr4",
   "id": "wjGSuoG096g",
   "snippet": {
-    "publishedAt": "2026-04-23T16:30:46Z",
+    "publishedAt": "2026-05-18T07:22:57Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "7th Sunday of the Resurrection",
-    "description": "May 17, 2026: 7th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "May 17, 2026: 7th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nMonsignor Dominique was the celebrant and Deacon Nadim gave the homily.  The children receiving their first communion today assisted with readings and intercessions.\n\nChapters:\n00:00:00 Recording starts\n00:05:44 Lighting of the Church\n00:16:06 Opening hymn\n00:26:01 Readings\n00:34:09 Homily\n00:48:03 Creed\n00:54:00 Anaphora of the Twelve Apostles\n01:04:36 Intercessions\n01:12:48 Communion\n01:24:18 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/wjGSuoG096g/default_live.jpg",
+        "url": "https://i.ytimg.com/vi/wjGSuoG096g/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/wjGSuoG096g/mqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wjGSuoG096g/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/wjGSuoG096g/hqdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wjGSuoG096g/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/wjGSuoG096g/sddefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wjGSuoG096g/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/wjGSuoG096g/maxresdefault_live.jpg",
+        "url": "https://i.ytimg.com/vi/wjGSuoG096g/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "categoryId": "29",
-    "liveBroadcastContent": "upcoming",
+    "liveBroadcastContent": "none",
     "defaultLanguage": "en",
     "localized": {
       "title": "7th Sunday of the Resurrection",
-      "description": "May 17, 2026: 7th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
-    },
-    "defaultAudioLanguage": "en"
+      "description": "May 17, 2026: 7th Sunday of the Resurrection\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 396 -- The Ascension of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nMonsignor Dominique was the celebrant and Deacon Nadim gave the homily.  The children receiving their first communion today assisted with readings and intercessions.\n\nChapters:\n00:00:00 Recording starts\n00:05:44 Lighting of the Church\n00:16:06 Opening hymn\n00:26:01 Readings\n00:34:09 Homily\n00:48:03 Creed\n00:54:00 Anaphora of the Twelve Apostles\n01:04:36 Intercessions\n01:12:48 Communion\n01:24:18 Announcements"
+    }
   },
   "contentDetails": {
-    "duration": "P0D",
+    "duration": "PT1H59M15S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -48349,7 +45378,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -48358,8 +45387,8 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "0",
-    "likeCount": "0",
+    "viewCount": "142",
+    "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
     "commentCount": "0"
@@ -48370,18 +45399,40 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {},
+  "fileDetails": {
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1647383"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128549"
+      }
+    ],
+    "bitrateBps": "1775932"
+  },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
-    "scheduledStartTime": "2026-05-17T15:30:00Z",
-    "activeLiveChatId": "Cg0KC3dqR1N1b0cwOTZnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILd2pHU3VvRzA5Nmc"
+    "actualStartTime": "2026-05-17T15:25:22Z",
+    "actualEndTime": "2026-05-17T17:24:21Z",
+    "scheduledStartTime": "2026-05-17T15:30:00Z"
   }
 }
 {
@@ -48735,7 +45786,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "OPiiS-oGoUBo9qpxTnD2cPaCv0I",
+  "etag": "ky1P1w7SXn4QrV-LHE5c0uZ-HYM",
   "id": "wyakemfedAg",
   "snippet": {
     "publishedAt": "2025-02-17T06:00:20Z",
@@ -48823,94 +45874,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "9kVgiJ_XV9KRzelPc7U0HJOaS8Q",
-  "id": "wzGYRRAXwa4",
-  "snippet": {
-    "publishedAt": "2020-05-10T16:00:14Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "5th Sunday of the Resurrection",
-    "description": "May 10, 2020: The Fifth Sunday of the Resurrection of the Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200510-bulletin.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/wzGYRRAXwa4/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/wzGYRRAXwa4/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/wzGYRRAXwa4/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/wzGYRRAXwa4/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/wzGYRRAXwa4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "5th Sunday of the Resurrection",
-      "description": "May 10, 2020: The Fifth Sunday of the Resurrection of the Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/sunday.pdf.\n\n\nPage 315 -- Sunday of the Glorious Resurrection\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\n\n\nThis week's bulletin can be found at http://ololc.org/doc/200510-bulletin.pdf"
-    }
-  },
-  "contentDetails": {
-    "duration": "PT1H13M40S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": true
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false,
-    "selfDeclaredMadeForKids": false
-  },
-  "statistics": {
-    "viewCount": "302",
-    "likeCount": "7",
-    "dislikeCount": "0",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {},
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-05-10T13:50:45Z",
-    "actualEndTime": "2020-05-10T15:19:52Z",
-    "scheduledStartTime": "2020-05-10T13:55:00Z"
-  }
-}
-{
-  "kind": "youtube#video",
-  "etag": "DAYTsdbXzgKDzY-mPHR7Xi7lXT4",
+  "etag": "FnyP0tv3bM8iGs2Jytv8GM410fY",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -48974,7 +45938,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1333",
+    "viewCount": "1337",
     "likeCount": "25",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -49003,7 +45967,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BtZ8rvcV2dcTQL6MShM5NnGyRVA",
+  "etag": "cVVqNGhFC93Dr8MkZmNSNqKXbAM",
   "id": "xFS6EYwRhyo",
   "snippet": {
     "publishedAt": "2024-02-19T05:56:27Z",
@@ -49265,13 +46229,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2C9xyd4zgaphXvbkRJmgZ7ydank",
+  "etag": "IA9D8EMrE6GIsZG41xcvKh9HgCk",
   "id": "xj2PP_-9iL4",
   "snippet": {
     "publishedAt": "2026-05-15T13:11:05Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "The Ascension of Our Lord",
-    "description": "May 14, 2026: The Ascension of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ascension.pdf.\n\nPage 396 -- The Ascension of Our Lord \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "description": "May 14, 2026: The Ascension of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ascension.pdf.\n\nPage 396 -- The Ascension of Our Lord \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nMonsignor Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:29 Lighting of the Church\n00:04:09 Opening hymn\n00:15:07 Readings\n00:26:24 Homily\n00:35:42 Creed\n00:40:44 Anaphora of the Twelve Apostles\n00:57:35 Communion",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/xj2PP_-9iL4/default.jpg",
@@ -49305,9 +46269,8 @@
     "defaultLanguage": "en",
     "localized": {
       "title": "The Ascension of Our Lord",
-      "description": "May 14, 2026: The Ascension of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ascension.pdf.\n\nPage 396 -- The Ascension of Our Lord \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
-    },
-    "defaultAudioLanguage": "en"
+      "description": "May 14, 2026: The Ascension of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/ascension.pdf.\n\nPage 396 -- The Ascension of Our Lord \nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles\n\nMonsignor Dominique was the main celebrant and gave the homily.\n\nChapters:\n00:00:00 Recording starts\n00:00:29 Lighting of the Church\n00:04:09 Opening hymn\n00:15:07 Readings\n00:26:24 Homily\n00:35:42 Creed\n00:40:44 Anaphora of the Twelve Apostles\n00:57:35 Communion"
+    }
   },
   "contentDetails": {
     "duration": "PT1H13M56S",
@@ -49329,7 +46292,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "94",
+    "viewCount": "136",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -49379,7 +46342,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "0jSNPIjOtwjcwfluBVgngBf4dD8",
+  "etag": "JTh1GvhriVzetCxfot-yJp8jHfQ",
   "id": "xlA3_3BhF1k",
   "snippet": {
     "publishedAt": "2026-04-06T05:46:38Z",
@@ -49443,7 +46406,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "211",
+    "viewCount": "216",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -49560,7 +46523,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YlhQmwcTR1hwHK7sZ_geiAPbiOs",
+  "etag": "j1i_RAjMgkOmVXdQrTaT0AdAmCY",
   "id": "xzMBiijvvn4",
   "snippet": {
     "publishedAt": "2026-03-05T14:52:21Z",
@@ -49601,8 +46564,7 @@
     "localized": {
       "title": "Remember, O Lord, civil leaders throughout the world, that they may stand for justice and peace.",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT53S",
@@ -49649,7 +46611,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "RHWC6XfD0xc0kxiPMjPUrmH7igg",
+  "etag": "AgGjFi8bKNgIkgAWl7XGTtXCV3g",
   "id": "y0_w9BWJBi0",
   "snippet": {
     "publishedAt": "2024-09-02T02:03:28Z",
@@ -50174,7 +47136,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "1HH4XjqLHGWjjhafMveKrhP2aDo",
+  "etag": "km2QJrI6QK999yd7W4Ih-tl2wrY",
   "id": "yv3vO5sFndk",
   "snippet": {
     "publishedAt": "2021-01-17T20:11:41Z",
@@ -50435,7 +47397,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ceGzKrLvo7oMbrQiqHwHgRtuOlQ",
+  "etag": "W49NG93XI6GbdnNTGBVwatZ1YH0",
   "id": "z5BkPC2MrRI",
   "snippet": {
     "publishedAt": "2025-01-27T05:49:53Z",
@@ -51136,100 +48098,6 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "YtK5wxgaw_lGwxJFRw_9DJPRGyI",
-  "id": "zc9Eumnjg4Q",
-  "snippet": {
-    "publishedAt": "2020-04-07T23:54:12Z",
-    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
-    "title": "Tuesday of Passion Week",
-    "description": "Text: http://ololc.org/doc/passionweek1.pdf",
-    "thumbnails": {
-      "default": {
-        "url": "https://i.ytimg.com/vi/zc9Eumnjg4Q/default.jpg",
-        "width": 120,
-        "height": 90
-      },
-      "medium": {
-        "url": "https://i.ytimg.com/vi/zc9Eumnjg4Q/mqdefault.jpg",
-        "width": 320,
-        "height": 180
-      },
-      "high": {
-        "url": "https://i.ytimg.com/vi/zc9Eumnjg4Q/hqdefault.jpg",
-        "width": 480,
-        "height": 360
-      },
-      "standard": {
-        "url": "https://i.ytimg.com/vi/zc9Eumnjg4Q/sddefault.jpg",
-        "width": 640,
-        "height": 480
-      },
-      "maxres": {
-        "url": "https://i.ytimg.com/vi/zc9Eumnjg4Q/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
-    "categoryId": "29",
-    "liveBroadcastContent": "none",
-    "defaultLanguage": "en",
-    "localized": {
-      "title": "Tuesday of Passion Week",
-      "description": "Text: http://ololc.org/doc/passionweek1.pdf"
-    },
-    "defaultAudioLanguage": "en-US"
-  },
-  "contentDetails": {
-    "duration": "PT1H24M18S",
-    "dimension": "2d",
-    "definition": "hd",
-    "caption": "false",
-    "licensedContent": false,
-    "contentRating": {},
-    "projection": "rectangular",
-    "hasCustomThumbnail": false
-  },
-  "status": {
-    "uploadStatus": "processed",
-    "privacyStatus": "unlisted",
-    "license": "youtube",
-    "embeddable": false,
-    "publicStatsViewable": true,
-    "madeForKids": false
-  },
-  "statistics": {
-    "viewCount": "256",
-    "likeCount": "9",
-    "dislikeCount": "1",
-    "favoriteCount": "0",
-    "commentCount": "0"
-  },
-  "recordingDetails": {
-    "locationDescription": "113 Remsen Street",
-    "location": {
-      "latitude": 40.6942473,
-      "longitude": -73.9941593,
-      "altitude": 0
-    },
-    "recordingDate": "2020-04-07T00:00:00Z"
-  },
-  "fileDetails": {},
-  "processingDetails": {
-    "processingStatus": "succeeded",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
-    "tagSuggestionsAvailability": "inProgress",
-    "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
-  },
-  "liveStreamingDetails": {
-    "actualStartTime": "2020-04-07T21:52:19Z",
-    "actualEndTime": "2020-04-07T23:16:35Z"
-  }
-}
-{
-  "kind": "youtube#video",
   "etag": "UuPEvtOy-ls8ZCOjA8fFvuF8x3k",
   "id": "zeBfr1fOXVI",
   "snippet": {
@@ -51404,7 +48272,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "SzUnU0_FGwakzC60PsAMw-E3gJg",
+  "etag": "Dw6qiRAIyR24oK5ps2BXCl6Q9qU",
   "id": "znGJP1L5GwI",
   "snippet": {
     "publishedAt": "2022-10-25T21:52:33Z",
@@ -51445,8 +48313,7 @@
     "localized": {
       "title": "2022 Annual Diaconate Retreat",
       "description": ""
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
     "duration": "PT23S",
