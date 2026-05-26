@@ -35,8 +35,7 @@ jobs:
             --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
             --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
             --data-urlencode 'grant_type=refresh_token' > out.json
-          jq . out.json
-          jq --raw-output "YOUTUBE_ACCESS_TOKEN=\(.data.access_token)" | tee -a "${GITHUB_OUTPUT}"
+          jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.data.access_token)"' | tee -a "${GITHUB_OUTPUT}"
 
       -
         name: 'Get videos'
