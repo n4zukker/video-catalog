@@ -34,14 +34,15 @@ jobs:
             --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
             --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
             --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
-            --data-urlencode 'grant_type=refresh_token' > out.json
-          jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.data.access_token)"' | tee -a "${GITHUB_OUTPUT}"
+            --data-urlencode 'grant_type=refresh_token' \
+          | jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.access_token)"' | tee -a "${GITHUB_OUTPUT}"
 
       -
         name: 'Get videos'
         shell: 'bash'
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ steps.access.outputs.YOUTUBE_ACCESS_TOKEN }}'
+          XYZ: '${{ toJSON( steps ) }}'
           VIDEO_DB:    'content/video-list.json'
         run: |
           ( src/youtube-videos.sh > "${VIDEO_DB}" ) 2>&1 | pino-pretty -t
