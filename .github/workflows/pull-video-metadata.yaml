@@ -30,7 +30,7 @@ jobs:
         run: |
           curl \
             --silent \
-            --post 'https://www.googleapis.com/oauth2/v4/token'
+            --url 'https://www.googleapis.com/oauth2/v4/token'
             --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
             --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
             --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
