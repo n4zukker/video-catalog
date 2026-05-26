@@ -25,7 +25,7 @@ jobs:
         shell: 'bash'
         env:
           YOUTUBE_REFRESH_TOKEN: '${{ secrets.YOUTUBE_REFRESH_TOKEN }}'
-          YOUTUBE_CLIENT_ID: '${{ secrets.YOUTUBE_CLIENT_ID }}'
+          YOUTUBE_CLIENT_ID: '${{ variables.YOUTUBE_CLIENT_ID }}'
           YOUTUBE_CLIENT_SECRET: '${{ secrets.YOUTUBE_CLIENT_SECRET }}'
         run: |
           curl \
