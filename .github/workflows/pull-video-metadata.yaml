@@ -34,10 +34,10 @@ jobs:
             --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
             --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
             --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
-            --data-urlencode 'grant_type=refresh_token' > /tmp/out.json
+            --data-urlencode 'grant_type=refresh_token' >/tmp/out.json
 
-          jq --raw-output '"::add-mask::\(.access_token)"' out.json
-          jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.access_token)"' out.json | tee -a "${GITHUB_OUTPUT}"
+          jq --raw-output '"::add-mask::\(.access_token)"' /tmp/out.json
+          jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.access_token)"' /tmp/out.json | tee -a "${GITHUB_OUTPUT}"
 
       -
         name: 'Get videos'
