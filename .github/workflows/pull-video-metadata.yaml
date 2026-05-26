@@ -44,7 +44,6 @@ jobs:
         shell: 'bash'
         env:
           YOUTUBE_ACCESS_TOKEN: '${{ steps.access.outputs.YOUTUBE_ACCESS_TOKEN }}'
-          XYZ: '${{ toJSON( steps ) }}'
           VIDEO_DB:    'content/video-list.json'
         run: |
           ( src/youtube-videos.sh > "${VIDEO_DB}" ) 2>&1 | pino-pretty -t
@@ -53,7 +52,7 @@ jobs:
         name: 'Get playlists'
         shell: 'bash'
         env:
-          YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
+          YOUTUBE_ACCESS_TOKEN: '${{ steps.access.outputs.YOUTUBE_ACCESS_TOKEN }}'
           PLAYLIST_DB: 'content/play-list.json'
         run: |
           ( src/youtube-playlists.sh > "${PLAYLIST_DB}" ) 2>&1 | pino-pretty -t
