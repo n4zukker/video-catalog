@@ -20,10 +20,29 @@ jobs:
           sudo npm -g install pino-pretty
 
       -
+        name: 'Get access token'
+        id: 'access'
+        shell: 'bash'
+        env:
+          YOUTUBE_REFRESH_TOKEN: '${{ secrets.YOUTUBE_REFRESH_TOKEN }}'
+          YOUTUBE_CLIENT_ID: '${{ secrets.YOUTUBE_CLIENT_ID }}'
+          YOUTUBE_CLIENT_SECRET: '${{ secrets.YOUTUBE_CLIENT_SECRET }}'
+        run: |
+          curl \
+            --silent \
+            --post 'https://www.googleapis.com/oauth2/v4/token'
+            --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
+            --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
+            --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
+            --data-urlencode 'grant_type=refresh_token' > out.json
+          jq . out.json
+          jq --raw-output "YOUTUBE_ACCESS_TOKEN=\(.data.access_token)" | tee -a "${GITHUB_OUTPUT}"
+
+      -
         name: 'Get videos'
         shell: 'bash'
         env:
-          YOUTUBE_ACCESS_TOKEN: '${{ secrets.YOUTUBE_ACCESS_TOKEN }}'
+          YOUTUBE_ACCESS_TOKEN: '${{ steps.access.outputs.YOUTUBE_ACCESS_TOKEN }}'
           VIDEO_DB:    'content/video-list.json'
         run: |
           ( src/youtube-videos.sh > "${VIDEO_DB}" ) 2>&1 | pino-pretty -t
