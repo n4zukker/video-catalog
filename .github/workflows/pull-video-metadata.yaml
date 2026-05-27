@@ -55,7 +55,6 @@ jobs:
 
             jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.access_token)"' "${tokenJsonFile}" | tee -a "${GITHUB_OUTPUT}"
           ) | pino-pretty -t
-          exit 1
 
       -
         name: 'Get videos'
