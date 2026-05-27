@@ -33,10 +33,10 @@ jobs:
           declare -r -x pid="${$}"
 
           (
-            pinoTrace -u 1 'Fdlog' fdLog
-
             source 'src/lib/bash-pino-trace.sh'
             source 'src/lib/call-rest.sh'
+
+            pinoTrace -u 1 'Fdlog' fdLog
 
             method='POST'
             curlMethodArgs=(
