@@ -6819,7 +6819,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "zTXo4nhwi5AUCqTrvgHi7iOSR48",
+  "etag": "2M2_YYDJG2eF2S_6kN0_6YAQ1Gs",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -6828,27 +6828,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CJiJ3NAG&rs=AOn4CLC40gHZQ-YPMaZhR4IjxeW8NH0u-g",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMiS3NAG&rs=AOn4CLCNq3ZkBM_jc4p9ul8VqR03Bk-Vaw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CJiJ3NAG&rs=AOn4CLAbnOAx_gQ72o-AfSLYc_MB8xJizg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMiS3NAG&rs=AOn4CLDZneiLXN-TnCnv-z4ozZBU0W_2pA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CJiJ3NAG&rs=AOn4CLD37Wr8VLGpSrp_N5nhg9-4e0ZVSw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMiS3NAG&rs=AOn4CLDzFIdMUCvVvPfbpn2kP70VPXN-dA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CJiJ3NAG&rs=AOn4CLDkn_1vDEyxw3KvBDkYc_HadtuGWA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMiS3NAG&rs=AOn4CLAELWCkkxODRfUcV5XHYQTuw034Sw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CJiJ3NAG&rs=AOn4CLB8x264mIU656BmULI_9VJlUhdZSw",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMiS3NAG&rs=AOn4CLCtthhp2uVdXbCW_mghq1jRFRL6BQ",
         "width": 1280,
         "height": 720
       }
@@ -42330,7 +42330,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "IA9D8EMrE6GIsZG41xcvKh9HgCk",
+  "etag": "n2Y9TvBuBpPBUGG-YXq36TBKsgk",
   "id": "xj2PP_-9iL4",
   "snippet": {
     "publishedAt": "2026-05-15T13:11:05Z",
@@ -42405,35 +42405,14 @@
     ]
   },
   "recordingDetails": {},
-  "fileDetails": {
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "1235427"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "128344"
-      }
-    ],
-    "bitrateBps": "1363771"
-  },
+  "fileDetails": {},
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2026-05-14T23:33:35Z",
