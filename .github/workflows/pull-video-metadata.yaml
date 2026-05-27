@@ -28,11 +28,11 @@ jobs:
           YOUTUBE_CLIENT_ID: '${{ vars.YOUTUBE_CLIENT_ID }}'
           YOUTUBE_CLIENT_SECRET: '${{ secrets.YOUTUBE_CLIENT_SECRET }}'
         run: |
-          exec {fdLog}>&2
-          declare -r -x fdLog
-          declare -r -x pid="${$}"
+          ( 
+            exec {fdLog}>&1
+            declare -r -x fdLog
+            declare -r -x pid="${$}"
 
-          (
             source 'src/lib/bash-pino-trace.sh'
             source 'src/lib/call-rest.sh'
 
@@ -54,7 +54,7 @@ jobs:
             pinoTrace -u "${fdLog}" 'Response from google access request' tokenJsonFile
 
             jq --raw-output '"YOUTUBE_ACCESS_TOKEN=\(.access_token)"' "${tokenJsonFile}" | tee -a "${GITHUB_OUTPUT}"
-          ) 2>&1 | pino-pretty -t
+          ) | pino-pretty -t
           exit 1
 
       -
