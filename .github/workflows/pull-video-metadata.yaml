@@ -28,6 +28,9 @@ jobs:
           YOUTUBE_CLIENT_ID: '${{ vars.YOUTUBE_CLIENT_ID }}'
           YOUTUBE_CLIENT_SECRET: '${{ secrets.YOUTUBE_CLIENT_SECRET }}'
         run: |
+          exec {fdLog}>&2
+
+          source 'src/lib/bash-pino-trace.sh'
           source 'src/lib/call-rest.sh'
 
           set -x
@@ -36,12 +39,14 @@ jobs:
             '--header' 'Accept: application/json'
           )
 
-          curlMethod \
-            --url 'https://www.googleapis.com/oauth2/v4/token' \
-            --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
-            --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
-            --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
-            --data-urlencode 'grant_type=refresh_token' >/tmp/out.json
+          (
+            curlMethod \
+              --url 'https://www.googleapis.com/oauth2/v4/token' \
+              --data-urlencode "client_id=${YOUTUBE_CLIENT_ID}" \
+              --data-urlencode "client_secret=${YOUTUBE_CLIENT_SECRET}" \
+              --data-urlencode "refresh_token=${YOUTUBE_REFRESH_TOKEN}" \
+              --data-urlencode 'grant_type=refresh_token' >/tmp/out.json
+          ) 2>&1 | pino-pretty -t
 
           jq --raw-output '"::add-mask::\(.access_token)"' /tmp/out.json
           jq . /tmp/out.json
