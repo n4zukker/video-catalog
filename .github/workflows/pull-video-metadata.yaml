@@ -33,7 +33,6 @@ jobs:
           source 'src/lib/bash-pino-trace.sh'
           source 'src/lib/call-rest.sh'
 
-          set -x
           method='POST'
           curlMethodArgs=(
             '--header' 'Accept: application/json'
