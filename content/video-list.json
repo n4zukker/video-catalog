@@ -7794,7 +7794,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "TDXbfWwPGvNsWyiOx9Nnsyr-A50",
+  "etag": "0XHuO-F1Zhlef9tFpclEP58UI4s",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -7803,27 +7803,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPisstEG&rs=AOn4CLD48KvFoiEhpeualWsQXAGSBu0MQA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CNCxstEG&rs=AOn4CLDCSiiN6W-qydqlSNqNDnZjpeSMHA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPisstEG&rs=AOn4CLC_57dtuS5rdfmflnzV2Q04kjXHbA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLB7mOGwWLM1s36IEUTE8qkPmyzHTQ",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPisstEG&rs=AOn4CLC8iZt1SCBpjzu7Mcr_IDr8CscriA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLCdOPr5I20pcwfOgPRixPCtvMuG7w",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPisstEG&rs=AOn4CLCw-Zvc8M4CLxCZrQj8VPjF7iMWhg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CNCxstEG&rs=AOn4CLCs8cDG_o3PE5qjW7WAuzjgrFYLLQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPisstEG&rs=AOn4CLC8FE4k9zONJTulGkzUDTohQK88Qg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CNCxstEG&rs=AOn4CLDYgv5n_LfSZFpSpRn5afSrKNjTaA",
         "width": 1280,
         "height": 720
       }
@@ -14544,7 +14544,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "BPqE2M-Li5tmk2oNKGJku4wURSs",
+  "etag": "bWLbq6MFkmFsDBs8P_svShpgv8A",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -14553,27 +14553,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPisstEG&rs=AOn4CLAbJcgHhto9iVVURcavwZ74al71IA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CNCxstEG&rs=AOn4CLDxmBmqMRrqGgZRU_J2VPTSD72RLQ",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPisstEG&rs=AOn4CLBmHdGAjFmUSG4Ilqg_sMDJqzLBZw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLDGCmu1l30xnlzf9R82k8irk4k6Ow",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPisstEG&rs=AOn4CLBud1ueYTHQ4kkcJ7L3ABCuqH9EGw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLDGAZiHNETBmvC4EvicTKvjC0VFew",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPisstEG&rs=AOn4CLC6G9ikJof87aNa1IsNuREQEVRMdw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CNCxstEG&rs=AOn4CLAhoOigzXgDvlXclqq3Gw9hyICyZw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPisstEG&rs=AOn4CLDYWIAnpbGvuiYeayq8VhEZs0NDRw",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CNCxstEG&rs=AOn4CLDz4KfbNzGY2bXUpstmlqgYIF0BzA",
         "width": 1280,
         "height": 720
       }
@@ -28579,7 +28579,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "mN72m2q04Wkt17Zt_e29W905IsQ",
+  "etag": "T3jYru2DpFCzJemBCZw1qTjiEC4",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -28588,27 +28588,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPisstEG&rs=AOn4CLCQRPZH2BmxCLK1RfCiDttQJ7F3wQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CNCxstEG&rs=AOn4CLCv71CmCsjeMv96Qw2OVpkSdLNFMw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPisstEG&rs=AOn4CLBnHATsgM_UtUgWfN4ztiGBJFhaKA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLBYMzFXOluCngfZfLrf9C4imQUJYg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPisstEG&rs=AOn4CLCAyBdalB68riwVFejwxY4OwZ-VNQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CNCxstEG&rs=AOn4CLCGtGOxeYR6VlggXGBUPYlpT_t8WQ",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPisstEG&rs=AOn4CLDY3ED117Oo-eluMqSZdx0Zyye1IQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CNCxstEG&rs=AOn4CLCDdYYB7cH1s3Nl0M95WuHanyVrRw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPisstEG&rs=AOn4CLABcbOm2Fb1AHA8zFPA4KlIF1QXEw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CNCxstEG&rs=AOn4CLABCquRthc8_gldupjl6YwU5K_WeQ",
         "width": 1280,
         "height": 720
       }
@@ -46723,13 +46723,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "j4l0xsxIMf0vPoMt8Vb_Ro_Trak",
+  "etag": "nmr79CVTctjw6Tx-eeoFUoSaD3k",
   "id": "tuYONF_ZXaM",
   "snippet": {
     "publishedAt": "2026-05-27T11:11:06Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Fourth Sunday of Pentecost",
-    "description": "June 14, 2026: 4th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 492 -- Sunday B\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
+    "description": "June 14, 2026: 4th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\n\nPage 492 -- Sunday B\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/tuYONF_ZXaM/default_live.jpg",
@@ -46763,7 +46763,7 @@
     "defaultLanguage": "en",
     "localized": {
       "title": "Fourth Sunday of Pentecost",
-      "description": "June 14, 2026: 4th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 492 -- Sunday B\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
+      "description": "June 14, 2026: 4th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\n\nPage 492 -- Sunday B\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles"
     },
     "defaultAudioLanguage": "en"
   },
