@@ -7794,7 +7794,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "q-sP27r8jgROlsY7a7JdTKONbVk",
+  "etag": "rZPg6XINPC2JxiE4mAXSch6HcHI",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -7803,27 +7803,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CKCostEG&rs=AOn4CLD6nG3LbOG7aHDgk-_MJcmQJbNzlQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CMyqstEG&rs=AOn4CLCsCaxyBScXlr7pDvyYf7Wkv2fiHA",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CKCostEG&rs=AOn4CLCFEUSFKDBi6P5TkHlwnHVrnsHreA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLDaVOQ5KMHi-0t2-CWA11OKmiW4DA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CKCostEG&rs=AOn4CLCG2bk8PXcwwoEzyFQRHjoEZXC5RQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLCATetbOVAtnKDR_00fpCJVeOP9Ow",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CKCostEG&rs=AOn4CLDpPdodC7oUDm7KEUdt-5pin7QqXg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CMyqstEG&rs=AOn4CLApPcoBYroXcdyGDSU9yfCUB4I1tQ",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CKCostEG&rs=AOn4CLCEGhgVsfa_UJyGgiAbugH8XBDXSA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CMyqstEG&rs=AOn4CLDeNeB8meUNysYwreq54KkrOXz3Ng",
         "width": 1280,
         "height": 720
       }
@@ -14544,7 +14544,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "Ja4U7x3swwO8WddY6MWfAmetLP0",
+  "etag": "ec1Tst6RFOjYKtzASfq_gzPpH-M",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -14553,27 +14553,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CKCostEG&rs=AOn4CLCzBJJkORpW0JW0RgwW7VY44moxTQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CMyqstEG&rs=AOn4CLC2yZSSo2xIPNm7CkFnATrR8ELddg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CKCostEG&rs=AOn4CLC-B8d5fY1u252DWWHrHzNvaDcx4g",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLBQqR90dWJ99iQRU5eIA-Uj22bVTg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CKCostEG&rs=AOn4CLBotBzXG6JpYbIerOOFT2Jy6tJ-Xg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLC2k6B-gJLb_vfrcaJXnipxiPSBWA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CKCostEG&rs=AOn4CLBRmo2xxoBI_tbZku424hIjpf9pmQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CMyqstEG&rs=AOn4CLBQz3XtN2JD-Vgt4f_tWZH0GHooMg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CKCostEG&rs=AOn4CLCk0s-1EIkUrDg2GBvQmfLaJZNPNg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CMyqstEG&rs=AOn4CLBKpjW0wGDCUAo1dbTQ9e5C-AKl2g",
         "width": 1280,
         "height": 720
       }
@@ -28579,7 +28579,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bAdZm-khfZsgjIodZ1fH9EO-Cdg",
+  "etag": "mZbCVugwTdnHqWPR8Z9WUpUE324",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -28588,27 +28588,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CKCostEG&rs=AOn4CLBJjhdfAWSFXAYZaWGH24kGNAMvug",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CMyqstEG&rs=AOn4CLD6cq4wSQ4S-UVBmLhZX-kSQKO-1w",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CKCostEG&rs=AOn4CLC-8H_Qt029F6BmtYyhG4KrQHelgw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLBkkbSKHGc2JNJ1OSjDS1knvFCY8Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CKCostEG&rs=AOn4CLCsFpaKYLLj_6or7jazsCYT96e08w",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CMyqstEG&rs=AOn4CLA6NeG-_M4mNJk6twxYGWQJM7bXSw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CKCostEG&rs=AOn4CLCCmRe71FbCUN0tpX5JWNNIPd34Mg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CMyqstEG&rs=AOn4CLAfvCJsNPhUt-_PKz1Mhvw0S26mGw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CKCostEG&rs=AOn4CLDhwyGN27OjQDRffLMKeS8xTx3zlQ",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CMyqstEG&rs=AOn4CLCmEOtCOsE2j-4zaJY7hW90GTvfhA",
         "width": 1280,
         "height": 720
       }
