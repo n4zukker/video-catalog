@@ -83,5 +83,5 @@ jobs:
           git config --global user.name "${CI_COMMIT_AUTHOR}"
           git config --global user.email "${CI_COMMIT_EMAIL}"
           git add content
-          git commit -m "${CI_COMMIT_EMAIL}"
+          git commit -m "${CI_COMMIT_MESSAGE}"
           git push
