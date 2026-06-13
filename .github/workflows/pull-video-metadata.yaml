@@ -5,13 +5,13 @@ on:
 jobs:
   list-videos:
     runs-on: 'ubuntu-latest'
-    permissions:
-      contents: write
 
     steps:
       -
         name: 'Checkout from github'
         uses: 'actions/checkout@v6'
+        with:
+          token: '${{ secrets.PAT }}'
 
       -
         name: 'Install pino-pretty'
