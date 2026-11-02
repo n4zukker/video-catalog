@@ -34,7 +34,13 @@ rc='0'
       getMine
     ) | jq '.id.videoId' \
   | cat - "${pageStopJsonFile}" | sort | uniq \
-  | jq --slurp --raw-output --compact-output '_nwise(50) | join(",")' \
+  | jq --slurp --raw-output --compact-output '
+    def nwise($n):
+      def nw: if length <= $n then . else .[0:$n] , (.[$n:] | nw) end;
+      nw;
+      
+      nwise(50) | join(",")
+    ' \
   | while read -r idList ; do
       GET 'youtube/v3/videos' \
         --data-urlencode 'part=contentDetails' \

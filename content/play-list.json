@@ -307,7 +307,7 @@
 }
 {
   "kind": "youtube#playlist",
-  "etag": "bWe7QcWynE39Lr7MNwTFJL0dSl0",
+  "etag": "Po5kAfSCZQhbZN-PN-3sKOZQaUA",
   "id": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
   "snippet": {
     "publishedAt": "2025-04-22T22:04:28.220263Z",
@@ -316,27 +316,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/Ynqc795euxU/default.jpg",
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/Ynqc795euxU/mqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/Ynqc795euxU/hqdefault.jpg",
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/Ynqc795euxU/sddefault.jpg",
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/Ynqc795euxU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -351,7 +351,7 @@
     "privacyStatus": "public"
   },
   "contentDetails": {
-    "itemCount": 4
+    "itemCount": 5
   },
   "player": {
     "embedHtml": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/videoseries?list=PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
@@ -3158,7 +3158,58 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "YPmEHzRBbzLP6XjSQkXVcljqF5Q",
+  "etag": "aP9fuxXDQzujK7974ULLTrWSf5w",
+  "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS4wOTA3OTZBNzVEMTUzOTMy",
+  "snippet": {
+    "publishedAt": "2026-11-01T15:43:48Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "القدّاس الإلهي والسيامة الكهنوتيّة للشمّاس نديم شكيب خالد - لحفد",
+    "description": "القدّاس الإلهي والسيامة الكهنوتيّة للشمّاس نديم شكيب خالد\nبوضع يد سيادة المطران غريغوري منصور راعي أبرشيّة مار مارون بروكلن المارونيّة\nمن كنيسة مار اسطفان الشهيد - لحفد\n\nSubscribe now to our YouTube channel \"Charity Radio TV \" and stay updated...\nLike and Follow \"CHARITY RADIO TV\" on our Social Media Platforms:\n- Facebook :  https://www.facebook.com/charityradiotv\n- Instagram :  https://www.instagram.com/charityradiotv\n- TikTok :        https://www.tiktok.com/@charityradiotv\n- WhatsApp : https://wa.me/96181344555\n- Telegram :   https://t.me/charityradiotv\nWatch us on our Website: http://www.charityradiotv.org/\nDownload our Application on IOS and Android : Charity Radio TV\nApp Store: https://apps.apple.com/lb/app/charity-radio-tv/id488116851\nPlay Store: https://play.google.com/store/apps/details?id=VOC.Stream\n#charityradiotv #charitytv #voiceofcharity #jesus #church #peace #christian #christianity #lebanon #arabic #watch #faith #god #bible #bibleverse #revelation #hope #gospel #christ #jesuschrist #truth #pray #prayer #life #trinity #holyspirit #worship #inspiration #religion #believe #goodnews #liturgy #grace\n#إنجيل #سلام #صوت_المحبة #المسيح #مسيحي #كنيسة #محبة #فرح #إيمان #نعمة #لبنان #كلام_الرب #خبز_الحياة #الروح_القدس #يسوع #قداس #تراتيل #عربي #الشرق_الأوسط #حب #رجاء #البشرى_السارة #تسبيح #المجد",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/qCuoPsIzIms/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "qCuoPsIzIms"
+    },
+    "videoOwnerChannelTitle": "Charity Radio TV",
+    "videoOwnerChannelId": "UCmkJik4w3SrksaRplE4DZTA"
+  },
+  "contentDetails": {
+    "videoId": "qCuoPsIzIms",
+    "videoPublishedAt": "2026-10-02T20:17:33Z"
+  }
+}
+{
+  "kind": "youtube#playlistItem",
+  "etag": "Be9BJZI_504woShJoDdmLrJa0Qg",
   "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS41MjE1MkI0OTQ2QzJGNzNG",
   "snippet": {
     "publishedAt": "2026-05-03T12:49:46Z",
@@ -3194,7 +3245,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
-    "position": 0,
+    "position": 1,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "Ynqc795euxU"
@@ -3209,7 +3260,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "EkCtreaVMD7PBQC8sS1KAJZoDSI",
+  "etag": "fUsV9Nb6dtum459yWr8CEJGirRg",
   "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS4wMTcyMDhGQUE4NTIzM0Y5",
   "snippet": {
     "publishedAt": "2026-03-30T01:27:57Z",
@@ -3245,7 +3296,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
-    "position": 1,
+    "position": 2,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "ZqBA_Lj_5ls"
@@ -3260,7 +3311,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "Ut8-Yci4umVCkymzxsXgB48-Tqo",
+  "etag": "_5hg2ioW3Z78CO91CA-_WFou5dY",
   "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS41NkI0NEY2RDEwNTU3Q0M2",
   "snippet": {
     "publishedAt": "2025-04-22T22:04:28Z",
@@ -3296,7 +3347,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
-    "position": 2,
+    "position": 3,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "TTTgLJCB1II"
@@ -3311,7 +3362,7 @@
 }
 {
   "kind": "youtube#playlistItem",
-  "etag": "7afpnp9lKafE2v_x9JEkSsPsFUk",
+  "etag": "v4ATMpzMb5VnJUgjmUg8RX57wNI",
   "id": "UEx2Tkg4eVRPMUFIZm5Wc0hIalB3TnIzNTRxVkhNNEh3cS4yODlGNEE0NkRGMEEzMEQy",
   "snippet": {
     "publishedAt": "2025-04-22T22:04:28Z",
@@ -3347,7 +3398,7 @@
     },
     "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
     "playlistId": "PLvNH8yTO1AHfnVsHHjPwNr354qVHM4Hwq",
-    "position": 3,
+    "position": 4,
     "resourceId": {
       "kind": "youtube#video",
       "videoId": "euYcTWI6ZmY"
