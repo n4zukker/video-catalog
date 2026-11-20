@@ -536,7 +536,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "ytgS1cCYP44D5K5r-1CAJyR9bqg",
+  "etag": "s-VWK6iBIumBTH66WgHXflEGbhc",
   "id": "-cGwhcaTItA",
   "snippet": {
     "publishedAt": "2021-10-17T19:35:08Z",
@@ -599,7 +599,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "100",
+    "viewCount": "101",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -2148,7 +2148,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "n1_MvV2keoXf8Sl1BFKXhZ3TPC0",
+  "etag": "9vxo5VQq7JDuOPq90UyC0YgWJKI",
   "id": "1zO3mN2tft0",
   "snippet": {
     "publishedAt": "2023-05-19T12:48:34Z",
@@ -2871,7 +2871,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "lJcX9lcosQQiXsy2deZb6VpIs3Y",
+  "etag": "ReUBwUN-aYNAsP3XezVgkxfLxv4",
   "id": "2NOAm3fwNps",
   "snippet": {
     "publishedAt": "2025-12-07T14:39:19Z",
@@ -2929,7 +2929,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "205",
+    "viewCount": "208",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -3780,7 +3780,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "2q8WaIg51Z1M8qLmTEMM1pv4-oM",
+  "etag": "cJSwV7NMQYwV16Kcc6AL-m1FsZ0",
   "id": "3Br8NSQnczk",
   "snippet": {
     "publishedAt": "2021-01-10T19:46:07Z",
@@ -4413,6 +4413,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "3Egok17Eq3-SKkbHMrDCDOGeOqk",
+  "id": "41YpZ3OPstA",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:30:42Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday after the Glorious Birth; St. Stephen, the First Martyr, the First Deacon",
+    "description": "December 27, 2025: Sunday after the Glorious Birth\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/41YpZ3OPstA/default.jpg?v=6aff94b2",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/41YpZ3OPstA/mqdefault.jpg?v=6aff94b2",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/41YpZ3OPstA/hqdefault.jpg?v=6aff94b2",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/41YpZ3OPstA/sddefault.jpg?v=6aff94b2",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/41YpZ3OPstA/maxresdefault.jpg?v=6aff94b2",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Sunday after the Glorious Birth; St. Stephen, the First Martyr, the First Deacon",
+      "description": "December 27, 2025: Sunday after the Glorious Birth\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 754 -- Anaphora of the Twelve Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-27T16:30:00Z",
+    "activeLiveChatId": "Cg0KCzQxWXBaM09Qc3RBKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILNDFZcFozT1BzdEE"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "3l8_iY2pPOy5b5pbwxXUHwcL3Sc",
   "id": "4AiwXb70ojk",
   "snippet": {
@@ -4593,7 +4686,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "5YVKxGmF70PZacljzkeCpAiH0Hg",
+  "etag": "iD5OkUPX8t8lGcg5zAscfXQfaMQ",
   "id": "4Ekhpb9qDww",
   "snippet": {
     "publishedAt": "2024-12-19T13:25:02Z",
@@ -4657,7 +4750,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "51",
+    "viewCount": "52",
     "likeCount": "0",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -4684,7 +4777,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "tn87Ne-GHatNRiES0kOkdrR-2XA",
+  "etag": "BNEetOt5AzjarvZ36skjYUl4sh0",
   "id": "4P6zZKWE11Y",
   "snippet": {
     "publishedAt": "2025-03-24T05:00:11Z",
@@ -6595,6 +6688,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "lcGm0YKV413wkDWOt7A5039VY9E",
+  "id": "6e4EbvitC-M",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:24:46Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Revelation to Joseph",
+    "description": "December 13, 2026: The Revelation to Joseph\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 57 -- The Revelation to Joseph\nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/6e4EbvitC-M/default.jpg?v=6aff934e",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/6e4EbvitC-M/mqdefault.jpg?v=6aff934e",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/6e4EbvitC-M/hqdefault.jpg?v=6aff934e",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/6e4EbvitC-M/sddefault.jpg?v=6aff934e",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/6e4EbvitC-M/maxresdefault.jpg?v=6aff934e",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Sunday of the Revelation to Joseph",
+      "description": "December 13, 2026: The Revelation to Joseph\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 57 -- The Revelation to Joseph\nPage 748 -- Creed\nPage 835 -- Anaphora of Saint Mark the Evangelist"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-13T16:30:00Z",
+    "activeLiveChatId": "Cg0KCzZlNEVidml0Qy1NKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILNmU0RWJ2aXRDLU0"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "SSO6pONq17Za8nbS1EL2jfLSlJQ",
   "id": "6h9RWdD2Le8",
   "snippet": {
@@ -7510,36 +7696,36 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "_GW9Eb0xm3j1pmAqlkMOD6o6bqg",
+  "etag": "MsIlH9uTvptN91eVWm3Y4yKSX7g",
   "id": "7ETmLT16e5Q",
   "snippet": {
-    "publishedAt": "2026-10-23T08:54:26Z",
+    "publishedAt": "2026-11-16T05:58:30Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Announcement to Zechariah",
     "description": "November 15, 2026: The Announcement to Zechariah; First Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\nChapters:\n00:00:00 Recording starts\n00:03:12 Lighting of the church\n00:14:02 Opening hymn\n00:23:13 Readings\n00:38:42 Homily\n00:48:50 Creed\n00:54:25 Anaphora of Saint Peter, Head of the Apostles\n01:09:48 Communion\n01:18:26 Announcements",
     "thumbnails": {
       "default": {
-        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/default.jpg?v=6adb20c2",
+        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/default.jpg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/mqdefault.jpg?v=6adb20c2",
+        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/mqdefault.jpg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/hqdefault.jpg?v=6adb20c2",
+        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/hqdefault.jpg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/sddefault.jpg?v=6adb20c2",
+        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/sddefault.jpg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/maxresdefault.jpg?v=6adb20c2",
+        "url": "https://i.ytimg.com/vi/7ETmLT16e5Q/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -7551,13 +7737,12 @@
     "localized": {
       "title": "Sunday of the Announcement to Zechariah",
       "description": "November 15, 2026: The Announcement to Zechariah; First Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 18 -- The Announcement to Zechariah\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles\n\nChapters:\n00:00:00 Recording starts\n00:03:12 Lighting of the church\n00:14:02 Opening hymn\n00:23:13 Readings\n00:38:42 Homily\n00:48:50 Creed\n00:54:25 Anaphora of Saint Peter, Head of the Apostles\n01:09:48 Communion\n01:18:26 Announcements"
-    },
-    "defaultAudioLanguage": "en"
+    }
   },
   "contentDetails": {
-    "duration": "PT1H29M",
+    "duration": "PT1H29M16S",
     "dimension": "2d",
-    "definition": "sd",
+    "definition": "hd",
     "caption": "false",
     "licensedContent": false,
     "contentRating": {},
@@ -7565,7 +7750,7 @@
     "hasCustomThumbnail": true
   },
   "status": {
-    "uploadStatus": "uploaded",
+    "uploadStatus": "processed",
     "privacyStatus": "public",
     "license": "youtube",
     "embeddable": true,
@@ -7574,7 +7759,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "67",
+    "viewCount": "111",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -7587,15 +7772,36 @@
   },
   "recordingDetails": {},
   "fileDetails": {
-    "fileName": "livestream.str"
+    "fileName": "livestream.str",
+    "fileSize": "502183730",
+    "fileType": "video",
+    "container": "webm",
+    "videoStreams": [
+      {
+        "widthPixels": 1920,
+        "heightPixels": 1080,
+        "frameRateFps": 30,
+        "aspectRatio": 1.7777777777777777,
+        "codec": "vp9",
+        "bitrateBps": "1173948"
+      }
+    ],
+    "audioStreams": [
+      {
+        "channelCount": 2,
+        "codec": "aac",
+        "bitrateBps": "128180"
+      }
+    ],
+    "bitrateBps": "1302128"
   },
   "processingDetails": {
-    "processingStatus": "processing",
-    "fileDetailsAvailability": "inProgress",
-    "processingIssuesAvailability": "inProgress",
+    "processingStatus": "succeeded",
+    "fileDetailsAvailability": "available",
+    "processingIssuesAvailability": "available",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "inProgress"
+    "thumbnailsAvailability": "available"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2026-11-15T16:20:02Z",
@@ -8330,7 +8536,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "9ZDfcSEMnPkXPu-W5HCptz2z55g",
+  "etag": "u1q8hqY21W2lBNf01XCebZTh4Bc",
   "id": "81_381MqCmw",
   "snippet": {
     "publishedAt": "2020-11-08T15:06:25Z",
@@ -8339,27 +8545,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CPy86NcG&rs=AOn4CLBf3fJdWHwRruv8wsUxUte6DQFwlg",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/default.jpg?sqp=CIip_tcG&rs=AOn4CLCT5udl_qrwO6uPittivPOIju3iTg",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLAtE7GBUfdinV7QZCCAFu9Sj-u1VA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLDy52mQpFicSgwmJFsxIQVdCuFCGg",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBSQFl7XxdEJikuaZhxFq77VpLBGQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLA2gfTeLHBbxbpYLGn5QFQmW9K2Jw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLANYBacFJnkGJN0afscA0xYSoSatA",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLDg9aKWRC8Pd0wNlcmoz6--dGuEcw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDI6EftiySHr2Kyh1MdPp3pW3SDGQ",
+        "url": "https://i9.ytimg.com/vi/81_381MqCmw/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLDGIIfNCpuTcBtIWa_4mCW3a191NA",
         "width": 1280,
         "height": 720
       }
@@ -8510,7 +8716,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "3DE701zdOkC-vpRpAVqRQ0h7ehQ",
+  "etag": "KnE5HVBhHPlANZtr5dxBWgoNaWQ",
   "id": "8BHJ8MDFRlQ",
   "snippet": {
     "publishedAt": "2026-04-17T12:07:13Z",
@@ -8568,7 +8774,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "520",
+    "viewCount": "522",
     "likeCount": "15",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -8595,7 +8801,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "fYfm5kDH6bnHhz7B-yUOVn6Ur60",
+  "etag": "H_-GEmi1t72_4IjQrjk-PHROS5Y",
   "id": "8JbztxjySrw",
   "snippet": {
     "publishedAt": "2020-03-28T22:25:48Z",
@@ -10582,7 +10788,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "RSXWsCCE2c3_cDsq9UdanjsgJq4",
+  "etag": "fu7jK_W96E2cD4QGBAqSxM8mIAo",
   "id": "AsNLzlNX5zE",
   "snippet": {
     "publishedAt": "2026-07-26T16:57:39Z",
@@ -10591,27 +10797,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/default.jpg?sqp=CPy86NcG&rs=AOn4CLBzscDo6U7uQ_4F2-gg1gLPVttoIg",
+        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/default.jpg?sqp=CIip_tcG&rs=AOn4CLAcf3pF-VEfDAuIPgVMEdk669PA2g",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDEA0gOioOz8HtW4hYgLX2hdQxayA",
+        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLCCU3_KUM5OqLBYeJH0zcykqPp3gA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLAtP3FPXKvvrfZBu0hqOmUbl49Gng",
+        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBPcj7xBbg3VeFjvy9-HTG1QT-hkA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLCeVMShKb0uojYjwi673M8rF9PgjA",
+        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLBCSN2mM-1H2MLkkKJvMqlbBovZGA",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLAa8akvBxiEX5tV101q9JxOZFp7lg",
+        "url": "https://i9.ytimg.com/vi/AsNLzlNX5zE/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLCMfsVhRgSMfrmP_Mwe1MXpQHMOFg",
         "width": 1280,
         "height": 720
       }
@@ -14908,6 +15114,99 @@
 }
 {
   "kind": "youtube#video",
+  "etag": "A0-H0xIoZ9DGRDnzNc5M7FoP7Ys",
+  "id": "G-MBdMO9S5Y",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:23:11Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "Sunday of the Birth of John the Baptist",
+    "description": "December 6, 2026: The Birth of John the Baptist\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 48 -- The Birth of John the Baptist\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/G-MBdMO9S5Y/default.jpg?v=6aff92ef",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/G-MBdMO9S5Y/mqdefault.jpg?v=6aff92ef",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/G-MBdMO9S5Y/hqdefault.jpg?v=6aff92ef",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/G-MBdMO9S5Y/sddefault.jpg?v=6aff92ef",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/G-MBdMO9S5Y/maxresdefault.jpg?v=6aff92ef",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "Sunday of the Birth of John the Baptist",
+      "description": "December 6, 2026: The Birth of John the Baptist\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 48 -- The Birth of John the Baptist\nPage 748 -- Creed\nPage 815 -- Anaphora of Saint John the Apostle"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-06T16:30:00Z",
+    "activeLiveChatId": "Cg0KC0ctTUJkTU85UzVZKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILRy1NQmRNTzlTNVk"
+  }
+}
+{
+  "kind": "youtube#video",
   "etag": "0rsslWGVeUPrNPrTNc4nNFyYw9g",
   "id": "G15CbfAXxUI",
   "snippet": {
@@ -15546,7 +15845,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bmVp81qVVk1xTBcnCFzhU7s2H40",
+  "etag": "pL7jyfqe9bmBC38xWXE84dJ1Ruo",
   "id": "GcYSiw5S4MA",
   "snippet": {
     "publishedAt": "2020-04-23T11:11:29Z",
@@ -15555,27 +15854,27 @@
     "description": "Text: http://ololc.org/doc/sunday.pdf\n\n\nBulletin: http://ololc.org/doc/200419-bulletin.pdf",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CPy86NcG&rs=AOn4CLA10DYujQb8PnailqWPq9d5-30Z8Q",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/default.jpg?sqp=CIip_tcG&rs=AOn4CLCeQBczGdnYc-Q8HbRf8H8S0DJlpw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBRX3b71SL9qel54OcN0tDM5BVHLA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBX86uqQQsrTi3RzxdZBs-yUw-q9Q",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBT8gecyJWyrFo_qufmNhHnjF2nJg",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBPEEFO9nF-JJN_eQd4dzuZW6WABw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLAZ9c90EKwOvYImkO9CQ3aN7dwnTQ",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLAz6Z_k2I6-PrvbNzl84On0_KyT2Q",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBwZ_jKYcTQTN7YgSQpWVCzY6U9eA",
+        "url": "https://i9.ytimg.com/vi/GcYSiw5S4MA/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBk2t9uSsmAmpC9lJBHuP60fbCphw",
         "width": 1280,
         "height": 720
       }
@@ -16538,7 +16837,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "AeRivg1yo3MMwLK9947AJyycgAo",
+  "etag": "LW2OaB69ocF6PHo8zlk-kjIoAOQ",
   "id": "HY1k1DTKP48",
   "snippet": {
     "publishedAt": "2022-12-11T17:50:49Z",
@@ -18170,6 +18469,101 @@
     "actualStartTime": "2025-04-11T23:23:52Z",
     "actualEndTime": "2025-04-12T00:36:44Z",
     "scheduledStartTime": "2025-04-11T23:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "ivHXrRalS3leTPx_zoLXH5HdbMo",
+  "id": "J9lgV8bBJtg",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:28:54Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Glorious Birth of Our Lord -- Christmas morning",
+    "description": "December 25, 2026: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/J9lgV8bBJtg/default.jpg?v=6aff9446",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/J9lgV8bBJtg/mqdefault.jpg?v=6aff9446",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/J9lgV8bBJtg/hqdefault.jpg?v=6aff9446",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/J9lgV8bBJtg/sddefault.jpg?v=6aff9446",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/J9lgV8bBJtg/maxresdefault.jpg?v=6aff9446",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "The Glorious Birth of Our Lord -- Christmas morning",
+      "description": "December 25, 2026: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-25T16:30:00Z",
+    "activeLiveChatId": "Cg0KC0o5bGdWOGJCSnRnKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILSjlsZ1Y4YkJKdGc"
   }
 }
 {
@@ -21542,7 +21936,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "WDbXeAlrzO3EiuK-DvwcCiHN9u4",
+  "etag": "6cSsB6jlrVF92QaRMUPOwrXHJg0",
   "id": "NFZSf70CuKM",
   "snippet": {
     "publishedAt": "2026-10-05T05:01:40Z",
@@ -21605,7 +21999,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "122",
+    "viewCount": "123",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -21633,6 +22027,100 @@
     "actualStartTime": "2026-10-04T15:24:44Z",
     "actualEndTime": "2026-10-04T16:43:32Z",
     "scheduledStartTime": "2026-10-04T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "OvCLRSoWYrV6_IkzVfq5mVQMGLQ",
+  "id": "NXcE7yDfEGs",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:26:13Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Genealogy of Jesus",
+    "description": "December 20, 2026: The Genealogy of Jesus\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 66 -- The Genealogy of Jesus\nPage 748 -- Creed\nPage 756 -- Anaphora of the Twelve Apostles",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/NXcE7yDfEGs/default.jpg?v=6aff93a5",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/NXcE7yDfEGs/mqdefault.jpg?v=6aff93a5",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/NXcE7yDfEGs/hqdefault.jpg?v=6aff93a5",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/NXcE7yDfEGs/sddefault.jpg?v=6aff93a5",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/NXcE7yDfEGs/maxresdefault.jpg?v=6aff93a5",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "The Genealogy of Jesus",
+      "description": "December 20, 2026: The Genealogy of Jesus\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 66 -- The Genealogy of Jesus\nPage 748 -- Creed\nPage 756 -- Anaphora of the Twelve Apostles"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Knowledge",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-20T16:30:00Z",
+    "activeLiveChatId": "Cg0KC05YY0U3eURmRUdzKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILTlhjRTd5RGZFR3M"
   }
 }
 {
@@ -24925,7 +25413,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "a2ReJWC3gMqFIfFSbUuw8WL1RMc",
+  "etag": "Pf7aiIztNpRprtkbMwyey-F6pFg",
   "id": "RtqwYuSkrj8",
   "snippet": {
     "publishedAt": "2026-01-19T07:25:39Z",
@@ -31093,7 +31581,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "vgfoPt-gF5x1peIXVbLUaiRY4OU",
+  "etag": "DmPDGZyYe48_Rr__fl46UwAMFeE",
   "id": "ZVvuUlbOcQo",
   "snippet": {
     "publishedAt": "2020-09-28T18:38:08Z",
@@ -31102,27 +31590,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CPy86NcG&rs=AOn4CLAYG0W7BpntCUfJgI9ZwRxhjmTZzA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/default.jpg?sqp=CIip_tcG&rs=AOn4CLBYP6mmXr_iAsBT3ObwvNlYtPw77Q",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDpgB8l6GSQOqgv9-4BCAVTq1bpqw",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLDyBPqQBQ9aRZHXDMe1wTXZl8LHLw",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLAWAs6RwlwatscaMOahhM0Dw-I02Q",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLAX7dKA1fImBlo6q3fxQx2SoF2gTA",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLByR_RQ6Y2pbn7yoZcHdMp8pO2-Kg",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLDpgqXIHRg4Bjz401ufqxzQgMVzQw",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDXIiuIkeKumLJArSs7ElLSdELtXA",
+        "url": "https://i9.ytimg.com/vi/ZVvuUlbOcQo/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLAqEq4AeSgVGNoqFO0uQ2hdGtTphQ",
         "width": 1280,
         "height": 720
       }
@@ -33094,7 +33582,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "MCA22-fMXp_i6I68Q34Hc8SPeyQ",
+  "etag": "oIwWJGGXYbcdmztH3mnnhb6TBu8",
   "id": "bBhNMCbmAQM",
   "snippet": {
     "publishedAt": "2021-02-28T20:37:43Z",
@@ -33184,7 +33672,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "CPEBhLNCwX2yEqfZuG-XwDKAn2s",
+  "etag": "PfFuYXoMUCKtq-6SyLVpcIaeXG4",
   "id": "bQGpynqXBIM",
   "snippet": {
     "publishedAt": "2026-02-21T20:47:11Z",
@@ -34003,7 +34491,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "IjpfI1hmm5_FfZqF0M5HA_a9Auw",
+  "etag": "EY6pJTzINz0p7Sjwblv8fDXgr4I",
   "id": "cgCOzYh--7U",
   "snippet": {
     "publishedAt": "2022-10-31T16:38:47Z",
@@ -34066,7 +34554,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "299",
+    "viewCount": "304",
     "likeCount": "10",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -34631,7 +35119,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "JQoSOHdTf9M-6CbW2Sww0oc7adE",
+  "etag": "KQZ0RuyLfalTPNs_GhiJl9nz2vg",
   "id": "dSoM-NQpdgY",
   "snippet": {
     "publishedAt": "2026-04-10T17:33:34Z",
@@ -34694,7 +35182,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "9074",
+    "viewCount": "9075",
     "likeCount": "996",
     "dislikeCount": "9",
     "favoriteCount": "0",
@@ -36446,7 +36934,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "WLIRllNqUNSTHNp1Jq9vF5ZMwRI",
+  "etag": "ptriSNJYF_O4EGdo8HrOGnLXtqI",
   "id": "g3N5-Aq8WXg",
   "snippet": {
     "publishedAt": "2026-07-27T04:52:24Z",
@@ -36455,27 +36943,27 @@
     "description": "July 26, 2026: 10th Sunday of Pentecost.\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 425 -- Sunday A (Glorious Pentecost)\nPage 748 -- Creed\nPage 774 -- Anaphora of Saint Peter, Head of the Apostles",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/default.jpg?sqp=CPy86NcG&rs=AOn4CLDQEI80iR3IJhEBqR63j5_PndMo5g",
+        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/default.jpg?sqp=CIip_tcG&rs=AOn4CLCrkSEQlTZfTfrosZu3t5ffl-dFug",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDy7HEUAWAx88wBggV-2w-1DaBPlw",
+        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLDZPW3OVKi1Ids4uYuWib399MLZWA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBfNvy19W150g5rAZn0KUe3j9CsMw",
+        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBdq9CHKABY75LaNQBekDHRgiTHxg",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLD-24WB6L-4cI_8Pyeugy3VnQQVLw",
+        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLB25Bj2RYS5DuPv0Ntw7yZDvP8XJg",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDYFHZ5O12ehBZqVhWuCC46_8ci1Q",
+        "url": "https://i9.ytimg.com/vi/g3N5-Aq8WXg/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLA0OLwQ8dVkhTIAtO_8S8tsQRi16A",
         "width": 1280,
         "height": 720
       }
@@ -36807,7 +37295,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "kpBTrPfpufMR79u7y1fiodOM1Yk",
+  "etag": "hGVeNLVo1AncFpDuTW2uJaDVE9I",
   "id": "gLioBtc8UfA",
   "snippet": {
     "publishedAt": "2024-04-01T05:42:32Z",
@@ -38438,7 +38926,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "l2FDTDzW1eSO5Fuoh_4LDTp4rvo",
+  "etag": "aWMzs_bY6g4KCDRhxk4IOi4dEVQ",
   "id": "hTjdjalSEhE",
   "snippet": {
     "publishedAt": "2026-06-22T05:58:01Z",
@@ -39073,6 +39561,100 @@
     "actualStartTime": "2021-06-27T15:17:59Z",
     "actualEndTime": "2021-06-27T21:05:45Z",
     "scheduledStartTime": "2021-06-27T15:30:00Z"
+  }
+}
+{
+  "kind": "youtube#video",
+  "etag": "ukhnPUNicfyO0aRMCGwIYVrfe9M",
+  "id": "i2W7mhv675M",
+  "snippet": {
+    "publishedAt": "2026-11-20T00:27:45Z",
+    "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
+    "title": "The Glorious Birth of Our Lord -- Midnight",
+    "description": "December 25, 2026: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/i2W7mhv675M/default.jpg?v=6aff9401",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/i2W7mhv675M/mqdefault.jpg?v=6aff9401",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/i2W7mhv675M/hqdefault.jpg?v=6aff9401",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/i2W7mhv675M/sddefault.jpg?v=6aff9401",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/i2W7mhv675M/maxresdefault.jpg?v=6aff9401",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Our Lady of Lebanon Brooklyn, NY",
+    "categoryId": "29",
+    "liveBroadcastContent": "upcoming",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "The Glorious Birth of Our Lord -- Midnight",
+      "description": "December 25, 2026: The Glorious Birth of Our Lord.\nToday's Divine Liturgy can be found at http://ololc.org/doc/christmas.pdf.\n\nPage 76 -- The Glorious Birth of Our Lord\nPage 748 -- Creed\nPage 876 -- Anaphora of Saint John Chrysostom"
+    }
+  },
+  "contentDetails": {
+    "duration": "P0D",
+    "dimension": "2d",
+    "definition": "sd",
+    "caption": "false",
+    "licensedContent": false,
+    "contentRating": {},
+    "projection": "rectangular",
+    "hasCustomThumbnail": true
+  },
+  "status": {
+    "uploadStatus": "uploaded",
+    "privacyStatus": "public",
+    "license": "youtube",
+    "embeddable": true,
+    "publicStatsViewable": true,
+    "madeForKids": false,
+    "selfDeclaredMadeForKids": false
+  },
+  "statistics": {
+    "viewCount": "0",
+    "likeCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "commentCount": "0"
+  },
+  "topicDetails": {
+    "topicCategories": [
+      "https://en.wikipedia.org/wiki/Music",
+      "https://en.wikipedia.org/wiki/Religion"
+    ]
+  },
+  "recordingDetails": {},
+  "fileDetails": {
+    "fileName": "livestream.str"
+  },
+  "processingDetails": {
+    "processingStatus": "processing",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
+    "tagSuggestionsAvailability": "inProgress",
+    "editorSuggestionsAvailability": "inProgress",
+    "thumbnailsAvailability": "inProgress"
+  },
+  "liveStreamingDetails": {
+    "scheduledStartTime": "2026-12-25T04:59:00Z",
+    "activeLiveChatId": "Cg0KC2kyVzdtaHY2NzVNKicKGFVDSFlYZjlWWks1MWJOT3otekpYOVQ2URILaTJXN21odjY3NU0"
   }
 }
 {
@@ -41531,7 +42113,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "cjQGvsXVSXxWZP5DLUWIqiuwh6w",
+  "etag": "uokuPBC1doF5UEMSq_oHnqeikmo",
   "id": "jy9f_-9aSgc",
   "snippet": {
     "publishedAt": "2026-07-26T17:03:24Z",
@@ -41540,27 +42122,27 @@
     "description": "",
     "thumbnails": {
       "default": {
-        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/default.jpg?sqp=CPy86NcG&rs=AOn4CLDeB1lwCkyQqCL5kVDjDeonWRa_Ag",
+        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/default.jpg?sqp=CIip_tcG&rs=AOn4CLBj9Qy5Dvyli0TC7oDJA-7Jg4PsPw",
         "width": 120,
         "height": 90
       },
       "medium": {
-        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/mqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLDVnigREJVp-q6nO60v_GNuYa7hmg",
+        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/mqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLBrJqGH5hornkibA9DqDU2vCFDPsA",
         "width": 320,
         "height": 180
       },
       "high": {
-        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/hqdefault.jpg?sqp=CPy86NcG&rs=AOn4CLBL33Ae6gBX69cgfgMkGJAriJWX3Q",
+        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/hqdefault.jpg?sqp=CIip_tcG&rs=AOn4CLCCw0v9w7ug-FtMeT0JbBJC4_FHIw",
         "width": 480,
         "height": 360
       },
       "standard": {
-        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/sddefault.jpg?sqp=CPy86NcG&rs=AOn4CLCjTwPyXkP26zJfkC1vY3vJjNV__Q",
+        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/sddefault.jpg?sqp=CIip_tcG&rs=AOn4CLBRsJPS_rjIT9gmlQSPdwH88J8z-A",
         "width": 640,
         "height": 480
       },
       "maxres": {
-        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/maxresdefault.jpg?sqp=CPy86NcG&rs=AOn4CLAZZ6PI5mNY6i99aagAXPsEKRmkwg",
+        "url": "https://i9.ytimg.com/vi/jy9f_-9aSgc/maxresdefault.jpg?sqp=CIip_tcG&rs=AOn4CLDh9TlPJMOS4csmekgtiqoh_73C_A",
         "width": 1280,
         "height": 720
       }
@@ -41620,7 +42202,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "gEpgBviO6jS1HVbL9LxjMVA_wkE",
+  "etag": "euAMDkkJF0d7s3nbzC8vQdrc2D8",
   "id": "jzK4Z4UAnso",
   "snippet": {
     "publishedAt": "2026-10-26T05:45:32Z",
@@ -41683,7 +42265,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "162",
+    "viewCount": "163",
     "likeCount": "3",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -45697,7 +46279,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "kVNEfRlLPgfofs0V38pOS34Vyww",
+  "etag": "Q5ZfKbVyyoA_-tLynT80JoFlQnM",
   "id": "o6hP6Vcogfg",
   "snippet": {
     "publishedAt": "2026-09-24T14:39:22Z",
@@ -45760,7 +46342,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "84",
+    "viewCount": "85",
     "likeCount": "2",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -45787,7 +46369,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "IUbfaDp2Y80coW8JKHynNSFWJfU",
+  "etag": "iXdKp_iGMDfl2SX7tJEpP59wOXk",
   "id": "oFLTvEna0Yw",
   "snippet": {
     "publishedAt": "2024-12-17T13:36:16Z",
@@ -45851,7 +46433,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "56",
+    "viewCount": "57",
     "likeCount": "1",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -48521,7 +49103,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "PNdUZo7aQ9k3jugAQXnR3kUUxGk",
+  "etag": "SXXdUC_vcDnxtpePimSKA7NoW5E",
   "id": "rJ5jFeUjrHw",
   "snippet": {
     "publishedAt": "2026-11-02T07:03:20Z",
@@ -48584,7 +49166,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "131",
+    "viewCount": "132",
     "likeCount": "5",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -48978,7 +49560,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "7nsci1x0bbt9Vd6SRKVQVgpAaWI",
+  "etag": "3eKwuh_YT1DSsPwTuNCjAE4zDuw",
   "id": "rsrBdz3lDLU",
   "snippet": {
     "publishedAt": "2026-11-09T06:06:17Z",
@@ -49041,7 +49623,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "193",
+    "viewCount": "197",
     "likeCount": "9",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -52170,13 +52752,13 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "iLPPcv6AFFPVyYZKwtA-aP5pRvU",
+  "etag": "8DJ4VUVYRhb0Dxa_K48eMZNAv44",
   "id": "vclrQa6f94M",
   "snippet": {
     "publishedAt": "2026-10-23T08:55:40Z",
     "channelId": "UCHYXf9VZK51bNOz-zJX9T6Q",
     "title": "Sunday of the Announcement to the Virgin Mary",
-    "description": "November 22, 2026: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome",
+    "description": "November 22, 2026: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 27 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord",
     "thumbnails": {
       "default": {
         "url": "https://i.ytimg.com/vi/vclrQa6f94M/default.jpg?v=6adb210c",
@@ -52210,8 +52792,9 @@
     "defaultLanguage": "en",
     "localized": {
       "title": "Sunday of the Announcement to the Virgin Mary",
-      "description": "November 22, 2026: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 24 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 856 -- Anaphora of Saint Sixtus, Pope of Rome"
-    }
+      "description": "November 22, 2026: The Announcement to the Virgin Mary, Second Sunday of Announcements\nToday's Divine Liturgy can be found at http://ololc.org/sunday.pdf.\n\nPage 27 -- The Announcement to the Virgin Mary\nPage 748 -- Creed\nPage 794 -- Anaphora of Saint James, Brother of the Lord"
+    },
+    "defaultAudioLanguage": "en"
   },
   "contentDetails": {
     "duration": "P0D",
@@ -53719,7 +54302,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "B2Vb6K-X_OWV-qeqiHFQPGmQ5ow",
+  "etag": "KzE5Wm3Lo4526Rw4aQ5XThRPLpU",
   "id": "xBA83NxBos8",
   "snippet": {
     "publishedAt": "2020-05-30T00:08:19Z",
@@ -53782,7 +54365,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1422",
+    "viewCount": "1430",
     "likeCount": "27",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -54366,7 +54949,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "_KtuSKN2GGqDS2GVpFKCf64N9qo",
+  "etag": "BeD-39UyStvzoVVrbVu3Sk3sPbQ",
   "id": "xzMBiijvvn4",
   "snippet": {
     "publishedAt": "2026-03-05T14:52:21Z",
@@ -54429,7 +55012,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "1391",
+    "viewCount": "1393",
     "likeCount": "79",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -56464,7 +57047,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "bfmXl_UMTCvawAw2oU8ac8U9tTA",
+  "etag": "xVMUuURI7rwXb1QhRCxNr4q6GRQ",
   "id": "znGJP1L5GwI",
   "snippet": {
     "publishedAt": "2022-10-25T21:52:33Z",
@@ -56527,7 +57110,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "183",
+    "viewCount": "184",
     "likeCount": "4",
     "dislikeCount": "0",
     "favoriteCount": "0",
@@ -56555,7 +57138,7 @@
 }
 {
   "kind": "youtube#video",
-  "etag": "9rbHC23QAYkvEf_LOlylSxBhlak",
+  "etag": "r_LaYfpYLuWpfZ8H1As7y9xGLTM",
   "id": "zx0nfQArHF0",
   "snippet": {
     "publishedAt": "2026-11-03T14:30:31Z",
@@ -56618,7 +57201,7 @@
     "selfDeclaredMadeForKids": false
   },
   "statistics": {
-    "viewCount": "86",
+    "viewCount": "87",
     "likeCount": "2",
     "dislikeCount": "1",
     "favoriteCount": "0",
@@ -56632,35 +57215,15 @@
   "recordingDetails": {},
   "fileDetails": {
     "fileName": "livestream.str",
-    "fileSize": "444026686",
-    "fileType": "video",
-    "container": "webm",
-    "videoStreams": [
-      {
-        "widthPixels": 1920,
-        "heightPixels": 1080,
-        "frameRateFps": 30,
-        "aspectRatio": 1.7777777777777777,
-        "codec": "vp9",
-        "bitrateBps": "2670774"
-      }
-    ],
-    "audioStreams": [
-      {
-        "channelCount": 2,
-        "codec": "aac",
-        "bitrateBps": "129641"
-      }
-    ],
-    "bitrateBps": "2800415"
+    "fileSize": "444026686"
   },
   "processingDetails": {
     "processingStatus": "succeeded",
-    "fileDetailsAvailability": "available",
-    "processingIssuesAvailability": "available",
+    "fileDetailsAvailability": "inProgress",
+    "processingIssuesAvailability": "inProgress",
     "tagSuggestionsAvailability": "inProgress",
     "editorSuggestionsAvailability": "inProgress",
-    "thumbnailsAvailability": "available"
+    "thumbnailsAvailability": "inProgress"
   },
   "liveStreamingDetails": {
     "actualStartTime": "2026-11-03T00:27:26Z",
